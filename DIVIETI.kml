@@ -140,28 +140,6 @@
         <styleUrl>#icon-1899-E65100-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="line-E65100-1200-normal">
-      <LineStyle>
-        <color>ff0051e6</color>
-        <width>1.2</width>
-      </LineStyle>
-    </Style>
-    <Style id="line-E65100-1200-highlight">
-      <LineStyle>
-        <color>ff0051e6</color>
-        <width>1.8</width>
-      </LineStyle>
-    </Style>
-    <StyleMap id="line-E65100-1200">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#line-E65100-1200-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#line-E65100-1200-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="line-E65100-1775-normal">
       <LineStyle>
         <color>ff0051e6</color>
@@ -600,6 +578,28 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#line-E65100-5650-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-E65100-5844-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>5.844</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-E65100-5844-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>8.766</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-E65100-5844">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-5844-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-5844-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="line-E65100-6231-normal">
@@ -8453,7 +8453,7 @@ POSA CAVI INTERRATI MT
 IMPRESA ESECUTRIC:SITE SPA PER CONTO DI E-DISTRIBUZIONE
 13/04/2026 - 31/07/2026</name>
       <description><![CDATA[ORDINANZA 2026/01621<br><br>https://drive.google.com/file/d/13MH6m3euA2TGXIiWWvpdbr7jTMVfdcym/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI SCAVO E POSA CAVI INTERRATI MT – PNRR<br>IN VIA DANTE TRATTO COMPRESO TRA VIA SPARANO E C.SO<br>CAVOUR,VIA MELO TRATTO COMPRESO TRA VIA DANTE E VIA PUTIGNANI<br>,C.SO CAVOUR TRATTO COMPRESO TRA VIA DANTE E VIA IMBRIANI,VIA<br>IMBRIANI TRATTO COMPRESO TRA C.SO CAVOUR E VIA G. DI<br>CROLLALANZA,P.ZZA DIAZ TRATTO COMPRESO TRA VIA IMBRIANI E<br>LUNGOM. A. DI CROLLALANZA.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e Tempistiche:13/04/2026 - 31/07/2026 DALLE ORE 7.00 ALLE ORE 19.00]]></description>
-      <styleUrl>#line-E65100-1200</styleUrl>
+      <styleUrl>#line-E65100-5456</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
@@ -10927,6 +10927,21 @@ RESTRINGIMENTO DI CARREGGIATA
 STRADA CARDUCCI TRA CORSO ALCIDE DE GASPERI E IL CIV 1/E DI STRADA CARDUCCI
 POSIZIONAMENTO RECINZIONE METALLICA DI CANTIERE
 RICHIEDENTE: SIG. CARLO MASTRANDREA
+07/05/2026 - 30/09/2026 </name>
+      <description><![CDATA[ORDINANZA 2026/02103<br><br>https://drive.google.com/file/d/18zC8D1qDkUZ5VULUD2KjyVeOWzvzSN9S/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E<br>DEROGA AL DIVIETO DI FERMATA PER I MEZZI AL SERVIZIO DEL<br>RICHIEDENTE SU STRADA CARDUCCI TRATTO COMPRESO TRA CORSO<br>ALCIDE DE GASPERI E IL CIV 1/E DI STRADA CARDUCCI PER RECINZIONE<br>METALLICA DI CANTIERE PER CARICO E SCARICO DA MEZZI DI CANTIERE<br>RICHIEDENTE: SIG. CARLO MASTRANDREA<br><br>Durata e Tempistiche: 07/05/2026 - 30/09/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8687584,41.0923417,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02103
+RESTRINGIMENTO DI CARREGGIATA 
+STRADA CARDUCCI TRA CORSO ALCIDE DE GASPERI E IL CIV 1/E DI STRADA CARDUCCI
+POSIZIONAMENTO RECINZIONE METALLICA DI CANTIERE
+RICHIEDENTE: SIG. CARLO MASTRANDREA
 07/05/2026 - 30/09/2026 
 </name>
       <description><![CDATA[ORDINANZA 2026/02103<br><br>https://drive.google.com/file/d/18zC8D1qDkUZ5VULUD2KjyVeOWzvzSN9S/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E<br>DEROGA AL DIVIETO DI FERMATA PER I MEZZI AL SERVIZIO DEL<br>RICHIEDENTE SU STRADA CARDUCCI TRATTO COMPRESO TRA CORSO<br>ALCIDE DE GASPERI E IL CIV 1/E DI STRADA CARDUCCI PER RECINZIONE<br>METALLICA DI CANTIERE PER CARICO E SCARICO DA MEZZI DI CANTIERE<br>RICHIEDENTE: SIG. CARLO MASTRANDREA<br><br>Durata e Tempistiche: 07/05/2026 - 30/09/2026]]></description>
@@ -10950,27 +10965,10 @@ RICHIEDENTE: SIG. ALBERGA MICHELE
 04/05//2026 - 31/08/2026 
 </name>
       <description><![CDATA[ORDINANZA 2026/02101 <br>https://drive.google.com/file/d/1EkDwVoNEmZTwlT8rBj1UpN5JsS24_JKq/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E DEROGA AL DIVIETO DI SOSTA SU VIA GIULIO PETRONI 6/8 TRATTO COMPRESO TRA VIA SAN LORENZO E VIA CAPRUZZI PER POSIZIONAMENTO PONTEGGIO DAL 4.5.2026 AL 31.8.2026. RICHIEDENTE: SIG. ALBERGA MICHELE <br><br>Durata e tempistiche: 04/05//2026 - 31/08/2026 ]]></description>
-      <styleUrl>#line-E65100-2356</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8689581,41.1151413,0
-          16.8691404,41.1144946,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/02103
-RESTRINGIMENTO DI CARREGGIATA 
-STRADA CARDUCCI TRA CORSO ALCIDE DE GASPERI E IL CIV 1/E DI STRADA CARDUCCI
-POSIZIONAMENTO RECINZIONE METALLICA DI CANTIERE
-RICHIEDENTE: SIG. CARLO MASTRANDREA
-07/05/2026 - 30/09/2026 </name>
-      <description><![CDATA[ORDINANZA 2026/02103<br><br>https://drive.google.com/file/d/18zC8D1qDkUZ5VULUD2KjyVeOWzvzSN9S/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E<br>DEROGA AL DIVIETO DI FERMATA PER I MEZZI AL SERVIZIO DEL<br>RICHIEDENTE SU STRADA CARDUCCI TRATTO COMPRESO TRA CORSO<br>ALCIDE DE GASPERI E IL CIV 1/E DI STRADA CARDUCCI PER RECINZIONE<br>METALLICA DI CANTIERE PER CARICO E SCARICO DA MEZZI DI CANTIERE<br>RICHIEDENTE: SIG. CARLO MASTRANDREA<br><br>Durata e Tempistiche: 07/05/2026 - 30/09/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
-          16.8687584,41.0923417,0
+          16.8690653,41.1149756,0
         </coordinates>
       </Point>
     </Placemark>
@@ -10984,12 +10982,147 @@ RICHIEDENTE: SIG. ALBERGA MICHELE
 04/05//2026 - 31/08/2026 
 </name>
       <description><![CDATA[ORDINANZA 2026/02101 <br>https://drive.google.com/file/d/1EkDwVoNEmZTwlT8rBj1UpN5JsS24_JKq/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E DEROGA AL DIVIETO DI SOSTA SU VIA GIULIO PETRONI 6/8 TRATTO COMPRESO TRA VIA SAN LORENZO E VIA CAPRUZZI PER POSIZIONAMENTO PONTEGGIO DAL 4.5.2026 AL 31.8.2026. RICHIEDENTE: SIG. ALBERGA MICHELE <br><br>Durata e tempistiche: 04/05//2026 - 31/08/2026 ]]></description>
+      <styleUrl>#line-E65100-2356</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8689581,41.1151413,0
+          16.8691404,41.1144946,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02383
+ISTITUZIONE DEL RESTRINGIMENTO DI CARREGGIATA EDIVIETO DI FERMATA AMBO I LATI 
+SU VIA
+CALEFATI, VIA ANTONIO BEATILLO, VIA DANTE ALIGHIERI, VIA PRINCIPE
+AMEDEO
+PER LAVORI DI RIQUALIFICAZIONE
+IMPRESA ESECUTRICE: CONSORZIO EDIL.ART.
+DAL 05/05/2026 AL 30/06/2026
+</name>
+      <description><![CDATA[Ordinanza 2026/02383<br>https://drive.google.com/file/d/12BS4jFSG1odWP_1ZMCRW_4o79vhkjDVj/view<br><br>1.<br>a) L’istituzione del divieto di fermata ambo i lati a tutti i veicoli, sui seguenti tratti stradali:<br>i) Via Calefati nel tratto stradale compreso tra via Andrea da Bari e via Argiro;<br>ii) Via Antonio Beatillo nel tratto stradale compreso tra via Argiro ed il civ. 35<br>iii) Piazza Umberto I, nel tratto stradale compreso tra via Argiro ed il civ. 17<br>iv) Via Dante Alighieri nel tratto stradale compreso tra il civ. 33 ed il civ. 45<br>v) Via Principe Amedeo nel tratto stradale compreso tra il civ. 25 ed il civ. 49<br><br>b) L’istituzione del restringimento di carreggiata a tutti i veicoli sui seguenti tratti stradali:<br>i) Via Calefati nel tratto stradale compreso tra via Andrea da Bari e via Argiro;<br>ii) Via Antonio Beatillo nel tratto stradale compreso tra via Argiro ed il civ. 35<br>iii) Piazza Umberto I, nel tratto stradale compreso tra via Argiro ed il civ. 17<br>iv) Via Dante Alighieri nel tratto stradale compreso tra il civ. 33 ed il civ. 45<br>v) Via Principe Amedeo nel tratto stradale compreso tra il civ. 25 ed il civ. 49<br>a) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori.<br><br>2. Dai divieti di cui al punto 1. sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati.<br><br>DISPONE<br><br>1) L’esecuzione della presente ordinanza dovrà essere coerente con l’avanzamento del cantiere stradale,<br>che dovrà procedere seguendo le fasi successive;<br>2) Dovrà comunque darsi comunicazione dei divieti e dei percorsi alternativi alle due intersezioni<br>precedenti tutte le vie interessate dai divieti di transito al fine di informare adeguatamente l’utenza;<br>3) Nel tratto interessato dai lavori, laddove si realizzi il restringimento temporaneo della carreggiata la<br>circolazione dovrà essere regolata dalla presenza di almeno due movieri che dovranno essere collocati<br>a monte di entrambe le testate del tratto stradale interessato;<br>4) I restringimenti della carreggiata dovranno essere attuati lasciando percorribile una corsia, di<br>larghezza non inferiore a m 3.50.<br><br>Durata e tempistiche:DAL 05/05/2026 AL 30/06/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
-          16.8690653,41.1149756,0
+          16.8705,41.1229038,0
         </coordinates>
       </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02383
+ISTITUZIONE DEL RESTRINGIMENTO DI CARREGGIATA EDIVIETO DI FERMATA AMBO I LATI 
+SU VIA
+CALEFATI, VIA ANTONIO BEATILLO, VIA DANTE ALIGHIERI, VIA PRINCIPE
+AMEDEO
+PER LAVORI DI RIQUALIFICAZIONE
+IMPRESA ESECUTRICE: CONSORZIO EDIL.ART.
+DAL 05/05/2026 AL 30/06/2026
+</name>
+      <description><![CDATA[Ordinanza 2026/02383<br>https://drive.google.com/file/d/12BS4jFSG1odWP_1ZMCRW_4o79vhkjDVj/view<br><br>1.<br>a) L’istituzione del divieto di fermata ambo i lati a tutti i veicoli, sui seguenti tratti stradali:<br>i) Via Calefati nel tratto stradale compreso tra via Andrea da Bari e via Argiro;<br>ii) Via Antonio Beatillo nel tratto stradale compreso tra via Argiro ed il civ. 35<br>iii) Piazza Umberto I, nel tratto stradale compreso tra via Argiro ed il civ. 17<br>iv) Via Dante Alighieri nel tratto stradale compreso tra il civ. 33 ed il civ. 45<br>v) Via Principe Amedeo nel tratto stradale compreso tra il civ. 25 ed il civ. 49<br><br>b) L’istituzione del restringimento di carreggiata a tutti i veicoli sui seguenti tratti stradali:<br>i) Via Calefati nel tratto stradale compreso tra via Andrea da Bari e via Argiro;<br>ii) Via Antonio Beatillo nel tratto stradale compreso tra via Argiro ed il civ. 35<br>iii) Piazza Umberto I, nel tratto stradale compreso tra via Argiro ed il civ. 17<br>iv) Via Dante Alighieri nel tratto stradale compreso tra il civ. 33 ed il civ. 45<br>v) Via Principe Amedeo nel tratto stradale compreso tra il civ. 25 ed il civ. 49<br>a) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori.<br><br>2. Dai divieti di cui al punto 1. sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati.<br><br>DISPONE<br><br>1) L’esecuzione della presente ordinanza dovrà essere coerente con l’avanzamento del cantiere stradale,<br>che dovrà procedere seguendo le fasi successive;<br>2) Dovrà comunque darsi comunicazione dei divieti e dei percorsi alternativi alle due intersezioni<br>precedenti tutte le vie interessate dai divieti di transito al fine di informare adeguatamente l’utenza;<br>3) Nel tratto interessato dai lavori, laddove si realizzi il restringimento temporaneo della carreggiata la<br>circolazione dovrà essere regolata dalla presenza di almeno due movieri che dovranno essere collocati<br>a monte di entrambe le testate del tratto stradale interessato;<br>4) I restringimenti della carreggiata dovranno essere attuati lasciando percorribile una corsia, di<br>larghezza non inferiore a m 3.50.<br><br>Durata e tempistiche:DAL 05/05/2026 AL 30/06/2026]]></description>
+      <styleUrl>#line-E65100-5650</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.868782,41.124029,0
+          16.870344,41.124116,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02384
+RESTRINGIMENTO DI CARREGGIATA 
+VIA DE GIOSA CIV. 80/86 TRA VIA CELENTANO E PIAZZA LUIGI DI SAVOIA
+POSIZIONAMENTO DI AUTOSCALA E
+AUTOCARRO.
+RICHIEDENTE: SIG. RA MUSCIACCHIA REBECCA
+11/05/2026 - 12/05/2026 </name>
+      <description><![CDATA[Ordinanza<br>2026/02384<br><br>https://drive.google.com/file/d/15QNefSfReiTWy8q2O0JkgiKeaFWYONRk/view<br><br>RETTIFICA ORDINANZA N. 2026/02102<br><br>AUTORIZZAZIONE TEMPORANEA AL TRANSITO DEI MEZZI SUPERIORI AI 35<br>Q.LI, IN DEROGA ALL’ORDINANZA SINDACALE N. 2322 DEL 20.3.1991<br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA,<br>DEROGA AL DIVIETO DI SOSTA SU VIA DE GIOSA CIV. 80/86, TRATTO<br>COMPRESO TRA VIA CELENTANO E PIAZZA LUIGI DI SAVOIA<br>PER POSIZIONAMENTO DI AUTOSCALA E<br>AUTOCARRO.<br>RICHIEDENTE:SIG. RA MUSCIACCHIA REBECCA<br><br>Durata e tempistiche: 11/05/2026 - 12/05/2026]]></description>
+      <styleUrl>#line-E65100-3325</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8738287,41.1208949,0
+          16.87388,41.1201653,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02383
+ISTITUZIONE DEL RESTRINGIMENTO DI CARREGGIATA EDIVIETO DI FERMATA AMBO I LATI 
+SU VIA
+CALEFATI, VIA ANTONIO BEATILLO, VIA DANTE ALIGHIERI, VIA PRINCIPE
+AMEDEO
+PER LAVORI DI RIQUALIFICAZIONE
+IMPRESA ESECUTRICE: CONSORZIO EDIL.ART.
+DAL 05/05/2026 AL 30/06/2026
+</name>
+      <description><![CDATA[Ordinanza 2026/02383<br>https://drive.google.com/file/d/12BS4jFSG1odWP_1ZMCRW_4o79vhkjDVj/view<br><br>1.<br>a) L’istituzione del divieto di fermata ambo i lati a tutti i veicoli, sui seguenti tratti stradali:<br>i) Via Calefati nel tratto stradale compreso tra via Andrea da Bari e via Argiro;<br>ii) Via Antonio Beatillo nel tratto stradale compreso tra via Argiro ed il civ. 35<br>iii) Piazza Umberto I, nel tratto stradale compreso tra via Argiro ed il civ. 17<br>iv) Via Dante Alighieri nel tratto stradale compreso tra il civ. 33 ed il civ. 45<br>v) Via Principe Amedeo nel tratto stradale compreso tra il civ. 25 ed il civ. 49<br><br>b) L’istituzione del restringimento di carreggiata a tutti i veicoli sui seguenti tratti stradali:<br>i) Via Calefati nel tratto stradale compreso tra via Andrea da Bari e via Argiro;<br>ii) Via Antonio Beatillo nel tratto stradale compreso tra via Argiro ed il civ. 35<br>iii) Piazza Umberto I, nel tratto stradale compreso tra via Argiro ed il civ. 17<br>iv) Via Dante Alighieri nel tratto stradale compreso tra il civ. 33 ed il civ. 45<br>v) Via Principe Amedeo nel tratto stradale compreso tra il civ. 25 ed il civ. 49<br>a) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori.<br><br>2. Dai divieti di cui al punto 1. sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati.<br><br>DISPONE<br><br>1) L’esecuzione della presente ordinanza dovrà essere coerente con l’avanzamento del cantiere stradale,<br>che dovrà procedere seguendo le fasi successive;<br>2) Dovrà comunque darsi comunicazione dei divieti e dei percorsi alternativi alle due intersezioni<br>precedenti tutte le vie interessate dai divieti di transito al fine di informare adeguatamente l’utenza;<br>3) Nel tratto interessato dai lavori, laddove si realizzi il restringimento temporaneo della carreggiata la<br>circolazione dovrà essere regolata dalla presenza di almeno due movieri che dovranno essere collocati<br>a monte di entrambe le testate del tratto stradale interessato;<br>4) I restringimenti della carreggiata dovranno essere attuati lasciando percorribile una corsia, di<br>larghezza non inferiore a m 3.50.<br><br>Durata e tempistiche:DAL 05/05/2026 AL 30/06/2026]]></description>
+      <styleUrl>#line-E65100-3519</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.870332,41.1214466,0
+          16.8710375,41.1214799,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02384
+RESTRINGIMENTO DI CARREGGIATA 
+VIA DE GIOSA CIV. 80/86 TRA VIA CELENTANO E PIAZZA LUIGI DI SAVOIA
+POSIZIONAMENTO DI AUTOSCALA E
+AUTOCARRO.
+RICHIEDENTE: SIG. RA MUSCIACCHIA REBECCA
+11/05/2026 - 12/05/2026 </name>
+      <description><![CDATA[Ordinanza<br>2026/02384<br><br>https://drive.google.com/file/d/15QNefSfReiTWy8q2O0JkgiKeaFWYONRk/view<br><br>RETTIFICA ORDINANZA N. 2026/02102<br><br>AUTORIZZAZIONE TEMPORANEA AL TRANSITO DEI MEZZI SUPERIORI AI 35<br>Q.LI, IN DEROGA ALL’ORDINANZA SINDACALE N. 2322 DEL 20.3.1991<br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA,<br>DEROGA AL DIVIETO DI SOSTA SU VIA DE GIOSA CIV. 80/86, TRATTO<br>COMPRESO TRA VIA CELENTANO E PIAZZA LUIGI DI SAVOIA<br>PER POSIZIONAMENTO DI AUTOSCALA E<br>AUTOCARRO.<br>RICHIEDENTE:SIG. RA MUSCIACCHIA REBECCA<br><br>Durata e tempistiche: 11/05/2026 - 12/05/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8738837,41.1208049,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02383
+ISTITUZIONE DEL RESTRINGIMENTO DI CARREGGIATA EDIVIETO DI FERMATA AMBO I LATI 
+SU VIA
+CALEFATI, VIA ANTONIO BEATILLO, VIA DANTE ALIGHIERI, VIA PRINCIPE
+AMEDEO
+PER LAVORI DI RIQUALIFICAZIONE
+IMPRESA ESECUTRICE: CONSORZIO EDIL.ART.
+DAL 05/05/2026 AL 30/06/2026
+</name>
+      <description><![CDATA[Ordinanza 2026/02383<br>https://drive.google.com/file/d/12BS4jFSG1odWP_1ZMCRW_4o79vhkjDVj/view<br><br>1.<br>a) L’istituzione del divieto di fermata ambo i lati a tutti i veicoli, sui seguenti tratti stradali:<br>i) Via Calefati nel tratto stradale compreso tra via Andrea da Bari e via Argiro;<br>ii) Via Antonio Beatillo nel tratto stradale compreso tra via Argiro ed il civ. 35<br>iii) Piazza Umberto I, nel tratto stradale compreso tra via Argiro ed il civ. 17<br>iv) Via Dante Alighieri nel tratto stradale compreso tra il civ. 33 ed il civ. 45<br>v) Via Principe Amedeo nel tratto stradale compreso tra il civ. 25 ed il civ. 49<br><br>b) L’istituzione del restringimento di carreggiata a tutti i veicoli sui seguenti tratti stradali:<br>i) Via Calefati nel tratto stradale compreso tra via Andrea da Bari e via Argiro;<br>ii) Via Antonio Beatillo nel tratto stradale compreso tra via Argiro ed il civ. 35<br>iii) Piazza Umberto I, nel tratto stradale compreso tra via Argiro ed il civ. 17<br>iv) Via Dante Alighieri nel tratto stradale compreso tra il civ. 33 ed il civ. 45<br>v) Via Principe Amedeo nel tratto stradale compreso tra il civ. 25 ed il civ. 49<br>a) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori.<br><br>2. Dai divieti di cui al punto 1. sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati.<br><br>DISPONE<br><br>1) L’esecuzione della presente ordinanza dovrà essere coerente con l’avanzamento del cantiere stradale,<br>che dovrà procedere seguendo le fasi successive;<br>2) Dovrà comunque darsi comunicazione dei divieti e dei percorsi alternativi alle due intersezioni<br>precedenti tutte le vie interessate dai divieti di transito al fine di informare adeguatamente l’utenza;<br>3) Nel tratto interessato dai lavori, laddove si realizzi il restringimento temporaneo della carreggiata la<br>circolazione dovrà essere regolata dalla presenza di almeno due movieri che dovranno essere collocati<br>a monte di entrambe le testate del tratto stradale interessato;<br>4) I restringimenti della carreggiata dovranno essere attuati lasciando percorribile una corsia, di<br>larghezza non inferiore a m 3.50.<br><br>Durata e tempistiche:DAL 05/05/2026 AL 30/06/2026]]></description>
+      <styleUrl>#line-E65100-3519</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8702305,41.1220681,0
+          16.8705746,41.1220783,0
+          16.8708998,41.1220987,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02383
+ISTITUZIONE DEL RESTRINGIMENTO DI CARREGGIATA EDIVIETO DI FERMATA AMBO I LATI 
+SU VIA
+CALEFATI, VIA ANTONIO BEATILLO, VIA DANTE ALIGHIERI, VIA PRINCIPE
+AMEDEO
+PER LAVORI DI RIQUALIFICAZIONE
+IMPRESA ESECUTRICE: CONSORZIO EDIL.ART.
+DAL 05/05/2026 AL 30/06/2026
+</name>
+      <description><![CDATA[Ordinanza 2026/02383<br>https://drive.google.com/file/d/12BS4jFSG1odWP_1ZMCRW_4o79vhkjDVj/view<br><br>1.<br>a) L’istituzione del divieto di fermata ambo i lati a tutti i veicoli, sui seguenti tratti stradali:<br>i) Via Calefati nel tratto stradale compreso tra via Andrea da Bari e via Argiro;<br>ii) Via Antonio Beatillo nel tratto stradale compreso tra via Argiro ed il civ. 35<br>iii) Piazza Umberto I, nel tratto stradale compreso tra via Argiro ed il civ. 17<br>iv) Via Dante Alighieri nel tratto stradale compreso tra il civ. 33 ed il civ. 45<br>v) Via Principe Amedeo nel tratto stradale compreso tra il civ. 25 ed il civ. 49<br><br>b) L’istituzione del restringimento di carreggiata a tutti i veicoli sui seguenti tratti stradali:<br>i) Via Calefati nel tratto stradale compreso tra via Andrea da Bari e via Argiro;<br>ii) Via Antonio Beatillo nel tratto stradale compreso tra via Argiro ed il civ. 35<br>iii) Piazza Umberto I, nel tratto stradale compreso tra via Argiro ed il civ. 17<br>iv) Via Dante Alighieri nel tratto stradale compreso tra il civ. 33 ed il civ. 45<br>v) Via Principe Amedeo nel tratto stradale compreso tra il civ. 25 ed il civ. 49<br>a) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori.<br><br>2. Dai divieti di cui al punto 1. sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati.<br><br>DISPONE<br><br>1) L’esecuzione della presente ordinanza dovrà essere coerente con l’avanzamento del cantiere stradale,<br>che dovrà procedere seguendo le fasi successive;<br>2) Dovrà comunque darsi comunicazione dei divieti e dei percorsi alternativi alle due intersezioni<br>precedenti tutte le vie interessate dai divieti di transito al fine di informare adeguatamente l’utenza;<br>3) Nel tratto interessato dai lavori, laddove si realizzi il restringimento temporaneo della carreggiata la<br>circolazione dovrà essere regolata dalla presenza di almeno due movieri che dovranno essere collocati<br>a monte di entrambe le testate del tratto stradale interessato;<br>4) I restringimenti della carreggiata dovranno essere attuati lasciando percorribile una corsia, di<br>larghezza non inferiore a m 3.50.<br><br>Durata e tempistiche:DAL 05/05/2026 AL 30/06/2026]]></description>
+      <styleUrl>#line-E65100-5844</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8700105,41.1227408,0
+          16.8711692,41.1228216,0
+        </coordinates>
+      </LineString>
     </Placemark>
   </Document>
 </kml>
