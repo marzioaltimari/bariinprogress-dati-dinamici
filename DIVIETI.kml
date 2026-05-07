@@ -712,6 +712,28 @@
         <styleUrl>#line-E65100-7975-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="line-F57C00-3519-normal">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>3.519</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-F57C00-3519-highlight">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>5.2785</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-F57C00-3519">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-F57C00-3519-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-F57C00-3519-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Placemark>
       <name>ORDINANZA 2025/03163
 DIVIETO DI SOSTA CON RIMOZIONE COATTA
@@ -817,23 +839,6 @@ IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A.
         <coordinates>
           16.8612947,41.12011,0
           16.8615307,41.1182147,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2025/03800
-RESTRINGIMENTO DELLA CARREGGIATA E DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI
-VIA CONTE G. GIUSSO DA VIA FANELLI E VIA GIANNINI
-ATTIVITA’ EDILIZIE
-RICHIEDENTE : LORUSSO ROBERTO
-27/11/2025 - 26/04/2026 </name>
-      <description><![CDATA[2025/03800<br>https://drive.google.com/file/d/1Ia3ZcI4Z9fqZTAW4AZEHlISifcLyocaD/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DELLA CARREGGIATA<br>E DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI SU VIA<br>CONTE G. GIUSSO CIV. 8. TRATTO COMPRESO TRA VIA FANELLI E VIA<br>GIANNINI PER ATTIVITA’ EDILIZIE AEREA DAL 27/11/2025 AL 26/04/2026.<br>RICHIEDENTE: SIG. LORUSSO ROBERTO<br><br>E'istituito il restringimento della carreggiata e divieto di sosta con rimozione forzata ambo i lati su via Conte G. Giusso civ. 8. tratto compreso tra via Fanelli e via Giannini.<br><br>2. l’interdizione al transito del marciapiedi per tutti i pedoni nella parte occupata dai lavori fermo restando che dovrà esser reso predisposto un percorso di camminamento in sicurezza di larghezza non inferiore a metri 1,5;<br>inoltre, per sicurezza, si dovrà assicurare una idonea fascia di rispetto per le manovre dei mezzi d’opera, se necessario deviando il transito delle persone fuori dall’ area di intervento previa apposizione della segnaletica di preavviso<br>informativa da posizionarsi in corrispondenza degli attraversamenti pedonali esistenti e liberi da ingombri a monte e<br>a valle del tratto interessato dai lavori;<br><br>Inoltre, in considerazione della parziale occupazione temporanea dell’ attraversamento pedonale ivi presente (civ. 2/a) il corridoio<br>pedonale previsto in prossimità dell’area occupata dovrà raccordarsi con la parte sgombra dell’ attraversamento e prevedere in testata<br>uno scivolo che consenta l’accessibilità come prescritto al punto 5 del presente disposto;<br>Non è in nessun caso consentito l’ attraversamento aereo della sede stradale con veicoli o mezzi d’opera;<br><br><br><br>Data: 27/11/2025 - 26/04/2026 ]]></description>
-      <styleUrl>#line-E65100-4488</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8833695,41.093735,0
-          16.8873177,41.0938684,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -5030,15 +5035,15 @@ IMPRESA: PATANO IMPIANTI & COSTRUZIONI S.R.L.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00826
+      <name>ORDINANZA 2026/02388 
 DIVIETO DI SOSTA AMBO I LATI, DIVIETO DI TRANSITO
-VIA TORINO, VIA CARNIA, VIA PRINCIPESSA MARIA E VIA GENOVA
- IN SANTO SPIRITO (BA)
- DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
-IMPRESA ESECUTRICE: ACCIONA AGUA S.A
-24/02/2026 - 29/04/2026 
+VIA TORINO, VIA CARNIA, VIA PRINCIPESSA MARIA E VIA GENOVA IN SANTO SPIRITO (BA)
+RETI IDRICHE
+IMPRESA ESECUTRICE: OMNIA WORK SRL - POTENZA 
+RICHIEDENTE: SIG. ALBERGA MICHELE 
+06/05//2026 - 05/06/2026 07:00- 17:00
 </name>
-      <description><![CDATA[ORDINANZA 2026/00826<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI, E DIVIETO DI TRANSITO SU VIA TORINO, VIA CARNIA, VIA PRINCIPESSA MARIA E VIA GENOVA IN SANTO SPIRITO (BA), PER INTERVENTI MIRATI A CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI DALL’ESECUTIVITÀ DELL’ATTO FINO AL 29/04/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>1. Dovrà essere data indicazione della temporanea interdizione al traffico veicolare della via Genova, all’intersezione via Napoli/via Marconi, via Marconi/via Fiume e via Suor Maria Lucchesi/via Cortese; 2. Per l’interdizione al transito veicolare della via Principessa Maria dovrà essere data indicazione all’intersezione via Fiume/via Principessa Maria con percorso alternativo su Vico Traversa; 3. Per l’intersezione al transito veicolare della via Torino, strada a senso unico dalla via Zara a Piazza dei Mille, il percorso alternativo è la via Principessa Giovanna, strada a senso unico con direzione di marcia dalla via Zara alla via Napoli; 4. Particolare attenzione dovrà essere posta ai pedoni e alle persone con ridotta capacità motoria , il cui transito dovrà essere salvaguardato durante i lavori; 5. Dovranno essere altresì salvaguardati gli accessi privati e il transito dei mezzi di soccorso e/o polizia, compatibilmente con l’esecuzione dei lavori; 6. Dovranno essere riaperte al transito veicolare le strade in narrativa, al di fuori degli orari di lavoro indicati nell’istanza ovvero 07:00/17:00; 7. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto; PRESCRIZIO<br><br><br>Durata e tempistiche: 24/02/2026 - 29/04/2026 <br><br>2025/03914<br><br>https://drive.google.com/file/d/1XmtPYf3jqEHXn8juw8DL32UHhHVHL7E-/view?usp=sharing<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA AMBO I LATI, RESTRINGIMENTO DELLA CARREGGIATA,<br>SENSO UNICO ALTERNATO SU VIA TORINO, VIA CARNIA, VIA PRINCIPESSA<br>MARIA E VIA GENOVA IN SANTO SPIRITO (BA), PER INTERVENTI MIRATI A<br>CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI.<br>PROROGA ORDINANZA DIRIGENZIALE N.2025/185/01256 DEL 16/09/2025.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e tempistiche: dal 01/01/2026 al 31/01/2026]]></description>
+      <description><![CDATA[ORDINANZA 2026/02388 <br>https://drive.google.com/file/d/1gJ5LLxEnIFnFZgwBu1F9VcLShZxuL91G/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA AMBO I LATI, E DIVIETO DI TRANSITO SU VIA TORINO,<br>VIA CARNIA, VIA PRINCIPESSA MARIA E VIA GENOVA IN SANTO SPIRITO<br>(BA), PER INTERVENTI MIRATI A CONSEGUIRE LA DISTRETTUALIZZAZIONE,<br>IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE<br>GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI<br>TRONCHI VETUSTI ED AMMALORATI DALL’ESECUTIVITÀ DELL’ATTO SINO<br>AL 05/06/2026. PROROGA ORDINANZA DIRIGENZIALE N. 2026/185/00352 DEL<br>24/02/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: 06/05//2026 - 05/06/2026 07:00- 17:00<br><br>ORDINANZA 2026/00826<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI, E DIVIETO DI TRANSITO SU VIA TORINO, VIA CARNIA, VIA PRINCIPESSA MARIA E VIA GENOVA IN SANTO SPIRITO (BA), PER INTERVENTI MIRATI A CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI DALL’ESECUTIVITÀ DELL’ATTO FINO AL 29/04/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>1. Dovrà essere data indicazione della temporanea interdizione al traffico veicolare della via Genova, all’intersezione via Napoli/via Marconi, via Marconi/via Fiume e via Suor Maria Lucchesi/via Cortese; 2. Per l’interdizione al transito veicolare della via Principessa Maria dovrà essere data indicazione all’intersezione via Fiume/via Principessa Maria con percorso alternativo su Vico Traversa; 3. Per l’intersezione al transito veicolare della via Torino, strada a senso unico dalla via Zara a Piazza dei Mille, il percorso alternativo è la via Principessa Giovanna, strada a senso unico con direzione di marcia dalla via Zara alla via Napoli; 4. Particolare attenzione dovrà essere posta ai pedoni e alle persone con ridotta capacità motoria , il cui transito dovrà essere salvaguardato durante i lavori; 5. Dovranno essere altresì salvaguardati gli accessi privati e il transito dei mezzi di soccorso e/o polizia, compatibilmente con l’esecuzione dei lavori; 6. Dovranno essere riaperte al transito veicolare le strade in narrativa, al di fuori degli orari di lavoro indicati nell’istanza ovvero 07:00/17:00; 7. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto; PRESCRIZIO<br><br><br>Durata e tempistiche: 24/02/2026 - 29/04/2026 <br><br>2025/03914<br><br>https://drive.google.com/file/d/1XmtPYf3jqEHXn8juw8DL32UHhHVHL7E-/view?usp=sharing<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA AMBO I LATI, RESTRINGIMENTO DELLA CARREGGIATA,<br>SENSO UNICO ALTERNATO SU VIA TORINO, VIA CARNIA, VIA PRINCIPESSA<br>MARIA E VIA GENOVA IN SANTO SPIRITO (BA), PER INTERVENTI MIRATI A<br>CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI.<br>PROROGA ORDINANZA DIRIGENZIALE N.2025/185/01256 DEL 16/09/2025.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e tempistiche: dal 01/01/2026 al 31/01/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -5047,15 +5052,15 @@ IMPRESA ESECUTRICE: ACCIONA AGUA S.A
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00826
+      <name>ORDINANZA 2026/02388 
 DIVIETO DI SOSTA AMBO I LATI, DIVIETO DI TRANSITO
-VIA TORINO, VIA CARNIA, VIA PRINCIPESSA MARIA E VIA GENOVA
- IN SANTO SPIRITO (BA)
- DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
-IMPRESA ESECUTRICE: ACCIONA AGUA S.A
-24/02/2026 - 29/04/2026 
+VIA TORINO, VIA CARNIA, VIA PRINCIPESSA MARIA E VIA GENOVA IN SANTO SPIRITO (BA)
+RETI IDRICHE
+IMPRESA ESECUTRICE: OMNIA WORK SRL - POTENZA 
+RICHIEDENTE: SIG. ALBERGA MICHELE 
+06/05//2026 - 05/06/2026 07:00- 17:00
 </name>
-      <description><![CDATA[ORDINANZA 2026/00826<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI, E DIVIETO DI TRANSITO SU VIA TORINO, VIA CARNIA, VIA PRINCIPESSA MARIA E VIA GENOVA IN SANTO SPIRITO (BA), PER INTERVENTI MIRATI A CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI DALL’ESECUTIVITÀ DELL’ATTO FINO AL 29/04/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>1. Dovrà essere data indicazione della temporanea interdizione al traffico veicolare della via Genova, all’intersezione via Napoli/via Marconi, via Marconi/via Fiume e via Suor Maria Lucchesi/via Cortese; 2. Per l’interdizione al transito veicolare della via Principessa Maria dovrà essere data indicazione all’intersezione via Fiume/via Principessa Maria con percorso alternativo su Vico Traversa; 3. Per l’intersezione al transito veicolare della via Torino, strada a senso unico dalla via Zara a Piazza dei Mille, il percorso alternativo è la via Principessa Giovanna, strada a senso unico con direzione di marcia dalla via Zara alla via Napoli; 4. Particolare attenzione dovrà essere posta ai pedoni e alle persone con ridotta capacità motoria , il cui transito dovrà essere salvaguardato durante i lavori; 5. Dovranno essere altresì salvaguardati gli accessi privati e il transito dei mezzi di soccorso e/o polizia, compatibilmente con l’esecuzione dei lavori; 6. Dovranno essere riaperte al transito veicolare le strade in narrativa, al di fuori degli orari di lavoro indicati nell’istanza ovvero 07:00/17:00; 7. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto; PRESCRIZIO<br><br><br>Durata e tempistiche: 24/02/2026 - 29/04/2026 <br><br>2025/03914<br><br>https://drive.google.com/file/d/1XmtPYf3jqEHXn8juw8DL32UHhHVHL7E-/view?usp=sharing<br><br><br>PROROGA: https://drive.google.com/file/d/1UID4Op4GTvfLZTkObuwDumCK8FLIQxD_/view<br>Ordinanza: 2025/04206<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA AMBO I LATI, RESTRINGIMENTO DELLA CARREGGIATA,<br>SENSO UNICO ALTERNATO SU VIA TORINO, VIA CARNIA, VIA PRINCIPESSA<br>MARIA E VIA GENOVA IN SANTO SPIRITO (BA), PER INTERVENTI MIRATI A<br>CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI.<br>PROROGA ORDINANZA DIRIGENZIALE N.2025/185/01256 DEL 16/09/2025.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e tempistiche: dal 01/01/2026 al 31/01/2026]]></description>
+      <description><![CDATA[ORDINANZA 2026/02388 <br>https://drive.google.com/file/d/1gJ5LLxEnIFnFZgwBu1F9VcLShZxuL91G/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA AMBO I LATI, E DIVIETO DI TRANSITO SU VIA TORINO,<br>VIA CARNIA, VIA PRINCIPESSA MARIA E VIA GENOVA IN SANTO SPIRITO<br>(BA), PER INTERVENTI MIRATI A CONSEGUIRE LA DISTRETTUALIZZAZIONE,<br>IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE<br>GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI<br>TRONCHI VETUSTI ED AMMALORATI DALL’ESECUTIVITÀ DELL’ATTO SINO<br>AL 05/06/2026. PROROGA ORDINANZA DIRIGENZIALE N. 2026/185/00352 DEL<br>24/02/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: 06/05//2026 - 05/06/2026 07:00- 17:00<br><br>ORDINANZA 2026/00826<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI, E DIVIETO DI TRANSITO SU VIA TORINO, VIA CARNIA, VIA PRINCIPESSA MARIA E VIA GENOVA IN SANTO SPIRITO (BA), PER INTERVENTI MIRATI A CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI DALL’ESECUTIVITÀ DELL’ATTO FINO AL 29/04/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>1. Dovrà essere data indicazione della temporanea interdizione al traffico veicolare della via Genova, all’intersezione via Napoli/via Marconi, via Marconi/via Fiume e via Suor Maria Lucchesi/via Cortese; 2. Per l’interdizione al transito veicolare della via Principessa Maria dovrà essere data indicazione all’intersezione via Fiume/via Principessa Maria con percorso alternativo su Vico Traversa; 3. Per l’intersezione al transito veicolare della via Torino, strada a senso unico dalla via Zara a Piazza dei Mille, il percorso alternativo è la via Principessa Giovanna, strada a senso unico con direzione di marcia dalla via Zara alla via Napoli; 4. Particolare attenzione dovrà essere posta ai pedoni e alle persone con ridotta capacità motoria , il cui transito dovrà essere salvaguardato durante i lavori; 5. Dovranno essere altresì salvaguardati gli accessi privati e il transito dei mezzi di soccorso e/o polizia, compatibilmente con l’esecuzione dei lavori; 6. Dovranno essere riaperte al transito veicolare le strade in narrativa, al di fuori degli orari di lavoro indicati nell’istanza ovvero 07:00/17:00; 7. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto; PRESCRIZIO<br><br><br>Durata e tempistiche: 24/02/2026 - 29/04/2026 <br><br>2025/03914<br><br>https://drive.google.com/file/d/1XmtPYf3jqEHXn8juw8DL32UHhHVHL7E-/view?usp=sharing<br><br><br>PROROGA: https://drive.google.com/file/d/1UID4Op4GTvfLZTkObuwDumCK8FLIQxD_/view<br>Ordinanza: 2025/04206<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA AMBO I LATI, RESTRINGIMENTO DELLA CARREGGIATA,<br>SENSO UNICO ALTERNATO SU VIA TORINO, VIA CARNIA, VIA PRINCIPESSA<br>MARIA E VIA GENOVA IN SANTO SPIRITO (BA), PER INTERVENTI MIRATI A<br>CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI.<br>PROROGA ORDINANZA DIRIGENZIALE N.2025/185/01256 DEL 16/09/2025.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e tempistiche: dal 01/01/2026 al 31/01/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -5064,15 +5069,15 @@ IMPRESA ESECUTRICE: ACCIONA AGUA S.A
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00826
+      <name>ORDINANZA 2026/02388 
 DIVIETO DI SOSTA AMBO I LATI, DIVIETO DI TRANSITO
-VIA TORINO, VIA CARNIA, VIA PRINCIPESSA MARIA E VIA GENOVA
- IN SANTO SPIRITO (BA)
- DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
-IMPRESA ESECUTRICE: ACCIONA AGUA S.A
-24/02/2026 - 29/04/2026 
+VIA TORINO, VIA CARNIA, VIA PRINCIPESSA MARIA E VIA GENOVA IN SANTO SPIRITO (BA)
+RETI IDRICHE
+IMPRESA ESECUTRICE: OMNIA WORK SRL - POTENZA 
+RICHIEDENTE: SIG. ALBERGA MICHELE 
+06/05//2026 - 05/06/2026 07:00- 17:00
 </name>
-      <description><![CDATA[ORDINANZA 2026/00826<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI, E DIVIETO DI TRANSITO SU VIA TORINO, VIA CARNIA, VIA PRINCIPESSA MARIA E VIA GENOVA IN SANTO SPIRITO (BA), PER INTERVENTI MIRATI A CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI DALL’ESECUTIVITÀ DELL’ATTO FINO AL 29/04/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>1. Dovrà essere data indicazione della temporanea interdizione al traffico veicolare della via Genova, all’intersezione via Napoli/via Marconi, via Marconi/via Fiume e via Suor Maria Lucchesi/via Cortese; 2. Per l’interdizione al transito veicolare della via Principessa Maria dovrà essere data indicazione all’intersezione via Fiume/via Principessa Maria con percorso alternativo su Vico Traversa; 3. Per l’intersezione al transito veicolare della via Torino, strada a senso unico dalla via Zara a Piazza dei Mille, il percorso alternativo è la via Principessa Giovanna, strada a senso unico con direzione di marcia dalla via Zara alla via Napoli; 4. Particolare attenzione dovrà essere posta ai pedoni e alle persone con ridotta capacità motoria , il cui transito dovrà essere salvaguardato durante i lavori; 5. Dovranno essere altresì salvaguardati gli accessi privati e il transito dei mezzi di soccorso e/o polizia, compatibilmente con l’esecuzione dei lavori; 6. Dovranno essere riaperte al transito veicolare le strade in narrativa, al di fuori degli orari di lavoro indicati nell’istanza ovvero 07:00/17:00; 7. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto; PRESCRIZIO<br><br><br>Durata e tempistiche: 24/02/2026 - 29/04/2026 <br><br>2025/03914<br><br>https://drive.google.com/file/d/1XmtPYf3jqEHXn8juw8DL32UHhHVHL7E-/view?usp=sharing<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA AMBO I LATI, RESTRINGIMENTO DELLA CARREGGIATA,<br>SENSO UNICO ALTERNATO SU VIA TORINO, VIA CARNIA, VIA PRINCIPESSA<br>MARIA E VIA GENOVA IN SANTO SPIRITO (BA), PER INTERVENTI MIRATI A<br>CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI.<br>PROROGA ORDINANZA DIRIGENZIALE N.2025/185/01256 DEL 16/09/2025.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e tempistiche: dal 01/01/2026 al 31/01/2026]]></description>
+      <description><![CDATA[ORDINANZA 2026/02388 <br>https://drive.google.com/file/d/1gJ5LLxEnIFnFZgwBu1F9VcLShZxuL91G/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA AMBO I LATI, E DIVIETO DI TRANSITO SU VIA TORINO,<br>VIA CARNIA, VIA PRINCIPESSA MARIA E VIA GENOVA IN SANTO SPIRITO<br>(BA), PER INTERVENTI MIRATI A CONSEGUIRE LA DISTRETTUALIZZAZIONE,<br>IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE<br>GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI<br>TRONCHI VETUSTI ED AMMALORATI DALL’ESECUTIVITÀ DELL’ATTO SINO<br>AL 05/06/2026. PROROGA ORDINANZA DIRIGENZIALE N. 2026/185/00352 DEL<br>24/02/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: 06/05//2026 - 05/06/2026 07:00- 17:00<br><br>ORDINANZA 2026/00826<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI, E DIVIETO DI TRANSITO SU VIA TORINO, VIA CARNIA, VIA PRINCIPESSA MARIA E VIA GENOVA IN SANTO SPIRITO (BA), PER INTERVENTI MIRATI A CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI DALL’ESECUTIVITÀ DELL’ATTO FINO AL 29/04/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>1. Dovrà essere data indicazione della temporanea interdizione al traffico veicolare della via Genova, all’intersezione via Napoli/via Marconi, via Marconi/via Fiume e via Suor Maria Lucchesi/via Cortese; 2. Per l’interdizione al transito veicolare della via Principessa Maria dovrà essere data indicazione all’intersezione via Fiume/via Principessa Maria con percorso alternativo su Vico Traversa; 3. Per l’intersezione al transito veicolare della via Torino, strada a senso unico dalla via Zara a Piazza dei Mille, il percorso alternativo è la via Principessa Giovanna, strada a senso unico con direzione di marcia dalla via Zara alla via Napoli; 4. Particolare attenzione dovrà essere posta ai pedoni e alle persone con ridotta capacità motoria , il cui transito dovrà essere salvaguardato durante i lavori; 5. Dovranno essere altresì salvaguardati gli accessi privati e il transito dei mezzi di soccorso e/o polizia, compatibilmente con l’esecuzione dei lavori; 6. Dovranno essere riaperte al transito veicolare le strade in narrativa, al di fuori degli orari di lavoro indicati nell’istanza ovvero 07:00/17:00; 7. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto; PRESCRIZIO<br><br><br>Durata e tempistiche: 24/02/2026 - 29/04/2026 <br><br>2025/03914<br><br>https://drive.google.com/file/d/1XmtPYf3jqEHXn8juw8DL32UHhHVHL7E-/view?usp=sharing<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA AMBO I LATI, RESTRINGIMENTO DELLA CARREGGIATA,<br>SENSO UNICO ALTERNATO SU VIA TORINO, VIA CARNIA, VIA PRINCIPESSA<br>MARIA E VIA GENOVA IN SANTO SPIRITO (BA), PER INTERVENTI MIRATI A<br>CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI.<br>PROROGA ORDINANZA DIRIGENZIALE N.2025/185/01256 DEL 16/09/2025.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e tempistiche: dal 01/01/2026 al 31/01/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -6254,7 +6259,7 @@ REALIZZAZIONE AREA DI CANTIERE
 IMPRESA ESECUTRICE: VALLARELLA IMMOBILIARE S.R.L. 
 18/03/2026 - 28/05/2026 h 08:00-13:00
 </name>
-      <description><![CDATA[ORDINANZA 2026/01348 <br><br>https://drive.google.com/file/d/1MoRbVgM7VFMLzL1kHcfHwTIirNl7kgIj/view<br><br>ISTITUZIONE TEMPORANEA DI DIVIETO DI TRANSITO VEICOLARE E PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO SU VIA CILEA DAL CIV. 2 AL CIV. 10/A (ZONA SAN GIROLAMO) PER REALIZZAZIONE AREA DI CANTIERE PER OPERAZIONI DI GETTO CLS PER I GIORNI 18/19/03/2026 – 25-26/03/2026 – 01-02/04/2026 – 08-09/04/2026 – 15-16/04/2026 – 22-23/04/2026 – 29-30/04/2026 – 06-07/05/2026 -13-14/05/2026 – 20-21/05/2026 – 27-28/05/2026 DALLE ORE 08:00 ALLE ORE 13:00. SOCIETÀ: VALLARELLA IMMOBILIARE S.R.L. ISTANTE: VALLARELLA LUCA (AMMINISTRATORE UNICO DELLA “VALLARELLA IMMOBILIARE S.R.L.”) <br><br>nei giorni 18/19/03/2026 – 25-26/03/2026 – 01-02/04/2026 – 08-09/04/2026 – 15-16/04/2026 – 22 23/04/2026 – 29-30/04/2026 – 06-07/05/2026 -13-14/05/2026 – 20-21/05/2026 – 27- 28/05/2026 dalle ore 08:00 alle ore 13:00. <br><br><br>Durata e tempistiche: 18/03/2026 - 28/05/2026 h 08:00-13:00<br><br>2026/01191<br>https://drive.google.com/file/d/1F5eSttaSeu38uie3AzNzS9JctsJIDAvo/view <br><br>ISTITUZIONE TEMPORANEA DI DIVIETO DI TRANSITO VEICOLARE E<br>PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO SU VIA CILEA<br>DAL CIV. 2 AL CIV. 10/A PER REALIZZAZIONE AREA DI CANTIERE PER<br>OPERAZIONI DI GETTO CLS PER I GIORNI 11/12/03/2026 DALLE ORE 07:00<br>ALLE ORE 16:00.<br>SOCIETÀ: VALLARELLA IMMOBILIARE S.R.L.<br>ISTANTE: VALLARELLA LUCA (AMMINISTRATORE UNICO DELLA<br>“VALLARELLA IMMOBILIARE S.R.L.”)<br><br>1. La temporanea Istituzione del divieto di transito veicolare su via Cilea, nel tratto compreso tra il<br>civ. 2 e il civ. 10/A, eccetto frontisti, laddove la strada non è oggetto di occupazione;<br><br>2. La temporanea istituzione del divieto di sosta ambo i lati della via Cilea nel tratto di strada tra<br>il civ. 2 e il civ. 10/A;<br><br>3. La temporanea istituzione del senso unico alternato della via Cilea tratto tra il civ. 10/A e strada<br>San Girolamo, per consentire l’accesso/uscita dalla via Cilea, tratto percorribile durante<br>l’esecuzione dei lavori in narrativa;<br><br>4. Occorrerà interdire il transito dei pedoni nell’area di cantiere con particolare attenzione nella<br>zona sottostante il braccio operativo;<br><br>5. Durante l’esecuzione dei lavori, dovrà essere garantita la presenza di movieri dotati di idoneo<br>equipaggiamento che regolamenteranno la circolazione veicolare e pedonale;<br><br>6. Dovranno essere lasciati liberi gli accessi privati, regolamentando la circolazione veicolare<br>proveniente e diretta al Lungomare IX Maggio e proveniente e diretta su strada San Girolamo<br>nei tratti di via Cilea percorribili;<br><br>7. In particolare n. 2 movieri all’intersezione lungomare IX Maggio/via Cilea nonché al civ.10/A e<br>l’intersezione strada san Girolamo/via Cilea ovvero nel senso unico alternato che verrà<br>temporaneamente istituito;<br>8. Dovrà essere data indicazione della temporanea interdizione al transito veicolare della via Cilea,<br>all’intersezione Lungomare IX Maggio/via Donato Marrone;<br><br>9. Particolare attenzione dovrà essere posta al transito pedonale e alle persone con ridotte<br>capacità motorie;<br><br>10. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente<br>sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente<br>disposto;<br><br>DURATA E TEMPISTICHE: dal 11/03/2026 al 12/03/2026 dalle ore 07:00 alle ore 16:00]]></description>
+      <description><![CDATA[ORDINANZA 2026/02390 <br>https://drive.google.com/file/d/1x1BSsAcVHj-9MqGemsptCl2wWpF3YVyf/view<br><br>ISTITUZIONE TEMPORANEA DI DIVIETO DI TRANSITO VEICOLARE E<br>PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO SU VIA CILEA<br>DAL CIV. 2 AL CIV. 10/A PER OPERAZIONI DI CARICO E SCARICO MATERIALE<br>PER MONTAGGIO GRÙ DI CANTIERE PER I GIORNI 12 E 13/05/2026.<br>SOCIETÀ: VALLARELLA IMMOBILIARE S.R.L.<br>ISTANTE: VALLARELLA LUCA (AMMINISTRATORE UNICO DELLA<br>“VALLARELLA IMMOBILIARE S.R.L.”)<br><br><br>Durata e tempistiche:12/05/2026 - 13/05/2026<br><br>ORDINANZA 2026/01348 <br><br>https://drive.google.com/file/d/1MoRbVgM7VFMLzL1kHcfHwTIirNl7kgIj/view<br><br>ISTITUZIONE TEMPORANEA DI DIVIETO DI TRANSITO VEICOLARE E PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO SU VIA CILEA DAL CIV. 2 AL CIV. 10/A (ZONA SAN GIROLAMO) PER REALIZZAZIONE AREA DI CANTIERE PER OPERAZIONI DI GETTO CLS PER I GIORNI 18/19/03/2026 – 25-26/03/2026 – 01-02/04/2026 – 08-09/04/2026 – 15-16/04/2026 – 22-23/04/2026 – 29-30/04/2026 – 06-07/05/2026 -13-14/05/2026 – 20-21/05/2026 – 27-28/05/2026 DALLE ORE 08:00 ALLE ORE 13:00. SOCIETÀ: VALLARELLA IMMOBILIARE S.R.L. ISTANTE: VALLARELLA LUCA (AMMINISTRATORE UNICO DELLA “VALLARELLA IMMOBILIARE S.R.L.”) <br><br>nei giorni 18/19/03/2026 – 25-26/03/2026 – 01-02/04/2026 – 08-09/04/2026 – 15-16/04/2026 – 22 23/04/2026 – 29-30/04/2026 – 06-07/05/2026 -13-14/05/2026 – 20-21/05/2026 – 27- 28/05/2026 dalle ore 08:00 alle ore 13:00. <br><br><br>Durata e tempistiche: 18/03/2026 - 28/05/2026 h 08:00-13:00<br><br>2026/01191<br>https://drive.google.com/file/d/1F5eSttaSeu38uie3AzNzS9JctsJIDAvo/view <br><br>ISTITUZIONE TEMPORANEA DI DIVIETO DI TRANSITO VEICOLARE E<br>PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO SU VIA CILEA<br>DAL CIV. 2 AL CIV. 10/A PER REALIZZAZIONE AREA DI CANTIERE PER<br>OPERAZIONI DI GETTO CLS PER I GIORNI 11/12/03/2026 DALLE ORE 07:00<br>ALLE ORE 16:00.<br>SOCIETÀ: VALLARELLA IMMOBILIARE S.R.L.<br>ISTANTE: VALLARELLA LUCA (AMMINISTRATORE UNICO DELLA<br>“VALLARELLA IMMOBILIARE S.R.L.”)<br><br>1. La temporanea Istituzione del divieto di transito veicolare su via Cilea, nel tratto compreso tra il<br>civ. 2 e il civ. 10/A, eccetto frontisti, laddove la strada non è oggetto di occupazione;<br><br>2. La temporanea istituzione del divieto di sosta ambo i lati della via Cilea nel tratto di strada tra<br>il civ. 2 e il civ. 10/A;<br><br>3. La temporanea istituzione del senso unico alternato della via Cilea tratto tra il civ. 10/A e strada<br>San Girolamo, per consentire l’accesso/uscita dalla via Cilea, tratto percorribile durante<br>l’esecuzione dei lavori in narrativa;<br><br>4. Occorrerà interdire il transito dei pedoni nell’area di cantiere con particolare attenzione nella<br>zona sottostante il braccio operativo;<br><br>5. Durante l’esecuzione dei lavori, dovrà essere garantita la presenza di movieri dotati di idoneo<br>equipaggiamento che regolamenteranno la circolazione veicolare e pedonale;<br><br>6. Dovranno essere lasciati liberi gli accessi privati, regolamentando la circolazione veicolare<br>proveniente e diretta al Lungomare IX Maggio e proveniente e diretta su strada San Girolamo<br>nei tratti di via Cilea percorribili;<br><br>7. In particolare n. 2 movieri all’intersezione lungomare IX Maggio/via Cilea nonché al civ.10/A e<br>l’intersezione strada san Girolamo/via Cilea ovvero nel senso unico alternato che verrà<br>temporaneamente istituito;<br>8. Dovrà essere data indicazione della temporanea interdizione al transito veicolare della via Cilea,<br>all’intersezione Lungomare IX Maggio/via Donato Marrone;<br><br>9. Particolare attenzione dovrà essere posta al transito pedonale e alle persone con ridotte<br>capacità motorie;<br><br>10. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente<br>sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente<br>disposto;<br><br>DURATA E TEMPISTICHE: dal 11/03/2026 al 12/03/2026 dalle ore 07:00 alle ore 16:00]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -6270,7 +6275,7 @@ REALIZZAZIONE AREA DI CANTIERE
 IMPRESA ESECUTRICE: VALLARELLA IMMOBILIARE S.R.L. 
 18/03/2026 - 28/05/2026 h 08:00-13:00
 </name>
-      <description><![CDATA[ORDINANZA 2026/01348 <br><br>https://drive.google.com/file/d/1MoRbVgM7VFMLzL1kHcfHwTIirNl7kgIj/view<br><br>ISTITUZIONE TEMPORANEA DI DIVIETO DI TRANSITO VEICOLARE E PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO SU VIA CILEA DAL CIV. 2 AL CIV. 10/A (ZONA SAN GIROLAMO) PER REALIZZAZIONE AREA DI CANTIERE PER OPERAZIONI DI GETTO CLS PER I GIORNI 18/19/03/2026 – 25-26/03/2026 – 01-02/04/2026 – 08-09/04/2026 – 15-16/04/2026 – 22-23/04/2026 – 29-30/04/2026 – 06-07/05/2026 -13-14/05/2026 – 20-21/05/2026 – 27-28/05/2026 DALLE ORE 08:00 ALLE ORE 13:00. SOCIETÀ: VALLARELLA IMMOBILIARE S.R.L. ISTANTE: VALLARELLA LUCA (AMMINISTRATORE UNICO DELLA “VALLARELLA IMMOBILIARE S.R.L.”) <br><br>nei giorni 18/19/03/2026 – 25-26/03/2026 – 01-02/04/2026 – 08-09/04/2026 – 15-16/04/2026 – 22 23/04/2026 – 29-30/04/2026 – 06-07/05/2026 -13-14/05/2026 – 20-21/05/2026 – 27- 28/05/2026 dalle ore 08:00 alle ore 13:00. <br><br><br>Durata e tempistiche: 18/03/2026 - 28/05/2026 h 08:00-13:00<br><br>2026/01191<br>https://drive.google.com/file/d/1F5eSttaSeu38uie3AzNzS9JctsJIDAvo/view <br><br>ISTITUZIONE TEMPORANEA DI DIVIETO DI TRANSITO VEICOLARE E<br>PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO SU VIA CILEA<br>DAL CIV. 2 AL CIV. 10/A PER REALIZZAZIONE AREA DI CANTIERE PER<br>OPERAZIONI DI GETTO CLS PER I GIORNI 11/12/03/2026 DALLE ORE 07:00<br>ALLE ORE 16:00.<br>SOCIETÀ: VALLARELLA IMMOBILIARE S.R.L.<br>ISTANTE: VALLARELLA LUCA (AMMINISTRATORE UNICO DELLA<br>“VALLARELLA IMMOBILIARE S.R.L.”)<br><br>1. La temporanea Istituzione del divieto di transito veicolare su via Cilea, nel tratto compreso tra il<br>civ. 2 e il civ. 10/A, eccetto frontisti, laddove la strada non è oggetto di occupazione;<br><br>2. La temporanea istituzione del divieto di sosta ambo i lati della via Cilea nel tratto di strada tra<br>il civ. 2 e il civ. 10/A;<br><br>3. La temporanea istituzione del senso unico alternato della via Cilea tratto tra il civ. 10/A e strada<br>San Girolamo, per consentire l’accesso/uscita dalla via Cilea, tratto percorribile durante<br>l’esecuzione dei lavori in narrativa;<br><br>4. Occorrerà interdire il transito dei pedoni nell’area di cantiere con particolare attenzione nella<br>zona sottostante il braccio operativo;<br><br>5. Durante l’esecuzione dei lavori, dovrà essere garantita la presenza di movieri dotati di idoneo<br>equipaggiamento che regolamenteranno la circolazione veicolare e pedonale;<br><br>6. Dovranno essere lasciati liberi gli accessi privati, regolamentando la circolazione veicolare<br>proveniente e diretta al Lungomare IX Maggio e proveniente e diretta su strada San Girolamo<br>nei tratti di via Cilea percorribili;<br><br>7. In particolare n. 2 movieri all’intersezione lungomare IX Maggio/via Cilea nonché al civ.10/A e<br>l’intersezione strada san Girolamo/via Cilea ovvero nel senso unico alternato che verrà<br>temporaneamente istituito;<br>8. Dovrà essere data indicazione della temporanea interdizione al transito veicolare della via Cilea,<br>all’intersezione Lungomare IX Maggio/via Donato Marrone;<br><br>9. Particolare attenzione dovrà essere posta al transito pedonale e alle persone con ridotte<br>capacità motorie;<br><br>10. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente<br>sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente<br>disposto;<br><br>DURATA E TEMPISTICHE: dal 11/03/2026 al 12/03/2026 dalle ore 07:00 alle ore 16:00]]></description>
+      <description><![CDATA[ORDINANZA 2026/02390 <br>https://drive.google.com/file/d/1x1BSsAcVHj-9MqGemsptCl2wWpF3YVyf/view<br><br>ISTITUZIONE TEMPORANEA DI DIVIETO DI TRANSITO VEICOLARE E<br>PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO SU VIA CILEA<br>DAL CIV. 2 AL CIV. 10/A PER OPERAZIONI DI CARICO E SCARICO MATERIALE<br>PER MONTAGGIO GRÙ DI CANTIERE PER I GIORNI 12 E 13/05/2026.<br>SOCIETÀ: VALLARELLA IMMOBILIARE S.R.L.<br>ISTANTE: VALLARELLA LUCA (AMMINISTRATORE UNICO DELLA<br>“VALLARELLA IMMOBILIARE S.R.L.”)<br><br><br>Durata e tempistiche:12/05/2026 - 13/05/2026<br><br>ORDINANZA 2026/01348 <br><br>https://drive.google.com/file/d/1MoRbVgM7VFMLzL1kHcfHwTIirNl7kgIj/view<br><br>ISTITUZIONE TEMPORANEA DI DIVIETO DI TRANSITO VEICOLARE E PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO SU VIA CILEA DAL CIV. 2 AL CIV. 10/A (ZONA SAN GIROLAMO) PER REALIZZAZIONE AREA DI CANTIERE PER OPERAZIONI DI GETTO CLS PER I GIORNI 18/19/03/2026 – 25-26/03/2026 – 01-02/04/2026 – 08-09/04/2026 – 15-16/04/2026 – 22-23/04/2026 – 29-30/04/2026 – 06-07/05/2026 -13-14/05/2026 – 20-21/05/2026 – 27-28/05/2026 DALLE ORE 08:00 ALLE ORE 13:00. SOCIETÀ: VALLARELLA IMMOBILIARE S.R.L. ISTANTE: VALLARELLA LUCA (AMMINISTRATORE UNICO DELLA “VALLARELLA IMMOBILIARE S.R.L.”) <br><br>nei giorni 18/19/03/2026 – 25-26/03/2026 – 01-02/04/2026 – 08-09/04/2026 – 15-16/04/2026 – 22 23/04/2026 – 29-30/04/2026 – 06-07/05/2026 -13-14/05/2026 – 20-21/05/2026 – 27- 28/05/2026 dalle ore 08:00 alle ore 13:00. <br><br><br>Durata e tempistiche: 18/03/2026 - 28/05/2026 h 08:00-13:00<br><br>2026/01191<br>https://drive.google.com/file/d/1F5eSttaSeu38uie3AzNzS9JctsJIDAvo/view <br><br>ISTITUZIONE TEMPORANEA DI DIVIETO DI TRANSITO VEICOLARE E<br>PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO SU VIA CILEA<br>DAL CIV. 2 AL CIV. 10/A PER REALIZZAZIONE AREA DI CANTIERE PER<br>OPERAZIONI DI GETTO CLS PER I GIORNI 11/12/03/2026 DALLE ORE 07:00<br>ALLE ORE 16:00.<br>SOCIETÀ: VALLARELLA IMMOBILIARE S.R.L.<br>ISTANTE: VALLARELLA LUCA (AMMINISTRATORE UNICO DELLA<br>“VALLARELLA IMMOBILIARE S.R.L.”)<br><br>1. La temporanea Istituzione del divieto di transito veicolare su via Cilea, nel tratto compreso tra il<br>civ. 2 e il civ. 10/A, eccetto frontisti, laddove la strada non è oggetto di occupazione;<br><br>2. La temporanea istituzione del divieto di sosta ambo i lati della via Cilea nel tratto di strada tra<br>il civ. 2 e il civ. 10/A;<br><br>3. La temporanea istituzione del senso unico alternato della via Cilea tratto tra il civ. 10/A e strada<br>San Girolamo, per consentire l’accesso/uscita dalla via Cilea, tratto percorribile durante<br>l’esecuzione dei lavori in narrativa;<br><br>4. Occorrerà interdire il transito dei pedoni nell’area di cantiere con particolare attenzione nella<br>zona sottostante il braccio operativo;<br><br>5. Durante l’esecuzione dei lavori, dovrà essere garantita la presenza di movieri dotati di idoneo<br>equipaggiamento che regolamenteranno la circolazione veicolare e pedonale;<br><br>6. Dovranno essere lasciati liberi gli accessi privati, regolamentando la circolazione veicolare<br>proveniente e diretta al Lungomare IX Maggio e proveniente e diretta su strada San Girolamo<br>nei tratti di via Cilea percorribili;<br><br>7. In particolare n. 2 movieri all’intersezione lungomare IX Maggio/via Cilea nonché al civ.10/A e<br>l’intersezione strada san Girolamo/via Cilea ovvero nel senso unico alternato che verrà<br>temporaneamente istituito;<br>8. Dovrà essere data indicazione della temporanea interdizione al transito veicolare della via Cilea,<br>all’intersezione Lungomare IX Maggio/via Donato Marrone;<br><br>9. Particolare attenzione dovrà essere posta al transito pedonale e alle persone con ridotte<br>capacità motorie;<br><br>10. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente<br>sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente<br>disposto;<br><br>DURATA E TEMPISTICHE: dal 11/03/2026 al 12/03/2026 dalle ore 07:00 alle ore 16:00]]></description>
       <styleUrl>#line-E65100-4681</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -8726,7 +8731,7 @@ TERMINE E DURATA: 06/04/2026 AL GIORNO 07/05/2026 DALLE ORE
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/01657
+      <name>ORDINANZA 2026/02398
 DIVIETO DI SOSTA E
 FERMATA AMBO I LATI CON CHIUSURA TOTALE DELLA STRADA IN
 CORRISPONDENZA DELLE INTERSEZIONI, ECCETTO RESIDENTI E
@@ -8734,9 +8739,9 @@ FRONTISTI
 IN VIA PODGORA INCROCI COMPRESI,
 PER MANUTENZIONE IMPIANTO IDRICO
 IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
-DAL 07/04/2026 SINO AL 11/05/2026
+DAL 07/04/2026 SINO AL 29/05/2026
 </name>
-      <description><![CDATA[Ordinanza 2026/01657<br>https://drive.google.com/file/d/15At_kmp7Vo7Q49CioeQzPZojoSgNsRAC/view<br> <br>P1557 - PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI MIRATI PER CONSEGUIRE LA<br>DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL<br>MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI DEL<br>TERRITORIO SERVITO DALL’ACQUEDOTTO PUGLIESE E SOSTITUZIONE DEI<br>TRONCHI VETUSTI ED AMMALORATI - LOTTO1 - BA1”. CUP:<br>E15G18000180005 - CIG: 953550212F –<br>ISTITUZIONE TEMPORANEAMENTE DEL DIVIETO DI SOSTA E<br>FERMATA AMBO I LATI E CHIUSURA TOTALE DELLA STRADA IN<br>CORRISPONDENZA DELLE INTERSEZIONI, ECCETTO RESIDENTI E<br>FRONTISTI, NONCHÉ RESTRINGIMENTO DI CARREGGIATA E/O DIVIETO DI<br>TRANSITO PER ISOLATI, SU VIA PODGORA INCROCI COMPRESI, DAL<br>GIORNO 07/04/2026 SINO AL 11/05/2026 DALLE ORE 00 ALLE ORE 24.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL<br>GIORNO 07/04/2026 SINO AL 11/05/2026 DALLE ORE 00 ALLE ORE 24.]]></description>
+      <description><![CDATA[PROROGA: 2026/02398<br>FINO AL 29/05/2026<br>https://drive.google.com/file/d/1wkD5yPA3EeUoAJPV6IGm8kSzXL9lRFES/view<br><br>Ordinanza 2026/01657<br>https://drive.google.com/file/d/15At_kmp7Vo7Q49CioeQzPZojoSgNsRAC/view<br> <br>P1557 - PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI MIRATI PER CONSEGUIRE LA<br>DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL<br>MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI DEL<br>TERRITORIO SERVITO DALL’ACQUEDOTTO PUGLIESE E SOSTITUZIONE DEI<br>TRONCHI VETUSTI ED AMMALORATI - LOTTO1 - BA1”. CUP:<br>E15G18000180005 - CIG: 953550212F –<br>ISTITUZIONE TEMPORANEAMENTE DEL DIVIETO DI SOSTA E<br>FERMATA AMBO I LATI E CHIUSURA TOTALE DELLA STRADA IN<br>CORRISPONDENZA DELLE INTERSEZIONI, ECCETTO RESIDENTI E<br>FRONTISTI, NONCHÉ RESTRINGIMENTO DI CARREGGIATA E/O DIVIETO DI<br>TRANSITO PER ISOLATI, SU VIA PODGORA INCROCI COMPRESI, DAL<br>GIORNO 07/04/2026 SINO AL 11/05/2026 DALLE ORE 00 ALLE ORE 24.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL<br>GIORNO 07/04/2026 SINO AL 11/05/2026 DALLE ORE 00 ALLE ORE 24.]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -8745,7 +8750,7 @@ DAL 07/04/2026 SINO AL 11/05/2026
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/01657
+      <name>ORDINANZA 2026/02398
 DIVIETO DI SOSTA E
 FERMATA AMBO I LATI CON CHIUSURA TOTALE DELLA STRADA IN
 CORRISPONDENZA DELLE INTERSEZIONI, ECCETTO RESIDENTI E
@@ -8753,9 +8758,9 @@ FRONTISTI
 IN VIA PODGORA INCROCI COMPRESI,
 PER MANUTENZIONE IMPIANTO IDRICO
 IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
-DAL 07/04/2026 SINO AL 11/05/2026
+DAL 07/04/2026 SINO AL 29/05/2026
 </name>
-      <description><![CDATA[Ordinanza 2026/01657<br>https://drive.google.com/file/d/15At_kmp7Vo7Q49CioeQzPZojoSgNsRAC/view<br> <br>P1557 - PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI<br><br>MIRATI PER CONSEGUIRE LA<br>DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL<br>MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI DEL<br>TERRITORIO SERVITO DALL’ACQUEDOTTO PUGLIESE E SOSTITUZIONE DEI<br>TRONCHI VETUSTI ED AMMALORATI - LOTTO1 - BA1”. CUP:<br>E15G18000180005 - CIG: 953550212F –<br>ISTITUZIONE TEMPORANEAMENTE DEL DIVIETO DI SOSTA E<br>FERMATA AMBO I LATI E CHIUSURA TOTALE DELLA STRADA IN<br>CORRISPONDENZA DELLE INTERSEZIONI, ECCETTO RESIDENTI E<br>FRONTISTI, NONCHÉ RESTRINGIMENTO DI CARREGGIATA E/O DIVIETO DI<br>TRANSITO PER ISOLATI, SU VIA PODGORA INCROCI COMPRESI, DAL<br>GIORNO 07/04/2026 SINO AL 11/05/2026 DALLE ORE 00 ALLE ORE 24.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL<br>GIORNO 07/04/2026 SINO AL 11/05/2026 DALLE ORE 00 ALLE ORE 24.]]></description>
+      <description><![CDATA[PROROGA: 2026/02398<br>FINO AL 29/05/2026<br>https://drive.google.com/file/d/1wkD5yPA3EeUoAJPV6IGm8kSzXL9lRFES/view<br><br>Ordinanza 2026/01657<br>https://drive.google.com/file/d/15At_kmp7Vo7Q49CioeQzPZojoSgNsRAC/view<br> <br>P1557 - PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI<br><br>MIRATI PER CONSEGUIRE LA<br>DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL<br>MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI DEL<br>TERRITORIO SERVITO DALL’ACQUEDOTTO PUGLIESE E SOSTITUZIONE DEI<br>TRONCHI VETUSTI ED AMMALORATI - LOTTO1 - BA1”. CUP:<br>E15G18000180005 - CIG: 953550212F –<br>ISTITUZIONE TEMPORANEAMENTE DEL DIVIETO DI SOSTA E<br>FERMATA AMBO I LATI E CHIUSURA TOTALE DELLA STRADA IN<br>CORRISPONDENZA DELLE INTERSEZIONI, ECCETTO RESIDENTI E<br>FRONTISTI, NONCHÉ RESTRINGIMENTO DI CARREGGIATA E/O DIVIETO DI<br>TRANSITO PER ISOLATI, SU VIA PODGORA INCROCI COMPRESI, DAL<br>GIORNO 07/04/2026 SINO AL 11/05/2026 DALLE ORE 00 ALLE ORE 24.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL<br>GIORNO 07/04/2026 SINO AL 11/05/2026 DALLE ORE 00 ALLE ORE 24.]]></description>
       <styleUrl>#line-E65100-5069</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -9690,14 +9695,14 @@ IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/01971 
+      <name>ORDINANZA 2026/02403 
 DIVIETO DI TRANSITO
 STRADA VELA, DA ATTRAVERSAMENTO FERROVIARIO KM 2+935 TRATTA MUNGIVACCA PUTIGNANO E VIA FANELLI 
 PASSAGGIO DEL TRONCO IDRICO
 IMPRESA ESECUTRICE: SIMEONE S.P.A.
-17/04/2026 PER 15 GIORNI LAVORATIVI. 
+17/04/2026 - 31/05/2026 
 </name>
-      <description><![CDATA[ORDINANZA 2026/01971 <br><br>https://drive.google.com/file/d/1EgbU02Y-LI4jWH_WndEkmVPSSsabl2nh/view<br><br>P1472 ORDINANZA PER TEMPORANEA ISTITUZIONE DEL DIVIETO DI TRANSITO PER UNA LAVORAZIONE, SUDDIVISA IN DUE FASI, APPROVATA DA FERROVIE DELLO STATO IN CORRISPONDENZA DEL PASSAGGIO A LIVELLO SITUATO IN STRADA VELA, DA ATTRAVERSAMENTO FERROVIARIO KM 2+935 TRATTA MUNGIVACCA PUTIGNANO E VIA FANELLI PER PASSAGGIO DEL TRONCO IDRICO CON TECNICA “SPINGITUBO” DALL’ESECUTIVITÀ DELL’ATTO PER 15 GIORNI LAVORATIVI. SOCIETÀ: SIMEONE S.P.A.<br><br>1. FASE 1: Istituzione temporanea del divieto di transito su Strada Vela nel tratto compreso tra Attraversamento ferroviario Km 2+935 tratta Mungivacca Putignano e via Fanelli – dovrà essere segnalata presso le seguenti intersezioni: - Intersezione via Redipuglia/strada Vela ove occorrerà indicare all’utenza della strada che la via Fanelli è raggiungibile percorrendo la via Vela e a seguire la via Antonio Quaranta, superando su quest’ultima l’attraversamento ferroviario Km 3+184; - Intersezione Strada Madonna delle Grazie/via Fanelli e rotatoria intersecante le strade via A. Quaranta, SP 144 ed SP80 ove occorrerà indicare all’utenza della strada che il centro abitato di Carbonara è raggiungibile percorrendo la via Antonio Quaranta, via Carducci, Vico IV Vela e via della Vela che conduce a Piazza Umberto I; 2. FASE 2: Istituzione temporanea del divieto di sosta e di fermata ambo i lati della carreggiata su Strada Vela nel tratto compreso tra Attraversamento ferroviario Km2+935 tratta Mungivacca Putignano e via Fanelli e sulla stessa sarà istituito un senso unico alternato mediante l’impiego di appositi movieri da parte dell’impresa esecutrice dei lavori; 3. Sarà cura dell’impresa esecutrice dei lavori provvedere a posizionare segnaletica temporanea di cantiere e mantenere la stessa in perfetta efficienza sia di giorno che di notte; 4. Attenzione dovrà essere posta al transito dei pedoni e, in particolare, a quelli con ridotte capacità di deambulazione, così come gli accessi privati e il transito dei mezzi di soccorso e/o polizia; 5. Sarà altresì cura dell’impresa esecutrice dei lavori provvedere al termine degli stessi, al ripristino dello stato dei luoghi; 6. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto; <br><br>Durata e tempistiche: 17/04/2026 PER 15 GIORNI LAVORATIVI. ]]></description>
+      <description><![CDATA[PROROGA:  2026/02403<br>https://drive.google.com/file/d/11Gu678nesX8Uj10Haz4DPSP3VlBPuorP/view<br>FINO AL 31/05/2026<br><br>ORDINANZA 2026/01971 <br><br>https://drive.google.com/file/d/1EgbU02Y-LI4jWH_WndEkmVPSSsabl2nh/view<br><br>P1472 ORDINANZA PER TEMPORANEA ISTITUZIONE DEL DIVIETO DI TRANSITO PER UNA LAVORAZIONE, SUDDIVISA IN DUE FASI, APPROVATA DA FERROVIE DELLO STATO IN CORRISPONDENZA DEL PASSAGGIO A LIVELLO SITUATO IN STRADA VELA, DA ATTRAVERSAMENTO FERROVIARIO KM 2+935 TRATTA MUNGIVACCA PUTIGNANO E VIA FANELLI PER PASSAGGIO DEL TRONCO IDRICO CON TECNICA “SPINGITUBO” DALL’ESECUTIVITÀ DELL’ATTO PER 15 GIORNI LAVORATIVI. SOCIETÀ: SIMEONE S.P.A.<br><br>1. FASE 1: Istituzione temporanea del divieto di transito su Strada Vela nel tratto compreso tra Attraversamento ferroviario Km 2+935 tratta Mungivacca Putignano e via Fanelli – dovrà essere segnalata presso le seguenti intersezioni: - Intersezione via Redipuglia/strada Vela ove occorrerà indicare all’utenza della strada che la via Fanelli è raggiungibile percorrendo la via Vela e a seguire la via Antonio Quaranta, superando su quest’ultima l’attraversamento ferroviario Km 3+184; - Intersezione Strada Madonna delle Grazie/via Fanelli e rotatoria intersecante le strade via A. Quaranta, SP 144 ed SP80 ove occorrerà indicare all’utenza della strada che il centro abitato di Carbonara è raggiungibile percorrendo la via Antonio Quaranta, via Carducci, Vico IV Vela e via della Vela che conduce a Piazza Umberto I; 2. FASE 2: Istituzione temporanea del divieto di sosta e di fermata ambo i lati della carreggiata su Strada Vela nel tratto compreso tra Attraversamento ferroviario Km2+935 tratta Mungivacca Putignano e via Fanelli e sulla stessa sarà istituito un senso unico alternato mediante l’impiego di appositi movieri da parte dell’impresa esecutrice dei lavori; 3. Sarà cura dell’impresa esecutrice dei lavori provvedere a posizionare segnaletica temporanea di cantiere e mantenere la stessa in perfetta efficienza sia di giorno che di notte; 4. Attenzione dovrà essere posta al transito dei pedoni e, in particolare, a quelli con ridotte capacità di deambulazione, così come gli accessi privati e il transito dei mezzi di soccorso e/o polizia; 5. Sarà altresì cura dell’impresa esecutrice dei lavori provvedere al termine degli stessi, al ripristino dello stato dei luoghi; 6. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto; <br><br>Durata e tempistiche: 17/04/2026 PER 15 GIORNI LAVORATIVI. ]]></description>
       <styleUrl>#line-E65100-4681</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -11123,6 +11128,423 @@ DAL 05/05/2026 AL 30/06/2026
           16.8711692,41.1228216,0
         </coordinates>
       </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02397
+DIVIETO DI SOSTA RESTRINGIMENTO DI CARREGGIATA E SENSO UNICO ALTERNATO
+VIA ABATE GIMMA TRA VIA MANZONI E VIA SAG.VISCONTI
+VIA DE ROSSI – TRA C.SO VITT.EMANUELE E VIA CALEFATI
+VIA SAG.VISCONTI TRA VIA CALEFATI E P.ZZA GARIBALDI
+L.GO NITTI VALENTINI TRA VIA PICCINNI E P.ZZA GARIBALDI
+P.ZZA GARIBALDI TRA L.GO N.VALENTINI E VIA S.FRANCESCO
+P.ZZA GARIBALDI TRA VIA BONAZZI E VIA PIZZOLI
+VIA S.FRANCESCO TRA P.ZZA MASSARI E VIA Q.SELLA
+VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI
+LAVORI DI POSA CAVI INTERRATI BT
+RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
+11/05/2026 - 31/07/2026 
+</name>
+      <description><![CDATA[Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8641252,41.1255651,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02392 
+DIVIETO DI SOSTA SU ENTRAMBI I LATI 
+RESTRINGIMENTO DI CARREGGIATA
+VIA ANITA GARIBALDI, CORSO GIUSEPPE MAZZINI, VIA MICHELE MIRENGHI, 
+VIA FRANCESCO CRISPI , VIA ETTORE FIERAMOSCA , VIA BOTTEGO
+LAVORI DI
+INTERRAMENTO CAVI E- DISTRIBUZIONE.
+IMPRESA ESECUTRICE: OMNIA WORK SRL - POTENZA
+12/05//2026 - 31/07/2026  
+</name>
+      <description><![CDATA[ORDINANZA 2026/02392<br>https://drive.google.com/file/d/13HsEk5qyzPokh4qGdefJTPGjYqStWCZF/view<br><br>ORDINANZA PER DIVIETO DI SOSTA SU ENTRAMBI I LATI ,<br>RESTRINGIMENTO DI CARREGGIATA IN VIA ANITA GARIBALDI, CORSO<br>GIUSEPPE MAZZINI, VIA MICHELE MIRENGHI, VIA FRANCESCO CRISPI , VIA<br>ETTORE FIERAMOSCA , VIA BOTTEGO DAL GIORNO DAL 12/05/2026 FINO AL<br>31/07/2026, SABATO E DOMENICA COMPRESI,PER LAVORI DI<br>INTERRAMENTO CAVI E- DISTRIBUZIONE.<br>SOCIETÀ: OMNIA WORK SRL - POTENZA<br><br><br>Durata e tempistiche: 12/05//2026 - 31/07/2026  ]]></description>
+      <styleUrl>#line-E65100-3325</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8569364,41.1266582,0
+          16.8570785,41.1240377,0
+          16.8555497,41.1234699,0
+          16.8549167,41.1244377,0
+          16.8548147,41.1254661,0
+          16.854914,41.1244357,0
+          16.8555497,41.1234699,0
+          16.8539645,41.1228577,0
+          16.8529721,41.1243428,0
+          16.8529184,41.1251873,0
+          16.8532805,41.1251873,0
+          16.8531705,41.1254904,0
+          16.8530391,41.1270946,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02397
+DIVIETO DI SOSTA RESTRINGIMENTO DI CARREGGIATA E SENSO UNICO ALTERNATO
+VIA ABATE GIMMA TRA VIA MANZONI E VIA SAG.VISCONTI
+VIA DE ROSSI – TRA C.SO VITT.EMANUELE E VIA CALEFATI
+VIA SAG.VISCONTI TRA VIA CALEFATI E P.ZZA GARIBALDI
+L.GO NITTI VALENTINI TRA VIA PICCINNI E P.ZZA GARIBALDI
+P.ZZA GARIBALDI TRA L.GO N.VALENTINI E VIA S.FRANCESCO
+P.ZZA GARIBALDI TRA VIA BONAZZI E VIA PIZZOLI
+VIA S.FRANCESCO TRA P.ZZA MASSARI E VIA Q.SELLA
+VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI
+LAVORI DI POSA CAVI INTERRATI BT
+RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
+11/05/2026 - 31/07/2026 </name>
+      <description><![CDATA[Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
+      <styleUrl>#line-E65100-3906</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8609672,41.1241466,0
+          16.862995,41.1242679,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02393 
+DIVIETO DI SOSTA CON RIMOZIONE FORZATA SU ENTRAMBI I LATI , RESTRINGIMENTO DI CARREGGIATA CON SENSO UNICO ALTERNATO
+CORSO BENEDETTO CROCE (DA VIA GIUSEPPE BOTTALICO
+A VIA GIOVANNI LATERZA)
+LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL,
+IMPRESA ESECUTRICE: FC IMPIANTI S.R.L. 
+11/05//2026 - 15/05/2026 07:00-17:00
+</name>
+      <description><![CDATA[ORDINANZA 2026/02393 <br>https://drive.google.com/file/d/14jbinLJZemw_3cIaIGQEANTInR0KcqXn/view<br><br>ORDINANZA PER DIVIETO DI SOSTA CON RIMOZIONE FORZATA SU<br>ENTRAMBI I LATI , RESTRINGIMENTO DI CARREGGIATA CON SENSO UNICO<br>ALTERNATO IN CORSO BENEDETTO CROCE (DA VIA GIUSEPPE BOTTALICO<br>A VIA GIOVANNI LATERZA) DAL GIORNO 11 MAGGIO 2026 AL GIORNO 15<br>MAGGIO 2026 DALLE ORE 07.00 ALLE ORE 17.00, PER LAVORI DI<br>INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL,<br>SOCIETÀ: FC IMPIANTI S.R.L. – UNIPERSONALE VIA POLA N. 34 70010 –<br>ADELFIA – BA<br><br>Durata e tempistiche: 11/05//2026 - 15/05/2026 07:00-17:00]]></description>
+      <styleUrl>#line-E65100-4488</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8721772,41.1124739,0
+          16.872105,41.11177,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02397
+DIVIETO DI SOSTA RESTRINGIMENTO DI CARREGGIATA E SENSO UNICO ALTERNATO
+VIA ABATE GIMMA TRA VIA MANZONI E VIA SAG.VISCONTI
+VIA DE ROSSI – TRA C.SO VITT.EMANUELE E VIA CALEFATI
+VIA SAG.VISCONTI TRA VIA CALEFATI E P.ZZA GARIBALDI
+L.GO NITTI VALENTINI TRA VIA PICCINNI E P.ZZA GARIBALDI
+P.ZZA GARIBALDI TRA L.GO N.VALENTINI E VIA S.FRANCESCO
+P.ZZA GARIBALDI TRA VIA BONAZZI E VIA PIZZOLI
+VIA S.FRANCESCO TRA P.ZZA MASSARI E VIA Q.SELLA
+VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI
+LAVORI DI POSA CAVI INTERRATI BT
+RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
+11/05/2026 - 31/07/2026 </name>
+      <description><![CDATA[Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
+      <styleUrl>#line-E65100-3906</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.865375,41.1237962,0
+          16.8651523,41.1257212,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02397
+DIVIETO DI SOSTA RESTRINGIMENTO DI CARREGGIATA E SENSO UNICO ALTERNATO
+VIA ABATE GIMMA TRA VIA MANZONI E VIA SAG.VISCONTI
+VIA DE ROSSI – TRA C.SO VITT.EMANUELE E VIA CALEFATI
+VIA SAG.VISCONTI TRA VIA CALEFATI E P.ZZA GARIBALDI
+L.GO NITTI VALENTINI TRA VIA PICCINNI E P.ZZA GARIBALDI
+P.ZZA GARIBALDI TRA L.GO N.VALENTINI E VIA S.FRANCESCO
+P.ZZA GARIBALDI TRA VIA BONAZZI E VIA PIZZOLI
+VIA S.FRANCESCO TRA P.ZZA MASSARI E VIA Q.SELLA
+VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI
+LAVORI DI POSA CAVI INTERRATI BT
+RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
+11/05/2026 - 31/07/2026 </name>
+      <description><![CDATA[Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
+      <styleUrl>#line-E65100-4294</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8631063,41.123664,0
+          16.8629763,41.1250174,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02397
+DIVIETO DI SOSTA RESTRINGIMENTO DI CARREGGIATA E SENSO UNICO ALTERNATO
+VIA ABATE GIMMA TRA VIA MANZONI E VIA SAG.VISCONTI
+VIA DE ROSSI – TRA C.SO VITT.EMANUELE E VIA CALEFATI
+VIA SAG.VISCONTI TRA VIA CALEFATI E P.ZZA GARIBALDI
+L.GO NITTI VALENTINI TRA VIA PICCINNI E P.ZZA GARIBALDI
+P.ZZA GARIBALDI TRA L.GO N.VALENTINI E VIA S.FRANCESCO
+P.ZZA GARIBALDI TRA VIA BONAZZI E VIA PIZZOLI
+VIA S.FRANCESCO TRA P.ZZA MASSARI E VIA Q.SELLA
+VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI
+LAVORI DI POSA CAVI INTERRATI BT
+RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
+11/05/2026 - 31/07/2026 </name>
+      <description><![CDATA[Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
+      <styleUrl>#line-E65100-3906</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8629463,41.1252989,0
+          16.8631931,41.1250161,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02397
+DIVIETO DI SOSTA RESTRINGIMENTO DI CARREGGIATA E SENSO UNICO ALTERNATO
+VIA ABATE GIMMA TRA VIA MANZONI E VIA SAG.VISCONTI
+VIA DE ROSSI – TRA C.SO VITT.EMANUELE E VIA CALEFATI
+VIA SAG.VISCONTI TRA VIA CALEFATI E P.ZZA GARIBALDI
+L.GO NITTI VALENTINI TRA VIA PICCINNI E P.ZZA GARIBALDI
+P.ZZA GARIBALDI TRA L.GO N.VALENTINI E VIA S.FRANCESCO
+P.ZZA GARIBALDI TRA VIA BONAZZI E VIA PIZZOLI
+VIA S.FRANCESCO TRA P.ZZA MASSARI E VIA Q.SELLA
+VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI
+LAVORI DI POSA CAVI INTERRATI BT
+RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
+11/05/2026 - 31/07/2026 </name>
+      <description><![CDATA[Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
+      <styleUrl>#line-E65100-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8629463,41.1252989,0
+          16.8628355,41.1261516,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02397
+DIVIETO DI SOSTA RESTRINGIMENTO DI CARREGGIATA E SENSO UNICO ALTERNATO
+VIA ABATE GIMMA TRA VIA MANZONI E VIA SAG.VISCONTI
+VIA DE ROSSI – TRA C.SO VITT.EMANUELE E VIA CALEFATI
+VIA SAG.VISCONTI TRA VIA CALEFATI E P.ZZA GARIBALDI
+L.GO NITTI VALENTINI TRA VIA PICCINNI E P.ZZA GARIBALDI
+P.ZZA GARIBALDI TRA L.GO N.VALENTINI E VIA S.FRANCESCO
+P.ZZA GARIBALDI TRA VIA BONAZZI E VIA PIZZOLI
+VIA S.FRANCESCO TRA P.ZZA MASSARI E VIA Q.SELLA
+VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI
+LAVORI DI POSA CAVI INTERRATI BT
+RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
+11/05/2026 - 31/07/2026 </name>
+      <description><![CDATA[Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
+      <styleUrl>#line-E65100-2938</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.860731,41.126039,0
+          16.8627485,41.1261589,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02397
+DIVIETO DI SOSTA RESTRINGIMENTO DI CARREGGIATA E SENSO UNICO ALTERNATO
+VIA ABATE GIMMA TRA VIA MANZONI E VIA SAG.VISCONTI
+VIA DE ROSSI – TRA C.SO VITT.EMANUELE E VIA CALEFATI
+VIA SAG.VISCONTI TRA VIA CALEFATI E P.ZZA GARIBALDI
+L.GO NITTI VALENTINI TRA VIA PICCINNI E P.ZZA GARIBALDI
+P.ZZA GARIBALDI TRA L.GO N.VALENTINI E VIA S.FRANCESCO
+P.ZZA GARIBALDI TRA VIA BONAZZI E VIA PIZZOLI
+VIA S.FRANCESCO TRA P.ZZA MASSARI E VIA Q.SELLA
+VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI
+LAVORI DI POSA CAVI INTERRATI BT
+RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
+11/05/2026 - 31/07/2026 </name>
+      <description><![CDATA[Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
+      <styleUrl>#line-E65100-4100</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8639447,41.1266721,0
+          16.8656284,41.1272347,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02397
+DIVIETO DI SOSTA RESTRINGIMENTO DI CARREGGIATA E SENSO UNICO ALTERNATO
+VIA ABATE GIMMA TRA VIA MANZONI E VIA SAG.VISCONTI
+VIA DE ROSSI – TRA C.SO VITT.EMANUELE E VIA CALEFATI
+VIA SAG.VISCONTI TRA VIA CALEFATI E P.ZZA GARIBALDI
+L.GO NITTI VALENTINI TRA VIA PICCINNI E P.ZZA GARIBALDI
+P.ZZA GARIBALDI TRA L.GO N.VALENTINI E VIA S.FRANCESCO
+P.ZZA GARIBALDI TRA VIA BONAZZI E VIA PIZZOLI
+VIA S.FRANCESCO TRA P.ZZA MASSARI E VIA Q.SELLA
+VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI
+LAVORI DI POSA CAVI INTERRATI BT
+RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
+11/05/2026 - 31/07/2026 </name>
+      <description><![CDATA[Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
+      <styleUrl>#line-E65100-4681</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8650383,41.1265046,0
+          16.865138,41.125785,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02396
+DIVIETO DI SOSTA E FERMATA RESTRINGIMENTO DI CARREGGIATA E SENSO UNICO ALTERNATO 
+VIA MARTIN LUTHER KING
+VIA FANELLI E STRADE LIMITROFE
+MANUTENZIONE ED ESTENSIONE IMPIANTI DI PUBBLICA ILLUMINAZIONE
+RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
+04/05/2026 - 15/10/2026 
+</name>
+      <description><![CDATA[Ordinanza: 2026/02396<br><br>https://drive.google.com/file/d/1VAcSdV2U_m7cBr_LJQvk9RRqIshT0g6c/view<br><br>PN20017 - ACCORDO QUADRO PER LAVORI DI MANUTENZIONE<br>STRAORDINARIA DA REALIZZARSI SU IMPIANTI DI PUBBLICA<br>ILLUMINAZIONE CON ALTO TASSO DI FUORI SERVIZIO –<br>LAVORI DI RIQUALIFICAZIONE, MANUTENZIONE ED ESTENSIONE IN AMBITO<br>SMART DEGLI IMPIANTI DI PUBBLICA ILLUMINAZIONE SOTTESI AI QUADRI<br>SOPRANNOMINATI “MOIRA 2” (VIA MARTIN LUTHER KING) E “FIORDALISI”<br>(VIA FANELLI) E STRADE LIMITROFE.<br>PROCEDURA APERTA N. PN20017 CUP: J99C23002760006 CIG ACCORDO<br>QUADRO N. 85435139F4 CIG CONTRATTO ATTUATIVO N.11: A06D02A53A<br>IMPRESA APPALTATRICE: SOCIETÀ ICR IMPIANTI E COSTRUZIONI S.R.L.<br>CAPOGRUPPO CF/P.IVA 12487131000 SOCIETÀ MATI GROUP S.P.A<br>MANDANTE CF/P.IVA 02229530734<br>SUBAPPALTATORE: MIC.A. S.R.L. “UNIPERSONALE” CON SEDE LEGALE IN<br>BARI IN VIA SAN GIROLAMO N.41/B, C.F./P.IVA NR. 05372490721<br>PEC: ICRIMPIANTIECOSTRUZIONI@LEGALMAIL.IT<br><br>Durata e tempistiche: 04/05/2026 - 15/10/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8615583,41.100249,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02396
+DIVIETO DI SOSTA E FERMATA RESTRINGIMENTO DI CARREGGIATA E SENSO UNICO ALTERNATO 
+VIA MARTIN LUTHER KING
+VIA FANELLI E STRADE LIMITROFE
+MANUTENZIONE ED ESTENSIONE IMPIANTI DI PUBBLICA ILLUMINAZIONE
+RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
+04/05/2026 - 15/10/2026 </name>
+      <description><![CDATA[Ordinanza: 2026/02396<br><br>https://drive.google.com/file/d/1VAcSdV2U_m7cBr_LJQvk9RRqIshT0g6c/view<br><br>PN20017 - ACCORDO QUADRO PER LAVORI DI MANUTENZIONE<br>STRAORDINARIA DA REALIZZARSI SU IMPIANTI DI PUBBLICA<br>ILLUMINAZIONE CON ALTO TASSO DI FUORI SERVIZIO –<br>LAVORI DI RIQUALIFICAZIONE, MANUTENZIONE ED ESTENSIONE IN AMBITO<br>SMART DEGLI IMPIANTI DI PUBBLICA ILLUMINAZIONE SOTTESI AI QUADRI<br>SOPRANNOMINATI “MOIRA 2” (VIA MARTIN LUTHER KING) E “FIORDALISI”<br>(VIA FANELLI) E STRADE LIMITROFE.<br>PROCEDURA APERTA N. PN20017 CUP: J99C23002760006 CIG ACCORDO<br>QUADRO N. 85435139F4 CIG CONTRATTO ATTUATIVO N.11: A06D02A53A<br>IMPRESA APPALTATRICE: SOCIETÀ ICR IMPIANTI E COSTRUZIONI S.R.L.<br>CAPOGRUPPO CF/P.IVA 12487131000 SOCIETÀ MATI GROUP S.P.A<br>MANDANTE CF/P.IVA 02229530734<br>SUBAPPALTATORE: MIC.A. S.R.L. “UNIPERSONALE” CON SEDE LEGALE IN<br>BARI IN VIA SAN GIROLAMO N.41/B, C.F./P.IVA NR. 05372490721<br>PEC: ICRIMPIANTIECOSTRUZIONI@LEGALMAIL.IT<br><br>Durata e tempistiche: 04/05/2026 - 15/10/2026]]></description>
+      <styleUrl>#line-F57C00-3519</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8566958,41.100822,0
+          16.8615345,41.100345,0
+          16.8645064,41.1001752,0
+          16.8672423,41.1000135,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02396
+DIVIETO DI SOSTA E FERMATA RESTRINGIMENTO DI CARREGGIATA E SENSO UNICO ALTERNATO 
+VIA MARTIN LUTHER KING
+VIA FANELLI E STRADE LIMITROFE
+MANUTENZIONE ED ESTENSIONE IMPIANTI DI PUBBLICA ILLUMINAZIONE
+RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
+04/05/2026 - 15/10/2026 </name>
+      <description><![CDATA[Ordinanza: 2026/02396<br><br>https://drive.google.com/file/d/1VAcSdV2U_m7cBr_LJQvk9RRqIshT0g6c/view<br><br>PN20017 - ACCORDO QUADRO PER LAVORI DI MANUTENZIONE<br>STRAORDINARIA DA REALIZZARSI SU IMPIANTI DI PUBBLICA<br>ILLUMINAZIONE CON ALTO TASSO DI FUORI SERVIZIO –<br>LAVORI DI RIQUALIFICAZIONE, MANUTENZIONE ED ESTENSIONE IN AMBITO<br>SMART DEGLI IMPIANTI DI PUBBLICA ILLUMINAZIONE SOTTESI AI QUADRI<br>SOPRANNOMINATI “MOIRA 2” (VIA MARTIN LUTHER KING) E “FIORDALISI”<br>(VIA FANELLI) E STRADE LIMITROFE.<br>PROCEDURA APERTA N. PN20017 CUP: J99C23002760006 CIG ACCORDO<br>QUADRO N. 85435139F4 CIG CONTRATTO ATTUATIVO N.11: A06D02A53A<br>IMPRESA APPALTATRICE: SOCIETÀ ICR IMPIANTI E COSTRUZIONI S.R.L.<br>CAPOGRUPPO CF/P.IVA 12487131000 SOCIETÀ MATI GROUP S.P.A<br>MANDANTE CF/P.IVA 02229530734<br>SUBAPPALTATORE: MIC.A. S.R.L. “UNIPERSONALE” CON SEDE LEGALE IN<br>BARI IN VIA SAN GIROLAMO N.41/B, C.F./P.IVA NR. 05372490721<br>PEC: ICRIMPIANTIECOSTRUZIONI@LEGALMAIL.IT<br><br>Durata e tempistiche: 04/05/2026 - 15/10/2026]]></description>
+      <styleUrl>#line-E65100-4488</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8778329,41.1071843,0
+          16.8780126,41.1067841,0
+          16.8787609,41.105137,0
+          16.878858,41.104896,0
+          16.8790318,41.1037647,0
+          16.8792088,41.1031139,0
+          16.8794288,41.102263,0
+          16.8796031,41.1014687,0
+          16.8802522,41.0997972,0
+          16.8805929,41.0992858,0
+          16.8812044,41.0984126,0
+          16.8819393,41.0972584,0
+          16.8824865,41.096361,0
+          16.8829854,41.0953261,0
+          16.8830632,41.0948025,0
+          16.883318,41.0937736,0
+          16.8833931,41.0926073,0
+          16.8836506,41.0916127,0
+          16.8837471,41.0904241,0
+          16.8836935,41.0907718,0
+          16.88379,41.0903998,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02392 
+DIVIETO DI SOSTA SU ENTRAMBI I LATI 
+RESTRINGIMENTO DI CARREGGIATA
+VIA ANITA GARIBALDI, CORSO GIUSEPPE MAZZINI, VIA MICHELE MIRENGHI, 
+VIA FRANCESCO CRISPI , VIA ETTORE FIERAMOSCA , VIA BOTTEGO
+LAVORI DI
+INTERRAMENTO CAVI E- DISTRIBUZIONE.
+IMPRESA ESECUTRICE: OMNIA WORK SRL - POTENZA
+12/05//2026 - 31/07/2026  
+</name>
+      <description><![CDATA[ORDINANZA 2026/02392<br>https://drive.google.com/file/d/13HsEk5qyzPokh4qGdefJTPGjYqStWCZF/view<br><br>ORDINANZA PER DIVIETO DI SOSTA SU ENTRAMBI I LATI ,<br>RESTRINGIMENTO DI CARREGGIATA IN VIA ANITA GARIBALDI, CORSO<br>GIUSEPPE MAZZINI, VIA MICHELE MIRENGHI, VIA FRANCESCO CRISPI , VIA<br>ETTORE FIERAMOSCA , VIA BOTTEGO DAL GIORNO DAL 12/05/2026 FINO AL<br>31/07/2026, SABATO E DOMENICA COMPRESI,PER LAVORI DI<br>INTERRAMENTO CAVI E- DISTRIBUZIONE.<br>SOCIETÀ: OMNIA WORK SRL - POTENZA<br><br><br>Durata e tempistiche: 12/05//2026 - 31/07/2026  ]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8533065,41.1239151,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02395
+DIVIETO DI SOSTA AMBO I LATI RESTRINGIMENTO CARREGGIATA
+STRADA SANTA CATERIN DA VIA NICOLA RUFFO A STRADA SANTA CATERINA
+MANUTENZIONE ED ESTENSIONE IMPIANTI DI PUBBLICA ILLUMINAZIONE
+LAVORI DI SCAVO PER LA POSA CAVI MT
+IMPRESA ESECUTRICE:DMF COSTRUZIONI S.R.L.
+11/05/2026 - 30/06/2026 </name>
+      <description><![CDATA[Ordinanza: 2026/02395<br><br>https://drive.google.com/file/d/1P9UsFMHXKDGEYQsiSlYr-kKSfMO5yRaa/view<br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA<br>AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA<br>SU STRADA SANTA CATERINA: DA VIA NICOLA RUFFO A STRADA SANTA<br>CATERINA IN CORRISPONDENZA INGRESSO IPERCOOP PER LAVORI DI<br>SCAVO PER LA POSA CAVI MT <br>IMPRESA: DMF COSTRUZIONI S.R.L.<br>ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF<br>COSTRUZIONI S.R.L.)<br><br>Durata e Tempistiche: 11/05/2026 - 30/06/2026]]></description>
+      <styleUrl>#line-E65100-4100</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8358764,41.102269,0
+          16.8355956,41.1019472,0
+          16.8355098,41.1017613,0
+          16.8353274,41.1016319,0
+          16.8351129,41.1016562,0
+          16.8343618,41.1008558,0
+          16.8327954,41.0996592,0
+          16.8322697,41.0991095,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02395
+DIVIETO DI SOSTA AMBO I LATI RESTRINGIMENTO CARREGGIATA
+STRADA SANTA CATERIN DA VIA NICOLA RUFFO A STRADA SANTA CATERINA
+MANUTENZIONE ED ESTENSIONE IMPIANTI DI PUBBLICA ILLUMINAZIONE
+LAVORI DI SCAVO PER LA POSA CAVI MT
+IMPRESA ESECUTRICE:DMF COSTRUZIONI S.R.L.
+11/05/2026 - 30/06/2026 
+</name>
+      <description><![CDATA[Ordinanza: 2026/02395<br><br>https://drive.google.com/file/d/1P9UsFMHXKDGEYQsiSlYr-kKSfMO5yRaa/view<br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA<br>AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA<br>SU STRADA SANTA CATERINA: DA VIA NICOLA RUFFO A STRADA SANTA<br>CATERINA IN CORRISPONDENZA INGRESSO IPERCOOP PER LAVORI DI<br>SCAVO PER LA POSA CAVI MT <br>IMPRESA: DMF COSTRUZIONI S.R.L.<br>ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF<br>COSTRUZIONI S.R.L.)<br><br>Durata e Tempistiche: 11/05/2026 - 30/06/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8359696,41.1019051,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02393 
+DIVIETO DI SOSTA CON RIMOZIONE FORZATA SU ENTRAMBI I LATI , RESTRINGIMENTO DI CARREGGIATA CON SENSO UNICO ALTERNATO
+CORSO BENEDETTO CROCE (DA VIA GIUSEPPE BOTTALICO
+A VIA GIOVANNI LATERZA)
+LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL,
+IMPRESA ESECUTRICE: FC IMPIANTI S.R.L. 
+11/05//2026 - 15/05/2026 07:00-17:00
+</name>
+      <description><![CDATA[ORDINANZA 2026/02393 <br>https://drive.google.com/file/d/14jbinLJZemw_3cIaIGQEANTInR0KcqXn/view<br><br>ORDINANZA PER DIVIETO DI SOSTA CON RIMOZIONE FORZATA SU<br>ENTRAMBI I LATI , RESTRINGIMENTO DI CARREGGIATA CON SENSO UNICO<br>ALTERNATO IN CORSO BENEDETTO CROCE (DA VIA GIUSEPPE BOTTALICO<br>A VIA GIOVANNI LATERZA) DAL GIORNO 11 MAGGIO 2026 AL GIORNO 15<br>MAGGIO 2026 DALLE ORE 07.00 ALLE ORE 17.00, PER LAVORI DI<br>INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL,<br>SOCIETÀ: FC IMPIANTI S.R.L. – UNIPERSONALE VIA POLA N. 34 70010 –<br>ADELFIA – BA<br><br>Durata e tempistiche: 11/05//2026 - 15/05/2026 07:00-17:00]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.872086,41.1122593,0
+        </coordinates>
+      </Point>
     </Placemark>
   </Document>
 </kml>
