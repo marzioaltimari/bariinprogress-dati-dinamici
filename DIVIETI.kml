@@ -2461,43 +2461,6 @@ IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
       </LineString>
     </Placemark>
     <Placemark>
-      <name><![CDATA[ORDINANZA 2026/01312
-DIVIETO DI SOSTA AMBO I LATI E CHIUSURA AL TRAFFICO 
-PIAZZA FEDERICO II DI SVEVIA DA PIAZZA MASSARI A VIA RUGGERO II NORMANNO 
-LAVORI DI SCAVO E-DISTRIBUZIONE S.P.A.
-IMPRESA ESECUTRICE:T&D S.R.L.
-26/01/2026 - 03/04/2026]]></name>
-      <description><![CDATA[INTEGRATA DALLA 2026/01482<br><br>https://drive.google.com/file/d/1Bhn-zYotV8OuaYZQaH7lR-R6mv5Sujny/view<br><br>Proroga tramite nuova ordinanza 2026/01312: <br>12/03/2026 - 03/04/2026<br><br>https://drive.google.com/file/d/1ascR5ScQ4AouX4ZkblZr1A2RtcB5VM5Y/view<br><br>Ordinanza: 2026/00287<br><br>https://drive.google.com/file/d/1uEuTAeNJFnBBl8_0BoOs8tah2H4P3q2k/view<br><br>PROROGA: 2026/00701: <br>https://drive.google.com/file/d/10TlaQ_Rzh97V2vv_Wb-k0N-ldCYPwKmV/view<br><br>DIVIETO DI SOSTA AMBO I LATI E CHIUSURA AL TRAFFICO <br>H 24 SU PIAZZA FEDERICO II DI SVEVIA DA ANGOLO PIAZZA MASSARI A<br>ANGOLO VIA RUGGERO II NORMANNO PER LAVORI DI SCAVO<br>RICHIEDENTE: E-DISTRIBUZIONE S.P.A.<br>IMPRESA ESECUTRICE: T&D S.R.L.<br><br>Durata e Tempistiche: 26/01/2026 - 13/02/2026<br>PROROGA: FINO AL 06/03/2026]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8671006,41.1292687,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name><![CDATA[ORDINANZA 2026/01312
-DIVIETO DI SOSTA AMBO I LATI E CHIUSURA AL TRAFFICO 
-PIAZZA FEDERICO II DI SVEVIA DA PIAZZA MASSARI A VIA RUGGERO II NORMANNO 
-LAVORI DI SCAVO E-DISTRIBUZIONE S.P.A.
-IMPRESA ESECUTRICE:T&D S.R.L.
-26/01/2026 - 03/04/2026]]></name>
-      <description><![CDATA[INTEGRATA DALLA 2026/01482<br><br>https://drive.google.com/file/d/1Bhn-zYotV8OuaYZQaH7lR-R6mv5Sujny/view<br><br>Proroga tramite nuova ordinanza: <br>12/03/2026 - 03/04/2026<br>https://drive.google.com/file/d/1ascR5ScQ4AouX4ZkblZr1A2RtcB5VM5Y/view<br><br>Ordinanza: 2026/00287<br><br>https://drive.google.com/file/d/1uEuTAeNJFnBBl8_0BoOs8tah2H4P3q2k/view<br><br>PROROGA: 2026/00701: <br>https://drive.google.com/file/d/10TlaQ_Rzh97V2vv_Wb-k0N-ldCYPwKmV/view<br><br>DIVIETO DI SOSTA AMBO I LATI E CHIUSURA AL TRAFFICO <br>H 24 SU PIAZZA FEDERICO II DI SVEVIA DA ANGOLO PIAZZA MASSARI A<br>ANGOLO VIA RUGGERO II NORMANNO PER LAVORI DI SCAVO<br>RICHIEDENTE: E-DISTRIBUZIONE S.P.A.<br>IMPRESA ESECUTRICE: T&D S.R.L.<br><br>Durata e Tempistiche: 26/01/2026 - 13/02/2026<br>PROROGA: FINO AL 06/03/2026]]></description>
-      <styleUrl>#line-E65100-3519</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8656919,41.1272436,0
-          16.8665952,41.1275879,0
-          16.8668734,41.1277585,0
-          16.8675941,41.1282626,0
-          16.8677451,41.1284454,0
-          16.867519,41.1288242,0
-          16.8671649,41.1293536,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>ORDINANZA 2026/01986 
 DIVIETO DI FERMATA E RESTRINGIMENTO DI CARREGGIATA
 VIA CALDAROLA DA VIA MARESCIALLO VITTORIO MAGGIORE A VIA CAVALIERI DI VITTORIO VENETO
@@ -2618,103 +2581,6 @@ IMPRESA ESECUTRICE: PATANO IMPIANTI & COSTRUZIONI S.R.L.
           16.8442124,41.127501,0
           16.8441856,41.1308669,0
           16.8454945,41.1325356,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00893
-DIVIETI DI TRANSITO, SOSTA E FERMATA, AMBO I LATI CON RIMOZIONE
-VIA MONFALCONE (DA CSO B. CROCE A VIA BUCCARI),
-VIA MONTELLO (DA
-VIA BUCCARI A VIA G. PETRONI),
-VIA PASUBIO (DA VIA G. PETRONI A CSO
-B. CROCE),
-VIA BUCCARI (DA VIA PASUBIO A VIA ADIGE), VIA G. TOMA (DA CSO B. CROCE A VLE DELLA REPUBBLICA)
-VIA ADIGE (DA VIA BUCCARI A CSO B. CROCE)
-INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL
-IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI ISTANTE: ENEL DISTRIBUZIONE S.P.A.
-21/03/2026 - 30/04/2026</name>
-      <description><![CDATA[ORDINANZA 2026/00893<br><br>https://drive.google.com/file/d/1Yf9veES34OUo7elgssXLcCYwHJ326TNs/view<br><br>PROROGA DELL'ORDINANZA N 2026/00376 ISTITUZIONE TEMPORANEA DEI DIVIETI DI SOSTA E FERMATA, AMBO I LATI CON RIMOZIONE FORZATA DEI VEICOLI E LA CHIUSURA AL TRAFFICO IN VIA MONFALCONE (DA CSO B. CROCE A VIA BUCCARI), VIA MONTELLO (DA VIA BUCCARI A VIA G. PETRONI), VIA PASUBIO (DA VIA G. PETRONI A CSO B. CROCE), VIA BUCCARI (DA VIA PASUBIO A VIA ADIGE), VIA G. TOMA (DA CSO B. CROCE A VLE DELLA REPUBBLICA) E VIA ADIGE (DA VIA BUCCARI A CSO B. CROCE) DAL 21.3.2026 FINO AL GIORNO 30.4.2026 PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL COMMITTENTE : ENEL DISTRIBUZIONE S.P.A. IMPRESA ESEC. : NORD COSTRUZIONI GENERALI <br><br><br>Durata e tempistiche: 21/03/2026 - 30/04/2026  <br><br>2026/00376<br><br>https://drive.google.com/file/d/1-hriQlklgij29aa-rO8njsJhtb1FN15W/view<br><br>ISTITUZIONE TEMPORANEA DEI DIVIETI DI SOSTA E FERMATA, AMBO I LATI<br>CON RIMOZIONE FORZATA DEI VEICOLI E LA CHIUSURA AL TRAFFICO IN<br>VIA MONFALCONE (DA CSO B. CROCE A VIA BUCCARI), VIA MONTELLO (DA<br>VIA BUCCARI A VIA G. PETRONI), VIA PASUBIO (DA VIA G. PETRONI A CSO<br>B. CROCE), VIA BUCCARI (DA VIA PASUBIO A VIA ADIGE), VIA G. TOMA (DA<br>CSO B. CROCE A VLE DELLA REPUBBLICA) E VIA ADIGE (DA VIA BUCCARI A<br>CSO B. CROCE) DAL 9.2.2026 FINO AL GIORNO 20.3.2026 PER LAVORI DI<br>INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL<br>COMMITTENTE : ENEL DISTRIBUZIONE S.P.A.<br>IMPRESA ESEC. : NORD COSTRUZIONI GENERALI<br><br>i) istituzione temporanea dei divieti di sosta e fermata, ambo i lati con rimozione forzata dei veicoli e la chiusura al traffico, in:<br> via Monfalcone (da cso B. Croce a via Buccari),<br> via Montello (da via Buccari a via G. Petroni),<br> via Pasubio (da via G. Petroni a cso B.Croce),<br> via Buccari (da via Pasubio a via Adige),<br> via G. Toma (da cso B. Croce a vle della Repubblica)<br><br> via Adige (da via Buccari a cso B. Croce).<br><br>Durata e tempistiche: 09/02/2026 - 20/03/2026]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.870209,41.110676,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00893
-DIVIETI DI TRANSITO, SOSTA E FERMATA, AMBO I LATI CON RIMOZIONE
-VIA MONFALCONE (DA CSO B. CROCE A VIA BUCCARI), 
-VIA MONTELLO (DA
-VIA BUCCARI A VIA G. PETRONI), 
-VIA PASUBIO (DA VIA G. PETRONI A CSO
-B. CROCE), 
-VIA BUCCARI (DA VIA PASUBIO A VIA ADIGE), VIA G. TOMA (DA CSO B. CROCE A VLE DELLA REPUBBLICA) 
-VIA ADIGE (DA VIA BUCCARI A CSO B. CROCE)
-INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL
-IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI ISTANTE: ENEL DISTRIBUZIONE S.P.A.
-21/03/2026 - 30/04/2026
-</name>
-      <description><![CDATA[ORDINANZA 2026/00893<br><br>https://drive.google.com/file/d/1Yf9veES34OUo7elgssXLcCYwHJ326TNs/view<br><br>PROROGA DELL'ORDINANZA N 2026/00376 ISTITUZIONE TEMPORANEA DEI DIVIETI DI SOSTA E FERMATA, AMBO I LATI CON RIMOZIONE FORZATA DEI VEICOLI E LA CHIUSURA AL TRAFFICO IN VIA MONFALCONE (DA CSO B. CROCE A VIA BUCCARI), VIA MONTELLO (DA VIA BUCCARI A VIA G. PETRONI), VIA PASUBIO (DA VIA G. PETRONI A CSO B. CROCE), VIA BUCCARI (DA VIA PASUBIO A VIA ADIGE), VIA G. TOMA (DA CSO B. CROCE A VLE DELLA REPUBBLICA) E VIA ADIGE (DA VIA BUCCARI A CSO B. CROCE) DAL 21.3.2026 FINO AL GIORNO 30.4.2026 PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL COMMITTENTE : ENEL DISTRIBUZIONE S.P.A. IMPRESA ESEC. : NORD COSTRUZIONI GENERALI <br>Durata e tempistiche: 21/03/2026 - 30/04/2026<br><br>2026/00376<br><br>https://drive.google.com/file/d/1-hriQlklgij29aa-rO8njsJhtb1FN15W/view<br><br>ISTITUZIONE TEMPORANEA DEI DIVIETI DI SOSTA E FERMATA, AMBO I LATI<br>CON RIMOZIONE FORZATA DEI VEICOLI E LA CHIUSURA AL TRAFFICO IN<br>VIA MONFALCONE (DA CSO B. CROCE A VIA BUCCARI), VIA MONTELLO (DA<br>VIA BUCCARI A VIA G. PETRONI), VIA PASUBIO (DA VIA G. PETRONI A CSO<br>B. CROCE), VIA BUCCARI (DA VIA PASUBIO A VIA ADIGE), VIA G. TOMA (DA<br>CSO B. CROCE A VLE DELLA REPUBBLICA) E VIA ADIGE (DA VIA BUCCARI A<br>CSO B. CROCE) DAL 9.2.2026 FINO AL GIORNO 20.3.2026 PER LAVORI DI<br>INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL<br>COMMITTENTE : ENEL DISTRIBUZIONE S.P.A.<br>IMPRESA ESEC. : NORD COSTRUZIONI GENERALI<br><br>i) istituzione temporanea dei divieti di sosta e fermata, ambo i lati con rimozione forzata dei veicoli e la chiusura al traffico, in:<br> via Monfalcone (da cso B. Croce a via Buccari),<br> via Montello (da via Buccari a via G. Petroni),<br> via Pasubio (da via G. Petroni a cso B.Croce),<br> via Buccari (da via Pasubio a via Adige),<br> via G. Toma (da cso B. Croce a vle della Repubblica)<br><br> via Adige (da via Buccari a cso B. Croce).<br><br>Durata e tempistiche: 09/02/2026 - 20/03/2026]]></description>
-      <styleUrl>#line-E65100-4100</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8720077,41.110901,0
-          16.8701087,41.1110789,0
-          16.8681722,41.1113113,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00893
-DIVIETI DI TRANSITO, SOSTA E FERMATA, AMBO I LATI CON RIMOZIONE
-VIA MONFALCONE (DA CSO B. CROCE A VIA BUCCARI),
-VIA MONTELLO (DA
-VIA BUCCARI A VIA G. PETRONI),
-VIA PASUBIO (DA VIA G. PETRONI A CSO
-B. CROCE),
-VIA BUCCARI (DA VIA PASUBIO A VIA ADIGE), VIA G. TOMA (DA CSO B. CROCE A VLE DELLA REPUBBLICA)
-VIA ADIGE (DA VIA BUCCARI A CSO B. CROCE)
-INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL
-IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI ISTANTE: ENEL DISTRIBUZIONE S.P.A.
-21/03/2026 - 30/04/2026</name>
-      <description><![CDATA[ORDINANZA 2026/00893<br><br>https://drive.google.com/file/d/1Yf9veES34OUo7elgssXLcCYwHJ326TNs/view<br><br>PROROGA DELL'ORDINANZA N 2026/00376 ISTITUZIONE TEMPORANEA DEI DIVIETI DI SOSTA E FERMATA, AMBO I LATI CON RIMOZIONE FORZATA DEI VEICOLI E LA CHIUSURA AL TRAFFICO IN VIA MONFALCONE (DA CSO B. CROCE A VIA BUCCARI), VIA MONTELLO (DA VIA BUCCARI A VIA G. PETRONI), VIA PASUBIO (DA VIA G. PETRONI A CSO B. CROCE), VIA BUCCARI (DA VIA PASUBIO A VIA ADIGE), VIA G. TOMA (DA CSO B. CROCE A VLE DELLA REPUBBLICA) E VIA ADIGE (DA VIA BUCCARI A CSO B. CROCE) DAL 21.3.2026 FINO AL GIORNO 30.4.2026 PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL COMMITTENTE : ENEL DISTRIBUZIONE S.P.A. IMPRESA ESEC. : NORD COSTRUZIONI GENERALI <br><br><br>Durata e tempistiche: 21/03/2026 - 30/04/2026  <br><br>2026/00376<br><br>https://drive.google.com/file/d/1-hriQlklgij29aa-rO8njsJhtb1FN15W/view<br><br>ISTITUZIONE TEMPORANEA DEI DIVIETI DI SOSTA E FERMATA, AMBO I LATI<br>CON RIMOZIONE FORZATA DEI VEICOLI E LA CHIUSURA AL TRAFFICO IN<br>VIA MONFALCONE (DA CSO B. CROCE A VIA BUCCARI), VIA MONTELLO (DA<br>VIA BUCCARI A VIA G. PETRONI), VIA PASUBIO (DA VIA G. PETRONI A CSO<br>B. CROCE), VIA BUCCARI (DA VIA PASUBIO A VIA ADIGE), VIA G. TOMA (DA<br>CSO B. CROCE A VLE DELLA REPUBBLICA) E VIA ADIGE (DA VIA BUCCARI A<br>CSO B. CROCE) DAL 9.2.2026 FINO AL GIORNO 20.3.2026 PER LAVORI DI<br>INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL<br>COMMITTENTE : ENEL DISTRIBUZIONE S.P.A.<br>IMPRESA ESEC. : NORD COSTRUZIONI GENERALI<br><br>i) istituzione temporanea dei divieti di sosta e fermata, ambo i lati con rimozione forzata dei veicoli e la chiusura al traffico, in:<br> via Monfalcone (da cso B. Croce a via Buccari),<br> via Montello (da via Buccari a via G. Petroni),<br> via Pasubio (da via G. Petroni a cso B.Croce),<br> via Buccari (da via Pasubio a via Adige),<br> via G. Toma (da cso B. Croce a vle della Repubblica)<br><br> via Adige (da via Buccari a cso B. Croce).<br><br>Durata e tempistiche: 09/02/2026 - 20/03/2026]]></description>
-      <styleUrl>#line-E65100-3131</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8719541,41.1088632,0
-          16.8738853,41.1088208,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00893
-DIVIETI DI TRANSITO, SOSTA E FERMATA, AMBO I LATI CON RIMOZIONE
-VIA MONFALCONE (DA CSO B. CROCE A VIA BUCCARI),
-VIA MONTELLO (DA
-VIA BUCCARI A VIA G. PETRONI),
-VIA PASUBIO (DA VIA G. PETRONI A CSO
-B. CROCE),
-VIA BUCCARI (DA VIA PASUBIO A VIA ADIGE), VIA G. TOMA (DA CSO B. CROCE A VLE DELLA REPUBBLICA)
-VIA ADIGE (DA VIA BUCCARI A CSO B. CROCE)
-INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL
-IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI ISTANTE: ENEL DISTRIBUZIONE S.P.A.
-21/03/2026 - 30/04/2026</name>
-      <description><![CDATA[2026/00376<br><br>https://drive.google.com/file/d/1-hriQlklgij29aa-rO8njsJhtb1FN15W/view<br><br>ISTITUZIONE TEMPORANEA DEI DIVIETI DI SOSTA E FERMATA, AMBO I LATI<br>CON RIMOZIONE FORZATA DEI VEICOLI E LA CHIUSURA AL TRAFFICO IN<br>VIA MONFALCONE (DA CSO B. CROCE A VIA BUCCARI), VIA MONTELLO (DA<br>VIA BUCCARI A VIA G. PETRONI), VIA PASUBIO (DA VIA G. PETRONI A CSO<br>B. CROCE), VIA BUCCARI (DA VIA PASUBIO A VIA ADIGE), VIA G. TOMA (DA<br>CSO B. CROCE A VLE DELLA REPUBBLICA) E VIA ADIGE (DA VIA BUCCARI A<br>CSO B. CROCE) DAL 9.2.2026 FINO AL GIORNO 20.3.2026 PER LAVORI DI<br>INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL<br>COMMITTENTE : ENEL DISTRIBUZIONE S.P.A.<br>IMPRESA ESEC. : NORD COSTRUZIONI GENERALI<br><br>i) istituzione temporanea dei divieti di sosta e fermata, ambo i lati con rimozione forzata dei veicoli e la chiusura al traffico, in:<br> via Monfalcone (da cso B. Croce a via Buccari),<br> via Montello (da via Buccari a via G. Petroni),<br> via Pasubio (da via G. Petroni a cso B.Croce),<br> via Buccari (da via Pasubio a via Adige),<br> via G. Toma (da cso B. Croce a vle della Repubblica)<br><br> via Adige (da via Buccari a cso B. Croce).<br><br>Durata e tempistiche: 09/02/2026 - 20/03/2026]]></description>
-      <styleUrl>#line-E65100-3131</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.86803,41.1103789,0
-          16.8699102,41.1101162,0
-          16.8700256,41.1106073,0
-          16.8719487,41.110387,0
-          16.8700202,41.1106053,0
-          16.8699075,41.1101081,0
-          16.8718629,41.1098211,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -2958,48 +2824,6 @@ IMPRESA ESECUTRICE: COGEPA SPA
         <coordinates>
           16.8613182,41.1201234,0
           16.8614066,41.1194182,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00407
-DIVIETO DI SOSTA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA
-VIA FRANCESCO CRISPI TRA
-L’INTERSEZIONE CON VIA REPUBBLICA NAPOLETANA E VIA NAZARIANTZ
-HRAND
-LAVORI DI INTERRAMENTO CAVI E-
-DISTRIBUZIONE
-SOCIETÀ: OMNIA WORK SRL - POTENZA
-09/02/2026 - 30/04/2026
-</name>
-      <description><![CDATA[2026/00407 <br><br>https://drive.google.com/file/d/1YNyu8EZs8WwY_YSH-JN0tD6K_97SuGQy/view?usp=drive_open<br><br>ORDINANZA PER DIVIETO DI SOSTA SU ENTRAMBI I LA5 , RESTRINGIMENTO DI CARREGGIATA IN VIA FRANCESCO CRISPI TRA L’INTERSEZIONE CON VIA REPUBBLICA NAPOLETANA E VIA NAZARIANTZ HRAND DAL GIORNO 09/02/2026 AL GIORNO 30/04/2026, SABATO E DOMENICA COMPRESI,PER LAVORI DI INTERRAMENTO CAVI EDISTRIBUZIONE.. SOCIETÀ: OMNIA WORK SRL - POTENZA<br><br>Divieto di sosta su entrambi i lati e restringimento di carreggiata in via Francesco Crispi nell’intersezione tra via Repubblica Napoletana e via Nazarianzt Hrand. Divieto di sosta su entrambi i lati e restringimento di carreggiata in largo Francesco Crispi nell’intersezione tra via Francesco Crispi e via Mario Pagano. <br><br>Durata e tempistiche: 09/02/2026 - 30/04/2026]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8492766,41.121104,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00407
-DIVIETO DI SOSTA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA
-VIA FRANCESCO CRISPI TRA
-L’INTERSEZIONE CON VIA REPUBBLICA NAPOLETANA E VIA NAZARIANTZ HRAND
-LAVORI DI INTERRAMENTO CAVI E-
-DISTRIBUZIONE
-SOCIETÀ: OMNIA WORK SRL - POTENZA
-09/02/2026 - 30/04/2026
-</name>
-      <description><![CDATA[2026/00407 <br><br>https://drive.google.com/file/d/1YNyu8EZs8WwY_YSH-JN0tD6K_97SuGQy/view?usp=drive_open<br><br>ORDINANZA PER DIVIETO DI SOSTA SU ENTRAMBI I LA5 , RESTRINGIMENTO DI CARREGGIATA IN VIA FRANCESCO CRISPI TRA L’INTERSEZIONE CON VIA REPUBBLICA NAPOLETANA E VIA NAZARIANTZ HRAND DAL GIORNO 09/02/2026 AL GIORNO 30/04/2026, SABATO E DOMENICA COMPRESI,PER LAVORI DI INTERRAMENTO CAVI EDISTRIBUZIONE.. SOCIETÀ: OMNIA WORK SRL - POTENZA<br><br>Divieto di sosta su entrambi i lati e restringimento di carreggiata in via Francesco Crispi nell’intersezione tra via Repubblica Napoletana e via Nazarianzt Hrand. Divieto di sosta su entrambi i lati e restringimento di carreggiata in largo Francesco Crispi nell’intersezione tra via Francesco Crispi e via Mario Pagano. <br><br>Durata e tempistiche: 09/02/2026 - 30/04/2026]]></description>
-      <styleUrl>#line-E65100-5069</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8514176,41.1218491,0
-          16.8483841,41.1207176,0
-          16.8489339,41.1209237,0
-          16.849119,41.1208246,0
-          16.8500712,41.1208832,0
         </coordinates>
       </LineString>
     </Placemark>
