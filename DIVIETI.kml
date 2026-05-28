@@ -654,6 +654,28 @@
         <styleUrl>#line-E65100-6619-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="line-E65100-7006-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>7.006</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-E65100-7006-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>10.509</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-E65100-7006">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-7006-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-7006-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="line-E65100-7394-normal">
       <LineStyle>
         <color>ff0051e6</color>
@@ -1242,13 +1264,13 @@ IMPRESA ESECUTRICE: RTI DE GRECIS COS.E.MA. VERDE S.R.L. – COBAR S.P.A.- GIUST
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2025/03779
+      <name>ORDINANZA 2026/02630
 DIVIETO DI SOSTA CON RIMOZIONE FORZATA E RESTRINGIMENTO DI CARREGGIATA
 VIA G. FORTUNATO DAL CIV. 9 A VIA G. DORSO 
 POSIZIONAMENTO RECINZIONE DI CANTIERE
 IMPRESA ESECUTRICE: MAZZITELLI ORFEO
-26/11/2025 - 26/05/2026</name>
-      <description><![CDATA[Ordinanza: 2025/03779<br><br>https://drive.google.com/file/d/1UXjBn25-9jWAnFCeiq2rx1miqxdtdV7W/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA CON RIMOZIONE FORZATA E RESTRINGIMENTO DI CARREGGIATA SU VIA G. FORTUNATO DAL CIV. 9 A VIA G. DORSO E LATO FRONTE PER IL POSIZIONAMENTO RECINZIONE DI CANTIERE DAL GIORNO 26.11.2026 AL 26.5.2026. RICHIEDENTE: SIG. MAZZITELLI ORFEO<br><br><br>divieto di sosta con rimozione forzata e restringimento di carreggiata su Via G. Fortunato dal civ. 9 a via G. Dorso e lato fronte . La graduazione della velocità per metri 50 in avvicinamento al punto 1 con limite pari a Km/h 20; <br><br><br>Durata e tempistiche: 26/11/2025 - 26/05/2026]]></description>
+26/11/2025 - 27/08/2026</name>
+      <description><![CDATA[PROROGATA DALLA 2026/02630<br>FINO AL 27/08/2026<br>https://drive.google.com/file/d/1idwI9y4wpX15vtjnJu08Wx3rNuNed5Mf/view<br>---------------------<br>Ordinanza: 2025/03779<br><br>https://drive.google.com/file/d/1UXjBn25-9jWAnFCeiq2rx1miqxdtdV7W/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA CON RIMOZIONE FORZATA E RESTRINGIMENTO DI CARREGGIATA SU VIA G. FORTUNATO DAL CIV. 9 A VIA G. DORSO E LATO FRONTE PER IL POSIZIONAMENTO RECINZIONE DI CANTIERE DAL GIORNO 26.11.2026 AL 26.5.2026. RICHIEDENTE: SIG. MAZZITELLI ORFEO<br><br><br>divieto di sosta con rimozione forzata e restringimento di carreggiata su Via G. Fortunato dal civ. 9 a via G. Dorso e lato fronte . La graduazione della velocità per metri 50 in avvicinamento al punto 1 con limite pari a Km/h 20; <br><br><br>Durata e tempistiche: 26/11/2025 - 26/05/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -1257,13 +1279,13 @@ IMPRESA ESECUTRICE: MAZZITELLI ORFEO
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2025/03779
+      <name>ORDINANZA 2026/02630
 DIVIETO DI SOSTA CON RIMOZIONE FORZATA E RESTRINGIMENTO DI CARREGGIATA
 VIA G. FORTUNATO DAL CIV. 9 A VIA G. DORSO 
 POSIZIONAMENTO RECINZIONE DI CANTIERE
 IMPRESA ESECUTRICE: MAZZITELLI ORFEO
-26/11/2025 - 26/05/2026</name>
-      <description><![CDATA[Ordinanza: 2025/03779<br><br>https://drive.google.com/file/d/1UXjBn25-9jWAnFCeiq2rx1miqxdtdV7W/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA CON RIMOZIONE FORZATA E RESTRINGIMENTO DI CARREGGIATA SU VIA G. FORTUNATO DAL CIV. 9 A VIA G. DORSO E LATO FRONTE PER IL POSIZIONAMENTO RECINZIONE DI CANTIERE DAL GIORNO 26.11.2026 AL 26.5.2026. RICHIEDENTE: SIG. MAZZITELLI ORFEO<br><br>divieto di sosta con rimozione forzata e restringimento di carreggiata su Via G. Fortunato dal civ. 9 a via G. Dorso e lato fronte . La graduazione della velocità per metri 50 in avvicinamento al punto 1 con limite pari a Km/h 20; <br><br><br>Durata e tempistiche: 26/11/2025 - 26/05/2026]]></description>
+26/11/2025 - 27/08/2026</name>
+      <description><![CDATA[PROROGATA DALLA 2026/02630<br>FINO AL 27/08/2026<br>https://drive.google.com/file/d/1idwI9y4wpX15vtjnJu08Wx3rNuNed5Mf/view<br>------------------<br>Ordinanza: 2025/03779<br><br>https://drive.google.com/file/d/1UXjBn25-9jWAnFCeiq2rx1miqxdtdV7W/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA CON RIMOZIONE FORZATA E RESTRINGIMENTO DI CARREGGIATA SU VIA G. FORTUNATO DAL CIV. 9 A VIA G. DORSO E LATO FRONTE PER IL POSIZIONAMENTO RECINZIONE DI CANTIERE DAL GIORNO 26.11.2026 AL 26.5.2026. RICHIEDENTE: SIG. MAZZITELLI ORFEO<br><br>divieto di sosta con rimozione forzata e restringimento di carreggiata su Via G. Fortunato dal civ. 9 a via G. Dorso e lato fronte . La graduazione della velocità per metri 50 in avvicinamento al punto 1 con limite pari a Km/h 20; <br><br><br>Durata e tempistiche: 26/11/2025 - 26/05/2026]]></description>
       <styleUrl>#line-E65100-4100</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -4586,40 +4608,6 @@ REVOCA DELL’ORDINANZA DIRIGENZIALE N. 2025/03762 DI ISTITUZIONE DEL DIVIETO DI
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00850
-RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA AMBO I LATI 
-VIA G. PETRONI DA VIA PAOLO LEMBO A VIA PASUBIO
-SCARIFICA, TAPPETO E RIFACIMENTO DELLA SEGNALETICA STRADALE.
-IMPRESA ESECUTRICE: APULIA TECHNOLOGY SRL
-09/03/2026 - 	09/05/2026 h 07:00-16:0</name>
-      <description><![CDATA[ORDINANZA 2026/00850<br><br>https://drive.google.com/file/d/1U6NpjAdMU-A6SWiXkZpjW8grc8lZWBew/view<br><br>LAVORI DI RISANAMENTO DEL SISTEMA FOGNARIO TRAMITE SOSTITUZIONE DELLE CONDOTTE VETUSTE E DEGLI ALLACCI, MIGLIORAMENTO DEGLI SCORRIMENTI E DELLA FUNZIONALITA’ DELL’OPERA COL FINE DI POTENZIARE E MIGLIORARE LA RETE FOGNARIA DI VIA G. PETRONI NEL TRATTO TRA LE VIE PAOLO LEMBO E VIA PASUBIO. RICHIESTA ORDINANZA RESTRINGIMENTO CARREGGIATA AL TRAFFICO VEICOLARE E DIVIETO DI SOSTA AMBO I LATI DAL GIORNO 09.03.2026 E PER 60 GIORNI NATURALI E CONSECUTIVI DALLE ORE 7:00 ALLE 16:00 PER SCARIFICA, TAPPETO E RIFACIMENTO DELLA SEGNALETICA STRADALE. COMMITTENTE : AQP SPA DITTA OPUS COSTRUZIONI S.P.A. DI POZZUOLI IMPRESA SUBAPPALTATRICE ED ESECUTRICE - APULIA TECHNOLOGY SRL<br><br><br>Durata e tempistiche: 09/03/2026 - 	09/05/2026 h 07:00-16:00]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8683927,41.1125218,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00850
-RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA AMBO I LATI 
-VIA G. PETRONI DA VIA PAOLO LEMBO A VIA PASUBIO
-SCARIFICA, TAPPETO E RIFACIMENTO DELLA SEGNALETICA STRADALE.
-IMPRESA ESECUTRICE: APULIA TECHNOLOGY SRL
-09/03/2026 - 	09/05/2026 h 07:00-16:00</name>
-      <description><![CDATA[ORDINANZA 2026/00850<br><br>https://drive.google.com/file/d/1U6NpjAdMU-A6SWiXkZpjW8grc8lZWBew/view<br><br>LAVORI DI RISANAMENTO DEL SISTEMA FOGNARIO TRAMITE SOSTITUZIONE DELLE CONDOTTE VETUSTE E DEGLI ALLACCI, MIGLIORAMENTO DEGLI SCORRIMENTI E DELLA FUNZIONALITA’ DELL’OPERA COL FINE DI POTENZIARE E MIGLIORARE LA RETE FOGNARIA DI VIA G. PETRONI NEL TRATTO TRA LE VIE PAOLO LEMBO E VIA PASUBIO. RICHIESTA ORDINANZA RESTRINGIMENTO CARREGGIATA AL TRAFFICO VEICOLARE E DIVIETO DI SOSTA AMBO I LATI DAL GIORNO 09.03.2026 E PER 60 GIORNI NATURALI E CONSECUTIVI DALLE ORE 7:00 ALLE 16:00 PER SCARIFICA, TAPPETO E RIFACIMENTO DELLA SEGNALETICA STRADALE. COMMITTENTE : AQP SPA DITTA OPUS COSTRUZIONI S.P.A. DI POZZUOLI IMPRESA SUBAPPALTATRICE ED ESECUTRICE - APULIA TECHNOLOGY SRL<br><br><br>Durata e tempistiche: 09/03/2026 - 	09/05/2026 h 07:00-16:00]]></description>
-      <styleUrl>#line-E65100-4488</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8687591,41.1131118,0
-          16.8683497,41.112057,0
-          16.8680815,41.1109738,0
-          16.8679367,41.1103796,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>ORDINANZA 2026/00863
 DIVIETO DI SOSTA CON RIMOZIONE FORZATA E RESTRINGIMENTO DI CARREGGIATA
 VIA IMBRIANI 56/58 DA VIA BOZZI A VIA DENICOLO’
@@ -5282,43 +5270,6 @@ IMPRESA ESECUTRICE:OMNIA WORK SRL - POTENZA
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/01318
-DIVIETO DI SOSTA E DI FERMATA AMBO I LATI
-TRANSITO VEICOLARE CON SENSO UNICO ALTERNATO 
-RESTRINGIMENTO CARREGGIATA
-VIA PANTALEO CARABELLESE DAL CIV. 18 VIA TEN. F. SCO DE LIGUORI
-CONTROLLO RETI IDRICHE
-IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
-18/03/2026 - 15/05/2026</name>
-      <description><![CDATA[Ordinanza: 2026/01318<br><br>https://drive.google.com/file/d/1_7-cI99_s1Qw4oBtHdkiXcAQBVsTjCU1/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON TRANSITO VEICOLARE<br>CON SENSO UNICO ALTERNATO NONCHÈ RESTRINGIMENTO<br>CARREGGIATA IN VIA PANTALEO CARABELLESE (DA CIV. 18 IN PROSSIMITÀ<br>DELL’INGRESSO EUROSPIN A INTERSEZIONE CON VIA TEN. F. SCO DE<br>LIGUORI) E VIA TEN. F. SCO DE LIGUORI (DA INTERSEZIONE CON VIA<br>PANTALEO CARABELLESE SINO AL CIV. 25 DI VIA TEN. F. SCO DE LIGUORI<br>CIRCA) INCROCI COMPRESI, PER INTERVENTI MIRATI A CONSEGUIRE LA<br>DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL<br>MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E<br>SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI DAL GIORNO<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e tempistiche: 18/03/2026 - 15/05/2026]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.9069895,41.1072147,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/01318
-DIVIETO DI SOSTA E DI FERMATA AMBO I LATI
-TRANSITO VEICOLARE CON SENSO UNICO ALTERNATO 
-RESTRINGIMENTO CARREGGIATA
-VIA PANTALEO CARABELLESE DAL CIV. 18 VIA TEN. F. SCO DE LIGUORI
-CONTROLLO RETI IDRICHE
-IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
-18/03/2026 - 15/05/2026
-</name>
-      <description><![CDATA[Ordinanza: 2026/01318<br><br>https://drive.google.com/file/d/1_7-cI99_s1Qw4oBtHdkiXcAQBVsTjCU1/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON TRANSITO VEICOLARE<br>CON SENSO UNICO ALTERNATO NONCHÈ RESTRINGIMENTO<br>CARREGGIATA IN VIA PANTALEO CARABELLESE (DA CIV. 18 IN PROSSIMITÀ<br>DELL’INGRESSO EUROSPIN A INTERSEZIONE CON VIA TEN. F. SCO DE<br>LIGUORI) E VIA TEN. F. SCO DE LIGUORI (DA INTERSEZIONE CON VIA<br>PANTALEO CARABELLESE SINO AL CIV. 25 DI VIA TEN. F. SCO DE LIGUORI<br>CIRCA) INCROCI COMPRESI, PER INTERVENTI MIRATI A CONSEGUIRE LA<br>DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL<br>MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E<br>SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI DAL GIORNO<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e tempistiche: 18/03/2026 -  15/05/2026]]></description>
-      <styleUrl>#line-E65100-4488</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.9068876,41.107241,0
-          16.9078126,41.1086049,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>ORDINANZA 2026/01346
 RETTIFICA ORDINANZA N 2026/1316
 DIVIETO DI SOSTA E DI FERMATA AMBO I LATI E CHIUSURA AL TRANSITO VEICOLARE
@@ -5415,7 +5366,7 @@ REALIZZAZIONE AREA DI CANTIERE
 IMPRESA ESECUTRICE: VALLARELLA IMMOBILIARE S.R.L. 
 18/03/2026 - 28/05/2026 h 08:00-13:00
 </name>
-      <description><![CDATA[ORDINANZA 2026/02390 <br>https://drive.google.com/file/d/1x1BSsAcVHj-9MqGemsptCl2wWpF3YVyf/view<br><br>ISTITUZIONE TEMPORANEA DI DIVIETO DI TRANSITO VEICOLARE E<br>PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO SU VIA CILEA<br>DAL CIV. 2 AL CIV. 10/A PER OPERAZIONI DI CARICO E SCARICO MATERIALE<br>PER MONTAGGIO GRÙ DI CANTIERE PER I GIORNI 12 E 13/05/2026.<br>SOCIETÀ: VALLARELLA IMMOBILIARE S.R.L.<br>ISTANTE: VALLARELLA LUCA (AMMINISTRATORE UNICO DELLA<br>“VALLARELLA IMMOBILIARE S.R.L.”)<br><br><br>Durata e tempistiche:12/05/2026 - 13/05/2026<br><br>ORDINANZA 2026/01348 <br><br>https://drive.google.com/file/d/1MoRbVgM7VFMLzL1kHcfHwTIirNl7kgIj/view<br><br>ISTITUZIONE TEMPORANEA DI DIVIETO DI TRANSITO VEICOLARE E PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO SU VIA CILEA DAL CIV. 2 AL CIV. 10/A (ZONA SAN GIROLAMO) PER REALIZZAZIONE AREA DI CANTIERE PER OPERAZIONI DI GETTO CLS PER I GIORNI 18/19/03/2026 – 25-26/03/2026 – 01-02/04/2026 – 08-09/04/2026 – 15-16/04/2026 – 22-23/04/2026 – 29-30/04/2026 – 06-07/05/2026 -13-14/05/2026 – 20-21/05/2026 – 27-28/05/2026 DALLE ORE 08:00 ALLE ORE 13:00. SOCIETÀ: VALLARELLA IMMOBILIARE S.R.L. ISTANTE: VALLARELLA LUCA (AMMINISTRATORE UNICO DELLA “VALLARELLA IMMOBILIARE S.R.L.”) <br><br>nei giorni 18/19/03/2026 – 25-26/03/2026 – 01-02/04/2026 – 08-09/04/2026 – 15-16/04/2026 – 22 23/04/2026 – 29-30/04/2026 – 06-07/05/2026 -13-14/05/2026 – 20-21/05/2026 – 27- 28/05/2026 dalle ore 08:00 alle ore 13:00. <br><br><br>Durata e tempistiche: 18/03/2026 - 28/05/2026 h 08:00-13:00<br><br>2026/01191<br>https://drive.google.com/file/d/1F5eSttaSeu38uie3AzNzS9JctsJIDAvo/view <br><br>ISTITUZIONE TEMPORANEA DI DIVIETO DI TRANSITO VEICOLARE E<br>PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO SU VIA CILEA<br>DAL CIV. 2 AL CIV. 10/A PER REALIZZAZIONE AREA DI CANTIERE PER<br>OPERAZIONI DI GETTO CLS PER I GIORNI 11/12/03/2026 DALLE ORE 07:00<br>ALLE ORE 16:00.<br>SOCIETÀ: VALLARELLA IMMOBILIARE S.R.L.<br>ISTANTE: VALLARELLA LUCA (AMMINISTRATORE UNICO DELLA<br>“VALLARELLA IMMOBILIARE S.R.L.”)<br><br>1. La temporanea Istituzione del divieto di transito veicolare su via Cilea, nel tratto compreso tra il<br>civ. 2 e il civ. 10/A, eccetto frontisti, laddove la strada non è oggetto di occupazione;<br><br>2. La temporanea istituzione del divieto di sosta ambo i lati della via Cilea nel tratto di strada tra<br>il civ. 2 e il civ. 10/A;<br><br>3. La temporanea istituzione del senso unico alternato della via Cilea tratto tra il civ. 10/A e strada<br>San Girolamo, per consentire l’accesso/uscita dalla via Cilea, tratto percorribile durante<br>l’esecuzione dei lavori in narrativa;<br><br>4. Occorrerà interdire il transito dei pedoni nell’area di cantiere con particolare attenzione nella<br>zona sottostante il braccio operativo;<br><br>5. Durante l’esecuzione dei lavori, dovrà essere garantita la presenza di movieri dotati di idoneo<br>equipaggiamento che regolamenteranno la circolazione veicolare e pedonale;<br><br>6. Dovranno essere lasciati liberi gli accessi privati, regolamentando la circolazione veicolare<br>proveniente e diretta al Lungomare IX Maggio e proveniente e diretta su strada San Girolamo<br>nei tratti di via Cilea percorribili;<br><br>7. In particolare n. 2 movieri all’intersezione lungomare IX Maggio/via Cilea nonché al civ.10/A e<br>l’intersezione strada san Girolamo/via Cilea ovvero nel senso unico alternato che verrà<br>temporaneamente istituito;<br>8. Dovrà essere data indicazione della temporanea interdizione al transito veicolare della via Cilea,<br>all’intersezione Lungomare IX Maggio/via Donato Marrone;<br><br>9. Particolare attenzione dovrà essere posta al transito pedonale e alle persone con ridotte<br>capacità motorie;<br><br>10. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente<br>sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente<br>disposto;<br><br>DURATA E TEMPISTICHE: dal 11/03/2026 al 12/03/2026 dalle ore 07:00 alle ore 16:00]]></description>
+      <description><![CDATA[ORDINANZA 2026/02637<br>https://drive.google.com/file/d/1zIAmN4MvqWCjbSZbE0F3o9wgiscJuh_X/view<br><br>ISTITUZIONE TEMPORANEA DI DIVIETO DI TRANSITO VEICOLARE E DI<br>SOSTA SU VIA CILEA TRA IL CIV. 2 AL CIV. 10/A E UN SENSO UNICO<br>ALTERNATO SU VIA CILEA NEL TRATTO COMPRESO TRA IL CIV. 10/A E<br>L’INTERSEZIONE CON STRADA SAN GIROLAMO AL FINE DI CONSENTIRE<br>L’ACCESSO/USCITA DA VIA CILEA PER REALIZZAZIONE AREA DI CANTIERE<br>PER OPERAZIONI DI CARICO E SCARICO MATERIALI EDILI<br><br> PER I GIORNI: 01-03-05/06/2026 – 08-10-12/06/2026 – 15-17-19/06/2026 – 22-24-26/06/2026 –29/06/2026 – 01-03/07/2026. <br><br>ORDINANZA 2026/02390 <br>https://drive.google.com/file/d/1x1BSsAcVHj-9MqGemsptCl2wWpF3YVyf/view<br><br>ISTITUZIONE TEMPORANEA DI DIVIETO DI TRANSITO VEICOLARE E<br>PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO SU VIA CILEA<br>DAL CIV. 2 AL CIV. 10/A PER OPERAZIONI DI CARICO E SCARICO MATERIALE<br>PER MONTAGGIO GRÙ DI CANTIERE PER I GIORNI 12 E 13/05/2026.<br>SOCIETÀ: VALLARELLA IMMOBILIARE S.R.L.<br>ISTANTE: VALLARELLA LUCA (AMMINISTRATORE UNICO DELLA<br>“VALLARELLA IMMOBILIARE S.R.L.”)<br><br><br>Durata e tempistiche:12/05/2026 - 13/05/2026<br><br>ORDINANZA 2026/01348 <br><br>https://drive.google.com/file/d/1MoRbVgM7VFMLzL1kHcfHwTIirNl7kgIj/view<br><br>ISTITUZIONE TEMPORANEA DI DIVIETO DI TRANSITO VEICOLARE E PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO SU VIA CILEA DAL CIV. 2 AL CIV. 10/A (ZONA SAN GIROLAMO) PER REALIZZAZIONE AREA DI CANTIERE PER OPERAZIONI DI GETTO CLS PER I GIORNI 18/19/03/2026 – 25-26/03/2026 – 01-02/04/2026 – 08-09/04/2026 – 15-16/04/2026 – 22-23/04/2026 – 29-30/04/2026 – 06-07/05/2026 -13-14/05/2026 – 20-21/05/2026 – 27-28/05/2026 DALLE ORE 08:00 ALLE ORE 13:00. SOCIETÀ: VALLARELLA IMMOBILIARE S.R.L. ISTANTE: VALLARELLA LUCA (AMMINISTRATORE UNICO DELLA “VALLARELLA IMMOBILIARE S.R.L.”) <br><br>nei giorni 18/19/03/2026 – 25-26/03/2026 – 01-02/04/2026 – 08-09/04/2026 – 15-16/04/2026 – 22 23/04/2026 – 29-30/04/2026 – 06-07/05/2026 -13-14/05/2026 – 20-21/05/2026 – 27- 28/05/2026 dalle ore 08:00 alle ore 13:00. <br><br><br>Durata e tempistiche: 18/03/2026 - 28/05/2026 h 08:00-13:00<br><br>2026/01191<br>https://drive.google.com/file/d/1F5eSttaSeu38uie3AzNzS9JctsJIDAvo/view <br><br>ISTITUZIONE TEMPORANEA DI DIVIETO DI TRANSITO VEICOLARE E<br>PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO SU VIA CILEA<br>DAL CIV. 2 AL CIV. 10/A PER REALIZZAZIONE AREA DI CANTIERE PER<br>OPERAZIONI DI GETTO CLS PER I GIORNI 11/12/03/2026 DALLE ORE 07:00<br>ALLE ORE 16:00.<br>SOCIETÀ: VALLARELLA IMMOBILIARE S.R.L.<br>ISTANTE: VALLARELLA LUCA (AMMINISTRATORE UNICO DELLA<br>“VALLARELLA IMMOBILIARE S.R.L.”)<br><br>1. La temporanea Istituzione del divieto di transito veicolare su via Cilea, nel tratto compreso tra il<br>civ. 2 e il civ. 10/A, eccetto frontisti, laddove la strada non è oggetto di occupazione;<br><br>2. La temporanea istituzione del divieto di sosta ambo i lati della via Cilea nel tratto di strada tra<br>il civ. 2 e il civ. 10/A;<br><br>3. La temporanea istituzione del senso unico alternato della via Cilea tratto tra il civ. 10/A e strada<br>San Girolamo, per consentire l’accesso/uscita dalla via Cilea, tratto percorribile durante<br>l’esecuzione dei lavori in narrativa;<br><br>4. Occorrerà interdire il transito dei pedoni nell’area di cantiere con particolare attenzione nella<br>zona sottostante il braccio operativo;<br><br>5. Durante l’esecuzione dei lavori, dovrà essere garantita la presenza di movieri dotati di idoneo<br>equipaggiamento che regolamenteranno la circolazione veicolare e pedonale;<br><br>6. Dovranno essere lasciati liberi gli accessi privati, regolamentando la circolazione veicolare<br>proveniente e diretta al Lungomare IX Maggio e proveniente e diretta su strada San Girolamo<br>nei tratti di via Cilea percorribili;<br><br>7. In particolare n. 2 movieri all’intersezione lungomare IX Maggio/via Cilea nonché al civ.10/A e<br>l’intersezione strada san Girolamo/via Cilea ovvero nel senso unico alternato che verrà<br>temporaneamente istituito;<br>8. Dovrà essere data indicazione della temporanea interdizione al transito veicolare della via Cilea,<br>all’intersezione Lungomare IX Maggio/via Donato Marrone;]]></description>
       <styleUrl>#line-E65100-4681</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -6042,45 +5993,6 @@ IMPRESA ESECUTRICE:DMF COSTRUZIONI S.R.L.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/01474
-RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI SOSTA AMBO I LATI
-VIA ALESSANDRO MANZONI TRA VIA D. NICOLAI E P.ZZA GARIBALDI
-ATTIVITÀ DI SCARIFICA
-IMPRESA ESECUTRICE:RETEGAS BARI S.P.A. – BARI.
-01/04/2026 - 07/05/2026</name>
-      <description><![CDATA[Ordinanza: 2026/01474<br><br>https://drive.google.com/file/d/1iYjriXL2NwpneuwrAHzOKyGgWfKIYKnO/view?usp=drive_open<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E<br>DEL DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI PER<br>ATTIVITÀ DI SCARIFICA, ASFALTO E SEGNALETICA ORIZZONTALE,<br>NECESSARIE AL COMPLETAMENTO DEI LAVORI OGGETTO DI INTERVENTO<br>SU VIA ALESSANDRO MANZONI TRATTO COMPRESO TRA VIA DOMENICO<br>NICOLAI E PIAZZA GARIBALDI D<br>RICHIEDENTE: RETEGAS BARI S.P.A. – BARI.<br>IMPRESA FAP S.R.L.<br><br>Durata e Tempistiche: 01/04/2026 - 07/05/2026<br>(15 GIORNI PER CIASCUN<br>TRATTO)]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8609173,41.1250041,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name><![CDATA[ORDINANZA 2026/01467
-RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA AMBO I LATI
-VIA GOFFREDO MAMELI DA VIA CANIO MUSACCHIO A VIA GOFFREDO MAMELI 6/C
-VIA FABIO FILZI DA VIA FABIO FILZI 10 A PIAZZA ANTONIO GRAMSCI
-LAVORI DI SCAVO PER POSA IMPIANTI SU SEDE STRADALE 
-IMPRESA ESECUTRICE: PATANO IMPIANTI & COSTRUZIONI S.R.L
-30/03/2026 - 29/05/2026 07:30-18:30
-]]></name>
-      <description><![CDATA[ORDINANZA 2026/01467<br><br>https://drive.google.com/file/d/1gDa6CzV8g0Gn-ke-WjAPuKQ89gQ1WOBL/view<br><br>ISTITUZIONE TEMPORANEA RESTRINGIMENTO CARREGGIATA, DIVIETO DI SOSTA AMBO I LATI IN VIA GOFFREDO MAMELI DA VIA CANIO MUSACCHIO FINO VIA GOFFREDO MAMELI CIVICO 6/C , VIA FABIO FILZI DA VIA FABIO FILZI CIVICO 10 FINO PIAZZA ANTONIO GRAMSCI PER LAVORI DI SCAVO PER POSA IMPIANTI SU SEDE STRADALE DAL 30/03/2026 AL 29/05/2026 DALLE ORE 07:30 ALLE ORE 18:30. IMPRESA: PATANO IMPIANTI & COSTRUZIONI S.R.L.<br><br>Durata e tempistiche: 30/03/2026 - 29/05/2026 07:30-18:30]]></description>
-      <styleUrl>#line-E65100-3131</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8913806,41.1170088,0
-          16.8904258,41.1172533,0
-          16.8907423,41.1178242,0
-          16.8904218,41.1172543,0
-          16.8902957,41.1169219,0
-          16.8904204,41.1172523,0
-          16.8899819,41.1173806,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>ORDINANZA 2026/01469
 DIVIETO DI SOSTA E DI FERMATA AMBO I LATI, SENSO UNICO ALTERNATO E RESTRINGIMENTO CARREGGIATA
 VIA BARI DA VIA NIZZA A STRADA SCIZZE 
@@ -6092,57 +6004,6 @@ IMPRESA ESECUTRICE:ACCIONA AGUA S.A.
       <Point>
         <coordinates>
           16.9889844,41.0870771,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/01488
-DIVIETO DI TRANSITO, DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI
-VIA CILEA CIV. 23 TRA IL LUNGOMARE IX MAGGIO E STRADA SAN GIROLAMO,
-LAVORI RETI IDRICHE AQP S.P.A.
-IMPRESA ESECUTRICE:IMPRESA INDIVIDUALE “FRISULLO LUIGI”
-13/04/2026 - 30/04/2026</name>
-      <description><![CDATA[Ordinanza: 2026/01488<br><br>https://drive.google.com/file/d/1-hmOspkJRttb1I0F0OU66okTAQqhxAW2/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO, DI SOSTA CON<br>RIMOZIONE FORZATA AMBO I LATI SU VIA CILEA CIV. 23 TRATTO TRA IL<br>LUNGOMARE IX MAGGIO E STRADA SAN GIROLAMO, PER LAVORI DI<br>COSTRUZIONE IMPIANTO IDRICO E FOGNARIO <br>IMPRESA: IMPRESA INDIVIDUALE “FRISULLO LUIGI”<br>ISTANTE: AQP S.P.A.<br><br>Durata e Tempistiche: 13/04/2026 - 30/04/2026.]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8257803,41.1373347,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/01474
-RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI SOSTA AMBO I LATI
-VIA ALESSANDRO MANZONI TRA VIA D. NICOLAI E P.ZZA GARIBALDI
-ATTIVITÀ DI SCARIFICA
-IMPRESA ESECUTRICE:RETEGAS BARI S.P.A. – BARI.
-01/04/2026 - 07/05/2026</name>
-      <description><![CDATA[Ordinanza: 2026/01474<br><br>https://drive.google.com/file/d/1iYjriXL2NwpneuwrAHzOKyGgWfKIYKnO/view?usp=drive_open<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E<br>DEL DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI PER<br>ATTIVITÀ DI SCARIFICA, ASFALTO E SEGNALETICA ORIZZONTALE,<br>NECESSARIE AL COMPLETAMENTO DEI LAVORI OGGETTO DI INTERVENTO<br>SU VIA ALESSANDRO MANZONI TRATTO COMPRESO TRA VIA DOMENICO<br>NICOLAI E PIAZZA GARIBALDI D<br>RICHIEDENTE: RETEGAS BARI S.P.A. – BARI.<br>IMPRESA FAP S.R.L.<br><br>Durata e Tempistiche: 01/04/2026 - 07/05/2026<br>(15 GIORNI PER CIASCUN<br>TRATTO)]]></description>
-      <styleUrl>#line-E65100-4294</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.860838,41.125017,0
-          16.8609431,41.123873,0
-          16.8611523,41.1220061,0
-          16.8612221,41.1208624,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name><![CDATA[ORDINANZA 2026/01467
-RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA AMBO I LATI
-VIA GOFFREDO MAMELI DA VIA CANIO MUSACCHIO A VIA GOFFREDO MAMELI 6/C
-VIA FABIO FILZI DA VIA FABIO FILZI 10 A PIAZZA ANTONIO GRAMSCI
-LAVORI DI SCAVO PER POSA IMPIANTI SU SEDE STRADALE 
-IMPRESA ESECUTRICE: PATANO IMPIANTI & COSTRUZIONI S.R.L
-30/03/2026 - 29/05/2026 07:30-18:30
-]]></name>
-      <description><![CDATA[ORDINANZA 2026/01467<br><br>https://drive.google.com/file/d/1gDa6CzV8g0Gn-ke-WjAPuKQ89gQ1WOBL/view<br><br>ISTITUZIONE TEMPORANEA RESTRINGIMENTO CARREGGIATA, DIVIETO DI SOSTA AMBO I LATI IN VIA GOFFREDO MAMELI DA VIA CANIO MUSACCHIO FINO VIA GOFFREDO MAMELI CIVICO 6/C , VIA FABIO FILZI DA VIA FABIO FILZI CIVICO 10 FINO PIAZZA ANTONIO GRAMSCI PER LAVORI DI SCAVO PER POSA IMPIANTI SU SEDE STRADALE DAL 30/03/2026 AL 29/05/2026 DALLE ORE 07:30 ALLE ORE 18:30. IMPRESA: PATANO IMPIANTI & COSTRUZIONI S.R.L.<br><br>Durata e tempistiche: 30/03/2026 - 29/05/2026 07:30-18:30]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8903775,41.1172897,0
         </coordinates>
       </Point>
     </Placemark>
@@ -6174,6 +6035,21 @@ VIA CILEA CIV. 23 TRA IL LUNGOMARE IX MAGGIO E STRADA SAN GIROLAMO,
 LAVORI RETI IDRICHE AQP S.P.A.
 IMPRESA ESECUTRICE:IMPRESA INDIVIDUALE “FRISULLO LUIGI”
 13/04/2026 - 30/04/2026</name>
+      <description><![CDATA[Ordinanza: 2026/01488<br><br>https://drive.google.com/file/d/1-hmOspkJRttb1I0F0OU66okTAQqhxAW2/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO, DI SOSTA CON<br>RIMOZIONE FORZATA AMBO I LATI SU VIA CILEA CIV. 23 TRATTO TRA IL<br>LUNGOMARE IX MAGGIO E STRADA SAN GIROLAMO, PER LAVORI DI<br>COSTRUZIONE IMPIANTO IDRICO E FOGNARIO <br>IMPRESA: IMPRESA INDIVIDUALE “FRISULLO LUIGI”<br>ISTANTE: AQP S.P.A.<br><br>Durata e Tempistiche: 13/04/2026 - 30/04/2026.]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8257803,41.1373347,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01488
+DIVIETO DI TRANSITO, DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI
+VIA CILEA CIV. 23 TRA IL LUNGOMARE IX MAGGIO E STRADA SAN GIROLAMO,
+LAVORI RETI IDRICHE AQP S.P.A.
+IMPRESA ESECUTRICE:IMPRESA INDIVIDUALE “FRISULLO LUIGI”
+13/04/2026 - 30/04/2026</name>
       <description><![CDATA[Ordinanza: 2026/01488<br><br>https://drive.google.com/file/d/1-hmOspkJRttb1I0F0OU66okTAQqhxAW2/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO, DI SOSTA CON<br>RIMOZIONE FORZATA AMBO I LATI SU VIA CILEA CIV. 23 TRATTO TRA IL<br>LUNGOMARE IX MAGGIO E STRADA SAN GIROLAMO, PER LAVORI DI<br>COSTRUZIONE IMPIANTO IDRICO E FOGNARIO <br>IMPRESA: IMPRESA INDIVIDUALE “FRISULLO LUIGI”<br>ISTANTE: AQP S.P.A.<br><br>Durata e Tempistiche: 13/04/2026 - 30/04/2026.]]></description>
       <styleUrl>#line-E65100-4488</styleUrl>
       <LineString>
@@ -6185,21 +6061,43 @@ IMPRESA ESECUTRICE:IMPRESA INDIVIDUALE “FRISULLO LUIGI”
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/01479
-DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON TRANSITO VEICOLARE
-CON SENSO UNICO ALTERNATO E RESTRINGIMENTO CARREGGIATA 
-VIA GENTILE DA CIV. 1 FINO ALL’INGRESSO DELLA REGIONE PUGLIA INCROCI COMPRESI 
-LAVORI RETI IDRICHE
-IMPRESA ESECUTRICE:ACCIONA AGUA S.A.
-30/03/2026 - 31/05/2026</name>
-      <description><![CDATA[Ordinanza: 2026/01479<br><br>https://drive.google.com/file/d/1NJSdtgBqnl3kUV44i0DVjbTr6YUBS_AZ/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON TRANSITO VEICOLARE<br>CON SENSO UNICO ALTERNATO NONCHÈ RESTRINGIMENTO<br>CARREGGIATA SU VIA GENTILE DA CIV. 1 FINO ALL’INGRESSO DELLA<br>REGIONE PUGLIA INCROCI COMPRESI, PER INTERVENTI MIRATI A<br>CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br><br>Durata e Tempistiche: 30/03/2026 - 31/05/2026]]></description>
-      <styleUrl>#line-E65100-4294</styleUrl>
+      <name><![CDATA[ORDINANZA 2026/01467
+RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA AMBO I LATI
+VIA GOFFREDO MAMELI DA VIA CANIO MUSACCHIO A VIA GOFFREDO MAMELI 6/C
+VIA FABIO FILZI DA VIA FABIO FILZI 10 A PIAZZA ANTONIO GRAMSCI
+LAVORI DI SCAVO PER POSA IMPIANTI SU SEDE STRADALE 
+IMPRESA ESECUTRICE: PATANO IMPIANTI & COSTRUZIONI S.R.L
+30/03/2026 - 29/05/2026 07:30-18:30
+]]></name>
+      <description><![CDATA[ORDINANZA 2026/01467<br><br>https://drive.google.com/file/d/1gDa6CzV8g0Gn-ke-WjAPuKQ89gQ1WOBL/view<br><br>ISTITUZIONE TEMPORANEA RESTRINGIMENTO CARREGGIATA, DIVIETO DI SOSTA AMBO I LATI IN VIA GOFFREDO MAMELI DA VIA CANIO MUSACCHIO FINO VIA GOFFREDO MAMELI CIVICO 6/C , VIA FABIO FILZI DA VIA FABIO FILZI CIVICO 10 FINO PIAZZA ANTONIO GRAMSCI PER LAVORI DI SCAVO PER POSA IMPIANTI SU SEDE STRADALE DAL 30/03/2026 AL 29/05/2026 DALLE ORE 07:30 ALLE ORE 18:30. IMPRESA: PATANO IMPIANTI & COSTRUZIONI S.R.L.<br><br>Durata e tempistiche: 30/03/2026 - 29/05/2026 07:30-18:30]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8903775,41.1172897,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ORDINANZA 2026/01467
+RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA AMBO I LATI
+VIA GOFFREDO MAMELI DA VIA CANIO MUSACCHIO A VIA GOFFREDO MAMELI 6/C
+VIA FABIO FILZI DA VIA FABIO FILZI 10 A PIAZZA ANTONIO GRAMSCI
+LAVORI DI SCAVO PER POSA IMPIANTI SU SEDE STRADALE 
+IMPRESA ESECUTRICE: PATANO IMPIANTI & COSTRUZIONI S.R.L
+30/03/2026 - 29/05/2026 07:30-18:30
+]]></name>
+      <description><![CDATA[ORDINANZA 2026/01467<br><br>https://drive.google.com/file/d/1gDa6CzV8g0Gn-ke-WjAPuKQ89gQ1WOBL/view<br><br>ISTITUZIONE TEMPORANEA RESTRINGIMENTO CARREGGIATA, DIVIETO DI SOSTA AMBO I LATI IN VIA GOFFREDO MAMELI DA VIA CANIO MUSACCHIO FINO VIA GOFFREDO MAMELI CIVICO 6/C , VIA FABIO FILZI DA VIA FABIO FILZI CIVICO 10 FINO PIAZZA ANTONIO GRAMSCI PER LAVORI DI SCAVO PER POSA IMPIANTI SU SEDE STRADALE DAL 30/03/2026 AL 29/05/2026 DALLE ORE 07:30 ALLE ORE 18:30. IMPRESA: PATANO IMPIANTI & COSTRUZIONI S.R.L.<br><br>Durata e tempistiche: 30/03/2026 - 29/05/2026 07:30-18:30]]></description>
+      <styleUrl>#line-E65100-3131</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          16.9258371,41.1024573,0
-          16.9204834,41.1045229,0
-          16.9112405,41.1081082,0
+          16.8913806,41.1170088,0
+          16.8904258,41.1172533,0
+          16.8907423,41.1178242,0
+          16.8904218,41.1172543,0
+          16.8902957,41.1169219,0
+          16.8904204,41.1172523,0
+          16.8899819,41.1173806,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -6221,20 +6119,21 @@ IMPRESA ESECUTRICE:ACCIONA AGUA S.A.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/01478
-DIVIETO DI SOSTA E DI FERMATA AMBO I LATI
-VIA FRANSVEA DA VIALE TRISORIO LIUZZI A FINE VIA PIETRO FRANSVEA 
+      <name>ORDINANZA 2026/01479
+DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON TRANSITO VEICOLARE
+CON SENSO UNICO ALTERNATO E RESTRINGIMENTO CARREGGIATA 
+VIA GENTILE DA CIV. 1 FINO ALL’INGRESSO DELLA REGIONE PUGLIA INCROCI COMPRESI 
 LAVORI RETI IDRICHE
 IMPRESA ESECUTRICE:ACCIONA AGUA S.A.
 30/03/2026 - 31/05/2026</name>
-      <description><![CDATA[Ordinanza: 2026/01478<br><br>https://drive.google.com/file/d/1V1VfRzW2YOy2fcYydTLTGTyrFTXOJIBA/view<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA, DI FERMATA AMBO I LATI SU VIA FRANSVEA DA INTERSEZIONE<br>CON VIALE TRISORIO LIUZZI A FINE STRADA DI VIA PIETRO FRANSVEA,<br>INCROCI COMPRESI, PER IL CONTROLLO DELLE PRESSIONI ED IL<br>MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E<br>SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI <br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e Tempistiche: 30/03/2026 - 31/05/2026.]]></description>
-      <styleUrl>#line-E65100-3325</styleUrl>
+      <description><![CDATA[Ordinanza: 2026/01479<br><br>https://drive.google.com/file/d/1NJSdtgBqnl3kUV44i0DVjbTr6YUBS_AZ/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON TRANSITO VEICOLARE<br>CON SENSO UNICO ALTERNATO NONCHÈ RESTRINGIMENTO<br>CARREGGIATA SU VIA GENTILE DA CIV. 1 FINO ALL’INGRESSO DELLA<br>REGIONE PUGLIA INCROCI COMPRESI, PER INTERVENTI MIRATI A<br>CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br><br>Durata e Tempistiche: 30/03/2026 - 31/05/2026]]></description>
+      <styleUrl>#line-E65100-4294</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          16.8639645,41.0825646,0
-          16.8625161,41.0826313,0
-          16.8624008,41.0819863,0
+          16.9258371,41.1024573,0
+          16.9204834,41.1045229,0
+          16.9112405,41.1081082,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -6254,51 +6153,20 @@ IMPRESA ESECUTRICE:ACCIONA AGUA S.A.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/01483
-DIVIETO DI SOSTA AMBO I LATI E DOPPIO SENSO DI MARCIA
-VIA CORTICELLI
-LAVORI DI RISANAMENTO DELLA PAVIMENTAZIONE STRADALE SU VIA GORIZIA
-IMPRESA ESECUTRICE:SIMEONE S.P.A.
-30/03/2026 - 30/04/2026</name>
-      <description><![CDATA[ORDINANZA 2026/01483<br><br>https://drive.google.com/file/d/1FsJDPmHevJvGCf2uJZC0ia3HZKbayQ8C/view<br><br>P1472 ORDINANZA PER TEMPORANEA ISTITUZIONE DEL DIVIETO DI SOSTA<br>AMBO I LATI SU VIA CORTICELLI CHE DIVENTA A DOPPIO SENSO DI MARCIA<br>PER LAVORI DI RISANAMENTO DELLA PAVIMENTAZIONE STRADALE CON<br>TAPPETINO D’USURA SU VIA GORIZIA DA ATTRAVERSAMENTO<br>FERROVIARIO KM 4+ 284 (VIA TERMOPILI) A VIA POMPEO<br><br>Nello specifico:<br><br>FASE 1: (durata max 7 giorni lavorativi): da attraversamento Ferroviario Km 4+284 (via<br>Termopili) a via Pompeo. Istituzione del divieto di sosta ambo i lati su via Corticelli.<br>In questa fase i residenti delle strade afferenti a via Gorizia (da via Pompeo a via Umberto I) potranno<br>accedere alle loro abitazioni 24h/24h, mentre i frontisti della zona direttamente interessata<br>dall’occupazione del cantiere dovranno liberare i box prima delle ore 07:00 (orario di inizio dei lavori) al<br>fine di evitare impedimenti. Durante la fase i veicoli provenienti da via Umberto I, non potendo accedere<br>a via Gorizia, dovranno spostarsi su via Corticelli che diventa a doppio senso di marcia.<br><br>SOCIETÀ:SIMEONE S.P.A.<br><br>Durata e Tempistiche: 30/03/2026 - 30/04/2026 DALLE ORE 07:00 ALLE ORE 08:00.]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.871184,41.063278,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/01483
-DIVIETO DI SOSTA AMBO I LATI E DOPPIO SENSO DI MARCIA
-VIA CORTICELLI
-LAVORI DI RISANAMENTO DELLA PAVIMENTAZIONE STRADALE SU VIA GORIZIA
-IMPRESA ESECUTRICE:SIMEONE S.P.A.
-30/03/2026 - 30/04/2026</name>
-      <description><![CDATA[ORDINANZA 2026/01483<br><br>https://drive.google.com/file/d/1FsJDPmHevJvGCf2uJZC0ia3HZKbayQ8C/view<br><br>P1472 ORDINANZA PER TEMPORANEA ISTITUZIONE DEL DIVIETO DI SOSTA<br>AMBO I LATI SU VIA CORTICELLI CHE DIVENTA A DOPPIO SENSO DI MARCIA<br>PER LAVORI DI RISANAMENTO DELLA PAVIMENTAZIONE STRADALE CON<br>TAPPETINO D’USURA SU VIA GORIZIA DA ATTRAVERSAMENTO<br>FERROVIARIO KM 4+ 284 (VIA TERMOPILI) A VIA POMPEO <br><br>Nello specifico: <br><br>FASE 1: (durata max 7 giorni lavorativi): da attraversamento Ferroviario Km 4+284 (via<br>Termopili) a via Pompeo. Istituzione del divieto di sosta ambo i lati su via Corticelli.<br>In questa fase i residenti delle strade afferenti a via Gorizia (da via Pompeo a via Umberto I) potranno<br>accedere alle loro abitazioni 24h/24h, mentre i frontisti della zona direttamente interessata<br>dall’occupazione del cantiere dovranno liberare i box prima delle ore 07:00 (orario di inizio dei lavori) al<br>fine di evitare impedimenti. Durante la fase i veicoli provenienti da via Umberto I, non potendo accedere<br>a via Gorizia, dovranno spostarsi su via Corticelli che diventa a doppio senso di marcia.<br><br>SOCIETÀ:SIMEONE S.P.A.<br><br>Durata e Tempistiche: 30/03/2026 - 30/04/2026 DALLE ORE 07:00 ALLE ORE 08:00.]]></description>
-      <styleUrl>#line-E65100-4100</styleUrl>
+      <name>ORDINANZA 2026/01478
+DIVIETO DI SOSTA E DI FERMATA AMBO I LATI
+VIA FRANSVEA DA VIALE TRISORIO LIUZZI A FINE VIA PIETRO FRANSVEA 
+LAVORI RETI IDRICHE
+IMPRESA ESECUTRICE:ACCIONA AGUA S.A.
+30/03/2026 - 31/05/2026</name>
+      <description><![CDATA[Ordinanza: 2026/01478<br><br>https://drive.google.com/file/d/1V1VfRzW2YOy2fcYydTLTGTyrFTXOJIBA/view<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA, DI FERMATA AMBO I LATI SU VIA FRANSVEA DA INTERSEZIONE<br>CON VIALE TRISORIO LIUZZI A FINE STRADA DI VIA PIETRO FRANSVEA,<br>INCROCI COMPRESI, PER IL CONTROLLO DELLE PRESSIONI ED IL<br>MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E<br>SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI <br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e Tempistiche: 30/03/2026 - 31/05/2026.]]></description>
+      <styleUrl>#line-E65100-3325</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          16.8700489,41.0642604,0
-          16.8704888,41.0643018,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/01483
-DIVIETO DI SOSTA AMBO I LATI E DOPPIO SENSO DI MARCIA
-VIA CORTICELLI
-LAVORI DI RISANAMENTO DELLA PAVIMENTAZIONE STRADALE SU VIA GORIZIA
-IMPRESA ESECUTRICE:SIMEONE S.P.A.
-30/03/2026 - 30/04/2026</name>
-      <description><![CDATA[ORDINANZA 2026/01483<br><br>https://drive.google.com/file/d/1FsJDPmHevJvGCf2uJZC0ia3HZKbayQ8C/view<br><br>P1472 ORDINANZA PER TEMPORANEA ISTITUZIONE DEL DIVIETO DI SOSTA<br>AMBO I LATI SU VIA CORTICELLI CHE DIVENTA A DOPPIO SENSO DI MARCIA<br>PER LAVORI DI RISANAMENTO DELLA PAVIMENTAZIONE STRADALE CON<br>TAPPETINO D’USURA SU VIA GORIZIA DA ATTRAVERSAMENTO<br>FERROVIARIO KM 4+ 284 (VIA TERMOPILI) A VIA POMPEO <br><br>Nello specifico:<br><br>FASE 1: (durata max 7 giorni lavorativi): da attraversamento Ferroviario Km 4+284 (via<br>Termopili) a via Pompeo. Istituzione del divieto di sosta ambo i lati su via Corticelli.<br>In questa fase i residenti delle strade afferenti a via Gorizia (da via Pompeo a via Umberto I) potranno<br>accedere alle loro abitazioni 24h/24h, mentre i frontisti della zona direttamente interessata<br>dall’occupazione del cantiere dovranno liberare i box prima delle ore 07:00 (orario di inizio dei lavori) al<br>fine di evitare impedimenti. Durante la fase i veicoli provenienti da via Umberto I, non potendo accedere<br>a via Gorizia, dovranno spostarsi su via Corticelli che diventa a doppio senso di marcia.<br><br>SOCIETÀ:SIMEONE S.P.A.<br><br>Durata e Tempistiche: 30/03/2026 - 30/04/2026 DALLE ORE 07:00 ALLE ORE 08:00.]]></description>
-      <styleUrl>#line-E65100-4100</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8693472,41.0612475,0
-          16.8731453,41.0615469,0
+          16.8639645,41.0825646,0
+          16.8625161,41.0826313,0
+          16.8624008,41.0819863,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -7291,14 +7159,14 @@ IMPRESA ESECUTRICE: “FRISULLO LUIGI” ISTANTE: AQP S.P.A.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/01967
+      <name>ORDINANZA 2026/02626
 DIVIETO DI SOSTA
 PIAZZA ALDO MORO CIV 31(AREA PEDONALE) TRATTO COMPRESO TRA PIAZZA MORO E VIA MELO 
 POSIZIONAMENTO AUTOSCALA
 RICHIEDENTE: SIG. DE SANTIS_CO.I.S.A. SRL
-23/04/2026 - 23/05/2026
+23/05/2026 - 23/06/2026
 </name>
-      <description><![CDATA[ORDINANZA 2026/01967<br><br>https://drive.google.com/file/d/1Y247h8NFkJEPWy_hsbWNaeS73nDcbgr2/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA SU PIAZZA ALDO MORO CIV 31(AREA PEDONALE) TRATTO COMPRESO TRA PIAZZA MORO E VIA MELO E DEROGA AL DIVIETO DI SOSTA PER I MEZZI AL SERVIZIO DEL SIG. DE SANTIS_CO.I.S.A. SRL PER POSIZIONAMENTO AUTOSCALA DAL 23/04/2026 AL 23/05/2026_ RICHIEDENTE: SIG. DE SANTIS_CO.I.S.A. SRL<br><br> 1. 23/04/2026 al 23/05/2026 L’istituzione temporanea del divieto di sosta su Piazza Aldo Moro civ 31(area<br>pedonale) tratto compreso tra piazza Moro e via Melo.<br>2. La deroga al divieto di cui al punto 1. per i mezzi di servizio del Sig. DE SANTIS_CO.I.S.A. SRL.<br>3. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto<br><br>Durata e tempistiche: 23/04/2026 - 23/05/2026]]></description>
+      <description><![CDATA[ORDINANZA 2026/02626 <br>https://drive.google.com/file/d/1AdLZFu1dKl4_zpJ6xvylycrIE3L9pcDh/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA SU PIAZZA ALDO MORO CIV 31(AREA PEDONALE) TRATTO COMPRESO TRA PIAZZA MORO E VIA MELO E DEROGA AL DIVIETO DI SOSTA PER I MEZZI AL SERVIZIO DEL SIG. DE SANTIS_CO.I.S.A. SRL PER POSIZIONAMENTO AUTOSCALA SINO AL 23/06/2026_ RICHIEDENTE: SIG. DE SANTIS_CO.I.S.A. SRL <br><br><br>Durata e tempistiche: 23/05/2026 - 23/06/2026<br><br>ORDINANZA 2026/01967<br><br>https://drive.google.com/file/d/1Y247h8NFkJEPWy_hsbWNaeS73nDcbgr2/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA SU PIAZZA ALDO MORO CIV 31(AREA PEDONALE) TRATTO COMPRESO TRA PIAZZA MORO E VIA MELO E DEROGA AL DIVIETO DI SOSTA PER I MEZZI AL SERVIZIO DEL SIG. DE SANTIS_CO.I.S.A. SRL PER POSIZIONAMENTO AUTOSCALA DAL 23/04/2026 AL 23/05/2026_ RICHIEDENTE: SIG. DE SANTIS_CO.I.S.A. SRL<br><br> 1. 23/04/2026 al 23/05/2026 L’istituzione temporanea del divieto di sosta su Piazza Aldo Moro civ 31(area<br>pedonale) tratto compreso tra piazza Moro e via Melo.<br>2. La deroga al divieto di cui al punto 1. per i mezzi di servizio del Sig. DE SANTIS_CO.I.S.A. SRL.<br>3. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto<br><br>Durata e tempistiche: 23/04/2026 - 23/05/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -7307,14 +7175,14 @@ RICHIEDENTE: SIG. DE SANTIS_CO.I.S.A. SRL
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/01967
+      <name>ORDINANZA 2026/02626
 DIVIETO DI SOSTA
 PIAZZA ALDO MORO CIV 31(AREA PEDONALE) TRATTO COMPRESO TRA PIAZZA MORO E VIA MELO 
 POSIZIONAMENTO AUTOSCALA
 RICHIEDENTE: SIG. DE SANTIS_CO.I.S.A. SRL
-23/04/2026 - 23/05/2026
+23/05/2026 - 23/06/2026
 </name>
-      <description><![CDATA[ORDINANZA 2026/01967<br><br>https://drive.google.com/file/d/1Y247h8NFkJEPWy_hsbWNaeS73nDcbgr2/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA SU PIAZZA ALDO MORO CIV 31(AREA PEDONALE) TRATTO COMPRESO TRA PIAZZA MORO E VIA MELO E DEROGA AL DIVIETO DI SOSTA PER I MEZZI AL SERVIZIO DEL SIG. DE SANTIS_CO.I.S.A. SRL PER POSIZIONAMENTO AUTOSCALA DAL 23/04/2026 AL 23/05/2026_ RICHIEDENTE: SIG. DE SANTIS_CO.I.S.A. SRL <br><br>1. 23/04/2026 al 23/05/2026 L’istituzione temporanea del divieto di sosta su Piazza Aldo Moro civ 31(area<br>pedonale) tratto compreso tra piazza Moro e via Melo.<br>2. La deroga al divieto di cui al punto 1. per i mezzi di servizio del Sig. DE SANTIS_CO.I.S.A. SRL.<br>3. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto<br><br>Durata e tempistiche: 23/04/2026 - 23/05/2026]]></description>
+      <description><![CDATA[ORDINANZA 2026/02626 <br>https://drive.google.com/file/d/1AdLZFu1dKl4_zpJ6xvylycrIE3L9pcDh/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA SU PIAZZA ALDO MORO CIV 31(AREA PEDONALE) TRATTO COMPRESO TRA PIAZZA MORO E VIA MELO E DEROGA AL DIVIETO DI SOSTA PER I MEZZI AL SERVIZIO DEL SIG. DE SANTIS_CO.I.S.A. SRL PER POSIZIONAMENTO AUTOSCALA SINO AL 23/06/2026_ RICHIEDENTE: SIG. DE SANTIS_CO.I.S.A. SRL <br><br><br>Durata e tempistiche: 23/05/2026 - 23/06/2026<br><br>ORDINANZA 2026/01967<br><br>https://drive.google.com/file/d/1Y247h8NFkJEPWy_hsbWNaeS73nDcbgr2/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA SU PIAZZA ALDO MORO CIV 31(AREA PEDONALE) TRATTO COMPRESO TRA PIAZZA MORO E VIA MELO E DEROGA AL DIVIETO DI SOSTA PER I MEZZI AL SERVIZIO DEL SIG. DE SANTIS_CO.I.S.A. SRL PER POSIZIONAMENTO AUTOSCALA DAL 23/04/2026 AL 23/05/2026_ RICHIEDENTE: SIG. DE SANTIS_CO.I.S.A. SRL <br><br>1. 23/04/2026 al 23/05/2026 L’istituzione temporanea del divieto di sosta su Piazza Aldo Moro civ 31(area<br>pedonale) tratto compreso tra piazza Moro e via Melo.<br>2. La deroga al divieto di cui al punto 1. per i mezzi di servizio del Sig. DE SANTIS_CO.I.S.A. SRL.<br>3. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto<br><br>Durata e tempistiche: 23/04/2026 - 23/05/2026]]></description>
       <styleUrl>#line-E65100-3325</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -10526,6 +10394,399 @@ DAL 27/05/2026 AL 27/05/2026.
         <coordinates>
           16.8847812,41.1196955,0
           16.8853686,41.1204047,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02635
+RESTRINGIMENTO CARREGGIATA
+VIALE CASAVOLA A I° TRAVERSA OTTORINO RESPIGHI
+STAFFAGGIO DI CANALINA ELETTRICA
+IMPRESA ESECUTRICE: DMF COSTRUZIONI S.R.L.
+25/05/2026 - 05/06/2026</name>
+      <description><![CDATA[Ordinanza: 2026/02635<br><br>https://drive.google.com/file/d/1hPd7JJgH8ULGCvZO6jiK-E3BeSbm4_fL/view<br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN RESTRINGIMENTO<br>CARREGGIATA SU VIALE OTTORINO RESPIGHI DA VIALE CASAVOLA A I°<br>TRAVERSA OTTORINO RESPIGHI PER LAVORI DI STAFFAGGIO DI CANALINA<br>ELETTRICA SUL BORDO DELLA CAMPATA DEL PONTE DI VIA RESPIGHI AL<br>FINE DI GARANTIRE LE MASSIME CONDIZIONI DI SICUREZZA<br>IMPRESA: DMF COSTRUZIONI S.R.L.<br>ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF<br>COSTRUZIONI S.R.L.)<br><br>Durata e tempistiche: 25/05/2026 - 05/06/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8269675,41.1336972,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02625 
+DIVIETO DI TRANSITO, DIVIETO DI SOSTA
+VIA BELLEZZA TRA VIA BODINI E VIA CIMAROSA
+POSIZIONAMENTO BETONIERA PER REALIZZAZIONE MASSETTO PER POSA PAVIMENTAZIONE
+IMPRESA ESECUTRICE: CO.GIAM S.R.L.
+28/05/2026 - 30/05/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/02625 <br>https://drive.google.com/file/d/1UfACVylRefohBEsNio3lSscohYP91sJI/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI TRANSITO SU VIA BELLEZZA NEL TRATTO COMPRESO TRA VIA BODINI E VIA CIMAROSA, DIVIETO DI SOSTA SU VIA BELLEZZA CIV. 18 PER UN TRATTO DI STRADA DI MT. 9.46, UN SENSO UNICO ALTERNATO SULLA VIA BODINI NEL TRATTO COMPRESO TRA VIA BELLEZZA E IL LUNGOMARE IX MAGGIO E INFINE UN SENSO UNICO ALTERNATO SUL LUNGOMARE IX MAGGIO NEL TRATTO COMPRESO TRA VIA BODINI E VIA CIMAROSA PER POSIZIONAMENTO BETONIERA PER REALIZZAZIONE MASSETTO PER POSA PAVIMENTAZIONE DAL 28/05/2026 AL 30/05/2026. IMPRESA: CO.GIAM S.R.L. ISTANTE: GIAMPETRUZZI MAURIZIO (AMMINISTRATORE UNICO DELLA SOCIETÀ CO.GIAM SRL) <br><br>1. L’istituzione temporanea del divieto di transito, eccetto residenti e mezzi di soccorso e/o di polizia su via Bellezza nel tratto compreso tra via Bodini e via Cimarosa; 2. L’istituzione temporanea del divieto di sosta con rimozione coatta ambo i lati della via Bellezza civ. 18 per un tratto di strada di mt. 9.46; 3. L’istituzione temporanea del senso unico alternato a mezzo movieri sulla via Bodini, nel tratto compreso tra via Bellezza e il Lungomare IX Maggio, al fine di consentire il deflusso/afflusso delle auto in zona; 4. L’istituzione temporanea del senso unico alternato a mezzo movieri su Lungomare IX Maggio, nel tratto compreso tra via Bodini e via Cimarosa, al fine di consentire il deflusso/afflusso delle auto in zona; 5. Occorrerà dare indicazione della temporanea interdizione al transito veicolare sulla via Bellezza all’intersezione via Bellezza/via Zandonai; 6. La regolamentazione della circolazione stradale dovrà essere attuata con l’utilizzo di movieri dotati di idoneo equipaggiamento che dovranno posizionarsi alle intersezioni via Bellezza//via Bodini, Lungomare IX Maggio/via Bodini e Lungomare IX Maggio/via Cimarosa; 7. Durante l’esecuzione dei lavori dovrà essere garantito l’accesso/uscita in zona ai residenti e mezzi di soccorso e/o polizia, compatibilmente con l’esecuzione dei lavori; 8. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto; <br><br>Durata e tempistiche: 28/05/2026 - 30/05/2026]]></description>
+      <styleUrl>#line-E65100-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8134126,41.1389215,0
+          16.8142883,41.1388987,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02628 
+DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO, RESTRINGIMENTO CARREGGIATA, ALL’OCCORRENZA DIVIETO DI TRANSITO 
+VIA LOPEZ E VIA GIOVANNI CHIAIA
+LAVORI DI RIPRISTINO DEFINITIVO, SCARIFICA E TAPPETO
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A. 
+26/05/2026 - 15/06/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/02628 <br>https://drive.google.com/file/d/17jpDEZA0d8VQQEy63HBY_MuUzgYFcAI_/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO SU VIA LOPEZ E VIA GIOVANNI CHIAIA PER LAVORI DI RIPRISTINO DEFINITIVO, SCARIFICA E TAPPETO, DALLA DATA DI EMANAZIONE DELLA PRESENTE ORDINANZA AL 15/06/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br><br>Durata e tempistiche: 26/05/2026 - 15/06/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8508635,41.1263089,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02625 
+DIVIETO DI TRANSITO, DIVIETO DI SOSTA
+VIA BELLEZZA TRA VIA BODINI E VIA CIMAROSA
+POSIZIONAMENTO BETONIERA PER REALIZZAZIONE MASSETTO PER POSA PAVIMENTAZIONE
+IMPRESA ESECUTRICE: CO.GIAM S.R.L.
+28/05/2026 - 30/05/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/02625 <br>https://drive.google.com/file/d/1UfACVylRefohBEsNio3lSscohYP91sJI/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI TRANSITO SU VIA BELLEZZA NEL TRATTO COMPRESO TRA VIA BODINI E VIA CIMAROSA, DIVIETO DI SOSTA SU VIA BELLEZZA CIV. 18 PER UN TRATTO DI STRADA DI MT. 9.46, UN SENSO UNICO ALTERNATO SULLA VIA BODINI NEL TRATTO COMPRESO TRA VIA BELLEZZA E IL LUNGOMARE IX MAGGIO E INFINE UN SENSO UNICO ALTERNATO SUL LUNGOMARE IX MAGGIO NEL TRATTO COMPRESO TRA VIA BODINI E VIA CIMAROSA PER POSIZIONAMENTO BETONIERA PER REALIZZAZIONE MASSETTO PER POSA PAVIMENTAZIONE DAL 28/05/2026 AL 30/05/2026. IMPRESA: CO.GIAM S.R.L. ISTANTE: GIAMPETRUZZI MAURIZIO (AMMINISTRATORE UNICO DELLA SOCIETÀ CO.GIAM SRL) <br><br>1. L’istituzione temporanea del divieto di transito, eccetto residenti e mezzi di soccorso e/o di polizia su via Bellezza nel tratto compreso tra via Bodini e via Cimarosa; 2. L’istituzione temporanea del divieto di sosta con rimozione coatta ambo i lati della via Bellezza civ. 18 per un tratto di strada di mt. 9.46; 3. L’istituzione temporanea del senso unico alternato a mezzo movieri sulla via Bodini, nel tratto compreso tra via Bellezza e il Lungomare IX Maggio, al fine di consentire il deflusso/afflusso delle auto in zona; 4. L’istituzione temporanea del senso unico alternato a mezzo movieri su Lungomare IX Maggio, nel tratto compreso tra via Bodini e via Cimarosa, al fine di consentire il deflusso/afflusso delle auto in zona; 5. Occorrerà dare indicazione della temporanea interdizione al transito veicolare sulla via Bellezza all’intersezione via Bellezza/via Zandonai; 6. La regolamentazione della circolazione stradale dovrà essere attuata con l’utilizzo di movieri dotati di idoneo equipaggiamento che dovranno posizionarsi alle intersezioni via Bellezza//via Bodini, Lungomare IX Maggio/via Bodini e Lungomare IX Maggio/via Cimarosa; 7. Durante l’esecuzione dei lavori dovrà essere garantito l’accesso/uscita in zona ai residenti e mezzi di soccorso e/o polizia, compatibilmente con l’esecuzione dei lavori; 8. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto; <br><br>Durata e tempistiche: 28/05/2026 - 30/05/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8136285,41.1389606,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02632
+RESTRINGIMENTO CARREGGIATA
+VIA PICCINNI DAL CIV.46 AL CIV.52
+POSIZIONAMENTO AUTOMEZZI E CASSONE
+IMPRESA ESECUTRICE: SIG. LUDOVICO DOMENICO _LUCOGEN SRL
+03/06/2026 - 20/06/2026</name>
+      <description><![CDATA[ORDINANZA 2026/02632<br><br>https://drive.google.com/file/d/1v9lfhoRnufj9e-eWBJqmo8uKFY8iF-O8/view<br><br>AUTORIZZAZIONE TEMPORANEA AL TRANSITO DEI MEZZI SUPERIORI AI 35<br>Q.LI, IN DEROGA ALL’ORDINANZA SINDACALE N. 2322 DEL 20.3.1991,<br>RESTRINGIMENTO DI CARREGGIATA, E DEROGA TEMPORANEA AL<br>DIVIETO DI SOSTA PER I MEZZI AL SERVIZIO DELLA LUDOVICO_LUCOGEN<br>SRL SU VIA PICCINNI DAL CIV.46 AL CIV.52 PER POSIZIONAMENTO<br>AUTOMEZZI E CASSONE <br>RICHIEDENTE: SIG. LUDOVICO DOMENICO _LUCOGEN SRL<br><br>Durata e tempistiche: 03/06/2026 - 20/06/2026]]></description>
+      <styleUrl>#line-E65100-4294</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8696112,41.1253535,0
+          16.8699357,41.1253838,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02632
+RESTRINGIMENTO CARREGGIATA
+VIA PICCINNI DAL CIV.46 AL CIV.52
+POSIZIONAMENTO AUTOMEZZI E CASSONE
+IMPRESA ESECUTRICE: SIG. LUDOVICO DOMENICO _LUCOGEN SRL
+03/06/2026 - 20/06/2026</name>
+      <description><![CDATA[ORDINANZA 2026/02632<br><br>https://drive.google.com/file/d/1v9lfhoRnufj9e-eWBJqmo8uKFY8iF-O8/view<br><br>AUTORIZZAZIONE TEMPORANEA AL TRANSITO DEI MEZZI SUPERIORI AI 35<br>Q.LI, IN DEROGA ALL’ORDINANZA SINDACALE N. 2322 DEL 20.3.1991,<br>RESTRINGIMENTO DI CARREGGIATA, E DEROGA TEMPORANEA AL<br>DIVIETO DI SOSTA PER I MEZZI AL SERVIZIO DELLA LUDOVICO_LUCOGEN<br>SRL SU VIA PICCINNI DAL CIV.46 AL CIV.52 PER POSIZIONAMENTO<br>AUTOMEZZI E CASSONE <br>RICHIEDENTE: SIG. LUDOVICO DOMENICO _LUCOGEN SRL<br><br>Durata e tempistiche: 03/06/2026 - 20/06/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8696045,41.1253919,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02628 
+DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO, RESTRINGIMENTO CARREGGIATA, ALL’OCCORRENZA DIVIETO DI TRANSITO 
+VIA LOPEZ E VIA GIOVANNI CHIAIA
+LAVORI DI RIPRISTINO DEFINITIVO, SCARIFICA E TAPPETO
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A. 
+26/05/2026 - 15/06/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/02628 <br>https://drive.google.com/file/d/17jpDEZA0d8VQQEy63HBY_MuUzgYFcAI_/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO SU VIA LOPEZ E VIA GIOVANNI CHIAIA PER LAVORI DI RIPRISTINO DEFINITIVO, SCARIFICA E TAPPETO, DALLA DATA DI EMANAZIONE DELLA PRESENTE ORDINANZA AL 15/06/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br><br>Durata e tempistiche: 26/05/2026 - 15/06/2026]]></description>
+      <styleUrl>#line-E65100-4681</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8490841,41.1265829,0
+          16.851541,41.1261061,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02628 
+DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO, RESTRINGIMENTO CARREGGIATA, ALL’OCCORRENZA DIVIETO DI TRANSITO 
+VIA LOPEZ E VIA GIOVANNI CHIAIA
+LAVORI DI RIPRISTINO DEFINITIVO, SCARIFICA E TAPPETO
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A. 
+26/05/2026 - 15/06/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/02628 <br>https://drive.google.com/file/d/17jpDEZA0d8VQQEy63HBY_MuUzgYFcAI_/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO SU VIA LOPEZ E VIA GIOVANNI CHIAIA PER LAVORI DI RIPRISTINO DEFINITIVO, SCARIFICA E TAPPETO, DALLA DATA DI EMANAZIONE DELLA PRESENTE ORDINANZA AL 15/06/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br><br>Durata e tempistiche: 26/05/2026 - 15/06/2026]]></description>
+      <styleUrl>#line-E65100-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8507632,41.1277951,0
+          16.8514391,41.1278153,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02631
+RESTRINGIMENTO CARREGGIATA
+VIA DE DEO 109 TRA VIA LATTANZIO E VIA DEI MILLE
+VIA LATTANZIO CIVV. 81/B-81/C VIA DE DEO E VIA CASTROMEDIANO
+POSIZIONAMENTO PIATTAFORMA AEREA
+IMPRESA ESECUTRICE: “MG NOLEGGI”
+03/06/2026 - 09/06/2026</name>
+      <description><![CDATA[Ordinanza: 2026/02631<br><br>https://drive.google.com/file/d/1X9pP3trrVq1-CUEcuR6-5nxUU9eklKIY/view<br><br>RESTRINGIMENTO DI CARREGGIATA DEROGA AL DIVIETO DI SOSTA E<br>DIVIETO DI SOSTA PER POSIZIONAMENTO PIATTAFORMA AEREA , IN VIA<br>DE DEO 109 TRATTO COMPRESO TRA VIA LATTANZIO E VIA DEI MILLE E IN<br>VIA VIA LATTANZIO CIVV. 81/B-81/C TRATTO COMPRESO TRA VIA DE DEO<br>E VIA CASTROMEDIANO <br>RICHIEDENTE : SIG. PAIANO GIANLUCA FEDELE IN QUALITÀ DI<br>RAPPRESENTANTE LEGALE DELLA DITTA “MG NOLEGGI”<br><br>Durata e Tempistiche: 03/06/2026 - 09/06/2026]]></description>
+      <styleUrl>#line-E65100-3906</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8777149,41.1152147,0
+          16.8783828,41.1155825,0
+          16.8787529,41.1151682,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02631
+RESTRINGIMENTO CARREGGIATA
+VIA DE DEO 109 TRA VIA LATTANZIO E VIA DEI MILLE
+VIA LATTANZIO CIVV. 81/B-81/C VIA DE DEO E VIA CASTROMEDIANO
+POSIZIONAMENTO PIATTAFORMA AEREA
+IMPRESA ESECUTRICE: “MG NOLEGGI”
+03/06/2026 - 09/06/2026</name>
+      <description><![CDATA[Ordinanza: 2026/02631<br><br>https://drive.google.com/file/d/1X9pP3trrVq1-CUEcuR6-5nxUU9eklKIY/view<br><br>RESTRINGIMENTO DI CARREGGIATA DEROGA AL DIVIETO DI SOSTA E<br>DIVIETO DI SOSTA PER POSIZIONAMENTO PIATTAFORMA AEREA , IN VIA<br>DE DEO 109 TRATTO COMPRESO TRA VIA LATTANZIO E VIA DEI MILLE E IN<br>VIA VIA LATTANZIO CIVV. 81/B-81/C TRATTO COMPRESO TRA VIA DE DEO<br>E VIA CASTROMEDIANO <br>RICHIEDENTE : SIG. PAIANO GIANLUCA FEDELE IN QUALITÀ DI<br>RAPPRESENTANTE LEGALE DELLA DITTA “MG NOLEGGI”<br><br>Durata e Tempistiche: 03/06/2026 - 09/06/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8783413,41.1154794,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02629 
+DIVIETO DI TRANSITO, DIVIETO DI SOSTA AMBO I ALTI
+VICO II BIS VIA AMEDEO DI SAVOIA DUCA D’AOSTA IN PALESE (BA)
+LAVORI DI RIPRISTINO DEFINITIVO, SCARIFICA E TAPPETO
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A. 
+26/05/2026 - 30/05/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/02629 <br>https://drive.google.com/file/d/1WJsPRhEtIpRWaTI7rcSEcUPUKgYJ-yrw/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO E DI SOSTA AMBO I LATI SU VICO II BIS VIA AMEDEO DI SAVOIA DUCA D’AOSTA IN PALESE (BA), PER LAVORI DI REALIZZAZIONE ALLACCIO IDRICO DALL’ESECUTIVITÀ DELL’ATTO SINO AL 30/05/2026. IMPRESA: IMPRESA INDIVIDUALE “FRISULLO LUIGI” ISTANTE: AQP S.P.A. <br><br><br>Durata e tempistiche: 26/05/2026 - 30/05/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.7671167,41.1501901,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02629 
+DIVIETO DI TRANSITO, DIVIETO DI SOSTA AMBO I ALTI
+VICO II BIS VIA AMEDEO DI SAVOIA DUCA D’AOSTA IN PALESE (BA)
+LAVORI DI RIPRISTINO DEFINITIVO, SCARIFICA E TAPPETO
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A. 
+26/05/2026 - 30/05/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/02629 <br>https://drive.google.com/file/d/1WJsPRhEtIpRWaTI7rcSEcUPUKgYJ-yrw/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO E DI SOSTA AMBO I LATI SU VICO II BIS VIA AMEDEO DI SAVOIA DUCA D’AOSTA IN PALESE (BA), PER LAVORI DI REALIZZAZIONE ALLACCIO IDRICO DALL’ESECUTIVITÀ DELL’ATTO SINO AL 30/05/2026. IMPRESA: IMPRESA INDIVIDUALE “FRISULLO LUIGI” ISTANTE: AQP S.P.A. <br><br><br>Durata e tempistiche: 26/05/2026 - 30/05/2026]]></description>
+      <styleUrl>#line-E65100-3519</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.7667734,41.1502537,0
+          16.7676169,41.1500558,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02638
+DIVIETO DI SOSTA CON RIMOZIONE
+COATTA AMBO I LATI
+VIA CIMAROSA CIV. 41
+PER POSIZIONAMENTO MEZZI DI
+CANTIERE
+IMPRESA ESECUTRICE: CO.GIAM S.R.L.
+DAL 28/05/2026 AL 03/06/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/02638<br><br>https://drive.google.com/file/d/1WMlRk__4vMWUMFw142zPg7cJEvIGFbE4/view <br><br>1. L’istituzione temporanea del divieto di sosta con rimozione coatta ambo i lati su via Cimarosa civ. 41 per<br>un tratto di strada di mt. 20.00, al fine di consentire il posizionamento dei mezzi di cantiere edile, con<br>restringimento carreggiata;<br><br>2. Durante l’esecuzione dei lavori dovrà essere garantito l’accesso/uscita in zona ai residenti e mezzi di<br>soccorso e/o polizia, compatibilmente con l’esecuzione dei lavori;<br>3. Dovranno essere lasciati liberi e fruibili gli accessi privati presenti, sia pedonali che carrabili;<br>4. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br><br>Durata e tempistiche: DAL 28/05/2026 AL 03/06/2026]]></description>
+      <styleUrl>#line-E65100-5456</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8133888,41.1388155,0
+          16.8133834,41.1387826,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02638
+DIVIETO DI SOSTA CON RIMOZIONE
+COATTA AMBO I LATI
+VIA CIMAROSA CIV. 41
+PER POSIZIONAMENTO MEZZI DI
+CANTIERE
+IMPRESA ESECUTRICE: CO.GIAM S.R.L.
+DAL 28/05/2026 AL 03/06/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/02638<br><br>https://drive.google.com/file/d/1WMlRk__4vMWUMFw142zPg7cJEvIGFbE4/view <br><br>1. L’istituzione temporanea del divieto di sosta con rimozione coatta ambo i lati su via Cimarosa civ. 41 per<br>un tratto di strada di mt. 20.00, al fine di consentire il posizionamento dei mezzi di cantiere edile, con<br>restringimento carreggiata;<br><br>2. Durante l’esecuzione dei lavori dovrà essere garantito l’accesso/uscita in zona ai residenti e mezzi di<br>soccorso e/o polizia, compatibilmente con l’esecuzione dei lavori;<br>3. Dovranno essere lasciati liberi e fruibili gli accessi privati presenti, sia pedonali che carrabili;<br>4. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br><br>Durata e tempistiche: DAL 28/05/2026 AL 03/06/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8133915,41.1387985,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02639
+RESTRINGIMENTO
+CARREGGIATA CON DIVIETO DI FERMATA E DI TRANSITO PER SOLE
+BICICLETTE
+LUNGOMARE STARITA, TRATTO COMPRESO DAL CIV. 60
+AL CIV. 64 AMBO I LATI
+PER SCAVI PER GLI
+IMPIANTI ELETTRICI
+IMPRESA ESECUTRICE: DE GRECIS COS.E.MA VERDE SRL
+DAL 28/05/2026 AL 01/09/2026 
+
+
+
+</name>
+      <description><![CDATA[ORDINANZA 2026/02639<br><br>https://drive.google.com/file/d/12A9_de0LM17ssqNwCNnjku3ipMSST23-/view <br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN RESTRINGIMENTO<br>CARREGGIATA CON DIVIETO DI FERMATA E DI TRANSITO PER SOLE<br>BICICLETTE SUL LUNGOMARE STARITA, TRATTO COMPRESO DAL CIV. 60<br>AL CIV. 64 AMBO I LATI AL FINE DI POTER ESEGUIRE GLI SCAVI PER GLI<br>IMPIANTI ELETTRICI E DI PUBBLICA ILLUMINAZIONE DAL 28/05/2026 AL<br>01/09/2026.<br>CIG A054BA141D – CUP J96E19000000001.<br>IMPRESA: DE GRECIS COS.E.MA VERDE SRL<br>ISTANTE: TROTTA CLAUDIO (LEGALE RAPPRESENTANTE DELLA DE<br>GRECIS COS.E.MA VERDE SRL)<br><br><br>Durata e tempistiche: DAL 28/05/2026 AL 01/09/2026 ]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8407817,41.1385962,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02641
+AUTORIZZAZIONE TEMPORANEA AL TRANSITO DEI MEZZI SUPERIORI AI 35 Q.LI
+VIA SPERANZA TRATTO COMPRESO TRA VIA CRISANZIO E VIA LIBERTA’
+POSIZIONAMENTO DI RECINZIONE DI CANTIERE
+RICHIEDENTE:SIG. RA OTTAVIA ZANZI MATABA SCARL
+08/06/2026 - 19/07/2026</name>
+      <description><![CDATA[Ordinanza 2026/02641<br>https://drive.google.com/file/d/1EFLPMNjQVdqaUjQy9eCAy8aOtP-g2JzF/view?usp=sharing<br><br>AUTORIZZAZIONE TEMPORANEA AL TRANSITO DEI MEZZI SUPERIORI AI 35 Q.LI, IN DEROGA ALL’ORDINANZA SINDACALE N. 2322 DEL 20.3.1991, RESTRINGIMENTO DI CARREGGIATA, DIVIETO DI SOSTA SU VIA SPERANZA TRATTO COMPRESO TRA VIA CRISANZIO E VIA LIBERTA’ PER POSIZIONAMENTO RECINZIONE DI CANTIERE <br>RICHIEDENTE: SIG. RA OTTAVIA ZANZI MATABA SCARL<br>08/06/2026 - 19/07/2026]]></description>
+      <styleUrl>#line-E65100-7006</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.856181,41.1198286,0
+          16.8562668,41.1191254,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02644
+RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI 
+VIA CIRILLO, VIA M. DI SAVOIA, VIA CASTROMEDIANO, VIA NIZZA, VIA DE NAPOLI E VIA LATTANZIO
+ATTIVITÀ DI SCARIFICA, ASFALTO E SEGNALETICA ORIZZONTALE
+RICHIEDENTE: RETEGAS BARI S.P.A.
+IMPRESA I.G COSTRUZIONI SRL
+08/06/2026 - 19/06/2026</name>
+      <description><![CDATA[Ordinanza 2026/02644<br>https://drive.google.com/file/d/1lIHF1TUscekKjzRoTtvK-wkAfUJo79Jd/view?usp=sharing<br><br>PER ATTIVITÀ DI SCARIFICA, ASFALTO E SEGNALETICA ORIZZONTALE,<br>NECESSARIE AL COMPLETAMENTO DEI LAVORI OGGETTO DI INTERVENTO<br>dal 8.6.2026 al 19.6.2026, è istituito il Restringimento di carreggiata e divieto di sosta con rimozione forzata ambo i lati su :<br> via Cirillo, Tratto compreso tra via Amendola e via Dei Mille;<br> via M. di Savoia, Tratto compreso tra via Lattanzio e via Dei Mille;<br> via Castromediano, Tratto compreso tra via Lattanzio e via Dei Mille;<br> via Nizza, Tratto compreso tra via Lattanzio e via Dei Mille;<br> via De Napoli Tratto compreso tra via Lattanzio e via Dei Mille;<br> via Lattanzio Tratto compreso tra i civ. 78 e 82/B (per stallo automezzi).<br><br>RICHIEDENTE: RETEGAS BARI S.P.A. – BARI.<br>IMPRESA I.G COSTRUZIONI SRL<br><br>Durata: 8.6.2026 - 19.6.2026]]></description>
+      <styleUrl>#line-E65100-4488</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8780377,41.1147977,0
+          16.8787633,41.1151401,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02644
+RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI 
+VIA CIRILLO, VIA M. DI SAVOIA, VIA CASTROMEDIANO, VIA NIZZA, VIA DE NAPOLI E VIA LATTANZIO
+ATTIVITÀ DI SCARIFICA, ASFALTO E SEGNALETICA ORIZZONTALE
+RICHIEDENTE: RETEGAS BARI S.P.A.
+IMPRESA I.G COSTRUZIONI SRL
+08/06/2026 - 19/06/2026</name>
+      <description><![CDATA[Ordinanza 2026/02644<br>https://drive.google.com/file/d/1lIHF1TUscekKjzRoTtvK-wkAfUJo79Jd/view?usp=sharing<br><br>PER ATTIVITÀ DI SCARIFICA, ASFALTO E SEGNALETICA ORIZZONTALE,<br>NECESSARIE AL COMPLETAMENTO DEI LAVORI OGGETTO DI INTERVENTO<br>dal 8.6.2026 al 19.6.2026, è istituito il Restringimento di carreggiata e divieto di sosta con rimozione forzata ambo i lati su :<br> via Cirillo, Tratto compreso tra via Amendola e via Dei Mille;<br> via M. di Savoia, Tratto compreso tra via Lattanzio e via Dei Mille;<br> via Castromediano, Tratto compreso tra via Lattanzio e via Dei Mille;<br> via Nizza, Tratto compreso tra via Lattanzio e via Dei Mille;<br> via De Napoli Tratto compreso tra via Lattanzio e via Dei Mille;<br> via Lattanzio Tratto compreso tra i civ. 78 e 82/B (per stallo automezzi).<br><br>RICHIEDENTE: RETEGAS BARI S.P.A. – BARI.<br>IMPRESA I.G COSTRUZIONI SRL<br><br>Durata: 8.6.2026 - 19.6.2026]]></description>
+      <styleUrl>#line-E65100-4681</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8783395,41.1144031,0
+          16.8791013,41.1147668,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02644
+RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI 
+VIA CIRILLO, VIA M. DI SAVOIA, VIA CASTROMEDIANO, VIA NIZZA, VIA DE NAPOLI E VIA LATTANZIO
+ATTIVITÀ DI SCARIFICA, ASFALTO E SEGNALETICA ORIZZONTALE
+RICHIEDENTE: RETEGAS BARI S.P.A.
+IMPRESA I.G COSTRUZIONI SRL
+08/06/2026 - 19/06/2026</name>
+      <description><![CDATA[Ordinanza 2026/02644<br>https://drive.google.com/file/d/1lIHF1TUscekKjzRoTtvK-wkAfUJo79Jd/view?usp=sharing<br><br>PER ATTIVITÀ DI SCARIFICA, ASFALTO E SEGNALETICA ORIZZONTALE,<br>NECESSARIE AL COMPLETAMENTO DEI LAVORI OGGETTO DI INTERVENTO<br>dal 8.6.2026 al 19.6.2026, è istituito il Restringimento di carreggiata e divieto di sosta con rimozione forzata ambo i lati su :<br> via Cirillo, Tratto compreso tra via Amendola e via Dei Mille;<br> via M. di Savoia, Tratto compreso tra via Lattanzio e via Dei Mille;<br> via Castromediano, Tratto compreso tra via Lattanzio e via Dei Mille;<br> via Nizza, Tratto compreso tra via Lattanzio e via Dei Mille;<br> via De Napoli Tratto compreso tra via Lattanzio e via Dei Mille;<br> via Lattanzio Tratto compreso tra i civ. 78 e 82/B (per stallo automezzi).<br><br>RICHIEDENTE: RETEGAS BARI S.P.A. – BARI.<br>IMPRESA I.G COSTRUZIONI SRL<br><br>Durata: 8.6.2026 - 19.6.2026]]></description>
+      <styleUrl>#line-E65100-4875</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8773444,41.1156501,0
+          16.8779935,41.1159815,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02644
+RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI 
+VIA CIRILLO, VIA M. DI SAVOIA, VIA CASTROMEDIANO, VIA NIZZA, VIA DE NAPOLI E VIA LATTANZIO
+ATTIVITÀ DI SCARIFICA, ASFALTO E SEGNALETICA ORIZZONTALE
+RICHIEDENTE: RETEGAS BARI S.P.A.
+IMPRESA I.G COSTRUZIONI SRL
+08/06/2026 - 19/06/2026</name>
+      <description><![CDATA[Ordinanza 2026/02644<br>https://drive.google.com/file/d/1lIHF1TUscekKjzRoTtvK-wkAfUJo79Jd/view?usp=sharing<br><br>PER ATTIVITÀ DI SCARIFICA, ASFALTO E SEGNALETICA ORIZZONTALE,<br>NECESSARIE AL COMPLETAMENTO DEI LAVORI OGGETTO DI INTERVENTO<br>dal 8.6.2026 al 19.6.2026, è istituito il Restringimento di carreggiata e divieto di sosta con rimozione forzata ambo i lati su :<br> via Cirillo, Tratto compreso tra via Amendola e via Dei Mille;<br> via M. di Savoia, Tratto compreso tra via Lattanzio e via Dei Mille;<br> via Castromediano, Tratto compreso tra via Lattanzio e via Dei Mille;<br> via Nizza, Tratto compreso tra via Lattanzio e via Dei Mille;<br> via De Napoli Tratto compreso tra via Lattanzio e via Dei Mille;<br> via Lattanzio Tratto compreso tra i civ. 78 e 82/B (per stallo automezzi).<br><br>RICHIEDENTE: RETEGAS BARI S.P.A. – BARI.<br>IMPRESA I.G COSTRUZIONI SRL<br><br>Durata: 8.6.2026 - 19.6.2026]]></description>
+      <styleUrl>#line-E65100-5263</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8786723,41.1140187,0
+          16.8788038,41.1140571,0
+          16.8793912,41.1143299,0
+          16.8801958,41.1146977,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02644
+RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI 
+VIA CIRILLO, VIA M. DI SAVOIA, VIA CASTROMEDIANO, VIA NIZZA, VIA DE NAPOLI E VIA LATTANZIO
+ATTIVITÀ DI SCARIFICA, ASFALTO E SEGNALETICA ORIZZONTALE
+RICHIEDENTE: RETEGAS BARI S.P.A.
+IMPRESA I.G COSTRUZIONI SRL
+08/06/2026 - 19/06/2026</name>
+      <description><![CDATA[Ordinanza 2026/02644<br>https://drive.google.com/file/d/1lIHF1TUscekKjzRoTtvK-wkAfUJo79Jd/view?usp=sharing<br><br>PER ATTIVITÀ DI SCARIFICA, ASFALTO E SEGNALETICA ORIZZONTALE,<br>NECESSARIE AL COMPLETAMENTO DEI LAVORI OGGETTO DI INTERVENTO<br>dal 8.6.2026 al 19.6.2026, è istituito il Restringimento di carreggiata e divieto di sosta con rimozione forzata ambo i lati su :<br> via Cirillo, Tratto compreso tra via Amendola e via Dei Mille;<br> via M. di Savoia, Tratto compreso tra via Lattanzio e via Dei Mille;<br> via Castromediano, Tratto compreso tra via Lattanzio e via Dei Mille;<br> via Nizza, Tratto compreso tra via Lattanzio e via Dei Mille;<br> via De Napoli Tratto compreso tra via Lattanzio e via Dei Mille;<br> via Lattanzio Tratto compreso tra i civ. 78 e 82/B (per stallo automezzi).<br><br>RICHIEDENTE: RETEGAS BARI S.P.A. – BARI.<br>IMPRESA I.G COSTRUZIONI SRL<br><br>Durata: 8.6.2026 - 19.6.2026]]></description>
+      <styleUrl>#line-E65100-4100</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8788128,41.1151112,0
+          16.8790059,41.1148667,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02644
+RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI 
+VIA CIRILLO, VIA M. DI SAVOIA, VIA CASTROMEDIANO, VIA NIZZA, VIA DE NAPOLI E VIA LATTANZIO
+ATTIVITÀ DI SCARIFICA, ASFALTO E SEGNALETICA ORIZZONTALE
+RICHIEDENTE: RETEGAS BARI S.P.A.
+IMPRESA I.G COSTRUZIONI SRL
+08/06/2026 - 19/06/2026</name>
+      <description><![CDATA[Ordinanza 2026/02644<br>https://drive.google.com/file/d/1lIHF1TUscekKjzRoTtvK-wkAfUJo79Jd/view?usp=sharing<br><br>PER ATTIVITÀ DI SCARIFICA, ASFALTO E SEGNALETICA ORIZZONTALE,<br>NECESSARIE AL COMPLETAMENTO DEI LAVORI OGGETTO DI INTERVENTO<br>dal 8.6.2026 al 19.6.2026, è istituito il Restringimento di carreggiata e divieto di sosta con rimozione forzata ambo i lati su :<br> via Cirillo, Tratto compreso tra via Amendola e via Dei Mille;<br> via M. di Savoia, Tratto compreso tra via Lattanzio e via Dei Mille;<br> via Castromediano, Tratto compreso tra via Lattanzio e via Dei Mille;<br> via Nizza, Tratto compreso tra via Lattanzio e via Dei Mille;<br> via De Napoli Tratto compreso tra via Lattanzio e via Dei Mille;<br> via Lattanzio Tratto compreso tra i civ. 78 e 82/B (per stallo automezzi).<br><br>RICHIEDENTE: RETEGAS BARI S.P.A. – BARI.<br>IMPRESA I.G COSTRUZIONI SRL<br><br>Durata: 8.6.2026 - 19.6.2026]]></description>
+      <styleUrl>#line-E65100-4681</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8771073,41.1161593,0
+          16.8770282,41.1161189,0
+          16.8773299,41.1162704,0
+          16.8773092,41.1162608,0
+          16.8776021,41.1164043,0
         </coordinates>
       </LineString>
     </Placemark>
