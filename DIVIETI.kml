@@ -2,6 +2,40 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>DIVIETI</name>
+    <Style id="icon-1541-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1541-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1541-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1541-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1541-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1541-C2185B-normal">
       <IconStyle>
         <color>ff5b18c2</color>
@@ -146,6 +180,28 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#line-757575-4294-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-9C27B0-4294-normal">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>4.294</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-9C27B0-4294-highlight">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>6.441</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-9C27B0-4294">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-9C27B0-4294-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-9C27B0-4294-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="line-E65100-2163-normal">
@@ -1967,78 +2023,6 @@ IMPRESA ESECUTRICE: DMF COSTRUZIONI S.R.L.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00768
-RESTRINGIMENTO DELLA CORSIA, DIVIETO DI FERMATA, TRANSITO A SENSO UNICO ALTERNATO
-VIALE GENNARO TRISORIO-LIUZZI
-VIA GIULIO PETRONI
-VIALE JOHN F. KENNEDY
-VIALE LUIGI EINAUDI
-PISTE CICLABILI
-IMPRESA ESECUTRICE:COSTRUZIONI GENERALI DI SANTO SRL
-16/01/2026 - 30/05/2026</name>
-      <description><![CDATA[2026/00244 <br><br>https://drive.google.com/file/d/1vYu9cjbTuVEqXifhb_xcq_PkDDSWZW72/view<br><br>PN23026 AFFIDAMENTO CONGIUNTO DI PROGETTAZIONE DEFINITIVA, ESECUTIVA ED ESECUZIONE DEI LAVORI DI REALIZZAZIONE DI CICLOVIE URBANE. RAFFORZAMENTO DELLA MOBILITA’ CICLISTICA. PROGETTO: RAFFORZAMENTO DELLA MOBILITA’ CICLISTICAREALIZZAZIONE DI CICLOVIE URBANE. CIG AQ A03137FD91 - CIG CA1 A045BD61F6- CUP J91B22000650006 COMMITTENTE: COMUNE DI BARI IMPRESA ESEC.: SOCIETÀ COSTRUZIONI GENERALI DI SANTO SRL CON SEDE CON SEDE A ANDRIA (BT), VIALE DELLA COSTITUZIONE N. 147, CAP 76123, (C.F./P.IVA 07174340724, NUMERO REA BA 537745) OGGETTO : RICHIESTA REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE DAL GIORNO 16/01/2026 AL GIORNO 30/05/2026 SU VIALE GENNARO TRISORIO-LIUZZI, VIA GIULIO PETRONI, VIALE JOHN F. KENNEDY E VIALE LUIGI EINAUDI PER LAVORI DI REALIZZAZIONE DI CICLOVIE URBANE. CIG AQ A03137FD91 - CIG CA1 A045BD61F6- CUP J91B22000650006<br><br>1. Restringimento della corsia di Viale Gennaro Trisorio-Liuzzi, diretta verso il centro della città, nel tratto stradale compreso tra l’intersezione con Via Mons. Jolando Nuzzi e Via Carlo Alberto della Chiesa, precisamente al (sovrappasso S.S.16 Adriatica), dal margine della carreggiata verso l’asse stradale, per una larghezza pari a m 4,00circa; 2. Restringimento della corsia di Via Giulio Petroni, diretta verso il centro della città, nel tratto stradale compreso tra Via Carlo Alberto della Chiesa (sovrappasso S.S.16 Adriatica) e intersezione con Viale John F. Kennedy, dal margine della carreggiata verso l’asse stradale, per una larghezza pari a m 4,00 circa;<br> 3. Restringimento delle corsie dx e sx di Viale John F. Kennedy, diretta verso il centro della città, nel tratto stradale compreso tra l’intersezione con Via Giulio Petroni e intersezione con Viale Luigi Einaudi/Corso Alcide de Gasperi; sull’isola spartitraffico dell’intera strada (asse stradale), per una larghezza pari a m 4,00 circa; <br>4. Restringimento delle corsie dx e sx di Viale Luigi Einaudi, diretta verso il centro della città, nel tratto stradale compreso tra l’intersezione con Viale John F. Kennedy/Corso Alcide de Gasperi e intersezione con Via della Costituente, sull’asse stradale di Viale Luigi Einaudi, per una larghezza pari a m 4,00 circa; <br>5. Divieto di fermata sui tratti di strada interessati dai lavori, lungo uno o entrambi i margini della carreggiata;<br>6. Transito a senso unico alternato nel tempo, regolato ai sensi dall’art. 42, comma 2 del D.P.R. 16 dicembre 1992, n.495, qualora la presenza dei lavori e del cantiere mobile - su strade percorribili secondo entrambi i sensi di marcia - determini un restringimento della carreggiata inferiore in larghezza a 5,60 metri. In tal caso occorrerà regolare il passaggio dei veicoli nel tempo ai sensi del comma 3 dell’articolo 42; <br>7. Divieto di transito sulla semicarreggiata impegnata dai lavori e dal cantiere mobile su strade percorribili a senso unico di marcia, aventi larghezza della carreggiata superiore a 6,00 metri; <br>8. Istituire il divieto di transito su strade percorribili a senso unico di marcia aventi larghezza della carreggiata uguale o inferiore a 6,00 metri, del tutto impegnate dai lavori e dal cantiere mobile.<br> 9. Rimozione forzata del veicolo lasciato in sosta in violazione del divieto di fermata istituito per motivi di manutenzione dovrà essere rimosso ai sensi dell’articolo 159, comma 1, lettera d) del Decreto legislativo 30 aprile1992, n.285<br>10. Sui tratti stradali in cui si darà esecuzione temporanea ai provvedimenti di circolazione, in deroga, i veicoli al servizio dell’impresa appaltatrice, o dei loro subappaltatori, potranno sostare per il tempo strettamente necessario alle attività connesse ai lavori;<br><br><br>Durata e tempistiche: 16/01/2026 - 30/05/2026]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8597768,41.0639846,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00768
-RESTRINGIMENTO DELLA CORSIA, DIVIETO DI FERMATA, TRANSITO A SENSO UNICO ALTERNATO
-VIALE GENNARO TRISORIO-LIUZZI
-VIA GIULIO PETRONI
-VIALE JOHN F. KENNEDY
-VIALE LUIGI EINAUDI
-PISTE CICLABILI
-IMPRESA ESECUTRICE:COSTRUZIONI GENERALI DI SANTO SRL
-16/01/2026 - 30/05/2026</name>
-      <description><![CDATA[2026/00244 <br><br>https://drive.google.com/file/d/1vYu9cjbTuVEqXifhb_xcq_PkDDSWZW72/view<br><br>RETTIFICA: 2026/00250 https://drive.google.com/file/d/1Gp_k0pS5lo6_NOavWie-oSoErAVf3_s3/view<br><br>SPECIFICA: 2026/00256<br>https://drive.google.com/file/d/1V-WEyYE_UsuS49mS_jPKxOA1sGwrq8fK/view<br><br>PN23026 AFFIDAMENTO CONGIUNTO DI PROGETTAZIONE DEFINITIVA, ESECUTIVA ED ESECUZIONE DEI LAVORI DI REALIZZAZIONE DI CICLOVIE URBANE. RAFFORZAMENTO DELLA MOBILITA’ CICLISTICA. PROGETTO: RAFFORZAMENTO DELLA MOBILITA’ CICLISTICAREALIZZAZIONE DI CICLOVIE URBANE. CIG AQ A03137FD91 - CIG CA1 A045BD61F6- CUP J91B22000650006 COMMITTENTE: COMUNE DI BARI IMPRESA ESEC.: SOCIETÀ COSTRUZIONI GENERALI DI SANTO SRL CON SEDE CON SEDE A ANDRIA (BT), VIALE DELLA COSTITUZIONE N. 147, CAP 76123, (C.F./P.IVA 07174340724, NUMERO REA BA 537745) OGGETTO : RICHIESTA REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE DAL GIORNO 16/01/2026 AL GIORNO 30/05/2026 SU VIALE GENNARO TRISORIO-LIUZZI, VIA GIULIO PETRONI, VIALE JOHN F. KENNEDY E VIALE LUIGI EINAUDI PER LAVORI DI REALIZZAZIONE DI CICLOVIE URBANE. CIG AQ A03137FD91 - CIG CA1 A045BD61F6- CUP J91B22000650006<br><br>1. Restringimento della corsia di Viale Gennaro Trisorio-Liuzzi, diretta verso il centro della città, nel tratto stradale compreso tra l’intersezione con Via Mons. Jolando Nuzzi e Via Carlo Alberto della Chiesa, precisamente al (sovrappasso S.S.16 Adriatica), dal margine della carreggiata verso l’asse stradale, per una larghezza pari a m 4,00circa; 2. Restringimento della corsia di Via Giulio Petroni, diretta verso il centro della città, nel tratto stradale compreso tra Via Carlo Alberto della Chiesa (sovrappasso S.S.16 Adriatica) e intersezione con Viale John F. Kennedy, dal margine della carreggiata verso l’asse stradale, per una larghezza pari a m 4,00 circa;<br> 3. Restringimento delle corsie dx e sx di Viale John F. Kennedy, diretta verso il centro della città, nel tratto stradale compreso tra l’intersezione con Via Giulio Petroni e intersezione con Viale Luigi Einaudi/Corso Alcide de Gasperi; sull’isola spartitraffico dell’intera strada (asse stradale), per una larghezza pari a m 4,00 circa; <br>4. Restringimento delle corsie dx e sx di Viale Luigi Einaudi, diretta verso il centro della città, nel tratto stradale compreso tra l’intersezione con Viale John F. Kennedy/Corso Alcide de Gasperi e intersezione con Via della Costituente, sull’asse stradale di Viale Luigi Einaudi, per una larghezza pari a m 4,00 circa; <br>5. Divieto di fermata sui tratti di strada interessati dai lavori, lungo uno o entrambi i margini della carreggiata;<br>6. Transito a senso unico alternato nel tempo, regolato ai sensi dall’art. 42, comma 2 del D.P.R. 16 dicembre 1992, n.495, qualora la presenza dei lavori e del cantiere mobile - su strade percorribili secondo entrambi i sensi di marcia - determini un restringimento della carreggiata inferiore in larghezza a 5,60 metri. In tal caso occorrerà regolare il passaggio dei veicoli nel tempo ai sensi del comma 3 dell’articolo 42; <br>7. Divieto di transito sulla semicarreggiata impegnata dai lavori e dal cantiere mobile su strade percorribili a senso unico di marcia, aventi larghezza della carreggiata superiore a 6,00 metri; <br>8. Istituire il divieto di transito su strade percorribili a senso unico di marcia aventi larghezza della carreggiata uguale o inferiore a 6,00 metri, del tutto impegnate dai lavori e dal cantiere mobile.<br> 9. Rimozione forzata del veicolo lasciato in sosta in violazione del divieto di fermata istituito per motivi di manutenzione dovrà essere rimosso ai sensi dell’articolo 159, comma 1, lettera d) del Decreto legislativo 30 aprile1992, n.285<br>10. Sui tratti stradali in cui si darà esecuzione temporanea ai provvedimenti di circolazione, in deroga, i veicoli al servizio dell’impresa appaltatrice, o dei loro subappaltatori, potranno sostare per il tempo strettamente necessario alle attività connesse ai lavori;<br><br>Durata e tempistiche: 16/01/2026 - 30/05/2026]]></description>
-      <styleUrl>#line-E65100-5069</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8735623,41.1005408,0
-          16.8715077,41.1005448,0
-          16.8688523,41.1008359,0
-          16.867243,41.1009046,0
-          16.8673396,41.0997525,0
-          16.8676346,41.0970602,0
-          16.8674898,41.0957787,0
-          16.8665564,41.0938301,0
-          16.8661862,41.093074,0
-          16.8658375,41.0909192,0
-          16.8658483,41.0897143,0
-          16.8655961,41.0889947,0
-          16.8653279,41.0876483,0
-          16.8650973,41.0848544,0
-          16.8650007,41.0841347,0
-          16.8647164,41.0836252,0
-          16.8638663,41.081776,0
-          16.8621361,41.0785707,0
-          16.8610847,41.0756228,0
-          16.8610364,41.0746522,0
-          16.8627584,41.0686709,0
-          16.8627745,41.0674212,0
-          16.8625277,41.0664384,0
-          16.8611383,41.0647154,0
-          16.8608594,41.0642179,0
-          16.8602639,41.0608486,0
-          16.8596416,41.0594774,0
-          16.8582362,41.0574873,0
-          16.8578499,41.0562454,0
-          16.8575173,41.0551452,0
-          16.8571043,41.0544008,0
-          16.856203,41.0532237,0
-          16.8548029,41.0503474,0
-          16.8541753,41.0495262,0
-          16.8522226,41.0484177,0
-          16.850565,41.0469653,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>ORDINANZA 2026/01491
 DIVIETO DI TRANSITO
 STRADA SANTA CATERINA
@@ -2118,14 +2102,14 @@ IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/02595 
+      <name>ORDINANZA 2026/03047 
 DIVIETO DI FERMATA E RESTRINGIMENTO DI CARREGGIATA
 VIA CALDAROLA DA VIA MARESCIALLO VITTORIO MAGGIORE A VIA CAVALIERI DI VITTORIO VENETO
-REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
+BRT 
 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
-23/03/2026 - 24/06/2026  
+23/03/2026 - 24/07/2026  
 </name>
-      <description><![CDATA[PROROGATA FINO AL 24/06/2026<br>ORDINANZA 2026/02595<br>https://drive.google.com/file/d/1zy5MJvXb-bSd-E6Yj4K-djgOpNs3FD0C/view<br><br>PROROGATA FINO AL 24/05/2026 DALLA 2026/01986<br><br>https://drive.google.com/file/d/1jfN4jYiMuCGExWSm4B_yDGgUxQPd-kwU/view<br><br>ORDINANZA 2026/01427 <br><br>https://drive.google.com/file/d/11eA8bo6TWlYngNOlPP6wVvgazYwjOwRE/view<br><br>PROROGA DELL’ORDINANZA DIRIGENZIALE N. 2026/00891 LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA CALDAROLA FINO AL GIORNO 24.04.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br>1) Istituzione del divieto di fermata su via Caldarola, su entrambe le carreggiate, nel tratto stradale compreso tra via Maresciallo Vittorio Maggiore e via Cavalieri di Vittorio Veneto 2) Istituzione del restringimento di carreggiata su via Caldarola, su entrambe le carreggiate, nel tratto stradale compreso tra via Maresciallo Vittorio Maggiore e via Cavalieri di Vittorio Veneto<br>Durata e tempistiche: 23/03/2026 - 24/04/2026  <br><br>ORDINANZA 2026/00891 <br>PROROGA DELL’ORDINANZA DIRIGENZIALE N. 2026/00354<br><br>https://drive.google.com/file/d/15NL8937WW0HJGWSr7-Wwe1Dtn5m-7lyl/view<br><br>PROROGA DELL’ORDINANZA DIRIGENZIALE N. 2026/00354 LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA CALDAROLA FINO AL GIORNO 24.03.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>1) Istituzione del divieto di fermata su via Caldarola, su entrambe le carreggiate, nel tratto stradale compreso tra via Maresciallo Vittorio Maggiore e via Cavalieri di Vittorio Veneto <br>2) Istituzione del restringimento di carreggiata su via Caldarola, su entrambe le carreggiate, nel tratto stradale compreso tra via Maresciallo Vittorio Maggiore e via Cavalieri di Vittorio Veneto <br><br>Durata e tempistiche: 03/03/2026 - 24/03/2026  <br><br>2026/00354 <br>proroga  2025/04038 <br>https://drive.google.com/file/d/1IoSTENjtVO14YZzvC3KuLAsfRnK4vCOy/view<br><br>PROROGA: 23/01/2026 - 24/02/2026 <br><br><br>2025/03780<br>https://drive.google.com/file/d/1ISNmpw_6s235hinGZBGKRvZLatZjjms-/view<br>PROROGA: 2025/04038 <br>https://drive.google.com/file/d/17cudLjnhgLG0662J04aalnelb13SasBx/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 RESTRINGIMENTO CARREGGIATA VIA CALDAROLA NEL TRATTO COMPRESO VIA MARESCIALLO VITTORIO MAGGIORE E VIA CAVALIERI DI VITTORIO VENETO DALL'ESECUTIVITÀ DEL PRESENTE PROVVEDIMENTO FINO AL GIORNO 24.12.2025 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L<br><br>Restringimento Carreggiata via Caldarola nel tratto compreso via Maresciallo Vittorio Maggiore e via Cavalieri di Vittorio Veneto<br><br>Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati. <br><br><br>Durata e tempistiche: 24/11/2025 - 24/12/2025<br>PROROGA: 12/12/2025 - 24/01/2026 ]]></description>
+      <description><![CDATA[PROROGATA FINO AL 24/07/2026<br>ORDINANZA 2026/03047<br>https://drive.google.com/file/d/1aF3mlh5LG0YcjquVjquD9ShsOJwyb8c-/view<br><br>PROROGATA FINO AL 24/06/2026<br>ORDINANZA 2026/02595<br>https://drive.google.com/file/d/1zy5MJvXb-bSd-E6Yj4K-djgOpNs3FD0C/view<br><br>PROROGATA FINO AL 24/05/2026 DALLA 2026/01986<br>https://drive.google.com/file/d/1jfN4jYiMuCGExWSm4B_yDGgUxQPd-kwU/view<br><br>ORDINANZA 2026/01427 <br><br>https://drive.google.com/file/d/11eA8bo6TWlYngNOlPP6wVvgazYwjOwRE/view<br><br>PROROGA DELL’ORDINANZA DIRIGENZIALE N. 2026/00891 LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA CALDAROLA FINO AL GIORNO 24.04.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br>1) Istituzione del divieto di fermata su via Caldarola, su entrambe le carreggiate, nel tratto stradale compreso tra via Maresciallo Vittorio Maggiore e via Cavalieri di Vittorio Veneto 2) Istituzione del restringimento di carreggiata su via Caldarola, su entrambe le carreggiate, nel tratto stradale compreso tra via Maresciallo Vittorio Maggiore e via Cavalieri di Vittorio Veneto<br>Durata e tempistiche: 23/03/2026 - 24/04/2026  <br><br>ORDINANZA 2026/00891 <br>PROROGA DELL’ORDINANZA DIRIGENZIALE N. 2026/00354<br><br>https://drive.google.com/file/d/15NL8937WW0HJGWSr7-Wwe1Dtn5m-7lyl/view<br><br>PROROGA DELL’ORDINANZA DIRIGENZIALE N. 2026/00354 LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA CALDAROLA FINO AL GIORNO 24.03.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>1) Istituzione del divieto di fermata su via Caldarola, su entrambe le carreggiate, nel tratto stradale compreso tra via Maresciallo Vittorio Maggiore e via Cavalieri di Vittorio Veneto <br>2) Istituzione del restringimento di carreggiata su via Caldarola, su entrambe le carreggiate, nel tratto stradale compreso tra via Maresciallo Vittorio Maggiore e via Cavalieri di Vittorio Veneto <br><br>Durata e tempistiche: 03/03/2026 - 24/03/2026  <br><br>2026/00354 <br>proroga  2025/04038 <br>https://drive.google.com/file/d/1IoSTENjtVO14YZzvC3KuLAsfRnK4vCOy/view<br><br>PROROGA: 23/01/2026 - 24/02/2026 <br><br><br>2025/03780<br>https://drive.google.com/file/d/1ISNmpw_6s235hinGZBGKRvZLatZjjms-/view<br>PROROGA: 2025/04038 <br>https://drive.google.com/file/d/17cudLjnhgLG0662J04aalnelb13SasBx/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 RESTRINGIMENTO CARREGGIATA VIA CALDAROLA NEL TRATTO COMPRESO VIA MARESCIALLO VITTORIO MAGGIORE E VIA CAVALIERI DI VITTORIO VENETO DALL'ESECUTIVITÀ DEL PRESENTE PROVVEDIMENTO FINO AL GIORNO 24.12.2025 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L<br><br>Restringimento Carreggiata via Caldarola nel tratto compreso via Maresciallo Vittorio Maggiore e via Cavalieri di Vittorio Veneto<br><br>Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati. <br><br><br>Durata e tempistiche: 24/11/2025 - 24/12/2025<br>PROROGA: 12/12/2025 - 24/01/2026 ]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -2134,14 +2118,14 @@ IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/02595 
+      <name>ORDINANZA 2026/03047 
 DIVIETO DI FERMATA E RESTRINGIMENTO DI CARREGGIATA
 VIA CALDAROLA DA VIA MARESCIALLO VITTORIO MAGGIORE A VIA CAVALIERI DI VITTORIO VENETO
-REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
+BRT
 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
-23/03/2026 - 24/06/2026 
+23/03/2026 - 24/07/2026 
 </name>
-      <description><![CDATA[PROROGATA FINO AL 24/06/2026<br>ORDINANZA 2026/02595<br>https://drive.google.com/file/d/1zy5MJvXb-bSd-E6Yj4K-djgOpNs3FD0C/view<br>----<br>PROROGATA FINO AL 24/05/2026 DALLA 2026/01986<br>https://drive.google.com/file/d/1jfN4jYiMuCGExWSm4B_yDGgUxQPd-kwU/view<br><br>ORDINANZA 2026/01427 <br><br>https://drive.google.com/file/d/11eA8bo6TWlYngNOlPP6wVvgazYwjOwRE/view<br><br>PROROGA DELL’ORDINANZA DIRIGENZIALE N. 2026/00891 LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA CALDAROLA FINO AL GIORNO 24.04.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br>1) Istituzione del divieto di fermata su via Caldarola, su entrambe le carreggiate, nel tratto stradale compreso tra via Maresciallo Vittorio Maggiore e via Cavalieri di Vittorio Veneto 2) Istituzione del restringimento di carreggiata su via Caldarola, su entrambe le carreggiate, nel tratto stradale compreso tra via Maresciallo Vittorio Maggiore e via Cavalieri di Vittorio Veneto<br>Durata e tempistiche: 23/03/2026 - 24/04/2026  <br><br>ORDINANZA 2026/00891 <br>PROROGA DELL’ORDINANZA DIRIGENZIALE N. 2026/00354<br><br>https://drive.google.com/file/d/15NL8937WW0HJGWSr7-Wwe1Dtn5m-7lyl/view<br><br>PROROGA DELL’ORDINANZA DIRIGENZIALE N. 2026/00354 LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA CALDAROLA FINO AL GIORNO 24.03.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>1) Istituzione del divieto di fermata su via Caldarola, su entrambe le carreggiate, nel tratto stradale compreso tra via Maresciallo Vittorio Maggiore e via Cavalieri di Vittorio Veneto <br>2) Istituzione del restringimento di carreggiata su via Caldarola, su entrambe le carreggiate, nel tratto stradale compreso tra via Maresciallo Vittorio Maggiore e via Cavalieri di Vittorio Veneto <br><br>Durata e tempistiche: 03/03/2026 - 24/03/2026  <br><br>2026/00354 <br>proroga 2025/04038<br>https://drive.google.com/file/d/1IoSTENjtVO14YZzvC3KuLAsfRnK4vCOy/view <br><br>PROROGA: 23/01/2026 - 24/02/2026 <br><br>2025/03780<br>https://drive.google.com/file/d/1ISNmpw_6s235hinGZBGKRvZLatZjjms-/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 RESTRINGIMENTO CARREGGIATA VIA CALDAROLA NEL TRATTO COMPRESO VIA MARESCIALLO VITTORIO MAGGIORE E VIA CAVALIERI DI VITTORIO VENETO DALL'ESECUTIVITÀ DEL PRESENTE PROVVEDIMENTO FINO AL GIORNO 24.12.2025 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L<br><br>Restringimento Carreggiata via Caldarola nel tratto compreso via Maresciallo Vittorio Maggiore e via Cavalieri di Vittorio Veneto<br><br>Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati. <br><br><br>Durata e tempistiche: 24/11/2025 - 24/12/2025 ]]></description>
+      <description><![CDATA[PROROGATA FINO AL 24/07/2026<br>ORDINANZA 2026/03047<br>https://drive.google.com/file/d/1aF3mlh5LG0YcjquVjquD9ShsOJwyb8c-/view<br><br>PROROGATA FINO AL 24/06/2026<br>ORDINANZA 2026/02595<br>https://drive.google.com/file/d/1zy5MJvXb-bSd-E6Yj4K-djgOpNs3FD0C/view<br>----<br>PROROGATA FINO AL 24/05/2026 DALLA 2026/01986<br>https://drive.google.com/file/d/1jfN4jYiMuCGExWSm4B_yDGgUxQPd-kwU/view<br><br>ORDINANZA 2026/01427 <br><br>https://drive.google.com/file/d/11eA8bo6TWlYngNOlPP6wVvgazYwjOwRE/view<br><br>PROROGA DELL’ORDINANZA DIRIGENZIALE N. 2026/00891 LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA CALDAROLA FINO AL GIORNO 24.04.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br>1) Istituzione del divieto di fermata su via Caldarola, su entrambe le carreggiate, nel tratto stradale compreso tra via Maresciallo Vittorio Maggiore e via Cavalieri di Vittorio Veneto 2) Istituzione del restringimento di carreggiata su via Caldarola, su entrambe le carreggiate, nel tratto stradale compreso tra via Maresciallo Vittorio Maggiore e via Cavalieri di Vittorio Veneto<br>Durata e tempistiche: 23/03/2026 - 24/04/2026  <br><br>ORDINANZA 2026/00891 <br>PROROGA DELL’ORDINANZA DIRIGENZIALE N. 2026/00354<br><br>https://drive.google.com/file/d/15NL8937WW0HJGWSr7-Wwe1Dtn5m-7lyl/view<br><br>PROROGA DELL’ORDINANZA DIRIGENZIALE N. 2026/00354 LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA CALDAROLA FINO AL GIORNO 24.03.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>1) Istituzione del divieto di fermata su via Caldarola, su entrambe le carreggiate, nel tratto stradale compreso tra via Maresciallo Vittorio Maggiore e via Cavalieri di Vittorio Veneto <br>2) Istituzione del restringimento di carreggiata su via Caldarola, su entrambe le carreggiate, nel tratto stradale compreso tra via Maresciallo Vittorio Maggiore e via Cavalieri di Vittorio Veneto <br><br>Durata e tempistiche: 03/03/2026 - 24/03/2026  <br><br>2026/00354 <br>proroga 2025/04038<br>https://drive.google.com/file/d/1IoSTENjtVO14YZzvC3KuLAsfRnK4vCOy/view <br><br>PROROGA: 23/01/2026 - 24/02/2026 <br><br>2025/03780<br>https://drive.google.com/file/d/1ISNmpw_6s235hinGZBGKRvZLatZjjms-/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 RESTRINGIMENTO CARREGGIATA VIA CALDAROLA NEL TRATTO COMPRESO VIA MARESCIALLO VITTORIO MAGGIORE E VIA CAVALIERI DI VITTORIO VENETO DALL'ESECUTIVITÀ DEL PRESENTE PROVVEDIMENTO FINO AL GIORNO 24.12.2025 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L<br><br>Restringimento Carreggiata via Caldarola nel tratto compreso via Maresciallo Vittorio Maggiore e via Cavalieri di Vittorio Veneto<br><br>Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati. <br><br><br>Durata e tempistiche: 24/11/2025 - 24/12/2025 ]]></description>
       <styleUrl>#line-E65100-5069</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -2277,10 +2261,13 @@ IMPRESA ESECUTRICE: SOCIETÀ COSTRUZIONI GENERALI DI SANTO SRL
           16.8659543,41.0895413,0
           16.8653535,41.0870184,0
           16.8651282,41.0843984,0
-          16.8618988,41.0776213,0
-          16.8611263,41.0753648,0
-          16.8611263,41.0746207,0
-          16.8628858,41.0687081,0
+          16.8617808,41.0776213,0
+          16.861019,41.0753648,0
+          16.861017,41.0749923,0
+          16.8610364,41.0746522,0
+          16.8618988,41.0716401,0
+          16.8627584,41.0686709,0
+          16.8627899,41.0675126,0
           16.8626498,41.0663381,0
           16.8609976,41.0642754,0
           16.8603967,41.0609425,0
@@ -3652,18 +3639,13 @@ IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/02618
-PROROGA DELL’ORDINANZA DIRIGENZIALE N. 2026/01983
-LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -
-FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -
-TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:
-J91B21002850001
+      <name>ORDINANZA 2026/03048
 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU
-VIA TOSCANINI FINO AL 23.06.2026
+VIA TOSCANINI 
+BRT
 IMPRESA ESECUTRICE :R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
-TERMINE E DURATA: fino al giorno 23.06.2026
-</name>
-      <description><![CDATA[ORDINANZA 2026/02618<br>https://drive.google.com/file/d/1oXvB-RC33SK7OXrnieD0k9-XZvummeUA/view<br>a) Istituzione del senso unico di marcia per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via<br>Caldarola e via Paolo Aquilino, nella direzione che va da via Caldarola verso via Paolo Aquilino<br>b) Istituzione del divieto di fermata ambo i lati per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via<br>Caldarola e via Paolo Aquilino<br>c) Istituzione del restringimento di carreggiata per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via<br>Caldarola e via Paolo Aquilino<br>d) Istituzione dell'obbligo di svolta a destra per tutti i veicoli su via Tenente Cesare Suglia in corrispondenza<br>dell'intersezione con via Arturo Toscanini<br>e) Istituzione dell'obbligo di proseguire diritto e svoltare a destra per tutti i veicoli su Largo Puglia in<br>corrispondenza dell'intersezione con via Arturo Toscanini<br>f) Istituzione dell'obbligo di svolta a destra per tutti i veicoli su via Arturo Toscanini in corrispondenza<br>dell'intersezione con via Paolo Aquilino, per la corrente di traffico proveniente da via Gentile<br><br>g) Istituzione del divieto di accesso per tutti i veicoli su via Arturo Toscanini in corrispondenza dell'intersezione con<br>via Paolo Aquilino, per la corrente di traffico proveniente da via Gentile<br><br>2) Dagli obblighi e divieti di cui al punto 1) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati.<br>TERMINE E DURATA: fino al giorno 23.06.2026<br>PROROGATA DALLA 2026/01983 FINO AL 23/05/2026<br>https://drive.google.com/file/d/1x0MmF21-N_P1u6ACLOJn_b7bU3v6UV5b/view?usp=drive_open<br><br>PRORGATA DALLA 2026/01396<br>https://drive.google.com/file/d/1qOz8rXZocY6J9N4HUuIgRaqP3Ol5qMWZ/view<br>FINO AL 23/04/2026<br>-----<br>ORDINANZA 2026/00765 <br><br>https://drive.google.com/file/d/1ZtjSK0ZAWfJBdgOJ1rfFAaNoKwrmD8yA/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA TOSCANINI FINO AL 23.03.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br>2) Istituzione del senso unico di marcia per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via Caldarola e via Paolo Aquilino, nella direzione che va da via Caldarola verso via Paolo Aquilino 3) - Istituzione del divieto di fermata ambo i lati per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via Caldarola e via Paolo Aquilino 4) - Istituzione del restringimento di carreggiata per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via Caldarola e via Paolo Aquilino 5) - Istituzione dell'obbligo di svolta a destra per tutti i veicoli su via Tenente Cesare Suglia in corrispondenza dell'intersezione con via Arturo Toscanini 6) - Istituzione dell'obbligo di proseguire diritto e svoltare a destra per tutti i veicoli su Largo Puglia in corrispondenza dell'intersezione con via Arturo Toscanini 7) - Istituzione dell'obbligo di svolta a destra per tutti i veicoli su via Arturo Toscanini in corrispondenza dell'intersezione con via Paolo Aquilino, per la corrente di traffico proveniente da via Gentile 8) - Istituzione del divieto di accesso per tutti i veicoli su via Arturo Toscanini in corrispondenza dell'intersezione con via Paolo Aquilino, per la corrente di traffico proveniente da via Gentile 9) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’o]]></description>
+TERMINE E DURATA: fino al giorno 23/07/2026</name>
+      <description><![CDATA[PROROGATA FINO AL 23/07/2026<br>Ordinanza 2026/03048<br>https://drive.google.com/file/d/16rjTNBCHjdAvooHvC6x6Uhvr9kUCjGmQ/view<br><br>---<br>ORDINANZA 2026/02618<br>https://drive.google.com/file/d/1oXvB-RC33SK7OXrnieD0k9-XZvummeUA/view<br><br>a) Istituzione del senso unico di marcia per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via<br>Caldarola e via Paolo Aquilino, nella direzione che va da via Caldarola verso via Paolo Aquilino<br>b) Istituzione del divieto di fermata ambo i lati per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via<br>Caldarola e via Paolo Aquilino<br>c) Istituzione del restringimento di carreggiata per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via<br>Caldarola e via Paolo Aquilino<br>d) Istituzione dell'obbligo di svolta a destra per tutti i veicoli su via Tenente Cesare Suglia in corrispondenza<br>dell'intersezione con via Arturo Toscanini<br>e) Istituzione dell'obbligo di proseguire diritto e svoltare a destra per tutti i veicoli su Largo Puglia in<br>corrispondenza dell'intersezione con via Arturo Toscanini<br>f) Istituzione dell'obbligo di svolta a destra per tutti i veicoli su via Arturo Toscanini in corrispondenza<br>dell'intersezione con via Paolo Aquilino, per la corrente di traffico proveniente da via Gentile<br><br>g) Istituzione del divieto di accesso per tutti i veicoli su via Arturo Toscanini in corrispondenza dell'intersezione con<br>via Paolo Aquilino, per la corrente di traffico proveniente da via Gentile<br><br>2) Dagli obblighi e divieti di cui al punto 1) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati.<br>TERMINE E DURATA: fino al giorno 23.06.2026<br><br><br>PROROGATA DALLA 2026/01983 FINO AL 23/05/2026<br>https://drive.google.com/file/d/1x0MmF21-N_P1u6ACLOJn_b7bU3v6UV5b/view?usp=drive_open<br><br>PRORGATA DALLA 2026/01396<br>https://drive.google.com/file/d/1qOz8rXZocY6J9N4HUuIgRaqP3Ol5qMWZ/view<br>FINO AL 23/04/2026<br>-----<br>ORDINANZA 2026/00765 <br><br>https://drive.google.com/file/d/1ZtjSK0ZAWfJBdgOJ1rfFAaNoKwrmD8yA/view]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -3672,18 +3654,14 @@ TERMINE E DURATA: fino al giorno 23.06.2026
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/02618
-PROROGA DELL’ORDINANZA DIRIGENZIALE N. 2026/01983
-LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -
-FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -
-TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:
-J91B21002850001
+      <name>ORDINANZA 2026/03048
 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU
-VIA TOSCANINI FINO AL 23.06.2026
+VIA TOSCANINI 
+BRT
 IMPRESA ESECUTRICE :R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
-TERMINE E DURATA: fino al giorno 23.06.2026
+TERMINE E DURATA: fino al giorno 23/07/2026
 </name>
-      <description><![CDATA[ORDINANZA 2026/02618<br>https://drive.google.com/file/d/1oXvB-RC33SK7OXrnieD0k9-XZvummeUA/view<br>a) Istituzione del senso unico di marcia per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via<br>Caldarola e via Paolo Aquilino, nella direzione che va da via Caldarola verso via Paolo Aquilino<br>b) Istituzione del divieto di fermata ambo i lati per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via<br>Caldarola e via Paolo Aquilino<br>c) Istituzione del restringimento di carreggiata per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via<br>Caldarola e via Paolo Aquilino<br>d) Istituzione dell'obbligo di svolta a destra per tutti i veicoli su via Tenente Cesare Suglia in corrispondenza<br>dell'intersezione con via Arturo Toscanini<br>e) Istituzione dell'obbligo di proseguire diritto e svoltare a destra per tutti i veicoli su Largo Puglia in<br>corrispondenza dell'intersezione con via Arturo Toscanini<br>f) Istituzione dell'obbligo di svolta a destra per tutti i veicoli su via Arturo Toscanini in corrispondenza<br>dell'intersezione con via Paolo Aquilino, per la corrente di traffico proveniente da via Gentile<br><br>g) Istituzione del divieto di accesso per tutti i veicoli su via Arturo Toscanini in corrispondenza dell'intersezione con<br>via Paolo Aquilino, per la corrente di traffico proveniente da via Gentile<br><br>2) Dagli obblighi e divieti di cui al punto 1) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati.<br>TERMINE E DURATA: fino al giorno 23.06.2026<br><br><br>PROROGATA DALLA 2026/01983 FINO AL 23/05/2026<br>https://drive.google.com/file/d/1x0MmF21-N_P1u6ACLOJn_b7bU3v6UV5b/view?usp=drive_open<br><br>PRORGATA DALLA 2026/01396<br>https://drive.google.com/file/d/1qOz8rXZocY6J9N4HUuIgRaqP3Ol5qMWZ/view<br>FINO AL 23/04/2026<br>----<br>ORDINANZA 2026/00765 <br><br>https://drive.google.com/file/d/1ZtjSK0ZAWfJBdgOJ1rfFAaNoKwrmD8yA/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA TOSCANINI FINO AL 23.03.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br>2) Istituzione del senso unico di marcia per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via Caldarola e via Paolo Aquilino, nella direzione che va da via Caldarola verso via Paolo Aquilino 3) - Istituzione del divieto di fermata ambo i lati per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via Caldarola e via Paolo Aquilino 4) - Istituzione del restringimento di carreggiata per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via Caldarola e via Paolo Aquilino 5) - Istituzione dell'obbligo di svolta a destra per tutti i veicoli su via Tenente Cesare Suglia in corrispondenza dell'intersezione con via Arturo Toscanini 6) - Istituzione dell'obbligo di proseguire diritto e svoltare a destra per tutti i veicoli su Largo Puglia in corrispondenza dell'intersezione con via Arturo Toscanini 7) - Istituzione dell'obbligo di svolta a destra per tutti i veicoli su via Arturo Toscanini in corrispondenza dell'intersezione con via Paolo Aquilino, per la corrente di traffico proveniente da via Gentile 8) - Istituzione del divieto di accesso per tutti i veicoli su via Arturo Toscanini in corrispondenza dell'intersezione con via Paolo Aquilino, per la corrente di traffico proveniente da via Gentile 9) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’]]></description>
+      <description><![CDATA[PROROGATA FINO AL 23/07/2026<br>Ordinanza 2026/03048<br>https://drive.google.com/file/d/16rjTNBCHjdAvooHvC6x6Uhvr9kUCjGmQ/view<br><br>ORDINANZA 2026/02618<br>https://drive.google.com/file/d/1oXvB-RC33SK7OXrnieD0k9-XZvummeUA/view<br>a) Istituzione del senso unico di marcia per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via<br>Caldarola e via Paolo Aquilino, nella direzione che va da via Caldarola verso via Paolo Aquilino<br>b) Istituzione del divieto di fermata ambo i lati per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via<br>Caldarola e via Paolo Aquilino<br>c) Istituzione del restringimento di carreggiata per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via<br>Caldarola e via Paolo Aquilino<br>d) Istituzione dell'obbligo di svolta a destra per tutti i veicoli su via Tenente Cesare Suglia in corrispondenza<br>dell'intersezione con via Arturo Toscanini<br>e) Istituzione dell'obbligo di proseguire diritto e svoltare a destra per tutti i veicoli su Largo Puglia in<br>corrispondenza dell'intersezione con via Arturo Toscanini<br>f) Istituzione dell'obbligo di svolta a destra per tutti i veicoli su via Arturo Toscanini in corrispondenza<br>dell'intersezione con via Paolo Aquilino, per la corrente di traffico proveniente da via Gentile<br><br>g) Istituzione del divieto di accesso per tutti i veicoli su via Arturo Toscanini in corrispondenza dell'intersezione con<br>via Paolo Aquilino, per la corrente di traffico proveniente da via Gentile<br><br>2) Dagli obblighi e divieti di cui al punto 1) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati.<br>TERMINE E DURATA: fino al giorno 23.06.2026<br><br><br>PROROGATA DALLA 2026/01983 FINO AL 23/05/2026<br>https://drive.google.com/file/d/1x0MmF21-N_P1u6ACLOJn_b7bU3v6UV5b/view?usp=drive_open<br><br>PRORGATA DALLA 2026/01396<br>https://drive.google.com/file/d/1qOz8rXZocY6J9N4HUuIgRaqP3Ol5qMWZ/view<br>FINO AL 23/04/2026<br>----<br>ORDINANZA 2026/00765 <br><br>https://drive.google.com/file/d/1ZtjSK0ZAWfJBdgOJ1rfFAaNoKwrmD8yA/view]]></description>
       <styleUrl>#line-E65100-5263</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -3694,19 +3672,13 @@ TERMINE E DURATA: fino al giorno 23.06.2026
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/02617
-OGGETTO: PROROGA ORDINANZA DIRIGENZIALE N. 2026/01982
-LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -
-FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -
-TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:
-J91B21002850001
-REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU
-VIA QUINTINO SELLA FINO AL GIORNO 23.06.2026
-IMPRESA ESECUTRICE :R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
-TERMINE E DURATA: fino al giorno 23.06.2026
-
-</name>
-      <description><![CDATA[ORDINANZA 2026/02617<br>PROROGA ORDINANZA DIRIGENZIALE N. 2026/01982<br>https://drive.google.com/file/d/17KDVIvmJU2FADybgwGKLq73xftzCDWdj/view<br>L’istituzione del restringimento di carreggiata a tutti i veicoli su:<br>i) via Quintino Sella, sia per la corsia riservata per autobus e taxi che per la corsia veicolare.<br>b) L’istituzione del divieto di fermata a tutti i veicoli su:<br>i) via Quintino Sella;<br>2) Dagli obblighi e divieti di cui al punto 1) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati.<br>TERMINE E DURATA: fino al giorno 23.06.2026<br>PROROGATA DALLA 2026/01982 FINO AL 23/05/2026<br>https://drive.google.com/file/d/1to4tLI1QDT5Z5vzKUTt2UsnhkLx5-kzN/view<br><br><br>PROROGATA DALLA 2026/01397<br>https://drive.google.com/file/d/1EoiAuo0yNvu_IwwVL9QRj61HRU6Mu86M/view<br>FINO AL 23/04/2026<br>-----<br>ORDINANZA 2026/00786 <br><br>https://drive.google.com/file/d/1nb1jLQSDtIbD3m2_vuGLEkQpcTbGvNaC/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA QUINTINO SELLA DAL GIORNO 23.02.2026 FINO AL GIORNO 23.03.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) via Quintino Sella, sia per la corsia riservata per autobus e taxi che per la corsia veicolare. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) via Quintino Sella; 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati. <br><br><br>Durata e tempistiche: 23/02/2026 - 23/03/2026]]></description>
+      <name>ORDINANZA 2026/030498
+RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI FERMATA
+VIA QUINTINO SELLA
+BRT
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
+22/05/2026 - 23/07/2026</name>
+      <description><![CDATA[PROROGATA FINO AL 23/07/2026<br>Ordinanza 2026/03049<br>https://drive.google.com/file/d/1kBunUuyUw7uyTPI1oQ0nUONjRw3MRkWO/view<br>-----<br>ORDINANZA 2026/02617<br>PROROGA ORDINANZA DIRIGENZIALE N. 2026/01982<br>https://drive.google.com/file/d/17KDVIvmJU2FADybgwGKLq73xftzCDWdj/view<br>L’istituzione del restringimento di carreggiata a tutti i veicoli su:<br>i) via Quintino Sella, sia per la corsia riservata per autobus e taxi che per la corsia veicolare.<br>b) L’istituzione del divieto di fermata a tutti i veicoli su:<br>i) via Quintino Sella;<br>2) Dagli obblighi e divieti di cui al punto 1) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati.<br>TERMINE E DURATA: fino al giorno 23.06.2026<br><br>PROROGATA DALLA 2026/01982 FINO AL 23/05/2026<br>https://drive.google.com/file/d/1to4tLI1QDT5Z5vzKUTt2UsnhkLx5-kzN/view<br>-----<br><br>PROROGATA DALLA 2026/01397<br>https://drive.google.com/file/d/1EoiAuo0yNvu_IwwVL9QRj61HRU6Mu86M/view<br>FINO AL 23/04/2026<br>-----<br>ORDINANZA 2026/00786 <br><br>https://drive.google.com/file/d/1nb1jLQSDtIbD3m2_vuGLEkQpcTbGvNaC/view<br><br>Durata e tempistiche: 23/02/2026 - 23/03/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -3715,20 +3687,16 @@ TERMINE E DURATA: fino al giorno 23.06.2026
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/02617
-OGGETTO: PROROGA ORDINANZA DIRIGENZIALE N. 2026/01982
-LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -
-FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -
-TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:
-J91B21002850001
-REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU
-VIA QUINTINO SELLA FINO AL GIORNO 23.06.2026
-IMPRESA ESECUTRICE :R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
-TERMINE E DURATA: fino al giorno 23.06.2026
+      <name>ORDINANZA 2026/030498
+RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI FERMATA
+VIA QUINTINO SELLA
+BRT
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
+22/05/2026 - 23/07/2026
 
 
 </name>
-      <description><![CDATA[ORDINANZA 2026/02617<br>PROROGA ORDINANZA DIRIGENZIALE N. 2026/01982<br>https://drive.google.com/file/d/17KDVIvmJU2FADybgwGKLq73xftzCDWdj/view<br>L’istituzione del restringimento di carreggiata a tutti i veicoli su:<br>i) via Quintino Sella, sia per la corsia riservata per autobus e taxi che per la corsia veicolare.<br>b) L’istituzione del divieto di fermata a tutti i veicoli su:<br>i) via Quintino Sella;<br>2) Dagli obblighi e divieti di cui al punto 1) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati.<br>TERMINE E DURATA: fino al giorno 23.06.2026<br><br><br>PROROGATA DALLA 2026/01982 FINO AL 23/05/2026<br>https://drive.google.com/file/d/1to4tLI1QDT5Z5vzKUTt2UsnhkLx5-kzN/view<br><br>PROROGATA DALLA 2026/01397<br>https://drive.google.com/file/d/1EoiAuo0yNvu_IwwVL9QRj61HRU6Mu86M/view<br>FINO AL 23/04/2026<br>-------<br>ORDINANZA 2026/00786 <br><br>https://drive.google.com/file/d/1nb1jLQSDtIbD3m2_vuGLEkQpcTbGvNaC/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA QUINTINO SELLA DAL GIORNO 23.02.2026 FINO AL GIORNO 23.03.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) via Quintino Sella, sia per la corsia riservata per autobus e taxi che per la corsia veicolare. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) via Quintino Sella; 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati. <br><br>Durata e tempistiche: 23/02/2026 - 23/03/2026]]></description>
+      <description><![CDATA[PROROGATA FINO AL 23/07/2026<br>Ordinanza 2026/03049<br>https://drive.google.com/file/d/1kBunUuyUw7uyTPI1oQ0nUONjRw3MRkWO/view<br>-----<br>ORDINANZA 2026/02617<br>PROROGA ORDINANZA DIRIGENZIALE N. 2026/01982<br>https://drive.google.com/file/d/17KDVIvmJU2FADybgwGKLq73xftzCDWdj/view<br>L’istituzione del restringimento di carreggiata a tutti i veicoli su:<br>i) via Quintino Sella, sia per la corsia riservata per autobus e taxi che per la corsia veicolare.<br>b) L’istituzione del divieto di fermata a tutti i veicoli su:<br>i) via Quintino Sella;<br>2) Dagli obblighi e divieti di cui al punto 1) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati.<br>TERMINE E DURATA: fino al giorno 23.06.2026<br><br><br>PROROGATA DALLA 2026/01982 FINO AL 23/05/2026<br>https://drive.google.com/file/d/1to4tLI1QDT5Z5vzKUTt2UsnhkLx5-kzN/view<br><br>PROROGATA DALLA 2026/01397<br>https://drive.google.com/file/d/1EoiAuo0yNvu_IwwVL9QRj61HRU6Mu86M/view<br>FINO AL 23/04/2026<br>-------<br>ORDINANZA 2026/00786 <br><br>https://drive.google.com/file/d/1nb1jLQSDtIbD3m2_vuGLEkQpcTbGvNaC/view<br><br>Durata e tempistiche: 23/02/2026 - 23/03/2026]]></description>
       <styleUrl>#line-E65100-5069</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -3739,14 +3707,15 @@ TERMINE E DURATA: fino al giorno 23.06.2026
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/01975
+      <name>ORDINANZA 2026/03008 
 DIVIETO DI TRANSITO
-VIA CALDAROLA DA VIA MAGNA GRECIA A VIA ARISTOSSENO
- LAVORI DI SCAVO
+VIA CALDAROLA TRA VIA MAGNA GRECIA E VIA ARISTOSSENO
+LAVORI DI SCAVO
 IMPRESA ESECUTRICE: DMF COSTRUZIONI 
-17/04/2026 - 31/05/2026
+RICHIEDENTE: E-DISTRIBUZIONE
+22/06/2026 - 30/06/2026
 </name>
-      <description><![CDATA[ORDINANZA 2026/01975<br><br>https://drive.google.com/file/d/1na-f3vSfMKEkRXelPvstM3Ns1WBmm5JL/view<br><br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU VIA CALDAROLA DALLA DATA DI EMANAZIONE DELLA PRESENTE ORDINANZA AL GIORNO 31.5.2026 PER ESECUZIONE DI LAVORI DI SCAVO RICHIEDENTE: E-DISTRIBUZIONE IMPRESA ESECUTRICE: DMF COSTRUZIONI <br><br>a) L’istituzione del divieto di transito a tutti i veicoli, eccetto frontisti sui seguenti tratti stradali: i) Via Caldarola nel tratto stradale compreso tra via Magna Grecia e via Aristosseno; (1) L’ingresso e l’uscita dei frontisti diretti su via Caldarola nel tratto compreso tra via Magna Grecia ed il civ. 26 dovrà avvenire da via Magna Grecia (2) L’ingresso e l’uscita dei frontisti diretti su via Caldarola nel tratto compreso tra via Aristosseno ed il civ. 24 dovrà avvenire da via Aristosseno b) L’istituzione dell’obbligo di svolta a destra a tutti i veicoli, eccetto frontisti, sui seguenti tratti stradali: i) Via Aristosseno all’intersezione con via Caldarola;<br>a) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. 2) Dai divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza;<br><br>Durata e tempistiche: 17/04/2026 - 31/05/2026<br><br>ORDINANZA 2026/00787 <br><br><br>https://drive.google.com/file/d/1L9kVLgpHjV8F7v9iFS3x4U3SWAx27Av7/view<br><br><br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU VIA CALDAROLA DAL GIORNO 23.02.2026 AL GIORNO 30.03.2026 PER ESECUZIONE DI LAVORI DI SCAVO RICHIEDENTE: E-DISTRIBUZIONE IMPRESA ESECUTRICE: DMF COSTRUZIONI <br>a) L’istituzione del divieto di transito a tutti i veicoli, eccetto frontisti sui seguenti tratti stradali: i) Via Caldarola nel tratto stradale compreso tra via Magna Grecia e via Aristosseno; (1) L’ingresso e l’uscita dei frontisti diretti su via Caldarola nel tratto compreso tra via Magna Grecia ed il civ. 26 dovrà avvenire da via Magna Grecia (2) L’ingresso e l’uscita dei frontisti diretti su via Caldarola nel tratto compreso tra via Aristosseno ed il civ. 24 dovrà avvenire da via Aristosseno b) L’istituzione dell’obbligo di svolta a destra a tutti i veicoli, eccetto frontisti, sui seguenti tratti stradali: i) Via Aristosseno all’intersezione con via Caldarola; a) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. 2) Dai divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza;<br><br><br>Durata e tempistiche: 23/02/2026 - 30/03/2026]]></description>
+      <description><![CDATA[ORDINANZA 2026/03008 <br><br>https://drive.google.com/file/d/1BWPOvaKPV50DSq1hc6t2Uwp7v05e4Uic/view<br><br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU VIA CALDAROLA DALLA DATA DI EMANAZIONE DELLA PRESENTE ORDINANZA AL GIORNO 30.6.2026 PER ESECUZIONE DI LAVORI DI SCAVO RICHIEDENTE: E-DISTRIBUZIONE IMPRESA ESECUTRICE: DMF COSTRUZIONI <br><br>a) L’istituzione del divieto di transito a tutti i veicoli, eccetto frontisti sui seguenti tratti stradali: i) Via Caldarola nel tratto stradale compreso tra via Magna Grecia e via Aristosseno; (1) L’ingresso e l’uscita dei frontisti diretti su via Caldarola nel tratto compreso tra via Magna Grecia ed il civ. 26 dovrà avvenire da via Magna Grecia (2) L’ingresso e l’uscita dei frontisti diretti su via Caldarola nel tratto compreso tra via Aristosseno ed il civ. 24 dovrà avvenire da via Aristosseno b) L’istituzione dell’obbligo di svolta a destra a tutti i veicoli, eccetto frontisti, sui seguenti tratti stradali: i) Via Aristosseno all’intersezione con via Caldarola; a) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. <br><br>Durata e tempistiche: 22/06/2026 - 30/06/2026<br><br>ORDINANZA 2026/01975<br><br>https://drive.google.com/file/d/1na-f3vSfMKEkRXelPvstM3Ns1WBmm5JL/view<br><br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU VIA CALDAROLA DALLA DATA DI EMANAZIONE DELLA PRESENTE ORDINANZA AL GIORNO 31.5.2026 PER ESECUZIONE DI LAVORI DI SCAVO RICHIEDENTE: E-DISTRIBUZIONE IMPRESA ESECUTRICE: DMF COSTRUZIONI <br><br>a) L’istituzione del divieto di transito a tutti i veicoli, eccetto frontisti sui seguenti tratti stradali: i) Via Caldarola nel tratto stradale compreso tra via Magna Grecia e via Aristosseno; (1) L’ingresso e l’uscita dei frontisti diretti su via Caldarola nel tratto compreso tra via Magna Grecia ed il civ. 26 dovrà avvenire da via Magna Grecia (2) L’ingresso e l’uscita dei frontisti diretti su via Caldarola nel tratto compreso tra via Aristosseno ed il civ. 24 dovrà avvenire da via Aristosseno b) L’istituzione dell’obbligo di svolta a destra a tutti i veicoli, eccetto frontisti, sui seguenti tratti stradali: i) Via Aristosseno all’intersezione con via Caldarola;<br>a) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. 2) Dai divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza;<br><br>Durata e tempistiche: 17/04/2026 - 31/05/2026<br><br>ORDINANZA 2026/00787 <br><br><br>https://drive.google.com/file/d/1L9kVLgpHjV8F7v9iFS3x4U3SWAx27Av7/view<br><br><br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU VIA CALDAROLA DAL GIORNO 23.02.2026 AL GIORNO 30.03.2026 PER ESECUZIONE DI LAVORI DI SCAVO RICHIEDENTE: E-DISTRIBUZIONE IMPRESA ESECUTRICE: DMF COSTRUZIONI <br>a) L’istituzione del divieto di transito a tutti i veicoli, eccetto frontisti sui seguenti tratti stradali: i) Via Caldarola nel tratto stradale compreso tra via Magna Grecia e via Aristosseno; (1) L’ingresso e l’uscita dei frontisti diretti su via Caldarola nel tratto compreso tra via Magna Grecia ed il civ. 26 dovrà avvenire da via Magna Grecia (2) L’ingresso e l’uscita dei frontisti diretti su via Caldarola nel tratto compreso tra via Aristosseno ed il civ. 24 dovrà avvenire da via Aristosseno b) L’istituzione dell’obbligo di svolta a destra a tutti i veicoli, eccetto frontisti, sui seguenti tratti stradali: i) Via Aristosseno all’intersezione con via Caldarola; a) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. 2) Dai divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i vei]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -3755,14 +3724,15 @@ IMPRESA ESECUTRICE: DMF COSTRUZIONI
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/01975
+      <name>ORDINANZA 2026/03008 
 DIVIETO DI TRANSITO
-VIA CALDAROLA DA VIA MAGNA GRECIA A VIA ARISTOSSENO
- LAVORI DI SCAVO
+VIA CALDAROLA TRA VIA MAGNA GRECIA E VIA ARISTOSSENO
+LAVORI DI SCAVO
 IMPRESA ESECUTRICE: DMF COSTRUZIONI 
-17/04/2026 - 31/05/2026
+RICHIEDENTE: E-DISTRIBUZIONE
+22/06/2026 - 30/06/2026
 </name>
-      <description><![CDATA[ORDINANZA 2026/01975<br><br>https://drive.google.com/file/d/1na-f3vSfMKEkRXelPvstM3Ns1WBmm5JL/view<br><br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU VIA CALDAROLA DALLA DATA DI EMANAZIONE DELLA PRESENTE ORDINANZA AL GIORNO 31.5.2026 PER ESECUZIONE DI LAVORI DI SCAVO RICHIEDENTE: E-DISTRIBUZIONE IMPRESA ESECUTRICE: DMF COSTRUZIONI <br><br>a) L’istituzione del divieto di transito a tutti i veicoli, eccetto frontisti sui seguenti tratti stradali: i) Via Caldarola nel tratto stradale compreso tra via Magna Grecia e via Aristosseno; (1) L’ingresso e l’uscita dei frontisti diretti su via Caldarola nel tratto compreso tra via Magna Grecia ed il civ. 26 dovrà avvenire da via Magna Grecia (2) L’ingresso e l’uscita dei frontisti diretti su via Caldarola nel tratto compreso tra via Aristosseno ed il civ. 24 dovrà avvenire da via Aristosseno b) L’istituzione dell’obbligo di svolta a destra a tutti i veicoli, eccetto frontisti, sui seguenti tratti stradali: i) Via Aristosseno all’intersezione con via Caldarola;<br>a) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. 2) Dai divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza;<br><br>Durata e tempistiche: 17/04/2026 - 31/05/2026<br><br>ORDINANZA 2026/00787 <br><br><br>https://drive.google.com/file/d/1L9kVLgpHjV8F7v9iFS3x4U3SWAx27Av7/view<br><br><br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU VIA CALDAROLA DAL GIORNO 23.02.2026 AL GIORNO 30.03.2026 PER ESECUZIONE DI LAVORI DI SCAVO RICHIEDENTE: E-DISTRIBUZIONE IMPRESA ESECUTRICE: DMF COSTRUZIONI <br>a) L’istituzione del divieto di transito a tutti i veicoli, eccetto frontisti sui seguenti tratti stradali: i) Via Caldarola nel tratto stradale compreso tra via Magna Grecia e via Aristosseno; (1) L’ingresso e l’uscita dei frontisti diretti su via Caldarola nel tratto compreso tra via Magna Grecia ed il civ. 26 dovrà avvenire da via Magna Grecia (2) L’ingresso e l’uscita dei frontisti diretti su via Caldarola nel tratto compreso tra via Aristosseno ed il civ. 24 dovrà avvenire da via Aristosseno b) L’istituzione dell’obbligo di svolta a destra a tutti i veicoli, eccetto frontisti, sui seguenti tratti stradali: i) Via Aristosseno all’intersezione con via Caldarola; a) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. 2) Dai divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza;<br><br><br>Durata e tempistiche: 23/02/2026 - 30/03/2026]]></description>
+      <description><![CDATA[ORDINANZA 2026/03008 <br><br>https://drive.google.com/file/d/1BWPOvaKPV50DSq1hc6t2Uwp7v05e4Uic/view<br><br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU VIA CALDAROLA DALLA DATA DI EMANAZIONE DELLA PRESENTE ORDINANZA AL GIORNO 30.6.2026 PER ESECUZIONE DI LAVORI DI SCAVO RICHIEDENTE: E-DISTRIBUZIONE IMPRESA ESECUTRICE: DMF COSTRUZIONI <br><br>a) L’istituzione del divieto di transito a tutti i veicoli, eccetto frontisti sui seguenti tratti stradali: i) Via Caldarola nel tratto stradale compreso tra via Magna Grecia e via Aristosseno; (1) L’ingresso e l’uscita dei frontisti diretti su via Caldarola nel tratto compreso tra via Magna Grecia ed il civ. 26 dovrà avvenire da via Magna Grecia (2) L’ingresso e l’uscita dei frontisti diretti su via Caldarola nel tratto compreso tra via Aristosseno ed il civ. 24 dovrà avvenire da via Aristosseno b) L’istituzione dell’obbligo di svolta a destra a tutti i veicoli, eccetto frontisti, sui seguenti tratti stradali: i) Via Aristosseno all’intersezione con via Caldarola; a) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. <br><br>Durata e tempistiche: 22/06/2026 - 30/06/2026<br><br>ORDINANZA 2026/01975<br><br>https://drive.google.com/file/d/1na-f3vSfMKEkRXelPvstM3Ns1WBmm5JL/view<br><br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU VIA CALDAROLA DALLA DATA DI EMANAZIONE DELLA PRESENTE ORDINANZA AL GIORNO 31.5.2026 PER ESECUZIONE DI LAVORI DI SCAVO RICHIEDENTE: E-DISTRIBUZIONE IMPRESA ESECUTRICE: DMF COSTRUZIONI <br><br>a) L’istituzione del divieto di transito a tutti i veicoli, eccetto frontisti sui seguenti tratti stradali: i) Via Caldarola nel tratto stradale compreso tra via Magna Grecia e via Aristosseno; (1) L’ingresso e l’uscita dei frontisti diretti su via Caldarola nel tratto compreso tra via Magna Grecia ed il civ. 26 dovrà avvenire da via Magna Grecia (2) L’ingresso e l’uscita dei frontisti diretti su via Caldarola nel tratto compreso tra via Aristosseno ed il civ. 24 dovrà avvenire da via Aristosseno b) L’istituzione dell’obbligo di svolta a destra a tutti i veicoli, eccetto frontisti, sui seguenti tratti stradali: i) Via Aristosseno all’intersezione con via Caldarola;<br>a) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. 2) Dai divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza;<br><br>Durata e tempistiche: 17/04/2026 - 31/05/2026<br><br>ORDINANZA 2026/00787 <br><br><br>https://drive.google.com/file/d/1L9kVLgpHjV8F7v9iFS3x4U3SWAx27Av7/view<br><br><br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU VIA CALDAROLA DAL GIORNO 23.02.2026 AL GIORNO 30.03.2026 PER ESECUZIONE DI LAVORI DI SCAVO RICHIEDENTE: E-DISTRIBUZIONE IMPRESA ESECUTRICE: DMF COSTRUZIONI <br>a) L’istituzione del divieto di transito a tutti i veicoli, eccetto frontisti sui seguenti tratti stradali: i) Via Caldarola nel tratto stradale compreso tra via Magna Grecia e via Aristosseno; (1) L’ingresso e l’uscita dei frontisti diretti su via Caldarola nel tratto compreso tra via Magna Grecia ed il civ. 26 dovrà avvenire da via Magna Grecia (2) L’ingresso e l’uscita dei frontisti diretti su via Caldarola nel tratto compreso tra via Aristosseno ed il civ. 24 dovrà avvenire da via Aristosseno b) L’istituzione dell’obbligo di svolta a destra a tutti i veicoli, eccetto frontisti, sui seguenti tratti stradali: i) Via Aristosseno all’intersezione con via Caldarola; a) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. 2) Dai divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i vei]]></description>
       <styleUrl>#line-E65100-4294</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -3902,39 +3872,6 @@ IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00794 
-DIVIETO DI SOSTA E DI FERMATA AMBO I LATI
-VIA NICOLAI DA VIA RAVANAS A VIA BRIGATA BARI
-MANUTENZIONE STRAORDINARIA DELLE OPERE A RETE IDRICHE E FOGNARIE IMPRESA ESECUTRICE: INGALLINA S.R.L.
-01/03/2026 - 25/05/2026 </name>
-      <description><![CDATA[ORDINANZA 2026/00794 <br>https://drive.google.com/file/d/1ALTOSUs85jpdMucnWCPQLLCAZco8XUUs/view<br><br>ISTITUZIONE TEMPORANEAMENTE DI DIVIETO DI SOSTA E DI FERMATA AMBO I LATI PER SOTTO-CANTIERI DI LUNGHEZZA MEDIA PARI A CIRCA 50 METRI DI VIA NICOLAI NEL TRATTO COMPRESO TRA VIA RAVANAS E VIA BRIGATA BARI PER LAVORI DI MANUTENZIONE STRAORDINARIA DELLE OPERE A RETE IDRICHE E FOGNARIE DELLA STO BA-BAT – AET BARI – SOSTITUZIONE DELLA CONDOTTA IDRICA IN VIA NICOLAI DAL 01 MARZO 2026 E PER 90 GIORNI NATURALI E CONSECUTIVI ISTANTE: AQP SOCIETÀ: INGALLINA S.R.L.<br><br>Durata e tempistiche: 23/02/2026 - 25/05/2026  ]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8543683,41.1204456,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00794 
-DIVIETO DI SOSTA E DI FERMATA AMBO I LATI
-VIA NICOLAI DA VIA RAVANAS A VIA BRIGATA BARI
-MANUTENZIONE STRAORDINARIA DELLE OPERE A RETE IDRICHE E FOGNARIE
-IMPRESA ESECUTRICE: INGALLINA S.R.L.
-01/03/2026 - 25/05/2026 </name>
-      <description><![CDATA[ORDINANZA 2026/00794 <br>https://drive.google.com/file/d/1ALTOSUs85jpdMucnWCPQLLCAZco8XUUs/view<br><br>ISTITUZIONE TEMPORANEAMENTE DI DIVIETO DI SOSTA E DI FERMATA AMBO I LATI PER SOTTO-CANTIERI DI LUNGHEZZA MEDIA PARI A CIRCA 50 METRI DI VIA NICOLAI NEL TRATTO COMPRESO TRA VIA RAVANAS E VIA BRIGATA BARI PER LAVORI DI MANUTENZIONE STRAORDINARIA DELLE OPERE A RETE IDRICHE E FOGNARIE DELLA STO BA-BAT – AET BARI – SOSTITUZIONE DELLA CONDOTTA IDRICA IN VIA NICOLAI DAL 01 MARZO 2026 E PER 90 GIORNI NATURALI E CONSECUTIVI ISTANTE: AQP SOCIETÀ: INGALLINA S.R.L.<br><br>Durata e tempistiche: 23/02/2026 - 25/05/2026  ]]></description>
-      <styleUrl>#line-E65100-5456</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.858775,41.120712,0
-          16.8560698,41.1205557,0
-          16.8531596,41.1204082,0
-          16.8521618,41.1203476,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>ORDINANZA 2026/00801
 DIVIETO DI SOSTA E FERMATA AMBO I LATI E CHIUSURA AL TRAFFICO VEICOLARE 
 VIA MANZONI NEL TRATTO COMPRESO TRA VIA DANTE ALIGHIERI E VIA NICOLAI
@@ -4043,14 +3980,14 @@ IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/02616
+      <name>ORDINANZA 2026/03061
 RESTRINGIMENTO DI CARREGGIATA, DIVIETO DI FERMATA
 VIA MAGNA GRECIA DA VIA CALDAROLA A VIA PEUCETIA
 LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
-22/05/2026 - 24/06/2026  
+22/05/2026 - 24/07/2026  
 </name>
-      <description><![CDATA[PROROGA ORDINANZA 2026/02616<br>DAL 22/05/2026 al 24/06/2026<br>https://drive.google.com/file/d/1TAHT69hfnaeGUB1KaUSvZyKNzrPbDGG3/view<br><br><br>PROROGATA DALLA 2026/01981 FINO AL 24/05/2026<br>https://drive.google.com/file/d/1ORxdkIk8tzWrAdnipMipb06P2cUEYrOj/view<br><br>ORDINANZA 2026/01425 <br><br>https://drive.google.com/file/d/1OG67Bqd5VF10CZ1ZVlTivkKV8JiHw7yr/view<br><br>PROROGA ORDINANZA 2026/00827 LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA MAGNA GRECIA FINO AL 24.04.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) via Magna Grecia nel tratto stradale compreso tra via Caldarola e via Peucetia, su tutte le carreggiate. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) via Magna Grecia nel tratto stradale compreso tra via Caldarola e via Peucetia, su tutte le carreggiate. 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati.<br><br>Durata e tempistiche: 23/03/2026 - 24/04/2026<br><br>ORDINANZA 2026/00827<br>https://drive.google.com/file/d/15Vj8W_igIote9aFFNxD0lhEuzSdCIN5C/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA MAGNA GRECIA FINO AL 24.03.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) via Magna Grecia nel tratto stradale compreso tra via Caldarola e via Peucetia, su tutte le carreggiate. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) via Magna Grecia nel tratto stradale compreso tra via Caldarola e via Peucetia, su tutte le carreggiate. 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati. <br><br><br>Durata e tempistiche: 24/02/2026 - 24/03/2026 ]]></description>
+      <description><![CDATA[PROROGATA FINO AL 24/07/2026<br>Ordinanza 2026/03050<br>https://drive.google.com/file/d/1m82FtFQPT4PA8NrpWI171yBZi8f1zjzA/view<br><br> ---<br>PROROGA ORDINANZA 2026/02616<br>DAL 22/05/2026 al 24/06/2026<br>https://drive.google.com/file/d/1TAHT69hfnaeGUB1KaUSvZyKNzrPbDGG3/view<br><br><br>PROROGATA DALLA 2026/01981 FINO AL 24/05/2026<br>https://drive.google.com/file/d/1ORxdkIk8tzWrAdnipMipb06P2cUEYrOj/view<br><br>ORDINANZA 2026/01425 <br><br>https://drive.google.com/file/d/1OG67Bqd5VF10CZ1ZVlTivkKV8JiHw7yr/view<br><br>PROROGA ORDINANZA 2026/00827 LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA MAGNA GRECIA FINO AL 24.04.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) via Magna Grecia nel tratto stradale compreso tra via Caldarola e via Peucetia, su tutte le carreggiate. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) via Magna Grecia nel tratto stradale compreso tra via Caldarola e via Peucetia, su tutte le carreggiate. 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati.<br><br>Durata e tempistiche: 23/03/2026 - 24/04/2026<br><br>ORDINANZA 2026/00827<br>https://drive.google.com/file/d/15Vj8W_igIote9aFFNxD0lhEuzSdCIN5C/view<br><br>Durata e tempistiche: 24/02/2026 - 24/03/2026 ]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -4059,14 +3996,14 @@ IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/02616
+      <name>ORDINANZA 2026/03061
 RESTRINGIMENTO DI CARREGGIATA, DIVIETO DI FERMATA
 VIA MAGNA GRECIA DA VIA CALDAROLA A VIA PEUCETIA
 LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
-22/05/2026 - 24/06/2026  
+22/05/2026 - 24/07/2026
 </name>
-      <description><![CDATA[PROROGATA DALLA 2026/01981 FINO AL 24/05/2026<br>https://drive.google.com/file/d/1ORxdkIk8tzWrAdnipMipb06P2cUEYrOj/view<br><br>ORDINANZA 2026/01425 <br><br>https://drive.google.com/file/d/1OG67Bqd5VF10CZ1ZVlTivkKV8JiHw7yr/view<br><br>PROROGA ORDINANZA 2026/00827 LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA MAGNA GRECIA FINO AL 24.04.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) via Magna Grecia nel tratto stradale compreso tra via Caldarola e via Peucetia, su tutte le carreggiate. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) via Magna Grecia nel tratto stradale compreso tra via Caldarola e via Peucetia, su tutte le carreggiate. 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati.<br><br>Durata e tempistiche: 23/03/2026 - 24/04/2026<br><br>ORDINANZA 2026/00827<br>https://drive.google.com/file/d/15Vj8W_igIote9aFFNxD0lhEuzSdCIN5C/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA MAGNA GRECIA FINO AL 24.03.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) via Magna Grecia nel tratto stradale compreso tra via Caldarola e via Peucetia, su tutte le carreggiate. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) via Magna Grecia nel tratto stradale compreso tra via Caldarola e via Peucetia, su tutte le carreggiate. 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati. <br><br><br>Durata e tempistiche: 24/02/2026 - 24/03/2026 ]]></description>
+      <description><![CDATA[PROROGATA FINO AL 24/07/2026<br>Ordinanza 2026/03050<br>https://drive.google.com/file/d/1m82FtFQPT4PA8NrpWI171yBZi8f1zjzA/view<br><br>PROROGATA DALLA 2026/01981 FINO AL 24/05/2026<br>https://drive.google.com/file/d/1ORxdkIk8tzWrAdnipMipb06P2cUEYrOj/view<br><br>ORDINANZA 2026/01425 <br><br>https://drive.google.com/file/d/1OG67Bqd5VF10CZ1ZVlTivkKV8JiHw7yr/view<br><br>PROROGA ORDINANZA 2026/00827 <br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA MAGNA GRECIA FINO AL 24.04.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) via Magna Grecia nel tratto stradale compreso tra via Caldarola e via Peucetia, su tutte le carreggiate. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) via Magna Grecia nel tratto stradale compreso tra via Caldarola e via Peucetia, su tutte le carreggiate. 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati.<br><br>Durata e tempistiche: 23/03/2026 - 24/04/2026<br><br>ORDINANZA 2026/00827<br>https://drive.google.com/file/d/15Vj8W_igIote9aFFNxD0lhEuzSdCIN5C/view<br><br>Durata e tempistiche: 24/02/2026 - 24/03/2026 ]]></description>
       <styleUrl>#line-E65100-4294</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -4814,11 +4751,11 @@ IMPRESA ESECUTRICE: INGALLINA S.R.L.
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
-          16.8530376,41.1203749,0
-          16.8540676,41.1204295,0
-          16.8553309,41.1205063,0
-          16.8574096,41.1206154,0
-          16.8588017,41.1206942,0
+          16.8530269,41.1204355,0
+          16.8540569,41.1204901,0
+          16.8553202,41.1205669,0
+          16.8573989,41.120676,0
+          16.858791,41.1207548,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -5616,42 +5553,6 @@ IMPRESA ESECUTRICE: PATANO IMPIANTI & COSTRUZIONI S.R.L
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/01479
-DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON TRANSITO VEICOLARE
-CON SENSO UNICO ALTERNATO E RESTRINGIMENTO CARREGGIATA 
-VIA GENTILE DA CIV. 1 FINO ALL’INGRESSO DELLA REGIONE PUGLIA INCROCI COMPRESI 
-LAVORI RETI IDRICHE
-IMPRESA ESECUTRICE:ACCIONA AGUA S.A.
-30/03/2026 - 31/05/2026
-</name>
-      <description><![CDATA[Ordinanza: 2026/01479<br><br>https://drive.google.com/file/d/1NJSdtgBqnl3kUV44i0DVjbTr6YUBS_AZ/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON TRANSITO VEICOLARE<br>CON SENSO UNICO ALTERNATO NONCHÈ RESTRINGIMENTO<br>CARREGGIATA SU VIA GENTILE DA CIV. 1 FINO ALL’INGRESSO DELLA<br>REGIONE PUGLIA INCROCI COMPRESI, PER INTERVENTI MIRATI A<br>CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br><br>Durata e Tempistiche: 30/03/2026 - 31/05/2026]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.9112176,41.1079055,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/01479
-DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON TRANSITO VEICOLARE
-CON SENSO UNICO ALTERNATO E RESTRINGIMENTO CARREGGIATA 
-VIA GENTILE DA CIV. 1 FINO ALL’INGRESSO DELLA REGIONE PUGLIA INCROCI COMPRESI 
-LAVORI RETI IDRICHE
-IMPRESA ESECUTRICE:ACCIONA AGUA S.A.
-30/03/2026 - 31/05/2026</name>
-      <description><![CDATA[Ordinanza: 2026/01479<br><br>https://drive.google.com/file/d/1NJSdtgBqnl3kUV44i0DVjbTr6YUBS_AZ/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON TRANSITO VEICOLARE<br>CON SENSO UNICO ALTERNATO NONCHÈ RESTRINGIMENTO<br>CARREGGIATA SU VIA GENTILE DA CIV. 1 FINO ALL’INGRESSO DELLA<br>REGIONE PUGLIA INCROCI COMPRESI, PER INTERVENTI MIRATI A<br>CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br><br>Durata e Tempistiche: 30/03/2026 - 31/05/2026]]></description>
-      <styleUrl>#line-E65100-4294</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.9258371,41.1024573,0
-          16.9204834,41.1045229,0
-          16.9112405,41.1081082,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>ORDINANZA 2026/01478
 DIVIETO DI SOSTA E DI FERMATA AMBO I LATI
 VIA FRANSVEA DA VIALE TRISORIO LIUZZI A FINE VIA PIETRO FRANSVEA 
@@ -6179,46 +6080,6 @@ TERMINE E DURATA: 06/04/2026 AL GIORNO 07/05/2026 DALLE ORE
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/02398
-DIVIETO DI SOSTA E
-FERMATA AMBO I LATI CON CHIUSURA TOTALE DELLA STRADA IN
-CORRISPONDENZA DELLE INTERSEZIONI, ECCETTO RESIDENTI E
-FRONTISTI
-IN VIA PODGORA INCROCI COMPRESI,
-PER MANUTENZIONE IMPIANTO IDRICO
-IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
-DAL 07/04/2026 SINO AL 29/05/2026
-</name>
-      <description><![CDATA[PROROGA: 2026/02398<br>FINO AL 29/05/2026<br>https://drive.google.com/file/d/1wkD5yPA3EeUoAJPV6IGm8kSzXL9lRFES/view<br><br>Ordinanza 2026/01657<br>https://drive.google.com/file/d/15At_kmp7Vo7Q49CioeQzPZojoSgNsRAC/view<br> <br>P1557 - PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI MIRATI PER CONSEGUIRE LA<br>DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL<br>MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI DEL<br>TERRITORIO SERVITO DALL’ACQUEDOTTO PUGLIESE E SOSTITUZIONE DEI<br>TRONCHI VETUSTI ED AMMALORATI - LOTTO1 - BA1”. CUP:<br>E15G18000180005 - CIG: 953550212F –<br>ISTITUZIONE TEMPORANEAMENTE DEL DIVIETO DI SOSTA E<br>FERMATA AMBO I LATI E CHIUSURA TOTALE DELLA STRADA IN<br>CORRISPONDENZA DELLE INTERSEZIONI, ECCETTO RESIDENTI E<br>FRONTISTI, NONCHÉ RESTRINGIMENTO DI CARREGGIATA E/O DIVIETO DI<br>TRANSITO PER ISOLATI, SU VIA PODGORA INCROCI COMPRESI, DAL<br>GIORNO 07/04/2026 SINO AL 11/05/2026 DALLE ORE 00 ALLE ORE 24.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL<br>GIORNO 07/04/2026 SINO AL 11/05/2026 DALLE ORE 00 ALLE ORE 24.]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8694548,41.1053474,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/02398
-DIVIETO DI SOSTA E
-FERMATA AMBO I LATI CON CHIUSURA TOTALE DELLA STRADA IN
-CORRISPONDENZA DELLE INTERSEZIONI, ECCETTO RESIDENTI E
-FRONTISTI
-IN VIA PODGORA INCROCI COMPRESI,
-PER MANUTENZIONE IMPIANTO IDRICO
-IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
-DAL 07/04/2026 SINO AL 29/05/2026
-</name>
-      <description><![CDATA[PROROGA: 2026/02398<br>FINO AL 29/05/2026<br>https://drive.google.com/file/d/1wkD5yPA3EeUoAJPV6IGm8kSzXL9lRFES/view<br><br>Ordinanza 2026/01657<br>https://drive.google.com/file/d/15At_kmp7Vo7Q49CioeQzPZojoSgNsRAC/view<br> <br>P1557 - PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI<br><br>MIRATI PER CONSEGUIRE LA<br>DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL<br>MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI DEL<br>TERRITORIO SERVITO DALL’ACQUEDOTTO PUGLIESE E SOSTITUZIONE DEI<br>TRONCHI VETUSTI ED AMMALORATI - LOTTO1 - BA1”. CUP:<br>E15G18000180005 - CIG: 953550212F –<br>ISTITUZIONE TEMPORANEAMENTE DEL DIVIETO DI SOSTA E<br>FERMATA AMBO I LATI E CHIUSURA TOTALE DELLA STRADA IN<br>CORRISPONDENZA DELLE INTERSEZIONI, ECCETTO RESIDENTI E<br>FRONTISTI, NONCHÉ RESTRINGIMENTO DI CARREGGIATA E/O DIVIETO DI<br>TRANSITO PER ISOLATI, SU VIA PODGORA INCROCI COMPRESI, DAL<br>GIORNO 07/04/2026 SINO AL 11/05/2026 DALLE ORE 00 ALLE ORE 24.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL<br>GIORNO 07/04/2026 SINO AL 11/05/2026 DALLE ORE 00 ALLE ORE 24.]]></description>
-      <styleUrl>#line-E65100-5069</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8675827,41.10541,0
-          16.8716167,41.1052524,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>ORDINANZA 2026/02025
 DIVIETO DI FERMATA, RESTRINGIMENTO CARREGGIATA
 PONTE GARIBALDI
@@ -6347,24 +6208,6 @@ IMPRESA ESECUTRICE:IMPRESA INDIVIDUALE “FRISULLO LUIGI”
           16.865505,41.1232105,0
         </coordinates>
       </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/01862 
-RESTRINGIMENTO CARREGGIATA, DIVIETO DI FERMATA
-VIA APULIA TRA IL PONTE GARIBALDI E VIA PEUCETIA
-LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
-IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
-10/04/2026 - 09/05/2026 
-</name>
-      <description><![CDATA[ORDINANZA 2026/01862 <br><br>https://drive.google.com/file/d/1i_mM1sZc3KQmf3_eiK35EP8Q00iOA3BW/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA APULIA FINO AL 09.05.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) Via Apulia nel tratto stradale compreso tra il Ponte Garibaldi e via Peucetia, su entrambe le carreggiate. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) Via Apulia nel tratto stradale compreso tra il Ponte Garibaldi e via Peucetia, su entrambe le carreggiate. c) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza;<br><br><br>Durata e tempistiche: 10/04/2026 - 09/05/2026 ]]></description>
-      <styleUrl>#line-E65100-3713</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8884489,41.1167358,0
-          16.8874726,41.1152162,0
-        </coordinates>
-      </LineString>
     </Placemark>
     <Placemark>
       <name>ORDINANZA 2026/02737 
@@ -6555,20 +6398,38 @@ IMPRESA ESECUTRICE:IMPRESA INDIVIDUALE “FRISULLO LUIGI”
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/01862 
-RESTRINGIMENTO CARREGGIATA, DIVIETO DI FERMATA
-VIA APULIA TRA IL PONTE GARIBALDI E VIA PEUCETIA
-LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
-IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
-10/04/2026 - 09/05/2026 
+      <name>ORDINANZA 2026/03026 
+DIVIETO DI TRANSITO 
+PONTE GIUSEPPE GARIBALDI, VIA APULIA, INTERSEZIONE CON VIA PEUCETIA INCLUSA.
+ LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
+IMPRESA ESECUTRICE:R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. 
+24/06/2026 - 26/06/2026 23:30-05:30
 </name>
-      <description><![CDATA[ORDINANZA 2026/01862 <br><br>https://drive.google.com/file/d/1i_mM1sZc3KQmf3_eiK35EP8Q00iOA3BW/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA APULIA FINO AL 09.05.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) Via Apulia nel tratto stradale compreso tra il Ponte Garibaldi e via Peucetia, su entrambe le carreggiate. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) Via Apulia nel tratto stradale compreso tra il Ponte Garibaldi e via Peucetia, su entrambe le carreggiate. c) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza;<br><br><br>Durata e tempistiche: 10/04/2026 - 09/05/2026 ]]></description>
+      <description><![CDATA[ORDINANZA 2026/03026 <br><br>https://drive.google.com/file/d/1NHCmmo9r3C8CvQ8BcC-rZIHgOuzW_tz1/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SUL PONTE GIUSEPPE GARIBALDI DAL GIORNO 24.06.2026 AL GIORNO 26.06.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br><br>Durata e tempistiche: 22/06/2026 - 17/07/2026 07:00-17:00<br><br>ORDINANZA 2026/01862 <br><br>https://drive.google.com/file/d/1i_mM1sZc3KQmf3_eiK35EP8Q00iOA3BW/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA APULIA FINO AL 09.05.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) Via Apulia nel tratto stradale compreso tra il Ponte Garibaldi e via Peucetia, su entrambe le carreggiate. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) Via Apulia nel tratto stradale compreso tra il Ponte Garibaldi e via Peucetia, su entrambe le carreggiate. c) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza;<br><br><br>Durata e tempistiche: 10/04/2026 - 09/05/2026 ]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
           16.8880305,41.1158952,0
         </coordinates>
       </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03026 
+DIVIETO DI TRANSITO 
+PONTE GIUSEPPE GARIBALDI, VIA APULIA, INTERSEZIONE CON VIA PEUCETIA INCLUSA. 
+LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
+IMPRESA ESECUTRICE:R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
+24/06/2026 - 26/06/2026 23:30-05:30
+</name>
+      <description><![CDATA[ORDINANZA 2026/03026 <br><br>https://drive.google.com/file/d/1NHCmmo9r3C8CvQ8BcC-rZIHgOuzW_tz1/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SUL PONTE GIUSEPPE GARIBALDI DAL GIORNO 24.06.2026 AL GIORNO 26.06.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br><br>Durata e tempistiche: 22/06/2026 - 17/07/2026 07:00-17:00<br><br>ORDINANZA 2026/01862 <br><br>https://drive.google.com/file/d/1i_mM1sZc3KQmf3_eiK35EP8Q00iOA3BW/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA APULIA FINO AL 09.05.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) Via Apulia nel tratto stradale compreso tra il Ponte Garibaldi e via Peucetia, su entrambe le carreggiate. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) Via Apulia nel tratto stradale compreso tra il Ponte Garibaldi e via Peucetia, su entrambe le carreggiate. c) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza;<br><br><br>Durata e tempistiche: 10/04/2026 - 09/05/2026 ]]></description>
+      <styleUrl>#line-E65100-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8884489,41.1167358,0
+          16.8874726,41.1152162,0
+        </coordinates>
+      </LineString>
     </Placemark>
     <Placemark>
       <name><![CDATA[ORDINANZA 2026/01886
@@ -6963,56 +6824,6 @@ ISTANTE: AQP S.P.A.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/02009 
-DIVIETO DI SOSTA RESTRINGIMENTO DI CARREGGIATA 
-VIA ABATE GIMMA TRA VIA ROBERTO DA BARI E VIA MANZONI 
-LAVORI DI SCAVO E POSA CAVI
-IMPRESA ESECUTRICE: SITE SPA PER CONTO DI E-DISTRIBUZIONE 
-11/05/2026 - 31/07/2026 07:00-19:00
-</name>
-      <description><![CDATA[ORDINANZA 2026/02009 <br>https://drive.google.com/file/d/1iYCPkVYDMdP4fxTSqCCrCR2EBjeYDuPL/view<br><br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA FINALIZZATE AI LAVORI DI SCAVO E POSA CAVI INTERRATI MT – PNRR DAL GIORNO 11.52026 AL GIORNO 31.7.2026 DALLE ORE 7.00 ALLE ORE 19.00 IN VIA ABATE GIMMA REA VIA ROBERTO DA BARI E VIA MANZONI . RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 07:00-19:00]]></description>
-      <styleUrl>#line-E65100-4100</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8680404,41.1246275,0
-          16.8609346,41.1241659,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/02027
-RESTRINGIMENTO DI CARREGGIATA
-VIA PEUCETIA TRA VIA MAGNA GRECIA E VIA APULIA
-BRT
-IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
-23/04/2026 - 22/05/2026
-</name>
-      <description><![CDATA[PROROGA Ordinanza 2026/02615<br><br>https://drive.google.com/file/d/1Za9yP_2IuWLE8BcFe23NvSDN43Igg8Bc/view<br>22/05/2026 -  22/06/2026<br><br>ORDINANZA 2026/02027<br><br>https://drive.google.com/file/d/1T2NjKdm94fVm1pDzzfknFb-O5l9215O5/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>VIA PEUCETIA NEL TRATTO STRADALE COMPRESO TRA VIA MAGNA<br>GRECIA E VIA APULIA<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>Durata e Tempistiche: 23/04/2026 - 22/05/2026]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.887715,41.1152347,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/02009 
-DIVIETO DI SOSTA RESTRINGIMENTO DI CARREGGIATA 
-VIA ABATE GIMMA TRA VIA ROBERTO DA BARI E VIA MANZONI 
-LAVORI DI SCAVO E POSA CAVI
-IMPRESA ESECUTRICE: SITE SPA PER CONTO DI E-DISTRIBUZIONE 
-11/05/2026 - 31/07/2026 07:00-19:00
-</name>
-      <description><![CDATA[ORDINANZA 2026/02009 <br>https://drive.google.com/file/d/1iYCPkVYDMdP4fxTSqCCrCR2EBjeYDuPL/view<br><br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA FINALIZZATE AI LAVORI DI SCAVO E POSA CAVI INTERRATI MT – PNRR DAL GIORNO 11.52026 AL GIORNO 31.7.2026 DALLE ORE 7.00 ALLE ORE 19.00 IN VIA ABATE GIMMA REA VIA ROBERTO DA BARI E VIA MANZONI . RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 07:00-19:00]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8631749,41.1243604,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>ORDINANZA 2026/02029
 SENSO UNICO DI MARCIA, DIVIETO DI TRANSITO
 VIA LAMA DI GIOTTA, VIA DEI TRULLI E VIA FONTANA NUOVA IN TORRE A MARE 
@@ -7034,6 +6845,74 @@ IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L
       </LineString>
     </Placemark>
     <Placemark>
+      <name>ORDINANZA 2026/03051 
+RESTRINGIMENTO CARREGGIATA, DIVIETO DI FERMATA 
+VIA PEUCETIA TRA VIA MAGNA GRECIA E VIA APULIA 
+LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. 
+23/06/2026 - 22/07/2026  
+</name>
+      <description><![CDATA[ORDINANZA 2026/03051 <br><br>https://drive.google.com/file/d/1OiXnkYg2HABYmWTYWW939ZH7rP7TmSBv/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>VIA PEUCETIA NEL TRATTO STRADALE COMPRESO TRA VIA MAGNA<br>GRECIA E VIA APULIA FINO AL 22.07.2026<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su:<br>i) via Peucetia nel tratto stradale compreso tra via Magna Grecia e via Apulia, su entrambe le carreggiate.<br>b) L’istituzione del divieto di fermata a tutti i veicoli su:<br>i) via Peucetia nel tratto stradale compreso tra via Magna Grecia e via Apulia, su entrambe le carreggiate;<br>c) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree<br>interessate dai lavori.<br>2) Dagli obblighi e divieti di cui al punto 1) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br><br>iv) i veicoli diretti agli accessi carrabili privati.<br><br><br><br>Durata e tempistiche: 23/06/2026 - 22/07/2026 <br><br>PROROGA Ordinanza 2026/02615<br><br>https://drive.google.com/file/d/1Za9yP_2IuWLE8BcFe23NvSDN43Igg8Bc/view<br>22/05/2026 -  22/06/2026<br><br>ORDINANZA 2026/02027<br><br>https://drive.google.com/file/d/1T2NjKdm94fVm1pDzzfknFb-O5l9215O5/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>VIA PEUCETIA NEL TRATTO STRADALE COMPRESO TRA VIA MAGNA<br>GRECIA E VIA APULIA<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>Durata e Tempistiche: 23/04/2026 - 22/05/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.887715,41.1152347,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03051 
+RESTRINGIMENTO CARREGGIATA, DIVIETO DI FERMATA 
+VIA PEUCETIA TRA VIA MAGNA GRECIA E VIA APULIA 
+LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. 
+23/06/2026 - 22/07/2026  
+</name>
+      <description><![CDATA[ORDINANZA 2026/03051 <br><br>https://drive.google.com/file/d/1OiXnkYg2HABYmWTYWW939ZH7rP7TmSBv/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>VIA PEUCETIA NEL TRATTO STRADALE COMPRESO TRA VIA MAGNA<br>GRECIA E VIA APULIA FINO AL 22.07.2026<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su:<br>i) via Peucetia nel tratto stradale compreso tra via Magna Grecia e via Apulia, su entrambe le carreggiate.<br>b) L’istituzione del divieto di fermata a tutti i veicoli su:<br>i) via Peucetia nel tratto stradale compreso tra via Magna Grecia e via Apulia, su entrambe le carreggiate;<br>c) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree<br>interessate dai lavori.<br>2) Dagli obblighi e divieti di cui al punto 1) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br><br>iv) i veicoli diretti agli accessi carrabili privati.<br><br><br><br>Durata e tempistiche: 23/06/2026 - 22/07/2026 <br><br>ORDINANZA 2026/02027<br><br>https://drive.google.com/file/d/1T2NjKdm94fVm1pDzzfknFb-O5l9215O5/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>VIA PEUCETIA NEL TRATTO STRADALE COMPRESO TRA VIA MAGNA<br>GRECIA E VIA APULIA<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>Durata e Tempistiche: 23/04/2026 - 22/05/2026]]></description>
+      <styleUrl>#line-E65100-4681</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.892394,41.113133,0
+          16.887476,41.115073,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02009 
+DIVIETO DI SOSTA RESTRINGIMENTO DI CARREGGIATA 
+VIA ABATE GIMMA TRA VIA ROBERTO DA BARI E VIA MANZONI 
+LAVORI DI SCAVO E POSA CAVI
+IMPRESA ESECUTRICE: SITE SPA PER CONTO DI E-DISTRIBUZIONE 
+11/05/2026 - 31/07/2026 07:00-19:00
+</name>
+      <description><![CDATA[Probabile rettifica <br>ORDINANZA 2026/03057<br><br>https://drive.google.com/file/d/1ku9jMHG26el9jJHBN6tU-Q52AsQMl3Ys/view<br><br>ORDINANZA 2026/02009 <br>https://drive.google.com/file/d/1iYCPkVYDMdP4fxTSqCCrCR2EBjeYDuPL/view<br><br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA FINALIZZATE AI LAVORI DI SCAVO E POSA CAVI INTERRATI MT – PNRR DAL GIORNO 11.52026 AL GIORNO 31.7.2026 DALLE ORE 7.00 ALLE ORE 19.00 IN VIA ABATE GIMMA REA VIA ROBERTO DA BARI E VIA MANZONI . RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 07:00-19:00]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8631749,41.1243604,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02009 
+DIVIETO DI SOSTA RESTRINGIMENTO DI CARREGGIATA 
+VIA ABATE GIMMA TRA VIA ROBERTO DA BARI E VIA MANZONI 
+LAVORI DI SCAVO E POSA CAVI
+IMPRESA ESECUTRICE: SITE SPA PER CONTO DI E-DISTRIBUZIONE 
+11/05/2026 - 31/07/2026 07:00-19:00
+</name>
+      <description><![CDATA[Probabile rettifica <br>ORDINANZA 2026/03057<br><br>https://drive.google.com/file/d/1ku9jMHG26el9jJHBN6tU-Q52AsQMl3Ys/view<br><br>ORDINANZA 2026/02009 <br>https://drive.google.com/file/d/1iYCPkVYDMdP4fxTSqCCrCR2EBjeYDuPL/view<br><br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA FINALIZZATE AI LAVORI DI SCAVO E POSA CAVI INTERRATI MT – PNRR DAL GIORNO 11.52026 AL GIORNO 31.7.2026 DALLE ORE 7.00 ALLE ORE 19.00 IN VIA ABATE GIMMA REA VIA ROBERTO DA BARI E VIA MANZONI . RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 07:00-19:00]]></description>
+      <styleUrl>#line-E65100-4100</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8680404,41.1246275,0
+          16.8609346,41.1241659,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
       <name><![CDATA[ORDINANZA 2026/02030 
 RESTRINGIMENTO CARREGGIATA
 STRADA RURALE CANNONE E VIA FERDINANDO PALASCIANO
@@ -7049,23 +6928,6 @@ IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L
           16.921393,41.1055006,0
           16.922431,41.1052055,0
           16.921799,41.104071,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/02027
-RESTRINGIMENTO DI CARREGGIATA
-VIA PEUCETIA TRA VIA MAGNA GRECIA E VIA APULIA
-BRT
-IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
-23/04/2026 - 22/05/2026</name>
-      <description><![CDATA[ORDINANZA 2026/02027<br><br>https://drive.google.com/file/d/1T2NjKdm94fVm1pDzzfknFb-O5l9215O5/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>VIA PEUCETIA NEL TRATTO STRADALE COMPRESO TRA VIA MAGNA<br>GRECIA E VIA APULIA<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>Durata e Tempistiche: 23/04/2026 - 22/05/2026]]></description>
-      <styleUrl>#line-E65100-4681</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.892394,41.113133,0
-          16.887476,41.115073,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -9655,14 +9517,46 @@ IMPRESA ESECUTRICE: EUROSISTEMI DI NICOLA ABBATANTUONO
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/02606
-DIVIETO DI SOSTA E DI FERMATA AMBO I
-LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO DI CARREGGIATA
-VIA FANELLI DA STRADA VASSALLO A VLE G. DI VITTORIO
-DEMOLIZIONE
-IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
-21/05/2026 - 19/06/2026</name>
-      <description><![CDATA[Ordinanza 2026/02606<br><br>https://drive.google.com/file/d/1bZmoUNKb5Nb8MQa_iI9NAnHYVgI0abRI/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO DI CARREGGIATA<br>SU VIA FANELLI (DA S.V. VASSALLO A VLE G. DI VITTORIO)DALLA DATA DI<br>EMANAZIONE DELLA PRESENTE ORDINANZA SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 21/05/2026 - 19/06/2026<br>DALLE ORE 07.00 ALLE ORE 17.00.]]></description>
+      <name>ORDINANZA 2026/02592 
+RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI FERMATA
+VIA DELLA COSTITUENTE TRA VIALE DON LUIGI STURZO E VIA ANDREA GABRIELI
+SPOSTAMENTO DELLE COLONNINE ENEL X WAY
+IMPRESA ESECUTRICE: EURO TECNO SERVICE S.R.L. 
+23/05/2026 - 27/05/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/02592 <br>https://drive.google.com/file/d/1yoKcNoP31kATgwdkiW_1cpqLFGvbIoj9/view<br><br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU VIA DELLA COSTITUENTE DAL GIORNO 23.05.2026 AL GIORNO 27.05.2026 PER ESECUZIONE DI LAVORI DI SPOSTAMENTO DELLE COLONNINE ENEL X WAY IMPRESA ESECUTRICE: EURO TECNO SERVICE S.R.L. <br><br>a) L’istituzione del divieto di fermata ambo i lati a tutti i veicoli, sui seguenti tratti stradali: i) Via della Costituente nel tratto stradale compreso tra viale Don Luigi Sturzo e via Andrea Gabrieli; b) L’istituzione del restringimento di carreggiata a tutti i veicoli sui seguenti tratti stradali: i) Via della Costituente nel tratto stradale compreso tra viale Don Luigi Sturzo e via Andrea Gabrieli; a) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. 2) Dai divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; <br><br>Durata e tempistiche: 23/05/2026 - 27/05/2026]]></description>
+      <styleUrl>#line-E65100-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8735743,41.1068636,0
+          16.8735743,41.1064553,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03015 
+DIVIETO DI SOSTA E DI FERMATA AMBO I LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO DI CARREGGIATA
+VIA FANELLI DA S.V. VASSALLO A VLE G. DI VITTORIO
+IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L. 
+22/06/2026 - 17/07/2026 07:00-17:00
+</name>
+      <description><![CDATA[ORDINANZA 2026/03015 <br><br>https://drive.google.com/file/d/1uMGi2IxqpYY9ujTiAmqUvGbR69PZBE4-/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO DI CARREGGIATA SU VIA FANELLI (DA S.V. VASSALLO A VLE G. DI VITTORIO)DALLA DATA DI EMANAZIONE DELLA PRESENTE ORDINANZA A TUTTO IL 17/07/2026 DALLE ORE 07.00 ALLE ORE 17.00. SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L. <br><br>Durata e tempistiche: 22/06/2026 - 17/07/2026 07:00-17:00<br><br>Ordinanza 2026/02606<br><br>https://drive.google.com/file/d/1bZmoUNKb5Nb8MQa_iI9NAnHYVgI0abRI/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO DI CARREGGIATA<br>SU VIA FANELLI (DA S.V. VASSALLO A VLE G. DI VITTORIO)DALLA DATA DI<br>EMANAZIONE DELLA PRESENTE ORDINANZA SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 21/05/2026 - 19/06/2026<br>DALLE ORE 07.00 ALLE ORE 17.00.]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.877788,41.107148,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03015 
+DIVIETO DI SOSTA E DI FERMATA AMBO I LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO DI CARREGGIATA
+VIA FANELLI DA S.V. VASSALLO A VLE G. DI VITTORIO
+IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L. 
+22/06/2026 - 17/07/2026 07:00-17:00
+</name>
+      <description><![CDATA[ORDINANZA 2026/03015 <br><br>https://drive.google.com/file/d/1uMGi2IxqpYY9ujTiAmqUvGbR69PZBE4-/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO DI CARREGGIATA SU VIA FANELLI (DA S.V. VASSALLO A VLE G. DI VITTORIO)DALLA DATA DI EMANAZIONE DELLA PRESENTE ORDINANZA A TUTTO IL 17/07/2026 DALLE ORE 07.00 ALLE ORE 17.00. SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L. <br><br>Durata e tempistiche: 22/06/2026 - 17/07/2026 07:00-17:00<br><br>Ordinanza 2026/02606<br><br>https://drive.google.com/file/d/1bZmoUNKb5Nb8MQa_iI9NAnHYVgI0abRI/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO DI CARREGGIATA<br>SU VIA FANELLI (DA S.V. VASSALLO A VLE G. DI VITTORIO)DALLA DATA DI<br>EMANAZIONE DELLA PRESENTE ORDINANZA SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 21/05/2026 - 19/06/2026<br>DALLE ORE 07.00 ALLE ORE 17.00.]]></description>
       <styleUrl>#line-E65100-4294</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -9691,41 +9585,6 @@ IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
           16.8834841,41.0920836,0
         </coordinates>
       </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/02592 
-RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI FERMATA
-VIA DELLA COSTITUENTE TRA VIALE DON LUIGI STURZO E VIA ANDREA GABRIELI
-SPOSTAMENTO DELLE COLONNINE ENEL X WAY
-IMPRESA ESECUTRICE: EURO TECNO SERVICE S.R.L. 
-23/05/2026 - 27/05/2026
-</name>
-      <description><![CDATA[ORDINANZA 2026/02592 <br>https://drive.google.com/file/d/1yoKcNoP31kATgwdkiW_1cpqLFGvbIoj9/view<br><br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU VIA DELLA COSTITUENTE DAL GIORNO 23.05.2026 AL GIORNO 27.05.2026 PER ESECUZIONE DI LAVORI DI SPOSTAMENTO DELLE COLONNINE ENEL X WAY IMPRESA ESECUTRICE: EURO TECNO SERVICE S.R.L. <br><br>a) L’istituzione del divieto di fermata ambo i lati a tutti i veicoli, sui seguenti tratti stradali: i) Via della Costituente nel tratto stradale compreso tra viale Don Luigi Sturzo e via Andrea Gabrieli; b) L’istituzione del restringimento di carreggiata a tutti i veicoli sui seguenti tratti stradali: i) Via della Costituente nel tratto stradale compreso tra viale Don Luigi Sturzo e via Andrea Gabrieli; a) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. 2) Dai divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; <br><br>Durata e tempistiche: 23/05/2026 - 27/05/2026]]></description>
-      <styleUrl>#line-E65100-3713</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8735743,41.1068636,0
-          16.8735743,41.1064553,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/02606
-DIVIETO DI SOSTA E DI FERMATA AMBO I
-LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO DI CARREGGIATA
-VIA FANELLI DA STRADA VASSALLO A VLE G. DI VITTORIO
-DEMOLIZIONE
-IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
-21/05/2026 - 19/06/2026
-</name>
-      <description><![CDATA[Ordinanza 2026/02606<br><br>https://drive.google.com/file/d/1bZmoUNKb5Nb8MQa_iI9NAnHYVgI0abRI/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO DI CARREGGIATA<br>SU VIA FANELLI (DA S.V. VASSALLO A VLE G. DI VITTORIO)DALLA DATA DI<br>EMANAZIONE DELLA PRESENTE ORDINANZA SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 21/05/2026 - 19/06/2026<br>DALLE ORE 07.00 ALLE ORE 17.00.]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.877788,41.107148,0
-        </coordinates>
-      </Point>
     </Placemark>
     <Placemark>
       <name>ORDINANZA 2026/02592 
@@ -12283,6 +12142,660 @@ IMPRESA ESECUTRICE: DMF COSTRUZIONI S.R.L.
       <Point>
         <coordinates>
           16.8865991,41.1177219,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02959 
+DIVIETO DI TRANSITO 
+VIA DUOMO, VIA NILO E PIAZZA SANTA MARIA DEL FONTE IN CARBONARA 
+LAVORI DI MANUTENZIONE DELLE STRADE E MARCIAPIEDI IN AREE SOTTOPOSTE A VINCOLO CULTURALE
+IMPRESA ESECUTRICE: “TERLIZZI S.R.L.”
+18/06//2026 - 03/07/2026  
+</name>
+      <description><![CDATA[ORDINANZA 2026/02959 <br><br>https://drive.google.com/file/d/1-CtkUP72Q5NQRB7ip2rPpiozmz8EAq0p/view<br><br>LAVORI DI MANUTENZIONE DELLE STRADE E MARCIAPIEDI IN AREE SOTTOPOSTE A VINCOLO CULTURALE. CUP J97H25000520004. ISTITUZIONE TEMPORANEA DELLA CHIUSURA TOTALE DI VIA DUOMO, VIA NILO E PIAZZA SANTA MARIA DEL FONTE IN CARBONARA (BA) PER ESEGUIRE LAVORAZIONI SU BASOLE AL CENTRO STRADA PER UNA DURATA DI CIRCA 15 GIORNI NATURALI E CONSECUTIVI. SOCIETÀ : “TERLIZZI S.R.L.” - P.I. 06325090725 GEOM: UBALDO TERLIZZI (LEGALE RAPPRESENTANTE DIRETTORE TECNICO E SOCIO UNICO DELLA SOCIETÀ TERLIZZI S.R.L.) <br><br>Durata e tempistiche: 18/06//2026 - 03/07/2026    ]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8706852,41.0726211,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/02959 
+DIVIETO DI TRANSITO 
+VIA DUOMO, VIA NILO E PIAZZA SANTA MARIA DEL FONTE IN CARBONARA 
+LAVORI DI MANUTENZIONE DELLE STRADE E MARCIAPIEDI IN AREE SOTTOPOSTE A VINCOLO CULTURALE
+IMPRESA ESECUTRICE: “TERLIZZI S.R.L.”
+18/06//2026 - 03/07/2026  
+</name>
+      <description><![CDATA[ORDINANZA 2026/02959 <br><br>https://drive.google.com/file/d/1-CtkUP72Q5NQRB7ip2rPpiozmz8EAq0p/view<br><br>LAVORI DI MANUTENZIONE DELLE STRADE E MARCIAPIEDI IN AREE SOTTOPOSTE A VINCOLO CULTURALE. CUP J97H25000520004. ISTITUZIONE TEMPORANEA DELLA CHIUSURA TOTALE DI VIA DUOMO, VIA NILO E PIAZZA SANTA MARIA DEL FONTE IN CARBONARA (BA) PER ESEGUIRE LAVORAZIONI SU BASOLE AL CENTRO STRADA PER UNA DURATA DI CIRCA 15 GIORNI NATURALI E CONSECUTIVI. SOCIETÀ : “TERLIZZI S.R.L.” - P.I. 06325090725 GEOM: UBALDO TERLIZZI (LEGALE RAPPRESENTANTE DIRETTORE TECNICO E SOCIO UNICO DELLA SOCIETÀ TERLIZZI S.R.L.) <br><br>Durata e tempistiche: 18/06//2026 - 03/07/2026    ]]></description>
+      <styleUrl>#line-E65100-3325</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8707603,41.0731548,0
+          16.8705458,41.0725442,0
+          16.8706209,41.0724876,0
+          16.8709856,41.0727626,0
+          16.8706155,41.0724795,0
+          16.8704653,41.0719497,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03007 
+ISTITUZIONE DELL’AREA PEDONALE
+LUNGOMARE CRISTOFORO COLOMBO TRA VIA GIUSEPPE VACCA E CORSO UMBERTO I IN SANTO SPIRITO
+Giugno: 27, 28 Luglio: 4, 5, 11, 12, 18, 19, 25, 26 Agosto: 1, 2, 8, 9, 14, 15, 16, 22, 23, 29, 30 Settembre: 5, 6, 12, 13, 19, 20, 26, 27. 19:00-24:00
+</name>
+      <description><![CDATA[ORDINANZA 2026/03007 <br><br>https://drive.google.com/file/d/1ifFFEDlMFyxZE7C9IK6SsFB3OqNgKXAm/view<br><br>ISTITUZIONE DELL’AREA PEDONALE SU LUNGOMARE CRISTOFORO COLOMBO IN SANTO SPIRITO IN VIA PROVVISORIA E SPERIMENTALE. <br><br>È istituita, temporaneamente e in via sperimentale, a decorrere dalla concreta attuazione dell’area pedonale mediante la segnaletica stradale, per i motivi di cui in premessa, l’area pedonale su Lungomare Cristoforo Colombo nel tratto compreso tra Via Giuseppe Vacca e Corso Umberto I in Santo Spirito dalle ore 19.00 alle ore 24.00 durante i seguenti giorni: Giugno: 27, 28 Luglio: 4, 5, 11, 12, 18, 19, 25, 26 Agosto: 1, 2, 8, 9, 14, 15, 16, 22, 23, 29, 30 Settembre: 5, 6, 12, 13, 19, 20, 26, 27. <br> 2. 	è istituita la direzione obbligatoria a destra a tutti i veicoli che percorrono Corso Umberto I in corrispondenza dell’intersezione con Lungomare Cristoforo Colombo, per la corrente di traffico proveniente da via Napoli; 3. è istituita la direzione obbligatoria a sinistra a tutti i veicoli che percorrono Lungomare Cristoforo Colombo in corrispondenza dell’intersezione con Corso Umberto I, per la corrente di traffico proveniente dalla otrre di Santo Spirito; Dai divieti e dalle limitazioni istituiti con la presente Ordinanza sono esclusi i veicoli delle seguenti categorie: Forza Pubblica e Vigili del Fuoco, Enti pubblici e privati di soccorso durante l'espletamento di servizi d'emergenza. <br>Durata e tempistiche: Giugno: 27, 28 Luglio: 4, 5, 11, 12, 18, 19, 25, 26 Agosto: 1, 2, 8, 9, 14, 15, 16, 22, 23, 29, 30 Settembre: 5, 6, 12, 13, 19, 20, 26, 27. 19:00-24:00]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.7488878,41.1643987,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03007 
+ISTITUZIONE DELL’AREA PEDONALE
+LUNGOMARE CRISTOFORO COLOMBO TRA VIA GIUSEPPE VACCA E CORSO UMBERTO I IN SANTO SPIRITO
+Giugno: 27, 28 Luglio: 4, 5, 11, 12, 18, 19, 25, 26 Agosto: 1, 2, 8, 9, 14, 15, 16, 22, 23, 29, 30 Settembre: 5, 6, 12, 13, 19, 20, 26, 27. 19:00-24:00
+</name>
+      <description><![CDATA[ORDINANZA 2026/03007 <br><br>https://drive.google.com/file/d/1ifFFEDlMFyxZE7C9IK6SsFB3OqNgKXAm/view<br><br>ISTITUZIONE DELL’AREA PEDONALE SU LUNGOMARE CRISTOFORO COLOMBO IN SANTO SPIRITO IN VIA PROVVISORIA E SPERIMENTALE. <br><br>È istituita, temporaneamente e in via sperimentale, a decorrere dalla concreta attuazione dell’area pedonale mediante la segnaletica stradale, per i motivi di cui in premessa, l’area pedonale su Lungomare Cristoforo Colombo nel tratto compreso tra Via Giuseppe Vacca e Corso Umberto I in Santo Spirito dalle ore 19.00 alle ore 24.00 durante i seguenti giorni: Giugno: 27, 28 Luglio: 4, 5, 11, 12, 18, 19, 25, 26 Agosto: 1, 2, 8, 9, 14, 15, 16, 22, 23, 29, 30 Settembre: 5, 6, 12, 13, 19, 20, 26, 27. <br> 2. 	è istituita la direzione obbligatoria a destra a tutti i veicoli che percorrono Corso Umberto I in corrispondenza dell’intersezione con Lungomare Cristoforo Colombo, per la corrente di traffico proveniente da via Napoli; 3. è istituita la direzione obbligatoria a sinistra a tutti i veicoli che percorrono Lungomare Cristoforo Colombo in corrispondenza dell’intersezione con Corso Umberto I, per la corrente di traffico proveniente dalla otrre di Santo Spirito; Dai divieti e dalle limitazioni istituiti con la presente Ordinanza sono esclusi i veicoli delle seguenti categorie: Forza Pubblica e Vigili del Fuoco, Enti pubblici e privati di soccorso durante l'espletamento di servizi d'emergenza. <br>Durata e tempistiche: Giugno: 27, 28 Luglio: 4, 5, 11, 12, 18, 19, 25, 26 Agosto: 1, 2, 8, 9, 14, 15, 16, 22, 23, 29, 30 Settembre: 5, 6, 12, 13, 19, 20, 26, 27. 19:00-24:00]]></description>
+      <styleUrl>#line-E65100-3906</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.7516129,41.1635141,0
+          16.7498029,41.1634415,0
+          16.748853,41.163801,0
+          16.748523,41.1648468,0
+          16.7484479,41.1655818,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03009 
+RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA
+VIA A. CARRANTE DA STRADELLA CANNARUTO A VIA VITANTONIO DI CAGNO
+COSTRUZIONE ALLACCIO FOGNARIO E IDRICO
+IMPRESA ESECUTRICE: ISAP SRL” CON SEDE LEGALE IN CONTRADA LEONESSA SNC - 85025 - MELFI (PZ) 
+ISTANTE: AQP S.P.A. . 
+22/06/2026 - 31/07/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/03009 <br><br>https://drive.google.com/file/d/1F1YiYnSnklwERdNBVZBa7dumpdsxHsBl/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA IN VIA A. CARRANTE DA STRADELLA CANNARUTO A VIA VITANTONIO DI CAGNO PER LAVORI DI COSTRUZIONE ALLACCIO FOGNARIO E IDRICO DALLA DATA DI EMANAZIONE DELLA PRESENTE ORDINANZA AL GIORNO 31.07.2026 IMPRESA: ISAP SRL” CON SEDE LEGALE IN CONTRADA LEONESSA SNC - 85025 - MELFI (PZ) ISTANTE: AQP S.P.A. . <br><br>Durata e tempistiche: 22/06/2026 - 31/07/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8659078,41.0938968,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03009 
+RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA
+VIA A. CARRANTE DA STRADELLA CANNARUTO A VIA VITANTONIO DI CAGNO
+COSTRUZIONE ALLACCIO FOGNARIO E IDRICO
+IMPRESA ESECUTRICE: ISAP SRL” CON SEDE LEGALE IN CONTRADA LEONESSA SNC - 85025 - MELFI (PZ) 
+ISTANTE: AQP S.P.A. . 
+22/06/2026 - 31/07/2026
+ 
+</name>
+      <description><![CDATA[ORDINANZA 2026/03009 <br><br>https://drive.google.com/file/d/1F1YiYnSnklwERdNBVZBa7dumpdsxHsBl/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA IN VIA A. CARRANTE DA STRADELLA CANNARUTO A VIA VITANTONIO DI CAGNO PER LAVORI DI COSTRUZIONE ALLACCIO FOGNARIO E IDRICO DALLA DATA DI EMANAZIONE DELLA PRESENTE ORDINANZA AL GIORNO 31.07.2026 IMPRESA: ISAP SRL” CON SEDE LEGALE IN CONTRADA LEONESSA SNC - 85025 - MELFI (PZ) ISTANTE: AQP S.P.A. . <br><br>Durata e tempistiche: 22/06/2026 - 31/07/2026]]></description>
+      <styleUrl>#line-E65100-3325</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8658381,41.0977656,0
+          16.8657415,41.096375,0
+          16.8655967,41.096193,0
+          16.8657362,41.0960192,0
+          16.8655753,41.09401,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03010 
+RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA
+CORSO VITTORIO EMANUELE 156A DA VIA Q. SELLA A PIAZZA GARIBALDI 
+COSTRUZIONE ALLACCIO FOGNARIO E IDRICO
+IMPRESA ESECUTRICE: ISAP SRL” CON SEDE LEGALE IN CONTRADA LEONESSA SNC - 85025 - MELFI (PZ) 
+ISTANTE: AQP S.P.A. . 
+22/06/2026 - 31/07/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/03010 <br><br>https://drive.google.com/file/d/1rvjJHcNx8yXQ-2HIJ_KhpAHmWok-y-ef/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA IN CORSO VITTORIO EMANUELE 156A DA VIA Q. SELLA A PIAZZA GARIBALDI PER LAVORI DI COSTRUZIONE ALLACCIO FOGNARIO E IDRICO DALLA DATA DI EMANAZIONE DELLA PRESENTE ORDINANZA AL GIORNO 31.07.2026 IMPRESA: ISAP SRL” CON SEDE LEGALE IN CONTRADA LEONESSA SNC - 85025 - MELFI (PZ) ISTANTE: AQP S.P.A. <br><br>Durata e tempistiche: 22/06/2026 - 31/07/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8633644,41.1257423,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03010 
+RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA
+CORSO VITTORIO EMANUELE 156A DA VIA Q. SELLA A PIAZZA GARIBALDI 
+COSTRUZIONE ALLACCIO FOGNARIO E IDRICO
+IMPRESA ESECUTRICE: ISAP SRL” CON SEDE LEGALE IN CONTRADA LEONESSA SNC - 85025 - MELFI (PZ) 
+ISTANTE: AQP S.P.A. . 
+22/06/2026 - 31/07/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/03010 <br><br>https://drive.google.com/file/d/1rvjJHcNx8yXQ-2HIJ_KhpAHmWok-y-ef/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA IN CORSO VITTORIO EMANUELE 156A DA VIA Q. SELLA A PIAZZA GARIBALDI PER LAVORI DI COSTRUZIONE ALLACCIO FOGNARIO E IDRICO DALLA DATA DI EMANAZIONE DELLA PRESENTE ORDINANZA AL GIORNO 31.07.2026 IMPRESA: ISAP SRL” CON SEDE LEGALE IN CONTRADA LEONESSA SNC - 85025 - MELFI (PZ) ISTANTE: AQP S.P.A. <br><br>Durata e tempistiche: 22/06/2026 - 31/07/2026]]></description>
+      <styleUrl>#line-E65100-5650</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8638955,41.125716,0
+          16.8629353,41.1256554,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03012 
+RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA
+VIA OBERDAN, TRA IL CIVICO 27 E L’INTERSEZIONE CON VIA E. MOLA.VIA OBERDAN, TRA IL CIVICO 62 E IL CIVICO 76 E VIA E. MOLA CIV. 60.
+PROGETTO DI RIFUNZIONALIZZAZIONE DELLE RETI FOGNANTI AFFERENTI AL CANALE PICONE NEL COMUNE DI BARI
+IMPRESA ESECUTRICE: CIRCET ITALIA SPA 
+22/06/2026 - 23/07/2026
+ 
+</name>
+      <description><![CDATA[ORDINANZA 2026/03012 <br><br>https://drive.google.com/file/d/1uYPlcgHMCqXBRvF39qMnMkx9LFHeRn5X/view<br><br>INTERVENTO AQP P1469, “PROGETTO DI RIFUNZIONALIZZAZIONE DELLE RETI FOGNANTI AFFERENTI AL CANALE PICONE NEL COMUNE DI BARI”. REALIZZAZIONE DELL’IMPIANTO DI SOLLEVAMENTO PROSPICIENTE VIA OBERDAN E RELATIVI COLLETTORI. – DEMOLIZIONE DEI MANUFATTI PRESENTI ALL’INTERNO DELLE AREE, A PARTIRE DAL CIVICO 27 DI VIA OBERDAN FINO AL PASSAGGIO A LIVELLO DELLA FSE, E DAL CIVICO 27 DELLA STESSA VIA FINO ALL'INTERSEZIONE CON VIA E. MOLA. ISTITUZIONE TEMPORANEA PER LA REGOLAZIONE DELLA CIRCOLAZIONE IN PRESENZA DI CANTIERE NECESSARIA PER LA REALIZZAZIONE DELLE OPERE DALLA DATA DI EMANAZIONE DELLA PRESENTE ORDINANZA E PER 30 (TRENTA) GIORNI NATURALI E CONSECUTIVI IMPRESA: CIRCET ITALIA SPA ISTANTE: SOCIETÀ ALBERGO APPALTI S.R.L. CON SEDE IN TURSI (MT), LOCALITÀ PONTE MASONE, ZONA INDUSTRIALE P.I.P. LOTTO N. 11, S.N.C., - C.A.P. 75028 <br><br>Durata e tempistiche: 22/06/2026 - 23/07/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8784748,41.1177084,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03012 
+RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA
+VIA OBERDAN, TRA IL CIVICO 27 E L’INTERSEZIONE CON VIA E. MOLA.VIA OBERDAN, TRA IL CIVICO 62 E IL CIVICO 76 E VIA E. MOLA CIV. 60.
+PROGETTO DI RIFUNZIONALIZZAZIONE DELLE RETI FOGNANTI AFFERENTI AL CANALE PICONE NEL COMUNE DI BARI
+IMPRESA ESECUTRICE: CIRCET ITALIA SPA 
+22/06/2026 - 23/07/2026
+ 
+</name>
+      <description><![CDATA[ORDINANZA 2026/03012 <br><br>https://drive.google.com/file/d/1uYPlcgHMCqXBRvF39qMnMkx9LFHeRn5X/view<br><br>INTERVENTO AQP P1469, “PROGETTO DI RIFUNZIONALIZZAZIONE DELLE RETI FOGNANTI AFFERENTI AL CANALE PICONE NEL COMUNE DI BARI”. REALIZZAZIONE DELL’IMPIANTO DI SOLLEVAMENTO PROSPICIENTE VIA OBERDAN E RELATIVI COLLETTORI. – DEMOLIZIONE DEI MANUFATTI PRESENTI ALL’INTERNO DELLE AREE, A PARTIRE DAL CIVICO 27 DI VIA OBERDAN FINO AL PASSAGGIO A LIVELLO DELLA FSE, E DAL CIVICO 27 DELLA STESSA VIA FINO ALL'INTERSEZIONE CON VIA E. MOLA. ISTITUZIONE TEMPORANEA PER LA REGOLAZIONE DELLA CIRCOLAZIONE IN PRESENZA DI CANTIERE NECESSARIA PER LA REALIZZAZIONE DELLE OPERE DALLA DATA DI EMANAZIONE DELLA PRESENTE ORDINANZA E PER 30 (TRENTA) GIORNI NATURALI E CONSECUTIVI IMPRESA: CIRCET ITALIA SPA ISTANTE: SOCIETÀ ALBERGO APPALTI S.R.L. CON SEDE IN TURSI (MT), LOCALITÀ PONTE MASONE, ZONA INDUSTRIALE P.I.P. LOTTO N. 11, S.N.C., - C.A.P. 75028 <br><br>Durata e tempistiche: 22/06/2026 - 23/07/2026]]></description>
+      <styleUrl>#line-E65100-2163</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8790166,41.1176801,0
+          16.8779759,41.1176235,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03014 
+DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO 
+VIA BITRITTO
+DISTRETTUALIZZAZIONE, CONTROLLO DELLE PRESSIONI ED MONITORAGGIO DELLE GRANDEZZE IDRAULICHE
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A. 
+08/06/2026 - 17/07/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/03014 <br><br>https://drive.google.com/file/d/1xX1laT9hkavjYaqsolXgqtWDwhEk-58i/view<br><br>P1557 LOTTO 1. PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI MIRATI PER CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI DEL TERRITORIO SERVITO DALL’ACQUEDOTTO PUGLIESE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI - ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO SU VIA BITRITTO, DAL GIORNO 08/06/2026 SINO AL 17/07/2026 SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 08/06/2026 - 17/07/2026]]></description>
+      <styleUrl>#line-E65100-3906</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8487549,41.1018494,0
+          16.8443561,41.0985023,0
+          16.8425751,41.096675,0
+          16.8406654,41.0939421,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03014 
+DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO 
+VIA BITRITTO
+DISTRETTUALIZZAZIONE, CONTROLLO DELLE PRESSIONI ED MONITORAGGIO DELLE GRANDEZZE IDRAULICHE
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A. 
+08/06/2026 - 17/07/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/03014 <br><br>https://drive.google.com/file/d/1xX1laT9hkavjYaqsolXgqtWDwhEk-58i/view<br><br>P1557 LOTTO 1. PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI MIRATI PER CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI DEL TERRITORIO SERVITO DALL’ACQUEDOTTO PUGLIESE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI - ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO SU VIA BITRITTO, DAL GIORNO 08/06/2026 SINO AL 17/07/2026 SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 08/06/2026 - 17/07/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.843648,41.0983648,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03028
+DIVIETO DI TRANSITO 
+ROTATORIA ALL’INTERSEZIONE TRA VIA MAGNA GRECIA E VIA PEUCETIA
+BRT
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
+22/06/2026 - 24/06/2026
+23:30 - 05:30</name>
+      <description><![CDATA[Ordinanza 2026/03028<br><br>https://drive.google.com/file/d/13NrH5iANBV6_FNHKAV1vEqgEW4mtT2Xj/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE<br>SULLA ROTATORIA ALL’INTERSEZIONE TRA VIA MAGNA GRECIA E VIA<br>PEUCETIA <br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>Durata e Tempistiche: 22/06/2026 - 24/06/2026<br>23:30 - 05:30]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8926345,41.1130623,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03027 
+DIVIETO DI TRANSITO 
+PONTE GIUSEPPE GARIBALDI, INTERSEZIONE TRA VIA PIAZZA GRAMSCI E VIA DI VAGNO, VIA DI VAGNO, INTERSEZIONE CON LUNGOMARE NAZARIO SAURO INCLUSA. 
+LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. 
+29/06/2026 - 01/07/2026 23:30-05:30
+</name>
+      <description><![CDATA[ORDINANZA 2026/03027 <br><br>https://drive.google.com/file/d/10TEGB0Jpro48jwzr4qQKBnHJ1GrSPt3K/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SUL PONTE GIUSEPPE GARIBALDI DAL GIORNO 29.06.2026 AL GIORNO 01.07.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br><br>Durata e tempistiche: 29/06/2026 - 01/07/2026 23:30-05:30]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.889039,41.118178,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03064
+DIVIETO DI TRANSITO, DIVIETO DI SOSTA E DI FERMATA
+VIA OSPEDALE DI VENERE TRA VIA TRISORIO LIUZZI E VIA GIULIO PETRONI
+SCAVO PER LAVORI ENEL
+IMPRESA ESECUTRICE:NORD COSTRUZIONI GENERALI S.R.L.
+06/07/2026 - 08/07/2026
+09:00 - 17:00
+</name>
+      <description><![CDATA[Ordinanza 2026/03064<br><br>https://drive.google.com/file/d/1kIDyWG69Kagr_LcG7G6yA3xTHA6RIGsb/view<br><br>ISTITUZIONE TEMPORANEA PER CHIUSURA AL TRANSITO VEICOLARE,<br>DIVIETO DI SOSTA E DI FERMATA IN VIA OSPEDALE DI VENERE, NEL<br>TRATTO COMPRESO TRA VIA TRISORIO LIUZZI E VIA GIULIO PETRONI PER<br>COMPLETAMENTO DI ALTRI 30 METRI DI SCAVO PER LAVORI ENEL <br>SOCIETÀ:NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 06/07/2026 - 08/07/2026<br>09:00 - 17:00]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8620004,41.0775437,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03064
+DIVIETO DI TRANSITO, DIVIETO DI SOSTA E DI FERMATA
+VIA OSPEDALE DI VENERE TRA VIA TRISORIO LIUZZI E VIA GIULIO PETRONI
+SCAVO PER LAVORI ENEL
+IMPRESA ESECUTRICE:NORD COSTRUZIONI GENERALI S.R.L.
+06/07/2026 - 08/07/2026
+09:00 - 17:00
+</name>
+      <description><![CDATA[Ordinanza 2026/03064<br><br>https://drive.google.com/file/d/1kIDyWG69Kagr_LcG7G6yA3xTHA6RIGsb/view<br><br>ISTITUZIONE TEMPORANEA PER CHIUSURA AL TRANSITO VEICOLARE,<br>DIVIETO DI SOSTA E DI FERMATA IN VIA OSPEDALE DI VENERE, NEL<br>TRATTO COMPRESO TRA VIA TRISORIO LIUZZI E VIA GIULIO PETRONI PER<br>COMPLETAMENTO DI ALTRI 30 METRI DI SCAVO PER LAVORI ENEL <br>SOCIETÀ:NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 06/07/2026 - 08/07/2026<br>09:00 - 17:00]]></description>
+      <styleUrl>#line-E65100-3131</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8618006,41.0775502,0
+          16.8647121,41.0764655,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03060
+DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA
+VIA G. DE NITTIS CIV. 14 TRA VIA ANGIULI E VIA RE DAVID
+PONTEGGIO PER MANUTENZIONE STRAORDINARIA
+IMPRESA ESECUTRICE:SIG. LADISA COSIMO
+24/06/2026 - 25/09/2026</name>
+      <description><![CDATA[Ordinanza: 2026/03060<br><br>https://drive.google.com/file/d/19p-T3nde1Cyz-FXedH8JdNP_HhS2EqHQ/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA CON RIMOZIONE<br>FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA IN G. DE<br>NITTIS CIV 14 TRATTO COMPRESO TRA VIA ANGIULI E VIA RE DAVID PER<br>PONTEGGIO PER MANUTENZIONE STRAORDINARIA <br>RICHIEDENTE: SIG. LADISA COSIMO<br><br>Durata e Tempistiche: 24/06/2026 - 25/09/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8745649,41.1157391,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03044
+RESTRINGIMENTO
+CARREGGIATA 
+VIA
+TORRE D’AMORE CIV. 11 IN CEGLIE DEL CAMPO (BA)
+PER
+POSIZIONAMENTO AUTOCARRO
+“VISO EDIL ECOLOGIA SRL”
+DAL 22/06/2026 AL 22/06/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/03044<br><br>https://drive.google.com/file/d/1cs93A1FV7x__tUU9mqHBWYALtvcZ_hxS/view <br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO CARREGGIATA SU VIA<br>TORRE D’AMORE CIV. 11 IN CEGLIE DEL CAMPO (BA) PER<br>POSIZIONAMENTO AUTOCARRO PER SVOLGERE ATTIVITÀ DI RIMOZIONE<br>PLUVIALE PRESENTE SU FACCIATA IMMOBILE IN DISUSO E DIVIETO DI<br>SOSTA – ZONA RIMOZIONE SU VIA TORRE D’AMORE LATO CIVICI PARI TRA I<br>CIV. 12 E 14, DAL GIORNO 22/06/2026 AL 30/06/2026.<br>IMPRESA: “VISO EDIL ECOLOGIA SRL”<br>ISTANTE : VISO NICOLÒ (AMM.RE UNICO “VISO EDIL ECOLOGIA SRL”)<br><br><br>Durata e tempistiche: DAL 22/06/2026 AL 22/06/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8639937,41.063295,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03059
+DIVIETO DI SOSTA E DI FERMATA AMBO I LATI
+VIA NICOLAI TRA VIA RAVANAS E VIA BRIGATA BARI
+MANUTENZIONE STRAORDINARIA DELLE OPERE A RETE IDRICHE E FOGNARIE AQP
+IMPRESA ESECUTRICE:INGALLINA S.R.L.
+23/06/2026 - 30/09/2026</name>
+      <description><![CDATA[ORDINANZA 2026/03059<br><br>https://drive.google.com/file/d/1uataRXIZQKDJe_l7H9p-zx-DS959RExd/view<br><br>ISTITUZIONE TEMPORANEAMENTE DI DIVIETO DI SOSTA E DI FERMATA<br>AMBO I LATI PER SOTTO-CANTIERI DI LUNGHEZZA MEDIA PARI A CIRCA 50<br>METRI DI VIA NICOLAI NEL TRATTO COMPRESO TRA VIA RAVANAS E VIA<br>BRIGATA BARI PER LAVORI DI MANUTENZIONE STRAORDINARIA DELLE<br>OPERE A RETE IDRICHE E FOGNARIE DELLA STO BA-BAT – AET BARI –<br>SOSTITUZIONE DELLA CONDOTTA IDRICA IN VIA NICOLAI DALLA DATA DI<br>EMANAZIONE DELLA PRESENTE ORDINANZA FINO AL 30/09/2026<br>ISTANTE: AQP<br>SOCIETÀ: INGALLINA S.R.L.<br><br>Durata e Tempistiche: 23/06/2026 - 30/09/2026]]></description>
+      <styleUrl>#icon-1541-9C27B0</styleUrl>
+      <Point>
+        <coordinates>
+          16.8526238,41.120593,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03045
+RESTRINGIMENTO
+CARREGGIATA E DIVIETO DI SOSTA TRA I CIVICI 2 E 6
+IN VIA
+C. COLOMBO, 7 IN CARBONARA
+PER POSIZIONAMENTO DI
+PONTEGGIO FISSO
+ENERGEIA S.R.L.
+DAL 22/06/2026 AL 22/07/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/03045<br><br>https://drive.google.com/file/d/1f8ZRWV1_q6Wv-Vh-ujkJtnMdxNT1fnAT/view <br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO CARREGGIATA SU VIA<br>C. COLOMBO CIV. 7 IN CARBONARA (BA) PER POSIZIONAMENTO DI<br>PONTEGGIO FISSO E MANTOVANE PER SVOLGERE ATTIVITÀ DI LAVORI<br>EDILI SU FACCIATA DEL FABBRICATO IVI PRESENTE E DIVIETO DI SOSTA<br>LATO TRA I CIVICI 2 E 6 DELLA VIA C. COLOMBO, DAL GIORNO 22/06/2026 AL<br>22/07/2026.<br>IMPRESA: ENERGEIA S.R.L.<br>ISTANTE : TRAETTA ALFONSO (LEGALE RAPPRESENTANTE “ENERGEIA<br>SRL”)<br><br>Durata e tempistiche: DAL 22/06/2026 AL 22/07/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8672724,41.0751009,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03046
+DIVIETO DI SOSTA TRA VIA ROMA E VIA
+QUARANTA, CHIUSURA AL TRANSITO
+DEL TRATTO DA VIA QUARANTA A VIA DELLA VELA
+PER LAVORI DI COSTRUZIONE DELLA RETE DI FOGNATURA PLUVIALE E
+RIFACIMENTO DEI MARCIAPIEDI.
+CO.RES. SRL
+DAL 23/06/2026 AL 10/08/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/03046<br><br>https://drive.google.com/file/d/11nX8QcrgXH1ROwXf4-mAcRBB4_PlyuJ6/view <br><br>LAVORI DI COSTRUZIONE DELLA RETE DI FOGNATURA PLUVIALE E<br><br>RIFACIMENTO DEI MARCIAPIEDI.<br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA TRA VIA ROMA E VIA<br>QUARANTA, PRECISAMENTE DA PIAZZA UMBERTO I AL CIVICO 99 DI VIA<br>QUARANTA IN CARBONARA (BA) E TEMPORANEA CHIUSURA AL TRANSITO<br>DEL TRATTO DA VIA QUARANTA A VIA DELLA VELA NEI PRESSI DI PIAZZA<br>UMBERTO I.<br>IMPRESA : CO.RES. SRL<br><br><br>Durata e tempistiche: DAL 23/06/2026 AL 10/08/2026 ]]></description>
+      <styleUrl>#line-E65100-3906</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8714186,41.0739762,0
+          16.8714924,41.0740618,0
+          16.8715635,41.0741495,0
+          16.8719926,41.0739559,0
+          16.8715635,41.0741495,0
+          16.871595,41.0741768,0
+          16.8716775,41.0741915,0
+          16.8718163,41.0741763,0
+          16.871951,41.0741379,0
+          16.8720704,41.0740783,0
+          16.8721643,41.0740257,0
+          16.8722525,41.0740244,0
+          16.8723473,41.0740434,0
+          16.8724023,41.074057,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03060
+DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA
+VIA G. DE NITTIS CIV. 14 TRA VIA ANGIULI E VIA RE DAVID
+PONTEGGIO PER MANUTENZIONE STRAORDINARIA
+IMPRESA ESECUTRICE:SIG. LADISA COSIMO
+24/06/2026 - 25/09/2026</name>
+      <description><![CDATA[Ordinanza: 2026/03060<br><br>https://drive.google.com/file/d/19p-T3nde1Cyz-FXedH8JdNP_HhS2EqHQ/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA CON RIMOZIONE<br>FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA IN G. DE<br>NITTIS CIV 14 TRATTO COMPRESO TRA VIA ANGIULI E VIA RE DAVID PER<br>PONTEGGIO PER MANUTENZIONE STRAORDINARIA <br>RICHIEDENTE: SIG. LADISA COSIMO<br><br>Durata e Tempistiche: 24/06/2026 - 25/09/2026]]></description>
+      <styleUrl>#line-E65100-4681</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8745617,41.1156765,0
+          16.875471,41.116022,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03046
+DIVIETO DI SOSTA TRA VIA ROMA E VIA
+QUARANTA, CHIUSURA AL TRANSITO
+DEL TRATTO DA VIA QUARANTA A VIA DELLA VELA
+PER LAVORI DI COSTRUZIONE DELLA RETE DI FOGNATURA PLUVIALE E
+RIFACIMENTO DEI MARCIAPIEDI.
+CO.RES. SRL
+DAL 23/06/2026 AL 10/08/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/03046<br><br>https://drive.google.com/file/d/11nX8QcrgXH1ROwXf4-mAcRBB4_PlyuJ6/view <br><br>LAVORI DI COSTRUZIONE DELLA RETE DI FOGNATURA PLUVIALE E<br><br>RIFACIMENTO DEI MARCIAPIEDI.<br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA TRA VIA ROMA E VIA<br>QUARANTA, PRECISAMENTE DA PIAZZA UMBERTO I AL CIVICO 99 DI VIA<br>QUARANTA IN CARBONARA (BA) E TEMPORANEA CHIUSURA AL TRANSITO<br>DEL TRATTO DA VIA QUARANTA A VIA DELLA VELA NEI PRESSI DI PIAZZA<br>UMBERTO I.<br>IMPRESA : CO.RES. SRL<br><br><br>Durata e tempistiche: DAL 23/06/2026 AL 10/08/2026 ]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.871529,41.0741102,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03059
+DIVIETO DI SOSTA E DI FERMATA AMBO I LATI
+VIA NICOLAI TRA VIA RAVANAS E VIA BRIGATA BARI
+MANUTENZIONE STRAORDINARIA DELLE OPERE A RETE IDRICHE E FOGNARIE AQP
+IMPRESA ESECUTRICE:INGALLINA S.R.L.
+23/06/2026 - 30/09/2026</name>
+      <description><![CDATA[ORDINANZA 2026/03059<br><br>https://drive.google.com/file/d/1uataRXIZQKDJe_l7H9p-zx-DS959RExd/view<br><br>ISTITUZIONE TEMPORANEAMENTE DI DIVIETO DI SOSTA E DI FERMATA<br>AMBO I LATI PER SOTTO-CANTIERI DI LUNGHEZZA MEDIA PARI A CIRCA 50<br>METRI DI VIA NICOLAI NEL TRATTO COMPRESO TRA VIA RAVANAS E VIA<br>BRIGATA BARI PER LAVORI DI MANUTENZIONE STRAORDINARIA DELLE<br>OPERE A RETE IDRICHE E FOGNARIE DELLA STO BA-BAT – AET BARI –<br>SOSTITUZIONE DELLA CONDOTTA IDRICA IN VIA NICOLAI DALLA DATA DI<br>EMANAZIONE DELLA PRESENTE ORDINANZA FINO AL 30/09/2026<br>ISTANTE: AQP<br>SOCIETÀ: INGALLINA S.R.L.<br><br>Durata e Tempistiche: 23/06/2026 - 30/09/2026]]></description>
+      <styleUrl>#line-9C27B0-4294</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8521142,41.120393,0
+          16.858775,41.120712,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03058
+DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO, RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO
+VIA PODGORA E VIA PREMUDA
+CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE AQP
+IMPRESA ESECUTRICE:ACCIONA AGUA S.A.
+29/06/2026 - 21/08/2026</name>
+      <description><![CDATA[Ordinanza: 2026/03058<br><br>https://drive.google.com/file/d/11VeaVVa2kAJDMD0x-74atoGQXHsVtUBV/view<br><br>P1557 - PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI<br><br>MIRATI PER CONSEGUIRE LA<br>DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL<br>MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI DEL<br>TERRITORIO SERVITO DALL’ACQUEDOTTO PUGLIESE E SOSTITUZIONE DEI<br>TRONCHI VETUSTI ED AMMALORATI - LOTTO1 - BA1”.<br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ<br>RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI<br>TRANSITO SU VIA PODGORA , VIA PREMUDA <br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e tempistiche: 29/06/2026 - 21/08/2026]]></description>
+      <styleUrl>#line-E65100-3519</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8675827,41.10541,0
+          16.8716167,41.1052524,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03058
+DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO, RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO
+VIA PODGORA E VIA PREMUDA
+CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE AQP
+IMPRESA ESECUTRICE:ACCIONA AGUA S.A.
+29/06/2026 - 21/08/2026</name>
+      <description><![CDATA[Ordinanza: 2026/03058<br><br>https://drive.google.com/file/d/11VeaVVa2kAJDMD0x-74atoGQXHsVtUBV/view<br><br>P1557 - PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI<br><br>MIRATI PER CONSEGUIRE LA<br>DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL<br>MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI DEL<br>TERRITORIO SERVITO DALL’ACQUEDOTTO PUGLIESE E SOSTITUZIONE DEI<br>TRONCHI VETUSTI ED AMMALORATI - LOTTO1 - BA1”.<br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ<br>RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI<br>TRANSITO SU VIA PODGORA , VIA PREMUDA <br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e tempistiche: 29/06/2026 - 21/08/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8677437,41.1055657,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03058
+DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO, RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO
+VIA PODGORA E VIA PREMUDA
+CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE AQP
+IMPRESA ESECUTRICE:ACCIONA AGUA S.A.
+29/06/2026 - 21/08/2026</name>
+      <description><![CDATA[Ordinanza: 2026/03058<br><br>https://drive.google.com/file/d/11VeaVVa2kAJDMD0x-74atoGQXHsVtUBV/view<br><br>P1557 - PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI<br><br>MIRATI PER CONSEGUIRE LA<br>DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL<br>MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI DEL<br>TERRITORIO SERVITO DALL’ACQUEDOTTO PUGLIESE E SOSTITUZIONE DEI<br>TRONCHI VETUSTI ED AMMALORATI - LOTTO1 - BA1”.<br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ<br>RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI]]></description>
+      <styleUrl>#line-E65100-3906</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8708641,41.1052583,0
+          16.8708815,41.1052381,0
+          16.8708453,41.1045873,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03056
+DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ
+RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI
+TRANSITO 
+VIA GENTILE 
+P1557 - PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
+29/06/2026 - 31/07/2026 
+</name>
+      <description><![CDATA[ORDINANZA 2026/03056<br><br>https://drive.google.com/file/d/1OtoNR_PgXxNVwkEiMbSfTBpHCUaG_xVJ/view<br><br>P1557 - PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI<br><br>MIRATI PER CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI DEL TERRITORIO SERVITO DALL’ACQUEDOTTO PUGLIESE E SOSTITUZIONE DEI<br>TRONCHI VETUSTI ED AMMALORATI - LOTTO1 - BA1”.<br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ<br>RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI<br>TRANSITO SU VIA GENTILE DAL GIORNO 29/06/2026 AL 31/07/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: 23/06/2026 - 22/07/2026  ]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.9356598,41.0990886,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03056
+DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ
+RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI
+TRANSITO 
+VIA GENTILE 
+P1557 - PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
+29/06/2026 - 31/07/2026  
+</name>
+      <description><![CDATA[ORDINANZA 2026/03056<br><br>https://drive.google.com/file/d/1OtoNR_PgXxNVwkEiMbSfTBpHCUaG_xVJ/view<br><br>P1557 - PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI<br><br>MIRATI PER CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI DEL TERRITORIO SERVITO DALL’ACQUEDOTTO PUGLIESE E SOSTITUZIONE DEI<br>TRONCHI VETUSTI ED AMMALORATI - LOTTO1 - BA1”.<br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ<br>RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI<br>TRANSITO SU VIA GENTILE DAL GIORNO 29/06/2026 AL 31/07/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: 23/06/2026 - 22/07/2026  ]]></description>
+      <styleUrl>#line-E65100-4294</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.9724237,41.0903967,0
+          16.9661259,41.0916581,0
+          16.9630574,41.0921594,0
+          16.9576072,41.0925394,0
+          16.9514381,41.0930731,0
+          16.949582,41.0933965,0
+          16.9444322,41.0953209,0
+          16.9034119,41.1112228,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03068 
+DIVIETO DI FERMAT, RESTRINGIMENTO CARREGGIATA
+CORSO VITTORIO EMANUELE II TRA PIAZZA IV NOVEMBRE E VIA SPARANO
+LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. 
+29/06/2026 - 29/07/2026  
+</name>
+      <description><![CDATA[ORDINANZA 2026/03068 <br><br>https://drive.google.com/file/d/1ku9jMHG26el9jJHBN6tU-Q52AsQMl3Ys/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU CORSO VITTORIO EMANUELE II, NEL TRATTO STRADALE COMPRESO TRA PIAZZA IV NOVEMBRE E VIA SPARANO DAL GIORNO 29.06.2026 AL GIORNO 29.07.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) Corso Vittorio Emanuele II, nel tratto stradale compreso tra Piazza IV Novembre e via Sparano. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) Corso Vittorio Emanuele II, ambo i lati, nel tratto stradale compreso tra Piazza IV Novembre e via Sparano. c) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; <br><br>Durata e tempistiche: 29/06/2026 - 29/07/2026 ]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8709753,41.1261627,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03068 
+DIVIETO DI FERMATA, RESTRINGIMENTO CARREGGIATA
+CORSO VITTORIO EMANUELE II TRA PIAZZA IV NOVEMBRE E VIA SPARANO
+LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. 
+29/06/2026 - 29/07/2026  
+</name>
+      <description><![CDATA[ORDINANZA 2026/03068 <br><br>https://drive.google.com/file/d/1ku9jMHG26el9jJHBN6tU-Q52AsQMl3Ys/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU CORSO VITTORIO EMANUELE II, NEL TRATTO STRADALE COMPRESO TRA PIAZZA IV NOVEMBRE E VIA SPARANO DAL GIORNO 29.06.2026 AL GIORNO 29.07.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) Corso Vittorio Emanuele II, nel tratto stradale compreso tra Piazza IV Novembre e via Sparano. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) Corso Vittorio Emanuele II, ambo i lati, nel tratto stradale compreso tra Piazza IV Novembre e via Sparano. c) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; <br><br>Durata e tempistiche: 29/06/2026 - 29/07/2026 ]]></description>
+      <styleUrl>#line-E65100-3131</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8723862,41.1262203,0
+          16.8693392,41.1260324,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03088 
+DIVIETO DI TRANSITO 
+VIA CAPITANEO NEL TRATTO COMPRESO TRA VIA CAPUTO E VIA TENENTE LEONARDO RANIERI 
+e
+DIVIETO DI SOSTA SU VIA CAPITANEO DALL’INTERSEZIONE CON VIA CAPUTO A VICO VII CAPITANEO 
+PER SMONTAGGIO GRÙ 
+DELLINO MARCO 
+DAL 29/06/2026 AL 30/06/2026 
+DALLE ORE 07:00-17:00.
+</name>
+      <description><![CDATA[ORDINANZA 2026/03088 <br><br>https://drive.google.com/file/d/1tvWYWYudO80VQ40Ba7Aa06HAVA3GQ93X/view<br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE DEL DIVIETO DI<br>TRANSITO SU VIA CAPITANEO NEL TRATTO COMPRESO TRA VIA CAPUTO E<br>VIA TENENTE LEONARDO RANIERI, DIVIETO DI SOSTA SU VIA CAPITANEO<br>DALL’INTERSEZIONE CON VIA CAPUTO A VICO VII CAPITANEO E DEROGA<br>AL DIVIETO DI TRANSITO VEICOLARE CON MASSA COMPLESSIVA SUP. AI<br>3,5 T. VIGENTE SU VIA CAPITANEO PER I VEICOLI DIRETTI AL CANTIERE<br>ADIBITI ALLO SMONTAGGIO GRÙ PER IL GIORNO 29 E 30/06/2026 DALLE<br>ORE 07:00-17:00.<br>ISTANTE: DELLINO MARCO<br>SOCIETÀ: MADE COS S.R.L.<br><br>Durata e tempistiche: DAL 29/06/2026 AL 30/06/2026 ]]></description>
+      <styleUrl>#line-E65100-5263</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.7611405,41.154157,0
+          16.7605504,41.1527191,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03088 
+DIVIETO DI TRANSITO 
+VIA CAPITANEO NEL TRATTO COMPRESO TRA VIA CAPUTO E VIA TENENTE LEONARDO RANIERI 
+
+
+DIVIETO DI SOSTA SU VIA CAPITANEO DALL’INTERSEZIONE CON VIA CAPUTO A VICO VII CAPITANEO 
+PER SMONTAGGIO GRÙ 
+DELLINO MARCO 
+DAL 29/06/2026 AL 30/06/2026 
+DALLE ORE 07:00-17:00.
+</name>
+      <description><![CDATA[ORDINANZA 2026/03088 <br><br>https://drive.google.com/file/d/1tvWYWYudO80VQ40Ba7Aa06HAVA3GQ93X/view<br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE DEL DIVIETO DI<br>TRANSITO SU VIA CAPITANEO NEL TRATTO COMPRESO TRA VIA CAPUTO E<br>VIA TENENTE LEONARDO RANIERI, DIVIETO DI SOSTA SU VIA CAPITANEO<br>DALL’INTERSEZIONE CON VIA CAPUTO A VICO VII CAPITANEO E DEROGA<br>AL DIVIETO DI TRANSITO VEICOLARE CON MASSA COMPLESSIVA SUP. AI<br>3,5 T. VIGENTE SU VIA CAPITANEO PER I VEICOLI DIRETTI AL CANTIERE<br>ADIBITI ALLO SMONTAGGIO GRÙ PER IL GIORNO 29 E 30/06/2026 DALLE<br>ORE 07:00-17:00.<br>ISTANTE: DELLINO MARCO<br>SOCIETÀ: MADE COS S.R.L.<br><br>Durata e tempistiche: DAL 29/06/2026 AL 30/06/2026 ]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.7607721,41.1533762,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03089
+DIVIETO DI SOSTA AMBO I LATI, SENSO UNICO ALTERNATO NONCHÉ
+RESTRINGIMENTO CARREGGIATA
+SU CORSO DELLA CARBONERIA
+PER LAVORI DI RIPRISTINO
+DEFINITIVO DELLA PAVIMENTAZIONE MEDIANTE SCARIFICA E SUCCESSIVA
+STESA DEL TAPPETO D’USURA
+
+ACCIONA AGUA S.A.
+
+DAL 06/07/2026 AL 21/08/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/03089<br><br>https://drive.google.com/file/d/10IzvK2bZSphexcNp5POxiqJa45CRU7WX/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ<br>RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI<br>TRANSITO SU CORSO DELLA CARBONERIA PER LAVORI DI RIPRISTINO<br>DEFINITIVO DELLA PAVIMENTAZIONE MEDIANTE SCARIFICA E SUCCESSIVA<br>STESA DEL TAPPETO D’USURA, NONCHÉ NEL RIFACIMENTO DELLA PISTA<br>CICLABILE,DAL 06/07/2026 AL 21/08/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL 06/07/2026 AL 21/08/2026]]></description>
+      <styleUrl>#line-E65100-2938</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8479454,41.1252543,0
+          16.8488815,41.1251189,0
+          16.8499731,41.1250866,0
+          16.8511613,41.1251512,0
+          16.8516871,41.1251755,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03089
+DIVIETO DI SOSTA AMBO I LATI, SENSO UNICO ALTERNATO NONCHÉ
+RESTRINGIMENTO CARREGGIATA
+SU CORSO DELLA CARBONERIA
+PER LAVORI DI RIPRISTINO
+DEFINITIVO DELLA PAVIMENTAZIONE MEDIANTE SCARIFICA E SUCCESSIVA
+STESA DEL TAPPETO D’USURA
+
+ACCIONA AGUA S.A.
+DAL 06/07/2026 AL 21/08/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/03089<br><br>https://drive.google.com/file/d/10IzvK2bZSphexcNp5POxiqJa45CRU7WX/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ<br>RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI<br>TRANSITO SU CORSO DELLA CARBONERIA PER LAVORI DI RIPRISTINO<br>DEFINITIVO DELLA PAVIMENTAZIONE MEDIANTE SCARIFICA E SUCCESSIVA<br>STESA DEL TAPPETO D’USURA, NONCHÉ NEL RIFACIMENTO DELLA PISTA<br>CICLABILE,DAL 06/07/2026 AL 21/08/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL 06/07/2026 AL 21/08/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8500777,41.1251007,0
         </coordinates>
       </Point>
     </Placemark>
