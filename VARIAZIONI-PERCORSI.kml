@@ -172,6 +172,40 @@
         <styleUrl>#icon-1538-9C27B0-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1541-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1541-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1541-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1541-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1541-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1716-0F9D58-normal">
       <IconStyle>
         <color>ff589d0f</color>
@@ -412,11 +446,11 @@ Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde
       <name>FAL: CORSO VITTORIO VENETO
 
 Si informa la gentile clientela che, per la realizzazione del sistema BRT (Bus Rapid Transit), un servizio di trasporto pubblico rapido su gomma con corsie preferenziali, il Comune di Bari ha disposto il divieto di fermata su entrambi i lati di corso Vittorio Veneto, nel tratto compreso tra via Brigata Regina e via Niccolò Pizzoli (Liceo Ginnasio “Orazio Flacco”) e Piazza Massari dal 21 gennaio 2026 al 21 febbraio 2026.</name>
-      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwOl9R_kOBMq-LJQgDbmNIqEe7ViBDQHrOb8SWPbTzxzsCZ7tUfFCBElUIJawswsE59gbXXAtyLaN-vLRQq8gSLMnwpjE0j_BlevMp1XxfkmEyubUeBJFEHrTx6nAxd3oUhtojJ76XlPO2o9BTbgdbJLsKxuT0MOzdTCFYhvkAa41pRM-Soi0vW4ZxJZ6Ua18FO_QJP4DkZCHDO0Ji6JHa4ve_XbCmy10h9JHwOmEnRKv_Lv4oB8NJW7Yw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://ferrovieappulolucane.it/comunic-di-servizio/soppressione-fermate-corso-vittorio-veneto-e-piazza-massari-bari_26012026_0959/<br><br>Riassunto<br>Soppressione fermate su corso Vittorio Veneto e piazza Massari, a Bari, dal 21 gennaio al 21 febbraio 2026.<br><br>Si informa la gentile clientela che, per la realizzazione del sistema BRT (Bus Rapid Transit), un servizio di trasporto pubblico rapido su gomma con corsie preferenziali, il Comune di Bari ha disposto il divieto di fermata su entrambi i lati di corso Vittorio Veneto, nel tratto compreso tra via Brigata Regina e via Niccolò Pizzoli (Liceo Ginnasio “Orazio Flacco”) e Piazza Massari dal 21 gennaio 2026 al 21 febbraio 2026.<br><br>Pertanto, nel periodo indicato le fermate presenti nel tratto interessato saranno temporaneamente soppresse.<br><br>BLU: DA BARI<br>VERDE: PER BARI<br><br>https://ferrovieappulolucane.it/wp-content/uploads/2026/01/MANIFESTO-ORARIO-CORSE-BUS-19-GEN-2026.pdf<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxHGMZDyEmdwM_3UGaDArY0Fi0WYIT_eEzqvN4ZSTfsdLvhAX3FO48KA92_DpIn69asj8SU5yfoWbrgdEzFWagbEwrEA4hRAawKa2nGG04KD-ylyoa3rMfARXJ1AgpKwXE8UbsuFch3FDqL25xBtbpBg-gD45W4sTuSRnVgdGCgSGC7AfRczaXRr06X_byYbBc3UdzWKoft-wbpgpKdXnQBKqMTk8NqmkaHbaYxgXEnZYgubA6sZWXTz5Y?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyxcKoETA6zWeBqNKAYOmKWKJmVeCe0JcR4EC6UoJoJGgsVoiMRuUhyNE6zjaxAN2UYJVVzrrYvLwg4xNZZ3z4TYY5ZkMCC0MtVTjYpFdgRlDqveFspdn0wQZY6S40Ji6CXbJPLV3ikm7KQ7C0teOFcLwunCIt6Rksz5R3vQv1VlO1Fb4oi7zrMg-1iXVGQ7eTIZYkH1UAk8aYaNHXR0BZTMIaeYvzumtcCpIEnW5bcG5sqoVbB3lLySP4?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://ferrovieappulolucane.it/comunic-di-servizio/soppressione-fermate-corso-vittorio-veneto-e-piazza-massari-bari_26012026_0959/<br><br>Riassunto<br>Soppressione fermate su corso Vittorio Veneto e piazza Massari, a Bari, dal 21 gennaio al 21 febbraio 2026.<br><br>Si informa la gentile clientela che, per la realizzazione del sistema BRT (Bus Rapid Transit), un servizio di trasporto pubblico rapido su gomma con corsie preferenziali, il Comune di Bari ha disposto il divieto di fermata su entrambi i lati di corso Vittorio Veneto, nel tratto compreso tra via Brigata Regina e via Niccolò Pizzoli (Liceo Ginnasio “Orazio Flacco”) e Piazza Massari dal 21 gennaio 2026 al 21 febbraio 2026.<br><br>Pertanto, nel periodo indicato le fermate presenti nel tratto interessato saranno temporaneamente soppresse.<br><br>BLU: DA BARI<br>VERDE: PER BARI<br><br>https://ferrovieappulolucane.it/wp-content/uploads/2026/01/MANIFESTO-ORARIO-CORSE-BUS-19-GEN-2026.pdf<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwfoyGIZY2IW5k0lPZHiys89HbtV8-k6jrgd615SnoxhY8K598Jj_vRvP2dHq2AWA3fsyKW2TpNKzvHe1LKbf98nF6FjnLEkqEfIFHYU0t4gqEZyb--iOB9PvSgobIEdiZyEPL4a_DEWoK6PU23s19mk0D8u95HZH16vCgJ29v_kc618cuX8_yKSprW_0c8xHkEur9ti4yRO9mwbZzKqxGjqhRCF0UDj4Q-mZYTiJWxMSseoHHKvVhhJhY?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
       <styleUrl>#icon-1532-0F9D58</styleUrl>
       <ExtendedData>
         <Data name="gx_media_links">
-          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwOl9R_kOBMq-LJQgDbmNIqEe7ViBDQHrOb8SWPbTzxzsCZ7tUfFCBElUIJawswsE59gbXXAtyLaN-vLRQq8gSLMnwpjE0j_BlevMp1XxfkmEyubUeBJFEHrTx6nAxd3oUhtojJ76XlPO2o9BTbgdbJLsKxuT0MOzdTCFYhvkAa41pRM-Soi0vW4ZxJZ6Ua18FO_QJP4DkZCHDO0Ji6JHa4ve_XbCmy10h9JHwOmEnRKv_Lv4oB8NJW7Yw?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxHGMZDyEmdwM_3UGaDArY0Fi0WYIT_eEzqvN4ZSTfsdLvhAX3FO48KA92_DpIn69asj8SU5yfoWbrgdEzFWagbEwrEA4hRAawKa2nGG04KD-ylyoa3rMfARXJ1AgpKwXE8UbsuFch3FDqL25xBtbpBg-gD45W4sTuSRnVgdGCgSGC7AfRczaXRr06X_byYbBc3UdzWKoft-wbpgpKdXnQBKqMTk8NqmkaHbaYxgXEnZYgubA6sZWXTz5Y?authuser=0&fife=s16383]]></value>
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyxcKoETA6zWeBqNKAYOmKWKJmVeCe0JcR4EC6UoJoJGgsVoiMRuUhyNE6zjaxAN2UYJVVzrrYvLwg4xNZZ3z4TYY5ZkMCC0MtVTjYpFdgRlDqveFspdn0wQZY6S40Ji6CXbJPLV3ikm7KQ7C0teOFcLwunCIt6Rksz5R3vQv1VlO1Fb4oi7zrMg-1iXVGQ7eTIZYkH1UAk8aYaNHXR0BZTMIaeYvzumtcCpIEnW5bcG5sqoVbB3lLySP4?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwfoyGIZY2IW5k0lPZHiys89HbtV8-k6jrgd615SnoxhY8K598Jj_vRvP2dHq2AWA3fsyKW2TpNKzvHe1LKbf98nF6FjnLEkqEfIFHYU0t4gqEZyb--iOB9PvSgobIEdiZyEPL4a_DEWoK6PU23s19mk0D8u95HZH16vCgJ29v_kc618cuX8_yKSprW_0c8xHkEur9ti4yRO9mwbZzKqxGjqhRCF0UDj4Q-mZYTiJWxMSseoHHKvVhhJhY?authuser=0&fife=s16383]]></value>
         </Data>
       </ExtendedData>
       <Point>
@@ -507,20 +541,6 @@ Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde
       <Point>
         <coordinates>
           16.8594652,41.069598,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>CORSO VITTORIO EMANUELE II
- 
-L’AMTAB S.p.A. informa che in riferimento all’avanzamento dei lavori di scavo per interramento di cavi su corso Vittorio Emanuele II nel tratto compreso tra via Cairoli e via De Rossi, dal 03 al 13 marzo 2026, da inizio a fine servizio, le linee 2/, 22, 27, 42, 50, navette A, B e AB effettueranno alcune variazioni di percorso.
-Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.
-</name>
-      <description><![CDATA[LINEE: 2/, 22, 27, 42, 50, NAVETTE A, B e AB: VARIAZIONI DI PERCORSO - LAVORI IN CORSO VITTORIO EMANUELE II<br>L’AMTAB S.p.A. informa che in riferimento all’avanzamento dei lavori di scavo per interramento di cavi su corso Vittorio Emanuele II nel tratto compreso tra via Cairoli e via De Rossi, dal 03 al 13 marzo 2026, da inizio a fine servizio, le linee 2/, 22, 27, 42, 50, navette A, B e AB effettueranno alcune variazioni di percorso.<br><br>linea 2/<br>in direzione Piscine Comunali: i bus giunti in via Peucetia, svolterà a dx per via Apulia, a sx per via Oberdan, via G. Capruzzi, a dx per il sottopasso Duca degli Abruzzi piazza Luigi di Savoia, via De Giosa, via Cognetti, corso Cavour, corso Vittorio Emanuele, proseguiranno per piazza Garibaldi, via Bonazzi, a sx per corso Vittorio Veneto con ripresa del percorso ordinario;<br><br>in direzione via Conenna (S. Anna): i bus giunti in piazza Massari svolteranno a dx per corso Vittorio Emanuele, a sx per via Quintino Sella, a sx per via Piccinni, a dx per corso Cavour, a sx per via Carulli, a dx per piazza Luigi di Savoia, sottopasso Duca degli Abruzzi, a sx per via G. Capruzzi, via Oberdan, a dx per via Masaniello, a sx per via Peucetia con ripresa del percorso ordinario;<br><br>linea 22<br>in direzione Piscine Comunali: i bus giunti in via Piccinni, proseguiranno per piazza Garibaldi, via Bonazzi, a sx per corso Vittorio Veneto con ripresa del percorso ordinario;<br><br>in direzione via Torre di Mizzo: i bus effettueranno il percorso ordinario;<br><br>linea 27<br>in direzione Piscine Comunali: i bus giunti in via Piccinni, proseguiranno per piazza Garibaldi, via Bonazzi, a sx per corso Vittorio Veneto con ripresa del percorso ordinario;<br><br>in direzione parco Domingo: i bus effettueranno il percorso ordinario;<br><br>linea 42<br>in direzione Piscine Comunali: i bus giunti in corso Vittorio Emanuele, proseguiranno per piazza Garibaldi, via Bonazzi, a sx per corso Vittorio Veneto con ripresa del percorso ordinario;<br>in direzione area di sosta Pane & Pomodoro: i bus giunti in piazza Massari svolteranno a dx per corso Vittorio Emanuele, a sx per via Quintino Sella, a sx per via Piccinni, a dx per corso Cavour, lungomare di Crollalanza con ripresa del percorso ordinario;<br><br>linea 50<br>in partenza da piazza Moro: i bus giunti in corso Vittorio Emanuele, proseguiranno per piazza Garibaldi, via Bonazzi, a dx per corso Vittorio Veneto con ripresa del percorso ordinario;<br><br>navetta “A”<br>in partenza dall’area di sosta ”Vittorio Veneto-lato terra”: i bus giunti in corso Vittorio Emanuele, proseguiranno per piazza Garibaldi, via Bonazzi, a sx per corso Vittorio Veneto con ripresa del percorso ordinario;<br><br>navetta “B”<br>in partenza da piazza Massari: i bus giunti in corso Vittorio Emanuele, proseguiranno per piazza Garibaldi, via Bonazzi, a dx per corso Vittorio Veneto, a dx per piazza Massari, a dx per corso Vittorio Emanuele, a sx per via Quintino Sella, a sx per via Piccinni, a dx per corso Cavour, lungomare di Crollalanza con ripresa del percorso ordinario;<br><br>navetta “AB”<br>in partenza dall’area di sosta ”Vittorio Veneto-lato terra”: i bus giunti in piazza Massari, svolteranno a dx per corso Vittorio Emanuele, a sx per via Quintino Sella, a sx per via Piccinni, a dx per corso Cavour, lungomare di Crollalanza, lungomare Nazario Sauro, lungomare Perotti, corso Trieste, via Ballestrero, corso Trieste (area di sosta Pane Pomodoro); lungomare Nazario Sauro, corso Vittorio Emanuele, proseguiranno per piazza Garibaldi, via Bonazzi, a sx per corso Vittorio Veneto con ripresa del percorso ordinario;<br>in direzione area di sosta Pane & Pomodoro: i bus giunti in piazza Massari svolteranno a dx per corso Vittorio Emanuele, a sx per via Quintino Sella, a sx per via Piccinni,<br><br>Saranno effettuate tutte le fermate esistenti lungo le predette variazioni di percorso.<br><br>Per tutto quanto sopra vengono soppresse le seguenti fermate:<br><br> Prefettura<br><br> Giardini d’Aragona<br><br> Anagrafe fronte<br><br> Emanuele/Sparano<br><br> Emanuele/Melo<br><br> Le fermate utili sono via Piccinni/Roberto da Bari]]></description>
-      <styleUrl>#icon-1532-F9A825</styleUrl>
-      <Point>
-        <coordinates>
-          16.8684878,41.1260212,0
         </coordinates>
       </Point>
     </Placemark>
@@ -869,11 +889,11 @@ Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde
     </Placemark>
     <Placemark>
       <name><![CDATA[VIABILITA']]></name>
-      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxR1Ev7g5KfBMb8Gw8VE5ZT9-fana75YQLq2Kw5k1E11fVsOhKKBuEF2BhQ29qwXSx3-BK2AV9PJusNl_C62_4IaELA7jKXDVoHcNmzJ4gDkq4DSD-Cn2AHBV7TceoBnkCgBNcRoH91WBplPV4v8-8vbx6voOIeCSgtrX7ys6IsKcEkBAwQTPBeT0PfdoHW2PPwlPzipw_hdwJGRu_Af7_QFJRxlsn8Kobw774WD7d3O2WzXG3AqS1Dpls?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://drive.google.com/file/d/13Cr2nhOjfWzVuhetVhQQ5nfUpVAe5e8C/view]]></description>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwR02MFlGK8rBiSOEy2rlEPzZDJ7OuSTAOpnCNpr18kH8eF5AbwrIg9YxJ2eSAuQfHyHsGsCa3S4Xd3HiuvKLHyl9xZiuEpqbf73yYOaPcYZBHj_wvjU21uTFe3ua6UkFLELEQoFbi4zsWUTNNco2mETm6V2tpo6Imj5SYi04YPyReF-PdOoZ5-2Gfbrzq-yIaPg53dlcvhnXGNUkP_Rf7xxmbf-EGZVCXQe6c_hmxk74jT-184iLE2bqc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://drive.google.com/file/d/13Cr2nhOjfWzVuhetVhQQ5nfUpVAe5e8C/view]]></description>
       <styleUrl>#icon-1538-9C27B0</styleUrl>
       <ExtendedData>
         <Data name="gx_media_links">
-          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxR1Ev7g5KfBMb8Gw8VE5ZT9-fana75YQLq2Kw5k1E11fVsOhKKBuEF2BhQ29qwXSx3-BK2AV9PJusNl_C62_4IaELA7jKXDVoHcNmzJ4gDkq4DSD-Cn2AHBV7TceoBnkCgBNcRoH91WBplPV4v8-8vbx6voOIeCSgtrX7ys6IsKcEkBAwQTPBeT0PfdoHW2PPwlPzipw_hdwJGRu_Af7_QFJRxlsn8Kobw774WD7d3O2WzXG3AqS1Dpls?authuser=0&fife=s16383]]></value>
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwR02MFlGK8rBiSOEy2rlEPzZDJ7OuSTAOpnCNpr18kH8eF5AbwrIg9YxJ2eSAuQfHyHsGsCa3S4Xd3HiuvKLHyl9xZiuEpqbf73yYOaPcYZBHj_wvjU21uTFe3ua6UkFLELEQoFbi4zsWUTNNco2mETm6V2tpo6Imj5SYi04YPyReF-PdOoZ5-2Gfbrzq-yIaPg53dlcvhnXGNUkP_Rf7xxmbf-EGZVCXQe6c_hmxk74jT-184iLE2bqc?authuser=0&fife=s16383]]></value>
         </Data>
       </ExtendedData>
       <Point>
@@ -927,6 +947,47 @@ Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde
       <Point>
         <coordinates>
           16.8754151,41.1050173,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CIMITERO SANTO SPIRITO: LINEE 33 VARIAZIONI DI PERCORSO
+Dal 13 luglio al 07 agosto 2026 in entrambi le direzioni di marcia, la linea 33 non effettuerà il passaggio dal Cimitero di Santo Spirito.
+
+Al fine di limitare l’eventuale disagio all’Utenza, l’Azienda ha predisposto un servizio di coordinamento esterno per le opportune esigenze che si renderanno necessarie. 
+
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.</name>
+      <description><![CDATA[LINEE 33 VARIAZIONI DI PERCORSO - “PASSAGGIO CIMITERO SANTO SPIRITO”<br>Dando seguito all’Ordinanza pervenuta con nota CDG 0617970 del 02.07.2026 dal Responsabile Strutture Territoriali ANAS, per permettere i ripristini corticali della spalla e dei muri andatori, dal 13 luglio al 07 agosto 2026 in entrambi le direzioni di marcia, la linea 33 non effettuerà il passaggio dal Cimitero di Santo Spirito.<br><br>Al fine di limitare l’eventuale disagio all’Utenza, l’Azienda ha predisposto un servizio di coordinamento esterno per le opportune esigenze che si renderanno necessarie. <br><br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.7356539,41.1555906,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CORSO VITTORIO EMANUELE II: FERMATA SOPPRESSA
+LINEE 2/, 42 e NAVETTE B, AB
+Dal 13 luglio 2026 e fino a nuove disposizioni, sarà temporaneamente soppressa la fermata ubicata su corso Vittorio Emanuele II in direzione Piazza Massari, meglio identificata come: “Palazzo Economia”.
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.</name>
+      <description><![CDATA[FERMATA SOPPRESSA - CORSO VITTORIO EMANUELE II<br>LINEE 2/, 42 e NAVETTE B, AB<br><br>A seguito di Ordinanza n°2026/03305 - 2026/185/01430 pervenuta dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche del Comune di Bari in data 03.07.2026, al fine di consentire l’esecuzione dei lavori propedeutici alla realizzazione del progetto BRT, a partire dal 13 luglio 2026 e fino a nuove disposizioni, sarà temporaneamente soppressa la fermata ubicata su corso Vittorio Emanuele II in direzione Piazza Massari, meglio identificata come: “Palazzo Economia”.<br><br>Fermate utili: <br>- “V. Emanuele – Giardino”<br><br>- “Prefettura” <br><br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1541-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8690551,41.1260668,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VIA G. SALVEMINI - FERMATE SOPPRESSE
+Dal 10 luglio 2026 e fino a nuove disposizioni, saranno temporaneamente soppresse le fermate ubicata su Via Gaetano Salvemini, meglio identificate come: “Salvemini - Omodeo” e “Salvemini – Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.Orabona”.
+
+</name>
+      <description><![CDATA[VIA G. SALVEMINI - FERMATE SOPPRESSE<br>LINEE 21 e CPJ<br><br>Al fine di consentire l’esecuzione dei lavori propedeutici alla realizzazione del PIRP San Marcello, ed in ottemperanza dell’ordinanza emanata dalla ripartizione IVOP del Comune di Bari n. 2026/033306 – 2026/185/01431, a partire dal 10 luglio 2026 e fino a nuove disposizioni, saranno temporaneamente soppresse le fermate ubicata su Via Gaetano Salvemini, meglio identificate come: “Salvemini - Omodeo” e “Salvemini – Orabona”.<br><br>Fermate utili:<br><br>“Orabona (Politecnico) per la linea 21<br>“S. Marcello” per la linea 21 e CPJ<br> <br><br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8811392,41.1069042,0
         </coordinates>
       </Point>
     </Placemark>

@@ -410,6 +410,28 @@
         <styleUrl>#line-E65100-5069-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="line-E65100-5088-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>5.088</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-E65100-5088-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>7.632</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-E65100-5088">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-5088-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-5088-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="line-E65100-5263-normal">
       <LineStyle>
         <color>ff0051e6</color>
@@ -3670,21 +3692,6 @@ IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
           16.8905998,41.1100157,0
         </coordinates>
       </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/01313
-RESTRINGIMENTO CARREGGIATA 
-VIA OSPEDALE DI VENERE ANGOLO VIA MESSINA
-POSIZIONAMENTO PONTEGGIO
-RICHIEDENTE: BARLETTA LUIGI 
-16/03/2026 - 30/05/2026</name>
-      <description><![CDATA[Ordinanza: 2026/01313<br><br>https://drive.google.com/file/d/1DGGlz2K20tXE19ga3XfxQQJDPnzgpaQj/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DELLA CARREGGIATA<br>VIA OSPEDALE DI VENERE CIV. 110 ANGOLO VIA MESSINA IN CARBONARA<br>(BA) PER IL POSIZIONAMENTO DI UN PONTEGGIO METALLICO PER<br>SVOLGERE ATTIVITÀ DI COMPLETAMENTO LAVORI DAL 16/03/2026 AL<br>30/05/2026.<br>ISTANTE : BARLETTA LUIGI (PROPRIETARIO DELL’IMMOBILE)<br><br>Durata e tempistiche: 16/03/2026 - 30/05/2026]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8670248,41.0757956,0
-        </coordinates>
-      </Point>
     </Placemark>
     <Placemark>
       <name>ORDINANZA 2026/01278
@@ -7768,14 +7775,16 @@ IMPRESA ESECUTRICE: COSTRUZIONI IMMOBILIARI S.R.L.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03378 
-RESTRINGIMENTO CARREGGIATA, DIVIETO DI FERMATA
-VIA MITOLO TRA VIALE GIUSEPPE BARTOLO E VIALE DE LAURENTIS
-LAVORI DI REALIZZAZIONE DI UN HUB DI RICARICA DI BUS ELETTRICI 
-IMPRESA ESECUTRICE: EUROSISTEMI S.R.L
-01/07/2026 - 19/07/2026 
+      <name>ORDINANZA 2026/03423
+RETTIFICA ORDINANZA N. 2026/02756
+LAVORI DI REALIZZAZIONE DI UN HUB DI RICARICA DI BUS ELETTRICI DI
+VIA. M. MITOLO
+REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU
+VIA MITOLO TERMINE E DURATA: dal 11.07.2026 AL GIORNO 30.07.2026
+IMPRESA ESECUTRICE:EUROSISTEMI S.R.L
+
 </name>
-      <description><![CDATA[PROGATA DALLA ORDINANZA 2026/03378<br>https://drive.google.com/file/d/15JywhMr97YZfBLstbAr0A8etSWKFmmP9/view<br>FINO AL 19/07/2026<br><br>ORDINANZA 2026/03196 <br><br>https://drive.google.com/file/d/1YmF3Z4YBQgtleUbG_KNNUcFQcQej-zQ1/view<br><br>LAVORI DI REALIZZAZIONE DI UN HUB DI RICARICA DI BUS ELETTRICI DI VIA. M. MITOLO REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA MITOLO DAL GIORNO 01.07.2026 AL GIORNO 10.07.2026 IMPRESA ESECUTRICE: EUROSISTEMI S.R.L. <br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) via Mitolo, nel tratto stradale compreso tra viale Giuseppe Bartolo e viale De Laurentis; b) L’istituzione del divieto di fermata a tutti i veicoli su: i) via Mitolo, nel tratto stradale compreso tra viale Giuseppe Bartolo e viale De Laurentis; c) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati. <br><br>Durata e tempistiche: 01/07/2026 - 10/07/2026 <br><br>PROROGATA DALLA 2026/02756<br>DURATA: 08/06/2026 - 30/06/2027<br>https://drive.google.com/file/d/1HNoTIyI8_7N67beWpWk4PIgB48B3Vcf9/view<br><br><br>ORDINANZA 2026/02582 <br>https://drive.google.com/file/d/1Mw6_l1sCxqdrp-bxtT_QHUwxpgwe_QdV/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E DEL DIVIETO DI FERMATA AMBO I LATI PER LAVORI DI REALIZZAZIONE DI UN HUB DI RICARICA PER BUS ELETTRICI, SU VIA MITOLO NEL TRATTO STRADALE COMPRESO TRA VIALE BARTOLO E VIALE DE LAURENTIS DAL 25.05.2026 AL 29.05.2026. RICHIEDENTE: EUROSISTEMI DI NICOLA ABBATANTUONO <br><br>Durata e tempistiche: 25/05/2026 - 29/05/2026]]></description>
+      <description><![CDATA[ORDINANZA 2026/03423<br>RETTIFICA ORDINANZA N. 2026/02756<br><br>https://drive.google.com/file/d/1e893r5KTFFcrUHHRASX-FuYQ0L9RHfMn/view<br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su:<br>i) via Mitolo, nel tratto stradale compreso tra viale Giuseppe Bartolo e viale De Laurentis;<br>b) L’istituzione del divieto di fermata a tutti i veicoli su:<br>i) via Mitolo, nel tratto stradale compreso tra viale Giuseppe Bartolo e viale De Laurentis;<br>c) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree<br>interessate dai lavori.<br>2) Dagli obblighi e divieti di cui al punto 1) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati. <br>TERMINE E DURATA: dal 11.07.2026 AL GIORNO 30.07.2026<br>ORDINANZA 2026/03423<br>RETTIFICA ORDINANZA N. 2026/02756<br><br>https://drive.google.com/file/d/1e893r5KTFFcrUHHRASX-FuYQ0L9RHfMn/view<br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su:<br>i) via Mitolo, nel tratto stradale compreso tra viale Giuseppe Bartolo e viale De Laurentis;<br>b) L’istituzione del divieto di fermata a tutti i veicoli su:<br>i) via Mitolo, nel tratto stradale compreso tra viale Giuseppe Bartolo e viale De Laurentis;<br>c) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree<br>interessate dai lavori.<br>2) Dagli obblighi e divieti di cui al punto 1) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati. <br>TERMINE E DURATA: dal 11.07.2026 AL GIORNO 30.07.2026<br>PROGATA DALLA ORDINANZA 2026/03378<br>https://drive.google.com/file/d/15JywhMr97YZfBLstbAr0A8etSWKFmmP9/view<br>FINO AL 19/07/2026<br><br>ORDINANZA 2026/03196 <br><br>https://drive.google.com/file/d/1YmF3Z4YBQgtleUbG_KNNUcFQcQej-zQ1/view<br><br>LAVORI DI REALIZZAZIONE DI UN HUB DI RICARICA DI BUS ELETTRICI DI VIA. M. MITOLO REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA MITOLO DAL GIORNO 01.07.2026 AL GIORNO 10.07.2026 IMPRESA ESECUTRICE: EUROSISTEMI S.R.L. <br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) via Mitolo, nel tratto stradale compreso tra viale Giuseppe Bartolo e viale De Laurentis; b) L’istituzione del divieto di fermata a tutti i veicoli su: i) via Mitolo, nel tratto stradale compreso tra viale Giuseppe Bartolo e viale De Laurentis; c) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati. <br><br>Durata e tempistiche: 01/07/2026 - 10/07/2026 <br><br>PROROGATA DALLA 2026/02756<br>DURATA: 08/06/2026 - 30/06/2027<br>https://drive.google.com/file/d/1HNoTIyI8_7N67beWpWk4PIgB48B3Vcf9/view<br><br><br>ORDINANZA 2026/02582 <br>https://drive.google.com/file/d/1Mw6_l1sCxqdrp-bxtT_QHUwxpgwe_QdV/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E DEL DIVIETO DI FERMATA AMBO I LATI PER LAVORI DI REALIZZAZ]]></description>
       <styleUrl>#line-E65100-3519</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -7786,14 +7795,16 @@ IMPRESA ESECUTRICE: EUROSISTEMI S.R.L
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03378 
-RESTRINGIMENTO CARREGGIATA, DIVIETO DI FERMATA
-VIA MITOLO TRA VIALE GIUSEPPE BARTOLO E VIALE DE LAURENTIS
-LAVORI DI REALIZZAZIONE DI UN HUB DI RICARICA DI BUS ELETTRICI 
-IMPRESA ESECUTRICE: EUROSISTEMI S.R.L
-01/07/2026 - 19/07/2026 
+      <name>ORDINANZA 2026/03423
+RETTIFICA ORDINANZA N. 2026/02756
+LAVORI DI REALIZZAZIONE DI UN HUB DI RICARICA DI BUS ELETTRICI DI
+VIA. M. MITOLO
+REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU
+VIA MITOLO TERMINE E DURATA: dal 11.07.2026 AL GIORNO 30.07.2026
+IMPRESA ESECUTRICE:EUROSISTEMI S.R.L
+
 </name>
-      <description><![CDATA[PROGATA DALLA  ORDINANZA 2026/03378<br>https://drive.google.com/file/d/15JywhMr97YZfBLstbAr0A8etSWKFmmP9/view<br>FINO AL 19/07/2026<br><br>ORDINANZA 2026/03196 <br><br>https://drive.google.com/file/d/1YmF3Z4YBQgtleUbG_KNNUcFQcQej-zQ1/view<br><br>LAVORI DI REALIZZAZIONE DI UN HUB DI RICARICA DI BUS ELETTRICI DI VIA. M. MITOLO REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA MITOLO DAL GIORNO 01.07.2026 AL GIORNO 10.07.2026 IMPRESA ESECUTRICE: EUROSISTEMI S.R.L. <br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) via Mitolo, nel tratto stradale compreso tra viale Giuseppe Bartolo e viale De Laurentis; b) L’istituzione del divieto di fermata a tutti i veicoli su: i) via Mitolo, nel tratto stradale compreso tra viale Giuseppe Bartolo e viale De Laurentis; c) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati. <br><br>Durata e tempistiche: 01/07/2026 - 10/07/2026 <br><br>PROROGATA DALLA 2026/02756<br>DURATA: 08/06/2026 - 30/06/2027<br>https://drive.google.com/file/d/1HNoTIyI8_7N67beWpWk4PIgB48B3Vcf9/view<br>--------------------<br>ORDINANZA 2026/02582 <br>https://drive.google.com/file/d/1Mw6_l1sCxqdrp-bxtT_QHUwxpgwe_QdV/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E DEL DIVIETO DI FERMATA AMBO I LATI PER LAVORI DI REALIZZAZIONE DI UN HUB DI RICARICA PER BUS ELETTRICI, SU VIA MITOLO NEL TRATTO STRADALE COMPRESO TRA VIALE BARTOLO E VIALE DE LAURENTIS DAL 25.05.2026 AL 29.05.2026. RICHIEDENTE: EUROSISTEMI DI NICOLA ABBATANTUONO <br><br>Durata e tempistiche: 25/06/2026 - 29/05/2026]]></description>
+      <description><![CDATA[ORDINANZA 2026/03423<br>RETTIFICA ORDINANZA N. 2026/02756<br><br>https://drive.google.com/file/d/1e893r5KTFFcrUHHRASX-FuYQ0L9RHfMn/view<br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su:<br>i) via Mitolo, nel tratto stradale compreso tra viale Giuseppe Bartolo e viale De Laurentis;<br>b) L’istituzione del divieto di fermata a tutti i veicoli su:<br>i) via Mitolo, nel tratto stradale compreso tra viale Giuseppe Bartolo e viale De Laurentis;<br>c) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree<br>interessate dai lavori.<br>2) Dagli obblighi e divieti di cui al punto 1) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati. <br>TERMINE E DURATA: dal 11.07.2026 AL GIORNO 30.07.2026<br>PROGATA DALLA  ORDINANZA 2026/03378<br>https://drive.google.com/file/d/15JywhMr97YZfBLstbAr0A8etSWKFmmP9/view<br>FINO AL 19/07/2026<br><br>ORDINANZA 2026/03196 <br><br>https://drive.google.com/file/d/1YmF3Z4YBQgtleUbG_KNNUcFQcQej-zQ1/view<br><br>LAVORI DI REALIZZAZIONE DI UN HUB DI RICARICA DI BUS ELETTRICI DI VIA. M. MITOLO REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA MITOLO DAL GIORNO 01.07.2026 AL GIORNO 10.07.2026 IMPRESA ESECUTRICE: EUROSISTEMI S.R.L. <br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) via Mitolo, nel tratto stradale compreso tra viale Giuseppe Bartolo e viale De Laurentis; b) L’istituzione del divieto di fermata a tutti i veicoli su: i) via Mitolo, nel tratto stradale compreso tra viale Giuseppe Bartolo e viale De Laurentis; c) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati. <br><br>Durata e tempistiche: 01/07/2026 - 10/07/2026 <br><br>PROROGATA DALLA 2026/02756<br>DURATA: 08/06/2026 - 30/06/2027<br>https://drive.google.com/file/d/1HNoTIyI8_7N67beWpWk4PIgB48B3Vcf9/view<br>--------------------<br>ORDINANZA 2026/02582 <br>https://drive.google.com/file/d/1Mw6_l1sCxqdrp-bxtT_QHUwxpgwe_QdV/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E DEL DIVIETO DI FERMATA AMBO I LATI PER LAVORI DI REALIZZAZIONE DI UN HUB DI RICARICA PER BUS ELETTRICI, SU VIA MITOLO NEL TRATTO STRADALE COMPRESO TRA VIALE BARTOLO E VIALE DE LAURENTIS DAL 25.05.2026 AL 29.05.2026. RICHIEDENTE: EUROSISTEMI DI NICOLA ABBATANTUONO <br><br>Durata e tempistiche: 25/06/2026 - 29/05/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -10262,44 +10273,6 @@ IMPRESA ESECUTRICE: DMF COSTRUZIONI S.R.L.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/02959 
-DIVIETO DI TRANSITO 
-VIA DUOMO, VIA NILO E PIAZZA SANTA MARIA DEL FONTE IN CARBONARA 
-LAVORI DI MANUTENZIONE DELLE STRADE E MARCIAPIEDI IN AREE SOTTOPOSTE A VINCOLO CULTURALE
-IMPRESA ESECUTRICE: “TERLIZZI S.R.L.”
-18/06//2026 - 03/07/2026  
-</name>
-      <description><![CDATA[ORDINANZA 2026/02959 <br><br>https://drive.google.com/file/d/1-CtkUP72Q5NQRB7ip2rPpiozmz8EAq0p/view<br><br>LAVORI DI MANUTENZIONE DELLE STRADE E MARCIAPIEDI IN AREE SOTTOPOSTE A VINCOLO CULTURALE. CUP J97H25000520004. ISTITUZIONE TEMPORANEA DELLA CHIUSURA TOTALE DI VIA DUOMO, VIA NILO E PIAZZA SANTA MARIA DEL FONTE IN CARBONARA (BA) PER ESEGUIRE LAVORAZIONI SU BASOLE AL CENTRO STRADA PER UNA DURATA DI CIRCA 15 GIORNI NATURALI E CONSECUTIVI. SOCIETÀ : “TERLIZZI S.R.L.” - P.I. 06325090725 GEOM: UBALDO TERLIZZI (LEGALE RAPPRESENTANTE DIRETTORE TECNICO E SOCIO UNICO DELLA SOCIETÀ TERLIZZI S.R.L.) <br><br>Durata e tempistiche: 18/06//2026 - 03/07/2026    ]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8706852,41.0726211,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/02959 
-DIVIETO DI TRANSITO 
-VIA DUOMO, VIA NILO E PIAZZA SANTA MARIA DEL FONTE IN CARBONARA 
-LAVORI DI MANUTENZIONE DELLE STRADE E MARCIAPIEDI IN AREE SOTTOPOSTE A VINCOLO CULTURALE
-IMPRESA ESECUTRICE: “TERLIZZI S.R.L.”
-18/06//2026 - 03/07/2026  
-</name>
-      <description><![CDATA[ORDINANZA 2026/02959 <br><br>https://drive.google.com/file/d/1-CtkUP72Q5NQRB7ip2rPpiozmz8EAq0p/view<br><br>LAVORI DI MANUTENZIONE DELLE STRADE E MARCIAPIEDI IN AREE SOTTOPOSTE A VINCOLO CULTURALE. CUP J97H25000520004. ISTITUZIONE TEMPORANEA DELLA CHIUSURA TOTALE DI VIA DUOMO, VIA NILO E PIAZZA SANTA MARIA DEL FONTE IN CARBONARA (BA) PER ESEGUIRE LAVORAZIONI SU BASOLE AL CENTRO STRADA PER UNA DURATA DI CIRCA 15 GIORNI NATURALI E CONSECUTIVI. SOCIETÀ : “TERLIZZI S.R.L.” - P.I. 06325090725 GEOM: UBALDO TERLIZZI (LEGALE RAPPRESENTANTE DIRETTORE TECNICO E SOCIO UNICO DELLA SOCIETÀ TERLIZZI S.R.L.) <br><br>Durata e tempistiche: 18/06//2026 - 03/07/2026    ]]></description>
-      <styleUrl>#line-E65100-3325</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8707603,41.0731548,0
-          16.8705458,41.0725442,0
-          16.8706209,41.0724876,0
-          16.8709856,41.0727626,0
-          16.8706155,41.0724795,0
-          16.8704653,41.0719497,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>ORDINANZA 2026/03007 
 ISTITUZIONE DELL’AREA PEDONALE
 LUNGOMARE CRISTOFORO COLOMBO TRA VIA GIUSEPPE VACCA E CORSO UMBERTO I IN SANTO SPIRITO
@@ -10564,25 +10537,6 @@ IMPRESA ESECUTRICE:SIG. LADISA COSIMO
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03044
-RESTRINGIMENTO
-CARREGGIATA 
-VIA
-TORRE D’AMORE CIV. 11 IN CEGLIE DEL CAMPO (BA)
-PER
-POSIZIONAMENTO AUTOCARRO
-“VISO EDIL ECOLOGIA SRL”
-DAL 22/06/2026 AL 22/06/2026
-</name>
-      <description><![CDATA[ORDINANZA 2026/03044<br><br>https://drive.google.com/file/d/1cs93A1FV7x__tUU9mqHBWYALtvcZ_hxS/view <br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO CARREGGIATA SU VIA<br>TORRE D’AMORE CIV. 11 IN CEGLIE DEL CAMPO (BA) PER<br>POSIZIONAMENTO AUTOCARRO PER SVOLGERE ATTIVITÀ DI RIMOZIONE<br>PLUVIALE PRESENTE SU FACCIATA IMMOBILE IN DISUSO E DIVIETO DI<br>SOSTA – ZONA RIMOZIONE SU VIA TORRE D’AMORE LATO CIVICI PARI TRA I<br>CIV. 12 E 14, DAL GIORNO 22/06/2026 AL 30/06/2026.<br>IMPRESA: “VISO EDIL ECOLOGIA SRL”<br>ISTANTE : VISO NICOLÒ (AMM.RE UNICO “VISO EDIL ECOLOGIA SRL”)<br><br><br>Durata e tempistiche: DAL 22/06/2026 AL 22/06/2026]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8639937,41.063295,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>ORDINANZA 2026/03059
 DIVIETO DI SOSTA E DI FERMATA AMBO I LATI
 VIA NICOLAI TRA VIA RAVANAS E VIA BRIGATA BARI
@@ -10751,7 +10705,7 @@ IMPRESA ESECUTRICE:ACCIONA AGUA S.A.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03056
+      <name>ORDINANZA 2026/03056 / 2026/03417
 DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ
 RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI
 TRANSITO 
@@ -10759,8 +10713,10 @@ VIA GENTILE
 P1557 - PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI
 IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
 29/06/2026 - 31/07/2026 
+01/08/2026 - 31/09/2026  
+
 </name>
-      <description><![CDATA[ORDINANZA 2026/03056<br><br>https://drive.google.com/file/d/1OtoNR_PgXxNVwkEiMbSfTBpHCUaG_xVJ/view<br><br>P1557 - PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI<br><br>MIRATI PER CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI DEL TERRITORIO SERVITO DALL’ACQUEDOTTO PUGLIESE E SOSTITUZIONE DEI<br>TRONCHI VETUSTI ED AMMALORATI - LOTTO1 - BA1”.<br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ<br>RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI<br>TRANSITO SU VIA GENTILE DAL GIORNO 29/06/2026 AL 31/07/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: 23/06/2026 - 22/07/2026  ]]></description>
+      <description><![CDATA[Proroga ORDINANZA 2026/03417 <br><br>https://drive.google.com/file/d/1-JBDzMDNSag7R5WJHqCipehgjxoN-LT0/view<br><br>P1557 - PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI MIRATI PER CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI DEL TERRITORIO SERVITO DALL’ACQUEDOTTO PUGLIESE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI - LOTTO1 - BA1”. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO SU VIA GENTILE DAL GIORNO 01/08/2026 AL 31/09/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 20/07/2026 - 30/08/2026 <br><br>ORDINANZA 2026/03056<br><br>https://drive.google.com/file/d/1OtoNR_PgXxNVwkEiMbSfTBpHCUaG_xVJ/view<br><br>P1557 - PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI<br><br>MIRATI PER CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI DEL TERRITORIO SERVITO DALL’ACQUEDOTTO PUGLIESE E SOSTITUZIONE DEI<br>TRONCHI VETUSTI ED AMMALORATI - LOTTO1 - BA1”.<br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ<br>RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI<br>TRANSITO SU VIA GENTILE DAL GIORNO 29/06/2026 AL 31/07/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: 23/06/2026 - 22/07/2026  ]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -10769,7 +10725,7 @@ IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03056
+      <name>ORDINANZA 2026/03056 / 2026/03417 
 DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ
 RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI
 TRANSITO 
@@ -10777,8 +10733,8 @@ VIA GENTILE
 P1557 - PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI
 IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
 29/06/2026 - 31/07/2026  
-</name>
-      <description><![CDATA[ORDINANZA 2026/03056<br><br>https://drive.google.com/file/d/1OtoNR_PgXxNVwkEiMbSfTBpHCUaG_xVJ/view<br><br>P1557 - PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI<br><br>MIRATI PER CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI DEL TERRITORIO SERVITO DALL’ACQUEDOTTO PUGLIESE E SOSTITUZIONE DEI<br>TRONCHI VETUSTI ED AMMALORATI - LOTTO1 - BA1”.<br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ<br>RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI<br>TRANSITO SU VIA GENTILE DAL GIORNO 29/06/2026 AL 31/07/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: 23/06/2026 - 22/07/2026  ]]></description>
+01/08/2026 - 31/09/2026 </name>
+      <description><![CDATA[Proroga: ORDINANZA 2026/03417 <br><br>https://drive.google.com/file/d/1-JBDzMDNSag7R5WJHqCipehgjxoN-LT0/view<br><br>P1557 - PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI MIRATI PER CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI DEL TERRITORIO SERVITO DALL’ACQUEDOTTO PUGLIESE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI - LOTTO1 - BA1”. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO SU VIA GENTILE DAL GIORNO 01/08/2026 AL 31/09/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 20/07/2026 - 30/08/2026 <br><br>ORDINANZA 2026/03056<br><br>https://drive.google.com/file/d/1OtoNR_PgXxNVwkEiMbSfTBpHCUaG_xVJ/view<br><br>P1557 - PROGRAMMA DEGLI INTERVENTI AQP 2020-2023 “INTERVENTI<br><br>MIRATI PER CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI DEL TERRITORIO SERVITO DALL’ACQUEDOTTO PUGLIESE E SOSTITUZIONE DEI<br>TRONCHI VETUSTI ED AMMALORATI - LOTTO1 - BA1”.<br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ<br>RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI<br>TRANSITO SU VIA GENTILE DAL GIORNO 29/06/2026 AL 31/07/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: 23/06/2026 - 22/07/2026  ]]></description>
       <styleUrl>#line-E65100-4294</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -12565,8 +12521,9 @@ VIALE DELLA REPUBBLICA
 LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. 
 06/07/2026 - 31/07/2026 
-</name>
-      <description><![CDATA[ORDINANZA 2026/03304 <br><br>https://drive.google.com/file/d/1QoAM3OZhy0JbhZNvOBnVoCufr7gKhKbg/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIALE DELLA REPUBBLICA DAL GIORNO 06.07.2026 AL GIORNO 31.07.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) viale della Repubblica nella carreggiata che segue la corrente di traffico che va da Largo 2 Giugno verso viale Antonio Meucci. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) viale della Repubblica nella carreggiata che segue la corrente di traffico che va da Largo 2 Giugno verso viale Antonio Meucci. c) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. <br><br>Durata e tempistiche: 06/07/2026 - 31/07/2026]]></description>
+DIVIETO DI TRANSITO
+DAL 14/07/2026 -AL 31/07/2026 dalle ore 23:30 alle ore 05:30</name>
+      <description><![CDATA[ESTESA DALLA ORDINANZA 2026/03401<br>DIVIETO DI TRANSITO <br>DAL 14/07/2026 -AL 31/07/2026 dalle ore 23:30 alle ore 05:30<br><br>https://drive.google.com/file/d/1nwnOjoSdcA_VftIXJzaMMI_gIbeLcidw/view<br><br>ORDINANZA 2026/03304 <br><br>https://drive.google.com/file/d/1QoAM3OZhy0JbhZNvOBnVoCufr7gKhKbg/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIALE DELLA REPUBBLICA DAL GIORNO 06.07.2026 AL GIORNO 31.07.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) viale della Repubblica nella carreggiata che segue la corrente di traffico che va da Largo 2 Giugno verso viale Antonio Meucci. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) viale della Repubblica nella carreggiata che segue la corrente di traffico che va da Largo 2 Giugno verso viale Antonio Meucci. c) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. <br><br>Durata e tempistiche: 06/07/2026 - 31/07/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -12581,8 +12538,9 @@ VIALE DELLA REPUBBLICA
 LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. 
 06/07/2026 - 31/07/2026 
-</name>
-      <description><![CDATA[ORDINANZA 2026/03304 <br><br>https://drive.google.com/file/d/1QoAM3OZhy0JbhZNvOBnVoCufr7gKhKbg/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIALE DELLA REPUBBLICA DAL GIORNO 06.07.2026 AL GIORNO 31.07.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) viale della Repubblica nella carreggiata che segue la corrente di traffico che va da Largo 2 Giugno verso viale Antonio Meucci. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) viale della Repubblica nella carreggiata che segue la corrente di traffico che va da Largo 2 Giugno verso viale Antonio Meucci. c) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. <br><br>Durata e tempistiche: 06/07/2026 - 31/07/2026 ]]></description>
+DIVIETO DI TRANSITO 
+DAL 14/07/2026 -AL 31/07/2026 dalle ore 23:30 alle ore 05:30</name>
+      <description><![CDATA[ESTESA  DALLA ORDINANZA 2026/03401<br>DIVIETO DI TRANSITO <br>DAL 14/07/2026 -AL 31/07/2026 dalle ore 23:30 alle ore 05:30<br><br>https://drive.google.com/file/d/1nwnOjoSdcA_VftIXJzaMMI_gIbeLcidw/view<br><br>ORDINANZA 2026/03304 <br><br>https://drive.google.com/file/d/1QoAM3OZhy0JbhZNvOBnVoCufr7gKhKbg/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIALE DELLA REPUBBLICA DAL GIORNO 06.07.2026 AL GIORNO 31.07.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) viale della Repubblica nella carreggiata che segue la corrente di traffico che va da Largo 2 Giugno verso viale Antonio Meucci. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) viale della Repubblica nella carreggiata che segue la corrente di traffico che va da Largo 2 Giugno verso viale Antonio Meucci. c) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. <br><br>Durata e tempistiche: 06/07/2026 - 31/07/2026 ]]></description>
       <styleUrl>#line-E65100-3325</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -13307,6 +13265,650 @@ IMPRESA ESECUTRICE: IMPRESA INDIVIDUALE “FRISULLO LUIGI”
       <Point>
         <coordinates>
           16.7649245,41.1552634,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03402
+DIVIETO DI TRANSITO 
+VIA ANDREA DA BARI TRA VIA NICCOLÒ PICCINNI E VIA ABATE GIMMA 
+BRT
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
+14/07/2026 - 31/07/2026
+</name>
+      <description><![CDATA[Ordinanza 2026/03402<br><br>https://drive.google.com/file/d/1FxI7c-VKdWE3XOVzcV_tC_plqo_oEqM7/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>VIA ANDREA DA BARI, NEL TRATTO STRADALE COMPRESO TRA VIA<br>NICCOLÒ PICCINNI E VIA ABATE GIMMA <br><br>In deroga al divieto di transito di cui al punto precedente è consentito il transito di autobus e taxi, nella<br>direzione di marcia che va da via Abate Gimma verso via Niccolò Piccinni;<br><br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>Duarata e Tempistiche: 14/07/2026 - 31/07/2026]]></description>
+      <styleUrl>#line-E65100-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8679927,41.1252157,0
+          16.8680404,41.1246275,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03402
+DIVIETO DI TRANSITO 
+VIA ANDREA DA BARI TRA VIA NICCOLÒ PICCINNI E VIA ABATE GIMMA 
+BRT
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
+14/07/2026 - 31/07/2026
+</name>
+      <description><![CDATA[Ordinanza 2026/03402<br><br>https://drive.google.com/file/d/1FxI7c-VKdWE3XOVzcV_tC_plqo_oEqM7/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>VIA ANDREA DA BARI, NEL TRATTO STRADALE COMPRESO TRA VIA<br>NICCOLÒ PICCINNI E VIA ABATE GIMMA<br><br>In deroga al divieto di transito di cui al punto precedente è consentito il transito di autobus e taxi, nella<br>direzione di marcia che va da via Abate Gimma verso via Niccolò Piccinni;<br><br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>Duarata e Tempistiche: 14/07/2026 - 31/07/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8680839,41.1251964,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03415 
+DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO
+VIA PASQUALE PAOLI 
+LAVORI DI RIPRISTINI DEFINITIVI 
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A 
+15/07/2026 - 30/09/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/03415 <br><br>https://drive.google.com/file/d/1Er6fLv4rNr0EEMpwPHI3XqH1_1Vxax-2/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO SU VIA PASQUALE PAOLI , PER LAVORI DI RIPRISTINI DEFINITIVI, DAL GIORNO 15/07/2026 AL 30/09/2026 SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 15/07/2026 - 30/09/2026 ]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8485068,41.1262634,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03415 
+DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO
+VIA PASQUALE PAOLI 
+LAVORI DI RIPRISTINI DEFINITIVI 
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A 
+15/07/2026 - 30/09/2026  
+</name>
+      <description><![CDATA[ORDINANZA 2026/03415 <br><br>https://drive.google.com/file/d/1Er6fLv4rNr0EEMpwPHI3XqH1_1Vxax-2/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO SU VIA PASQUALE PAOLI , PER LAVORI DI RIPRISTINI DEFINITIVI, DAL GIORNO 15/07/2026 AL 30/09/2026 SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 15/07/2026 - 30/09/2026 ]]></description>
+      <styleUrl>#line-E65100-5088</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.848547,41.1272443,0
+          16.8484236,41.1257432,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03416 
+DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON TRANSITO VEICOLARE
+CON SENSO UNICO ALTERNATO NONCHÈ RESTRINGIMENTO
+CARREGGIATA 
+VIA MICHELE TROISI (tRA VIA ARTURO TOSCANINI A VIA ONOFRIO DEFELICE) 
+VIA ALPINI D’ITALIA (TRA VIA SALVATORE QUASIMODO E
+VIA MOISÈ MALDACEA) 
+VIA MOISE’ MALDACEA (TRA VIA ALPINI D’ITALIA E VIA SALVATOREQUASIMODO) VIA FERDINANDO PALASCIANO (TRA STRADA RURALE CANNONE E VIA MOISÈ MALDACEA) 
+DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE
+PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE
+RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A 
+20/07/2026 - 30/08/2026  
+</name>
+      <description><![CDATA[ORDINANZA 2026/03416 <br><br>https://drive.google.com/file/d/1OCt5DbNjbssbm9oMP3G2u8fQ4eAMl9CI/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON TRANSITO VEICOLARE<br>CON SENSO UNICO ALTERNATO NONCHÈ RESTRINGIMENTO<br>CARREGGIATA SU VIA MICHELE TROISI (DA INTERSEZIONE CON VIA<br>ARTURO TOSCANINO A INTERSEZIONE CON VIA ONOFRIO DEFELICE) VIA<br>ALPINI D’ITALIA (DA INTERSEZIONE CON VIA SALVATORE QUASIMODO A<br>INTERSEZIONE CON VIA MOISÈMALDACEA) VIA MOISE’ MALDACEA<br>(DA INTERSEZIONE CON VIA ALPINI D’ITALIA A INTERSEZIONE CON<br>VIA SALVATOREQUASIMODO) VIA FERDINANDO PALASCIANO (DA<br>INTERSEZIONE CON STRADA RURALE CANNONE A INTERSEZIONE CON VIA<br>MOISÈ MALDACEA) INCROCI COMPRESI, PER INTERVENTI MIRATI A<br>CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br>DAL GIORNO 20/07/2026 AL 30/08/2026<br>SOCIETÀ: ACCIONA AGUA S.A.<br> <br><br>Durata e tempistiche: 20/07/2026 - 30/08/2026 ]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.9208081,41.1050705,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03425
+
+L24012 – PROCEDURA APERTA EX ART. 71 D.LGS 36/2023 – ACCORDO
+QUADRO TRIENNALE PER LAVORI DI ADEGUAMENTO, RIQUALIFICAZIONE E
+SISTEMAZIONE DELLE STRADE E DEI MARCIAPIEDI – LOTTO 3 –
+ANNUALITA’ 2024.
+CONTRATTO ATTUATIVO N. 2.
+ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA CON ZONA RIMOZIONE
+E RESTRINGIMENTO CARREGGIATA PER LAVORI DI MANUTENZIONE
+STRAORDINARIA SU VIALE EUROPA DALL’ESECUTIVITÀ DELL’ATTO PER 180
+GIORNI NATURALI E CONSECUTIVI.
+IMPRESA ESECUTRICE :CO.GE.SA. S.R.L. CON SEDE IN BITONTO (BA) ALLA VIA ANITA
+GARIBALDI CIVICO 21
+TERMINE E DURATA: dal 13/07/2029 al 13/01/2027
+
+</name>
+      <description><![CDATA[ORDINANZA 2026/03425<br><br>https://drive.google.com/file/d/1GIBZzSyoRo7c_QAoWlqUSJjoSxIrM8zh/view<br>L’istituzione temporanea del divieto di sosta zona rimozione e restringimento carreggiata su<br>Viale Europa in ore notturne, qualora fosse considerata indispensabile, ogni ulteriore<br>restrizione e regolamentazione temporanea della circolazione stradale;<br>2. I divieti dovranno essere adeguatamente segnalati mediante posizionamento di segnaletica<br>mobile di preavviso da parte dell’impresa esecutrice, almeno 48 ore prima dell’intervento;<br>3. Sui tratti stradali in cui si darà esecuzione temporanea alla presente ordinanza, in deroga al<br>punto 1 del presente disposto, i veicoli al servizio dell’impresa appaltatrice CO.GE.SA. S.r.l.,<br>o dei loro subappaltatori, potranno transitare e sostare per dar seguito all’esecuzione delle<br>lavorazioni.;<br>4. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e<br>provvisoriamente sospese e divengono nuovamente efficaci all’esaurimento dei limiti<br>temporali previsti dal presente disposto.<br>TERMINE E DURATA: dal 13/07/2029 al 13/01/2027]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8019121,41.1232814,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03416 
+DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON TRANSITO VEICOLARE
+CON SENSO UNICO ALTERNATO NONCHÈ RESTRINGIMENTO
+CARREGGIATA 
+VIA MICHELE TROISI (tRA VIA ARTURO TOSCANINI A VIA ONOFRIO DEFELICE) 
+VIA ALPINI D’ITALIA (TRA VIA SALVATORE QUASIMODO E
+VIA MOISÈ MALDACEA) 
+VIA MOISE’ MALDACEA (TRA VIA ALPINI D’ITALIA E VIA SALVATOREQUASIMODO) VIA FERDINANDO PALASCIANO (TRA STRADA RURALE CANNONE E VIA MOISÈ MALDACEA) 
+DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE
+PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE
+RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A 
+20/07/2026 - 30/08/2026  
+</name>
+      <description><![CDATA[ORDINANZA 2026/03416 <br><br>https://drive.google.com/file/d/1OCt5DbNjbssbm9oMP3G2u8fQ4eAMl9CI/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON TRANSITO VEICOLARE<br>CON SENSO UNICO ALTERNATO NONCHÈ RESTRINGIMENTO<br>CARREGGIATA SU VIA MICHELE TROISI (DA INTERSEZIONE CON VIA<br>ARTURO TOSCANINO A INTERSEZIONE CON VIA ONOFRIO DEFELICE) VIA<br>ALPINI D’ITALIA (DA INTERSEZIONE CON VIA SALVATORE QUASIMODO A<br>INTERSEZIONE CON VIA MOISÈMALDACEA) VIA MOISE’ MALDACEA<br>(DA INTERSEZIONE CON VIA ALPINI D’ITALIA A INTERSEZIONE CON<br>VIA SALVATOREQUASIMODO) VIA FERDINANDO PALASCIANO (DA<br>INTERSEZIONE CON STRADA RURALE CANNONE A INTERSEZIONE CON VIA<br>MOISÈ MALDACEA) INCROCI COMPRESI, PER INTERVENTI MIRATI A<br>CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br>DAL GIORNO 20/07/2026 AL 30/08/2026<br>SOCIETÀ: ACCIONA AGUA S.A.<br> <br><br>Durata e tempistiche: 20/07/2026 - 30/08/2026 ]]></description>
+      <styleUrl>#line-E65100-4488</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.9190599,41.1056571,0
+          16.9208778,41.1049896,0
+          16.9212801,41.1054868,0
+          16.9223637,41.1051958,0
+          16.9212748,41.1054909,0
+          16.921553,41.105958,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03416 
+DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON TRANSITO VEICOLARE
+CON SENSO UNICO ALTERNATO NONCHÈ RESTRINGIMENTO
+CARREGGIATA 
+VIA MICHELE TROISI (tRA VIA ARTURO TOSCANINI A VIA ONOFRIO DEFELICE) 
+VIA ALPINI D’ITALIA (TRA VIA SALVATORE QUASIMODO E
+VIA MOISÈ MALDACEA) 
+VIA MOISE’ MALDACEA (TRA VIA ALPINI D’ITALIA E VIA SALVATOREQUASIMODO) VIA FERDINANDO PALASCIANO (TRA STRADA RURALE CANNONE E VIA MOISÈ MALDACEA) 
+DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE
+PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE
+RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A 
+20/07/2026 - 30/08/2026  
+</name>
+      <description><![CDATA[https://drive.google.com/file/d/1OCt5DbNjbssbm9oMP3G2u8fQ4eAMl9CI/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON TRANSITO VEICOLARE<br>CON SENSO UNICO ALTERNATO NONCHÈ RESTRINGIMENTO<br>CARREGGIATA SU VIA MICHELE TROISI (DA INTERSEZIONE CON VIA<br>ARTURO TOSCANINO A INTERSEZIONE CON VIA ONOFRIO DEFELICE) VIA<br>ALPINI D’ITALIA (DA INTERSEZIONE CON VIA SALVATORE QUASIMODO A<br>INTERSEZIONE CON VIA MOISÈMALDACEA) VIA MOISE’ MALDACEA<br>(DA INTERSEZIONE CON VIA ALPINI D’ITALIA A INTERSEZIONE CON<br>VIA SALVATOREQUASIMODO) VIA FERDINANDO PALASCIANO (DA<br>INTERSEZIONE CON STRADA RURALE CANNONE A INTERSEZIONE CON VIA<br>MOISÈ MALDACEA) INCROCI COMPRESI, PER INTERVENTI MIRATI A<br>CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br>DAL GIORNO 20/07/2026 AL 30/08/2026<br>SOCIETÀ: ACCIONA AGUA S.A.<br> <br><br>Durata e tempistiche: 20/07/2026 - 30/08/2026  ]]></description>
+      <styleUrl>#line-E65100-3131</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.9138888,41.106317,0
+          16.9174052,41.1049736,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03421 
+CHIUSURA AL TRANSITO VEICOLARE
+COMPLANARE DI SERVIZIO STRADA COMUNALE CATINO (CIMITERO)
+MANUTENZIONE CAVALCAVIA AL KM 190 + 177 LOCALITÀ SANTO SPIRITO – ANAS 
+IMPRESA ESECUTRICE: SERVIZI E COSTRUZIONI SRL 
+13/07/2026 - 07/08/2026  
+</name>
+      <description><![CDATA[ORDINANZA 2026/03421 <br><br>https://drive.google.com/file/d/12ZWr3iu84TYE9uz87CFILOdw65lPhlL3/view<br><br>ISTITUZIONE TEMPORANEA DELLA CHIUSURA AL TRANSITO VEICOLARE SULLA COMPLANARE DI SERVIZIO STRADA COMUNALE CATINO (CIMITERO), PER LAVORI DI MANUTENZIONE CAVALCAVIA AL KM 190 + 177 LOCALITÀ SANTO SPIRITO – ANAS DALL’ESECUTIVITÀ DELL’ATTO SINO AL 07/08/2026 CON POSIZIONAMENTO DI PONTEGGIO E PIATTAFORMA AEREA. IMPRESA: SERVIZI E COSTRUZIONI SRL <br><br>Durata e tempistiche: 13/07/2026 - 07/08/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.7358211,41.155936,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03430 
+DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO
+VIA FRANCESCO CURZIO DE MILLE
+LAVORI DI RIPRISTINO DEFINITIVO
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A. 
+15/07/2026 - 30/09/2026 00:00-24:00
+</name>
+      <description><![CDATA[ORDINANZA 2026/03430 <br><br>https://drive.google.com/file/d/1T9iWuFw5uNS3JsY6I92P80jSZxfHlaAn/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO SU VIA FRANCESCO CURZIO DE MILLE, INCROCI COMPRESI PER LAVORI DI RIPRISTINO DEFINITIVO 15/07/2026 AL 30/09/2026 DALLE ORE 00 ALLE ORE 24. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 15/07/2026 - 30/09/2026 00:00-24:00]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8489319,41.1267996,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03430 
+DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO
+VIA FRANCESCO CURZIO DE MILLE
+LAVORI DI RIPRISTINO DEFINITIVO
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A. 
+15/07/2026 - 30/09/2026 00:00-24:00
+</name>
+      <description><![CDATA[ORDINANZA 2026/03430 <br><br>https://drive.google.com/file/d/1T9iWuFw5uNS3JsY6I92P80jSZxfHlaAn/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO SU VIA FRANCESCO CURZIO DE MILLE, INCROCI COMPRESI PER LAVORI DI RIPRISTINO DEFINITIVO 15/07/2026 AL 30/09/2026 DALLE ORE 00 ALLE ORE 24. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 15/07/2026 - 30/09/2026 00:00-24:00]]></description>
+      <styleUrl>#line-E65100-3519</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8490383,41.1272261,0
+          16.8488299,41.1251933,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03431
+DIVIETO DI TRANSITO E FERMATA
+VIA NICOLÒ PUTIGNANI TRA VIA ANDREA DA BARI E VIA ARGIRO 
+LAVORI DI RIQUALIFICAZIONE
+IMPRESA ESECUTRICE: CONSORZIO EDIL.ART
+15/07/2026 - 08/08/2026</name>
+      <description><![CDATA[Ordinanza 2026/03431<br><br>https://drive.google.com/file/d/1l3j0VeWQUOtA9rnymGDVv1KsFD6bJIw7/view<br><br>LAVORI DI RIQUALIFICAZIONE DI VIA ARGIRO, VIA CALEFATI E VIA<br><br>PUTIGNANI.<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU VIA NICOLÒ<br>PUTIGNANI NEL TRATTO STRADALE COMPRESO TRA VIA ANDREA DA BARI<br>E VIA ARGIRO DAL GIORNO 15 LUGLIO 2026 AL GIORNO 08.08.2026.<br>IMPRESA ESECUTRICE: CONSORZIO EDIL.ART<br><br>NELLO SPECIFICO:<br>1. L’istituzione del divieto di transito a tutti i veicoli sui seguenti tratti stradali:<br><br>Via Nicolò Putignani nel tratto stradale compreso tra via Andrea da Bari e via Argiro;<br>2. L’istituzione del divieto di fermata ambo i lati a tutti i veicoli, sui seguenti tratti stradali:<br>Via Nicolò Putignani nel tratto stradale compreso tra via Andrea da Bari e via Argiro;<br>3. L’istituzione dell’obbligo di proseguire diritto su via Andrea da Bari in corrispondenza<br>dell’intersezione con Via Nicolò Putignani;<br>4. L’istituzione dell’obbligo di svolta a destra su via Nicolò Putignani in corrispondenza<br>dell’intersezione con via Andrea da Bari;<br><br>Durata e Tempistiche: 15/07/2026 - 08/08/2026]]></description>
+      <styleUrl>#line-E65100-4294</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8688236,41.1233176,0
+          16.870433,41.1234004,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03431
+DIVIETO DI TRANSITO E FERMATA
+VIA NICOLÒ PUTIGNANI TRA VIA ANDREA DA BARI E VIA ARGIRO 
+LAVORI DI RIQUALIFICAZIONE
+IMPRESA ESECUTRICE: CONSORZIO EDIL.ART
+15/07/2026 - 08/08/2026</name>
+      <description><![CDATA[Ordinanza 2026/03431<br><br>https://drive.google.com/file/d/1l3j0VeWQUOtA9rnymGDVv1KsFD6bJIw7/view<br><br>LAVORI DI RIQUALIFICAZIONE DI VIA ARGIRO, VIA CALEFATI E VIA<br><br>PUTIGNANI.<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU VIA NICOLÒ<br>PUTIGNANI NEL TRATTO STRADALE COMPRESO TRA VIA ANDREA DA BARI<br>E VIA ARGIRO DAL GIORNO 15 LUGLIO 2026 AL GIORNO 08.08.2026.<br>IMPRESA ESECUTRICE: CONSORZIO EDIL.ART<br><br>NELLO SPECIFICO:<br>1. L’istituzione del divieto di transito a tutti i veicoli sui seguenti tratti stradali:<br><br>Via Nicolò Putignani nel tratto stradale compreso tra via Andrea da Bari e via Argiro;<br>2. L’istituzione del divieto di fermata ambo i lati a tutti i veicoli, sui seguenti tratti stradali:<br>Via Nicolò Putignani nel tratto stradale compreso tra via Andrea da Bari e via Argiro;<br>3. L’istituzione dell’obbligo di proseguire diritto su via Andrea da Bari in corrispondenza<br>dell’intersezione con Via Nicolò Putignani;<br>4. L’istituzione dell’obbligo di svolta a destra su via Nicolò Putignani in corrispondenza<br>dell’intersezione con via Andrea da Bari;<br><br>Durata e Tempistiche: 15/07/2026 - 08/08/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.86888,41.1233752,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03439
+DIVIETO DI TRANSITO
+TRATTO CHE COLLEGA PIAZZA UMBERTO A VIA QUARANTA
+DIVIETO DI SOSTA E DI FERMATA AMBO I LATI
+VIA ROMA E VIA QUARANTA
+SENSO UNICO ALTERNATO
+VIA QUARANTA AD INTERSEZIONE CON VIA ROMA
+LAVORI DI COSTRUZIONE DELLA RETE DI FOGNATURA PLUVIALE E
+RIFACIMENTO DEI MARCIAPIEDI
+IMPRESA ESECUTRICE: CO.RES. SRL
+14/07/2026 - 14/09/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/03439<br><br>https://drive.google.com/file/d/1zby5OBYMeUKoyD8p5j3Xvru7OQF7-wxv/view<br><br>LAVORI DI COSTRUZIONE DELLA RETE DI FOGNATURA PLUVIALE E<br><br>RIFACIMENTO DEI MARCIAPIEDI.<br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO VEICOLARE TRATTO<br>CHE COLLEGA PIAZZA UMBERTO A VIA QUARANTA E DIVIETO DI SOSTA E<br>DI FERMATA AMBO I LATI SU TUTTA VIA ROMA E VIA QUARANTA E SENSO<br>UNICO ALTERNATO TRATTO DA VIA QUARANTA AD INTERSEZIONE CON VIA<br>ROMA PER ULTIMAZIONE TRONCO FOGNARIO DALL’ESECUTIVITÀ<br>DELL’ATTO PER GIORNI 60.<br>IMPRESA : CO.RES. SRL<br><br>Durata e tempistiche: 14/07/2026 - 14/09/2026]]></description>
+      <styleUrl>#line-E65100-5069</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.883799,41.068467,0
+          16.8826295,41.0690535,0
+          16.8811918,41.0700362,0
+          16.8805964,41.0704407,0
+          16.8798829,41.0707885,0
+          16.8791319,41.0711969,0
+          16.8785579,41.071476,0
+          16.8778927,41.0717146,0
+          16.8770881,41.0719896,0
+          16.8767608,41.0721352,0
+          16.87616,41.0724951,0
+          16.8756343,41.072758,0
+          16.8751461,41.0729036,0
+          16.8743308,41.0731017,0
+          16.874025,41.0732271,0
+          16.8738265,41.0733322,0
+          16.8732364,41.073494,0
+          16.8725337,41.0737447,0
+          16.8720992,41.0739105,0
+          16.8714983,41.0741896,0
+          16.8713673,41.0739498,0
+          16.8721206,41.0736032,0
+          16.8729789,41.0732756,0
+          16.8735261,41.0730613,0
+          16.8738587,41.0729319,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03434 
+DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO CARREGGIATA
+VIA AMENDOLA DA VIA FRESA A STRADA STOPPELLI 
+VIA FRESA DA VIA AMENDOLA A FINE STRADA 
+LAVORI DI SCAVO PER LA POSA CAVI MT.
+IMPRESA ESECUTRICE: DMF COSTRUZIONI S.R.L. 
+20/07/2026 - 30/09/2026 07:00-12:00
+</name>
+      <description><![CDATA[ORDINANZA 2026/03434 <br><br>https://drive.google.com/file/d/1jbThCpSXNHougNbz-4qB-CSCIlzSvdNR/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO CARREGGIATA SU VIA AMENDOLA: DA VIA FRESA A STRADA STOPPELLI E VIA FRESA: DA VIA AMENDOLA A FINE STRADA DAL 20 LUGLIO 2026 AL 30 SETTEMBRE 2026 DALLE ORE 07:00 ALLE ORE 12:00 PER LAVORI DI SCAVO PER LA POSA CAVI MT. IMPRESA: DMF COSTRUZIONI S.R.L. ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF COSTRUZIONI S.R.L.) <br><br>Durata e tempistiche: 20/07/2026 - 30/09/2026 07:00-12:00]]></description>
+      <styleUrl>#line-E65100-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8853983,41.1073661,0
+          16.8873091,41.1033296,0
+          16.8875566,41.1032509,0
+          16.8889353,41.1036349,0
+          16.8903139,41.1011489,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03439
+DIVIETO DI TRANSITO
+TRATTO CHE COLLEGA PIAZZA UMBERTO A VIA QUARANTA
+DIVIETO DI SOSTA E DI FERMATA AMBO I LATI
+VIA ROMA E VIA QUARANTA
+SENSO UNICO ALTERNATO
+VIA QUARANTA AD INTERSEZIONE CON VIA ROMA
+LAVORI DI COSTRUZIONE DELLA RETE DI FOGNATURA PLUVIALE E
+RIFACIMENTO DEI MARCIAPIEDI
+IMPRESA ESECUTRICE: CO.RES. SRL
+14/07/2026 - 14/09/2026</name>
+      <description><![CDATA[ORDINANZA 2026/03439<br><br>https://drive.google.com/file/d/1zby5OBYMeUKoyD8p5j3Xvru7OQF7-wxv/view<br><br>LAVORI DI COSTRUZIONE DELLA RETE DI FOGNATURA PLUVIALE E<br><br>RIFACIMENTO DEI MARCIAPIEDI.<br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO VEICOLARE TRATTO<br>CHE COLLEGA PIAZZA UMBERTO A VIA QUARANTA E DIVIETO DI SOSTA E<br>DI FERMATA AMBO I LATI SU TUTTA VIA ROMA E VIA QUARANTA E SENSO<br>UNICO ALTERNATO TRATTO DA VIA QUARANTA AD INTERSEZIONE CON VIA<br>ROMA PER ULTIMAZIONE TRONCO FOGNARIO DALL’ESECUTIVITÀ<br>DELL’ATTO PER GIORNI 60.<br>IMPRESA : CO.RES. SRL<br><br>Durata e tempistiche: 14/07/2026 - 14/09/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8737621,41.0730977,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03439
+DIVIETO DI SOSTA E DI FERMATA AMBO I LATI NONCHÉ RESTRINGIMENTO
+CARREGGIATA CON SENSO UNICO ALTERNATO
+VIA S. MARCO
+CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE
+IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
+18/07/2026 - 07/08/2026</name>
+      <description><![CDATA[Ordinanza: 2026/03438<br><br>https://drive.google.com/file/d/1iUuO5xy4Tvmi0jJk9WaPNhA9NB3AeyR9/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA E DI FERMATA AMBO I LATI NONCHÉ RESTRINGIMENTO<br>CARREGGIATA CON SENSO UNICO ALTERNATO SU VIA S. MARCO, PER<br>INTERVENTI MIRATI A CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL<br>CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE<br>IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI<br>ED AMMALORATI DAL GIORNO 18/07/2026 AL 07/08/2026. PROROGA<br>ORDINANZA DIRIGENZIALE N. 2026/03374 DEL 07/07/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e Tempistiche: 18/07/2026 - 07/08/2026]]></description>
+      <styleUrl>#line-E65100-5069</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8668354,41.0697236,0
+          16.867329,41.0696386,0
+          16.8676615,41.0695942,0
+          16.86786,41.0695497,0
+          16.8680531,41.0695011,0
+          16.8682302,41.0694081,0
+          16.8682624,41.0693596,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03439
+DIVIETO DI SOSTA E DI FERMATA AMBO I LATI NONCHÉ RESTRINGIMENTO
+CARREGGIATA CON SENSO UNICO ALTERNATO
+VIA S. MARCO
+CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE
+IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
+18/07/2026 - 07/08/2026</name>
+      <description><![CDATA[Ordinanza: 2026/03438<br><br>https://drive.google.com/file/d/1iUuO5xy4Tvmi0jJk9WaPNhA9NB3AeyR9/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA E DI FERMATA AMBO I LATI NONCHÉ RESTRINGIMENTO<br>CARREGGIATA CON SENSO UNICO ALTERNATO SU VIA S. MARCO, PER<br>INTERVENTI MIRATI A CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL<br>CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE<br>IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI<br>ED AMMALORATI DAL GIORNO 18/07/2026 AL 07/08/2026. PROROGA<br>ORDINANZA DIRIGENZIALE N. 2026/03374 DEL 07/07/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e Tempistiche: 18/07/2026 - 07/08/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8668569,41.0695982,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03434 
+DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO CARREGGIATA
+VIA AMENDOLA DA VIA FRESA A STRADA STOPPELLI 
+VIA FRESA DA VIA AMENDOLA A FINE STRADA 
+LAVORI DI SCAVO PER LA POSA CAVI MT.
+IMPRESA ESECUTRICE: DMF COSTRUZIONI S.R.L. 
+20/07/2026 - 30/09/2026 07:00-12:00
+</name>
+      <description><![CDATA[ORDINANZA 2026/03434 <br><br>https://drive.google.com/file/d/1jbThCpSXNHougNbz-4qB-CSCIlzSvdNR/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO CARREGGIATA SU VIA AMENDOLA: DA VIA FRESA A STRADA STOPPELLI E VIA FRESA: DA VIA AMENDOLA A FINE STRADA DAL 20 LUGLIO 2026 AL 30 SETTEMBRE 2026 DALLE ORE 07:00 ALLE ORE 12:00 PER LAVORI DI SCAVO PER LA POSA CAVI MT. IMPRESA: DMF COSTRUZIONI S.R.L. ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF COSTRUZIONI S.R.L.) <br><br>Durata e tempistiche: 20/07/2026 - 30/09/2026 07:00-12:00]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8877061,41.1035096,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03437
+DIVIETO DI SOSTA ZONA RIMOZIONE E
+RESTRINGIMENTO CARREGGIATA
+LARGO RENNA AMBO I LATI TRA VICO I VITTORIO VENETO E IL VICO VII LARGO RENNA
+ISTITUZIONE AREA CANTIERE E CORRIDOIO PEDONALE
+IMPRESA ESECUTRICE: COES SRL
+17/07/2026 - 31/12/2026</name>
+      <description><![CDATA[Ordinanza 2026/03437<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA ZONA RIMOZIONE E<br>RESTRINGIMENTO CARREGGIATA SU LARGO RENNA AMBO I LATI, NEL<br>TRATTO COMPRESO TRA VICO I VITTORIO VENETO E IL VICO VII LARGO<br>RENNA PER ISTITUIRE L’AREA CANTIERE, CORRIDOIO PEDONALE E IL<br>REGOLARE TRANSITO VEICOLARE DAL GIORNO 17/07/2026 AL 31/12/2026.<br>IMPRESA: COES SRL<br>ISTANTE: STRAMAGLIA FRANCO<br><br>DURATA E TEMPISTICHE: 17/07/2026 - 31/12/2026]]></description>
+      <styleUrl>#line-E65100-5844</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.7648933,41.1539558,0
+          16.7652312,41.154693,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03437
+DIVIETO DI SOSTA ZONA RIMOZIONE E
+RESTRINGIMENTO CARREGGIATA
+LARGO RENNA AMBO I LATI TRA VICO I VITTORIO VENETO E IL VICO VII LARGO RENNA
+ISTITUZIONE AREA CANTIERE E CORRIDOIO PEDONALE
+IMPRESA ESECUTRICE: COES SRL
+17/07/2026 - 31/12/2026
+</name>
+      <description><![CDATA[Ordinanza 2026/03437<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA ZONA RIMOZIONE E<br>RESTRINGIMENTO CARREGGIATA SU LARGO RENNA AMBO I LATI, NEL<br>TRATTO COMPRESO TRA VICO I VITTORIO VENETO E IL VICO VII LARGO<br>RENNA PER ISTITUIRE L’AREA CANTIERE, CORRIDOIO PEDONALE E IL<br>REGOLARE TRANSITO VEICOLARE DAL GIORNO 17/07/2026 AL 31/12/2026.<br>IMPRESA: COES SRL<br>ISTANTE: STRAMAGLIA FRANCO<br><br>DURATA E TEMPISTICHE: 17/07/2026 - 31/12/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.7651213,41.154701,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03441
+DIVIETO DI TRANSITO E DI SOSTA E DI FERMATA
+VIA CAFIERO 21 CARBONARA (BA)
+REALIZZAZIONE ALLACCIO IDRICO AQP S.P.A.
+IMPRESA ESECUTRICE: IMPRESA INDIVIDUALE “FRISULLO LUIGI”
+20/07/2026 - 25/07/2026.
+</name>
+      <description><![CDATA[Ordinanza: 2026/03441<br><br>https://drive.google.com/file/d/1HinfUXJdk70E7DAl8loSHhtqbzCKb3v9/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO E DI SOSTA E DI<br>FERMATA SU VIA CAFIERO 21 CARBONARA (BA), PER REALIZZAZIONE<br>ALLACCIO IDRICO DAL 20/07/2026 AL 25/07/2026.<br>IMPRESA: IMPRESA INDIVIDUALE “FRISULLO LUIGI”<br>ISTANTE: AQP S.P.A.<br><br>Durata e tempistiche: 20/07/2026 - 25/07/2026.]]></description>
+      <styleUrl>#line-E65100-4294</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8658173,41.0703864,0
+          16.8669197,41.0699274,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03441
+DIVIETO DI TRANSITO E DI SOSTA E DI FERMATA
+LARGO RENNA AMBO I LATI TRA VICO I VITTORIO VENETO E IL VICO VIA CAFIERO 21 CARBONARA (BA)
+REALIZZAZIONE ALLACCIO IDRICO AQP S.P.A.
+IMPRESA ESECUTRICE: IMPRESA INDIVIDUALE “FRISULLO LUIGI”
+20/07/2026 - 25/07/2026</name>
+      <description><![CDATA[rdinanza: 2026/03441<br><br>https://drive.google.com/file/d/1HinfUXJdk70E7DAl8loSHhtqbzCKb3v9/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO E DI SOSTA E DI<br>FERMATA SU VIA CAFIERO 21 CARBONARA (BA), PER REALIZZAZIONE<br>ALLACCIO IDRICO DAL 20/07/2026 AL 25/07/2026.<br>IMPRESA: IMPRESA INDIVIDUALE “FRISULLO LUIGI”<br>ISTANTE: AQP S.P.A.<br><br>Durata e tempistiche: 20/07/2026 - 25/07/2026.]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8658686,41.0704232,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03454
+DIVIETO DI FERMATA E RESTRINGIMENTO DI CARREGGIATA 
+VIA BRIGATA BARI, NEL TRATTO STRADALE COMPRESO TRA VIA FRANCESCO CRISPI E VIA DON BOSCO,
+BRT
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
+17/07/2026 - 31/07/2026.</name>
+      <description><![CDATA[Ordinanza: 2026/03454<br><br>https://drive.google.com/file/d/1jrKH_nvEfj3oEn0_lv3-xeU44cu6rvMl/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>VIA BRIGATA BARI, NEL TRATTO STRADALE COMPRESO TRA VIA<br>FRANCESCO CRISPI E VIA DON BOSCO, DAL GIORNO 17.07.2026 AL<br>GIORNO 31.07.2026<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>Durata e Tempistiche: 17/07/2026 - 31/07/2026.]]></description>
+      <styleUrl>#line-E65100-3906</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.851945,41.1220113,0
+          16.8520872,41.1204171,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03454
+DIVIETO DI FERMATA E RESTRINGIMENTO DI CARREGGIATA 
+VIA BRIGATA BARI, NEL TRATTO STRADALE COMPRESO TRA VIA FRANCESCO CRISPI E VIA DON BOSCO,
+BRT
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
+17/07/2026 - 31/07/2026</name>
+      <description><![CDATA[Ordinanza: 2026/03454<br><br>https://drive.google.com/file/d/1jrKH_nvEfj3oEn0_lv3-xeU44cu6rvMl/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>VIA BRIGATA BARI, NEL TRATTO STRADALE COMPRESO TRA VIA<br>FRANCESCO CRISPI E VIA DON BOSCO, DAL GIORNO 17.07.2026 AL<br>GIORNO 31.07.2026<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>Durata e Tempistiche: 17/07/2026 - 31/07/2026.]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8518525,41.1218426,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03455
+DIVIETO DI TRANSITO
+SOTTOVIA GIUSEPPE FILIPPO
+BRT
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
+16/07/2026 - 17/07/2026.
+23:30 - 05:30</name>
+      <description><![CDATA[Ordinanza 2026/03455<br><br>https://drive.google.com/file/d/18y_Al1bWSSRXMOUcV9pZthYYKxzGeJpR/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>ISTITUZIONE DEL DIVIETO DI TRANSITO SU SOTTOVIA GIUSEPPE FILIPPO,<br>DALLE ORE 23:30 DEL GIORNO 16.07.2026 ALLE ORE 05:30 DEL GIORNO<br>17.07.2026<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>Durata e tempistiche: 16/07/2026 - 17/07/2026.<br>23:30 - 05:30]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8526813,41.1156056,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03456
+DIVIETO DI FERMATA E RESTRINGIMENTO DI CARREGGIATA 
+LARGO IGNAZIO CIAIA, NELLA CARREGGIATA CHE SEGUE LA CORRENTE DI TRAFFICO CHE VA DA VIALE UNITÀ D’ITALIA VERSO CORSO BENEDETTO CROCE, LATO DESTRO DI MARCIA.
+BRT
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
+20/07/2026 - 20/08/2026
+23:30 - 05:30
+</name>
+      <description><![CDATA[Ordinanza: 2026/03456<br><br>https://drive.google.com/file/d/1MaYtnSF6WAk539AGJsHjXuEl1VQLTCX-/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>LARGO IGNAZIO CIAIA,<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>Durata e tempistiche: 20/07/2026 - 20/08/2026<br>23:30 - 05:30]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.873055,41.1153316,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03456
+DIVIETO DI FERMATA E RESTRINGIMENTO DI CARREGGIATA
+LARGO IGNAZIO CIAIA, NELLA CARREGGIATA CHE SEGUE LA CORRENTE DI TRAFFICO CHE VA DA VIALE UNITÀ D’ITALIA VERSO CORSO BENEDETTO CROCE, LATO DESTRO DI MARCIA.
+BRT
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
+20/07/2026 - 20/08/2026
+23:30 - 05:30</name>
+      <description><![CDATA[Ordinanza: 2026/03456<br><br>https://drive.google.com/file/d/1MaYtnSF6WAk539AGJsHjXuEl1VQLTCX-/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>LARGO IGNAZIO CIAIA,<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>Durata e tempistiche: 20/07/2026 - 20/08/2026<br>23:30 - 05:30]]></description>
+      <styleUrl>#line-E65100-4294</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8723574,41.1153386,0
+          16.8730924,41.1153892,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03459
+RESTRINGIMENTO DELLA CARREGGIATA
+STRADA SAN GIROLAMO DA FRONTE CIV. 20 A VIA CESARE FRANCO
+VIA CESARE FRANCO DA STRADA SAN GIROLAMO A VIA PASQUALE DI CAGNO
+STRADA SAN GIROLAMO DA VIA DON CESARE FRANCO AL CIV. 2/15 DI STRADA SAN GIROLAMO
+LAVORI DI SCAVO PER LA POSA CAVI MT
+IMPRESA ESECUTRICE: DMF COSTRUZIONI S.R.L.
+20/07/2026 - 30/09/2026</name>
+      <description><![CDATA[Ordinanza 2026/03459<br><br>https://drive.google.com/file/d/1NEHwtVXkwaNBuW1RNp08kF5TfyFQ2nqx/view<br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN RESTRINGIMENTO<br>DELLA CARREGGIATA SU STRADA SAN GIROLAMO DA FRONTE CIV. 20 A<br>VIA CESARE FRANCO, SU VIA CESARE FRANCO DA STRADA SAN<br>GIROLAMO A VIA PASQUALE DI CAGNO E SU STRADA SAN GIROLAMO DA<br>VIA DON CESARE FRANCO AL CIV. 2/15 DI STRADA SAN GIROLAMO PER<br>ESEGUIRE LAVORI DI SCAVO PER LA POSA CAVI MT <br>IMPRESA: DMF COSTRUZIONI S.R.L.<br>ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF<br>COSTRUZIONI S.R.L.)<br><br>Durata e Tempistiche: 20/07/2026 - 30/09/2026]]></description>
+      <styleUrl>#line-E65100-4294</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8219012,41.1360437,0
+          16.8237144,41.1357366,0
+          16.8243688,41.1373446,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03459
+RESTRINGIMENTO DELLA CARREGGIATA
+STRADA SAN GIROLAMO DA FRONTE CIV. 20 A VIA CESARE FRANCO
+VIA CESARE FRANCO DA STRADA SAN GIROLAMO A VIA PASQUALE DI CAGNO
+STRADA SAN GIROLAMO DA VIA DON CESARE FRANCO AL CIV. 2/15 DI STRADA SAN GIROLAMO
+LAVORI DI SCAVO PER LA POSA CAVI MT
+IMPRESA ESECUTRICE: DMF COSTRUZIONI S.R.L.
+20/07/2026 - 30/09/2026</name>
+      <description><![CDATA[Ordinanza 2026/03459<br><br>https://drive.google.com/file/d/1NEHwtVXkwaNBuW1RNp08kF5TfyFQ2nqx/view<br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN RESTRINGIMENTO<br>DELLA CARREGGIATA SU STRADA SAN GIROLAMO DA FRONTE CIV. 20 A<br>VIA CESARE FRANCO, SU VIA CESARE FRANCO DA STRADA SAN<br>GIROLAMO A VIA PASQUALE DI CAGNO E SU STRADA SAN GIROLAMO DA<br>VIA DON CESARE FRANCO AL CIV. 2/15 DI STRADA SAN GIROLAMO PER<br>ESEGUIRE LAVORI DI SCAVO PER LA POSA CAVI MT <br>IMPRESA: DMF COSTRUZIONI S.R.L.<br>ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF<br>COSTRUZIONI S.R.L.)<br><br>Durata e Tempistiche: 20/07/2026 - 30/09/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8219817,41.1360962,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03460
+DIVIETO DI SOSTA E FERMATA TUTTO IL GIORNO,
+RESTRINGIMENTO DI CARREGGIATA AL TRANSITO VEICOLARE
+VIA DE GIOSA E VIA IMBRIANI
+LAVORI DI SCAVO PER LA POSA CAVI MT
+IMPRESA ESECUTRICE: VIRA S.R.L.
+18/07/2026 - 21/07/2026
+22:00 - 06:00
+</name>
+      <description><![CDATA[Ordinanza: 2026/03460<br><br>https://drive.google.com/file/d/16BtCINPJy53mRQymxVJhcaEcOd6t7Exs/view<br><br>ACCORDO QUADRO TRIENNALE DEI LAVORI DI RIMOZIONE DEGLI IMPIANTI<br>FILOVIARI DELLA CITTA’ DI BARI CUP J95F22000680004 CIG AQ<br>B24AB3317C6 . CONTRATTO ATTUATIVO N. 4° CIG: BB04F1EEF2<br>DITTA APPALTATRICE VIRA S.R.L. –<br>ISTITUZIONE DI DIVIETO DI SOSTA E FERMATA TUTTO IL GIORNO,<br>RESTRINGIMENTO DI CARREGGIATA AL TRANSITO VEICOLARE LUNGO<br>TUTTA VIA DE GIOSA E LUNGO TUTTA VIA IMBRIANI<br>ISTANTE: ING. MAURANTONIO MICHELE<br>DITTA APPALTATRICE VIRA S.R.L. – P.IVA 07388620721 - PEC:<br>VIRASRL@GIGAPEC.IT.<br><br>Durata e Tempistiche: 18/07/2026 - 21/07/2026]]></description>
+      <styleUrl>#line-E65100-4488</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.873541,41.123211,0
+          16.8738368,41.1209412,0
+          16.8738931,41.1201431,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03460
+DIVIETO DI SOSTA E FERMATA TUTTO IL GIORNO,
+RESTRINGIMENTO DI CARREGGIATA AL TRANSITO VEICOLARE
+VIA DE GIOSA E VIA IMBRIANI
+LAVORI DI SCAVO PER LA POSA CAVI MT
+IMPRESA ESECUTRICE: VIRA S.R.L.
+18/07/2026 - 21/07/2026
+22:00 - 06:00</name>
+      <description><![CDATA[Ordinanza: 2026/03460<br><br>https://drive.google.com/file/d/16BtCINPJy53mRQymxVJhcaEcOd6t7Exs/view<br><br>ACCORDO QUADRO TRIENNALE DEI LAVORI DI RIMOZIONE DEGLI IMPIANTI<br>FILOVIARI DELLA CITTA’ DI BARI CUP J95F22000680004 CIG AQ<br>B24AB3317C6 . CONTRATTO ATTUATIVO N. 4° CIG: BB04F1EEF2<br>DITTA APPALTATRICE VIRA S.R.L. –<br>ISTITUZIONE DI DIVIETO DI SOSTA E FERMATA TUTTO IL GIORNO,<br>RESTRINGIMENTO DI CARREGGIATA AL TRANSITO VEICOLARE LUNGO<br>TUTTA VIA DE GIOSA E LUNGO TUTTA VIA IMBRIANI<br>ISTANTE: ING. MAURANTONIO MICHELE<br>DITTA APPALTATRICE VIRA S.R.L. – P.IVA 07388620721 - PEC:<br>VIRASRL@GIGAPEC.IT.<br><br>Durata e Tempistiche: 18/07/2026 - 21/07/2026]]></description>
+      <styleUrl>#line-E65100-5263</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8727237,41.1222,0
+          16.8756929,41.1224303,0
+          16.8771305,41.1225091,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/03460
+DIVIETO DI SOSTA E FERMATA TUTTO IL GIORNO,
+RESTRINGIMENTO DI CARREGGIATA AL TRANSITO VEICOLARE
+VIA DE GIOSA E VIA IMBRIANI
+LAVORI DI SCAVO PER LA POSA CAVI MT
+IMPRESA ESECUTRICE: VIRA S.R.L.
+18/07/2026 - 21/07/2026
+22:00 - 06:00</name>
+      <description><![CDATA[Ordinanza: 2026/03460<br><br>https://drive.google.com/file/d/16BtCINPJy53mRQymxVJhcaEcOd6t7Exs/view<br><br>ACCORDO QUADRO TRIENNALE DEI LAVORI DI RIMOZIONE DEGLI IMPIANTI<br>FILOVIARI DELLA CITTA’ DI BARI CUP J95F22000680004 CIG AQ<br>B24AB3317C6 . CONTRATTO ATTUATIVO N. 4° CIG: BB04F1EEF2<br>DITTA APPALTATRICE VIRA S.R.L. –<br>ISTITUZIONE DI DIVIETO DI SOSTA E FERMATA TUTTO IL GIORNO,<br>RESTRINGIMENTO DI CARREGGIATA AL TRANSITO VEICOLARE LUNGO<br>TUTTA VIA DE GIOSA E LUNGO TUTTA VIA IMBRIANI<br>ISTANTE: ING. MAURANTONIO MICHELE<br>DITTA APPALTATRICE VIRA S.R.L. – P.IVA 07388620721 - PEC:<br>VIRASRL@GIGAPEC.IT.<br><br>Durata e Tempistiche: 18/07/2026 - 21/07/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.873761,41.1222406,0
         </coordinates>
       </Point>
     </Placemark>
