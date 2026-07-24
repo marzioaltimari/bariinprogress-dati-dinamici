@@ -138,40 +138,6 @@
         <styleUrl>#icon-1532-FBC02D-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="icon-1538-9C27B0-normal">
-      <IconStyle>
-        <color>ffb0279c</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-1538-9C27B0-highlight">
-      <IconStyle>
-        <color>ffb0279c</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-1538-9C27B0">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1538-9C27B0-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1538-9C27B0-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="icon-1541-F9A825-normal">
       <IconStyle>
         <color>ff25a8f9</color>
@@ -446,11 +412,11 @@ Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde
       <name>FAL: CORSO VITTORIO VENETO
 
 Si informa la gentile clientela che, per la realizzazione del sistema BRT (Bus Rapid Transit), un servizio di trasporto pubblico rapido su gomma con corsie preferenziali, il Comune di Bari ha disposto il divieto di fermata su entrambi i lati di corso Vittorio Veneto, nel tratto compreso tra via Brigata Regina e via Niccolò Pizzoli (Liceo Ginnasio “Orazio Flacco”) e Piazza Massari dal 21 gennaio 2026 al 21 febbraio 2026.</name>
-      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7sg_xbb07BIAs3suC7zyq0KbzpM1xf9SMtgERg0bcCF7-h7sgmAbo5Olrffl3YoIxJGVjmv_M-ivzS02WqnGaJHBzFVDf19nYxHgp3ZA1YMha2cUL7qRnEFk_7QV621OwtlTNDQNgcFXUaQ-0WvIYjDVsUGlJSoZHhLKgv0MdCbhqQhuZ5OPkm56nM8nfAxN-gFgghm0Pc_56YKf-ebfU5mwMp2zN5k9sKR2zY4f-pj-oCy0suvHujpB8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://ferrovieappulolucane.it/comunic-di-servizio/soppressione-fermate-corso-vittorio-veneto-e-piazza-massari-bari_26012026_0959/<br><br>Riassunto<br>Soppressione fermate su corso Vittorio Veneto e piazza Massari, a Bari, dal 21 gennaio al 21 febbraio 2026.<br><br>Si informa la gentile clientela che, per la realizzazione del sistema BRT (Bus Rapid Transit), un servizio di trasporto pubblico rapido su gomma con corsie preferenziali, il Comune di Bari ha disposto il divieto di fermata su entrambi i lati di corso Vittorio Veneto, nel tratto compreso tra via Brigata Regina e via Niccolò Pizzoli (Liceo Ginnasio “Orazio Flacco”) e Piazza Massari dal 21 gennaio 2026 al 21 febbraio 2026.<br><br>Pertanto, nel periodo indicato le fermate presenti nel tratto interessato saranno temporaneamente soppresse.<br><br>BLU: DA BARI<br>VERDE: PER BARI<br><br>https://ferrovieappulolucane.it/wp-content/uploads/2026/01/MANIFESTO-ORARIO-CORSE-BUS-19-GEN-2026.pdf<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7JDdcvXsBWmIxXabcqMnPMRWhOXqMpYGdnvQ_Ci0ZfrBa_pg4NV0xT52qVmT75VhA004SNl94UxW8MKunYbnaOcSzXPRC9qk-BbaMt2yt1YxncCKY1IppmyhSYEuw46_ZMVftHOSX7-3lq3az38Qaxdq2p8XfsfIfTU5JS1xnkfmc6ykHlajlSkZ7j6LcxlEzF5XUb1Z4YzUkxmnXsyIPVYovYDbnlhLcx5IwqKB9uDfaVKLusOzuRL2A?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7QNsoFrFOX5njarrzOT0BihyI97yH4U9A_6mhkg2-rElcD37Aw4iVLX5wtDzQP-y5803ENogI3ladbJFc3ithLisdXUcyEadx3G9RUzjylgn6O9nwUQT9s6w8AIQfODbHmvT_OiOb7BBByrHZ-lnebuxRmnO-QZNzvfl9sE_Z7lARX4UAQuVVZikIctuf8jknCLD8Hl5Q0ZyDrkC2YdCHwSf_nzIx9XvixpQfgp5sQhsnXW5B5qLmWqgU?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://ferrovieappulolucane.it/comunic-di-servizio/soppressione-fermate-corso-vittorio-veneto-e-piazza-massari-bari_26012026_0959/<br><br>Riassunto<br>Soppressione fermate su corso Vittorio Veneto e piazza Massari, a Bari, dal 21 gennaio al 21 febbraio 2026.<br><br>Si informa la gentile clientela che, per la realizzazione del sistema BRT (Bus Rapid Transit), un servizio di trasporto pubblico rapido su gomma con corsie preferenziali, il Comune di Bari ha disposto il divieto di fermata su entrambi i lati di corso Vittorio Veneto, nel tratto compreso tra via Brigata Regina e via Niccolò Pizzoli (Liceo Ginnasio “Orazio Flacco”) e Piazza Massari dal 21 gennaio 2026 al 21 febbraio 2026.<br><br>Pertanto, nel periodo indicato le fermate presenti nel tratto interessato saranno temporaneamente soppresse.<br><br>BLU: DA BARI<br>VERDE: PER BARI<br><br>https://ferrovieappulolucane.it/wp-content/uploads/2026/01/MANIFESTO-ORARIO-CORSE-BUS-19-GEN-2026.pdf<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR70rwz3YbNgnkomDBVk3OdV4yBAv2TNyeI9xPW2q8blWlR7e-BonfxHksuC0p523YcZTpzX4WfN2DGmCeWgue3lkE_UapcrXs_ZSft6MW0Cehvl-lfSdnVq_Fwmdl1Idf2O6udsPFuYaZqWH2k4EbAo0fnTu_QSweD3BVIyv2SCf2O7ryuC38YkXviQOxgQJigFEAkNJlhGvpaMv4SFYCcIIMLADZiUhnqi5vGX_3dvXdhnFMnd5rIpiRU?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
       <styleUrl>#icon-1532-0F9D58</styleUrl>
       <ExtendedData>
         <Data name="gx_media_links">
-          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7sg_xbb07BIAs3suC7zyq0KbzpM1xf9SMtgERg0bcCF7-h7sgmAbo5Olrffl3YoIxJGVjmv_M-ivzS02WqnGaJHBzFVDf19nYxHgp3ZA1YMha2cUL7qRnEFk_7QV621OwtlTNDQNgcFXUaQ-0WvIYjDVsUGlJSoZHhLKgv0MdCbhqQhuZ5OPkm56nM8nfAxN-gFgghm0Pc_56YKf-ebfU5mwMp2zN5k9sKR2zY4f-pj-oCy0suvHujpB8?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7JDdcvXsBWmIxXabcqMnPMRWhOXqMpYGdnvQ_Ci0ZfrBa_pg4NV0xT52qVmT75VhA004SNl94UxW8MKunYbnaOcSzXPRC9qk-BbaMt2yt1YxncCKY1IppmyhSYEuw46_ZMVftHOSX7-3lq3az38Qaxdq2p8XfsfIfTU5JS1xnkfmc6ykHlajlSkZ7j6LcxlEzF5XUb1Z4YzUkxmnXsyIPVYovYDbnlhLcx5IwqKB9uDfaVKLusOzuRL2A?authuser=0&fife=s16383]]></value>
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7QNsoFrFOX5njarrzOT0BihyI97yH4U9A_6mhkg2-rElcD37Aw4iVLX5wtDzQP-y5803ENogI3ladbJFc3ithLisdXUcyEadx3G9RUzjylgn6O9nwUQT9s6w8AIQfODbHmvT_OiOb7BBByrHZ-lnebuxRmnO-QZNzvfl9sE_Z7lARX4UAQuVVZikIctuf8jknCLD8Hl5Q0ZyDrkC2YdCHwSf_nzIx9XvixpQfgp5sQhsnXW5B5qLmWqgU?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR70rwz3YbNgnkomDBVk3OdV4yBAv2TNyeI9xPW2q8blWlR7e-BonfxHksuC0p523YcZTpzX4WfN2DGmCeWgue3lkE_UapcrXs_ZSft6MW0Cehvl-lfSdnVq_Fwmdl1Idf2O6udsPFuYaZqWH2k4EbAo0fnTu_QSweD3BVIyv2SCf2O7ryuC38YkXviQOxgQJigFEAkNJlhGvpaMv4SFYCcIIMLADZiUhnqi5vGX_3dvXdhnFMnd5rIpiRU?authuser=0&fife=s16383]]></value>
         </Data>
       </ExtendedData>
       <Point>
@@ -888,31 +854,6 @@ Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde
       </Point>
     </Placemark>
     <Placemark>
-      <name><![CDATA[VIABILITA']]></name>
-      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7VNZcIMO8qd7bC1L-jEjeR4Cxsby6EDPvNic5zJca2M1lbNepK7ieGSs65F9B_F2zKPhR9Xh6so-alRiprVEk2cuBOg5aE1WlfoEhT_A8hbymZ1QUJA0VFA6PJHTB9GnDUpM6YaneBMhh5oqqts3djkMah1UG4DbuqKXalhuIf-US4fJTueFSlKtcPe5z0crM1I4TQS0KtOQu8MkbQVXX9t2OXy0830NlBKycAv7xIhEEPO38Yf9hDgzI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://drive.google.com/file/d/13Cr2nhOjfWzVuhetVhQQ5nfUpVAe5e8C/view]]></description>
-      <styleUrl>#icon-1538-9C27B0</styleUrl>
-      <ExtendedData>
-        <Data name="gx_media_links">
-          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AAjQbR7VNZcIMO8qd7bC1L-jEjeR4Cxsby6EDPvNic5zJca2M1lbNepK7ieGSs65F9B_F2zKPhR9Xh6so-alRiprVEk2cuBOg5aE1WlfoEhT_A8hbymZ1QUJA0VFA6PJHTB9GnDUpM6YaneBMhh5oqqts3djkMah1UG4DbuqKXalhuIf-US4fJTueFSlKtcPe5z0crM1I4TQS0KtOQu8MkbQVXX9t2OXy0830NlBKycAv7xIhEEPO38Yf9hDgzI?authuser=0&fife=s16383]]></value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>
-          16.9097859,41.1032533,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Viabilità BRT </name>
-      <description>https://drive.google.com/file/d/1f9hRxLRSthps33CIkLvz6L8nYZA0geKo/view</description>
-      <styleUrl>#icon-1538-9C27B0</styleUrl>
-      <Point>
-        <coordinates>
-          16.8996551,41.1064708,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>CORSO VITTORIO EMANUELE II: Linee 2/, 42 e Navette A, B, AB: soppressione fermata V. Emanuele (giardino) in direzione piazza Massari.
  Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.</name>
       <description><![CDATA[Linee 2/, 42 e Navette A, B, AB: Fermata Soppressa su Corso Vittorio Emanuele II<br>A seguito di Ordinanza n°2026/03068 - 2026/185/01294 pervenuta dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche del Comune di Bari in data 24.06.2026, al fine di consentire I’esecuzione dei lavori propedeutici alla realizzazione del progetto BRT, a partire dal 29 giugno 2026 e fino a nuove disposizioni, sarà temporaneamente soppressa la fermata ubicata su corso Vittorio Emanuele II in direzione piazza Massari, meglio identificata come: “V. Emanuele (giardino)”.<br><br>Fermate utili: <br><br>“Crollalanza/Eroi – Palazzo Economia” (linea 42 e nav. B e AB"<br>“Ferrarese – Palazzo Economia” (navetta A)<br>“Camera di Commercio – Palazzo Economia” (per la linea 2/)<br> Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
@@ -988,6 +929,26 @@ Dal 10 luglio 2026 e fino a nuove disposizioni, saranno temporaneamente soppress
       <Point>
         <coordinates>
           16.8811392,41.1069042,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[LUNGOMARE CROLLALANZA - FERMATA SOPPRESSA
+LINEE 2, 2/, 10, 12, 42, NAVETTE B e AB
+
+A seguito di Ordinanza n°2026/03305 - 2026/185/01430 pervenuta dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche del Comune di Bari in data 03.07.2026, al fine di consentire l’esecuzione dei lavori propedeutici alla realizzazione del progetto BRT, a partire dal 20 luglio 2026 e fino a nuove disposizioni, sarà temporaneamente soppressa la fermata ubicata sul lungomare di Crollalanza in direzione Pane & Pomodoro, meglio identificata come: “Crollalanza/Eroi”.
+
+Fermate utili: 
+
+Camera di Commercio (linee 2,10)
+Emanuele/Melo (linee 2/, 12, 42, Navette B e AB)
+Crollalanza/Bruno (per tutte)
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></name>
+      <description><![CDATA[LUNGOMARE CROLLALANZA - FERMATA SOPPRESSA<br>LINEE 2, 2/, 10, 12, 42, NAVETTE B e AB<br><br>A seguito di Ordinanza n°2026/03305 - 2026/185/01430 pervenuta dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche del Comune di Bari in data 03.07.2026, al fine di consentire l’esecuzione dei lavori propedeutici alla realizzazione del progetto BRT, a partire dal 20 luglio 2026 e fino a nuove disposizioni, sarà temporaneamente soppressa la fermata ubicata sul lungomare di Crollalanza in direzione Pane & Pomodoro, meglio identificata come: “Crollalanza/Eroi”.<br><br>Fermate utili:<br><br>Camera di Commercio (linee 2,10)<br>Emanuele/Melo (linee 2/, 12, 42, Navette B e AB)<br>Crollalanza/Bruno (per tutte)<br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8738968,41.1250459,0
         </coordinates>
       </Point>
     </Placemark>
