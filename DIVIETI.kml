@@ -2,6 +2,40 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>DIVIETI</name>
+    <Style id="icon-1541-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1541-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1541-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1541-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1541-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1541-E65100-normal">
       <IconStyle>
         <color>ff0051e6</color>
@@ -650,6 +684,28 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#line-E65100-7975-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-E65100-8169-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>8.169</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-E65100-8169-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>12.2535</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-E65100-8169">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-8169-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-8169-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="line-F57C00-3519-normal">
@@ -1698,14 +1754,15 @@ RICHIEDENTE: SIG. STOLFA ANTONIO
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03274 
-CHIUSURA AL TRAFFICO VEICOLARE H 24, DIVIETO DI SOSTA E FERMATA AMBO I LATI CON RIMOZIONE
-VIA MANZONI TRA P.ZZA GARIBALDI E VIA CALEFATI E CORSO ITALIA E VIA PRINCIPE AMEDEO
+      <name>ORDINANZA 2026/04048 
+DIVIETO DI FERMATA E DIVIETO DI TRANSITO
+VIA MANZONI TRA PIAZZA GARIBALDI E VIA CALEFATI
+VIA MANZONI TRA CORSO ITALIA E VIA PRINCIPE AMEDEO 
 LAVORI DI RIQUALIFICAZIONE DI VIA MANZONI
-IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. 
-01/07/2026 - 01/09/2026 
+IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A.
+08/09/2026 - 31/12/2026 
 </name>
-      <description><![CDATA[ORDINANZA 2026/03274 <br><br>https://drive.google.com/file/d/1ZBgsCzR-O5UEjr6tgQbGTI72I3-k3m0k/view<br><br><br>PROCEDURA NEGOZIATA PN23023 PER LA CONCLUSIONE DI UN ACCORDO QUADRO QUADRIENNALE PER L'AFFIDAMENTO CONGIUNTO DI PROGETTAZIONE ESECUTIVA ED ESECUZIONE DEI "LAVORI DI RIQUALIFICAZIONE DI VIA MANZONI" – ACCORDO QUADRO CIG: 9934949346 1° CONTRATTO ATTUATIVO CUP: J91B21001180001 – CIG: A065861BA9 2° CONTRATTO ATTUATIVO CUP: J98E22000030003 – CIG: A06586D592 RICHIESTA ORDINANZA PER CHIUSURA AL TRAFFICO VEICOLARE H 24, DIVIETO DI SOSTA E FERMATA AMBO I LATI CON RIMOZIONE, SU VIA MANZONI NEI TRATTI COMPRESI TRA P.ZZA GARIBALDI E VIA CALEFATI E CORSO ITALIA E VIA PRINCIPE AMEDEO DAL GIORNO 01/07/2026 AL 01/09/2026 IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. CON SEDE LEGALE IN VIA PO N. 31 <br><br>Durata e tempistiche: 01/07/2026 - 01/09/2026 <br><br>2026/00399 <br><br>https://drive.google.com/file/d/1op0_ljbF4lwUzOdbzrajcLWR4u5asjQ6/view<br><br>PROCEDURA NEGOZIATA PN23023 PER LA CONCLUSIONE DI UN ACCORDO QUADRO QUADRIENNALE PER L'AFFIDAMENTO CONGIUNTO DI PROGETTAZIONE ESECUTIVA ED ESECUZIONE DEI "LAVORI DI RIQUALIFICAZIONE DI VIA MANZONI" – ACCORDO QUADRO CIG: 9934949346 1° CONTRATTO ATTUATIVO CUP: J91B21001180001 – CIG: A065861BA9 2° CONTRATTO ATTUATIVO CUP: J98E22000030003 – CIG: A06586D592 RICHIESTA ORDINANZA PER CHIUSURA AL TRAFFICO VEICOLARE H 24, DIVIETO DI SOSTA E FERMATA AMBO I LATI CON RIMOZIONE, SU VIA MANZONI NEI TRATTI COMPRESI TRA P.ZZA GARIBALDI E VIA CALEFATI DAL GIORNO 02/02/2026 AL 30/06/2026 IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. CON SEDE LEGALE IN VIA PO N. 31 <br><br>1) divieto di sosta e fermata con rimozione, e chiusura al traffico Veicolare H24 su via Manzoni nei tratti compresi tra P.zza Garibaldi e Via Calefati.<br><br>Durata e tempistiche: 02/02/2026 - 30/06/2026 h24]]></description>
+      <description><![CDATA[ORDINANZA 2026/04048 <br>https://drive.google.com/file/d/1FvrYwcH0NY4JOqYR9ZJNyqZpEz-_2Tlq/view<br><br>LAVORI DI RIQUALIFICAZIONE DI VIA MANZONI REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA MANZONI NEI TRATTI COMPRESI TRA PIAZZA GARIBALDI E VIA CALEFATI E TRA CORSO ITALIA E VIA PRINCIPE AMEDEO FINO AL GIORNO 31.12.2026 IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. <br><br>Durata e tempistiche: 08/09/2026 - 31/12/2026 <br><br>ORDINANZA 2026/03274 <br><br>https://drive.google.com/file/d/1ZBgsCzR-O5UEjr6tgQbGTI72I3-k3m0k/view<br><br><br>PROCEDURA NEGOZIATA PN23023 PER LA CONCLUSIONE DI UN ACCORDO QUADRO QUADRIENNALE PER L'AFFIDAMENTO CONGIUNTO DI PROGETTAZIONE ESECUTIVA ED ESECUZIONE DEI "LAVORI DI RIQUALIFICAZIONE DI VIA MANZONI" – ACCORDO QUADRO CIG: 9934949346 1° CONTRATTO ATTUATIVO CUP: J91B21001180001 – CIG: A065861BA9 2° CONTRATTO ATTUATIVO CUP: J98E22000030003 – CIG: A06586D592 RICHIESTA ORDINANZA PER CHIUSURA AL TRAFFICO VEICOLARE H 24, DIVIETO DI SOSTA E FERMATA AMBO I LATI CON RIMOZIONE, SU VIA MANZONI NEI TRATTI COMPRESI TRA P.ZZA GARIBALDI E VIA CALEFATI E CORSO ITALIA E VIA PRINCIPE AMEDEO DAL GIORNO 01/07/2026 AL 01/09/2026 IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. CON SEDE LEGALE IN VIA PO N. 31 <br><br>Durata e tempistiche: 01/07/2026 - 01/09/2026 <br><br>2026/00399 <br><br>https://drive.google.com/file/d/1op0_ljbF4lwUzOdbzrajcLWR4u5asjQ6/view<br><br>PROCEDURA NEGOZIATA PN23023 PER LA CONCLUSIONE DI UN ACCORDO QUADRO QUADRIENNALE PER L'AFFIDAMENTO CONGIUNTO DI PROGETTAZIONE ESECUTIVA ED ESECUZIONE DEI "LAVORI DI RIQUALIFICAZIONE DI VIA MANZONI" – ACCORDO QUADRO CIG: 9934949346 1° CONTRATTO ATTUATIVO CUP: J91B21001180001 – CIG: A065861BA9 2° CONTRATTO ATTUATIVO CUP: J98E22000030003 – CIG: A06586D592 RICHIESTA ORDINANZA PER CHIUSURA AL TRAFFICO VEICOLARE H 24, DIVIETO DI SOSTA E FERMATA AMBO I LATI CON RIMOZIONE, SU VIA MANZONI NEI TRATTI COMPRESI TRA P.ZZA GARIBALDI E VIA CALEFATI DAL GIORNO 02/02/2026 AL 30/06/2026 IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. CON SEDE LEGALE IN VIA PO N. 31 <br><br>1) divieto di sosta e fermata con rimozione, e chiusura al traffico Veicolare H24 su via Manzoni nei tratti compresi tra P.zza Garibaldi e Via Calefati.<br><br>Durata e tempistiche: 02/02/2026 - 30/06/2026 h24]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -1714,14 +1771,15 @@ IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03274 
-CHIUSURA AL TRAFFICO VEICOLARE H 24, DIVIETO DI SOSTA E FERMATA AMBO I LATI CON RIMOZIONE
-VIA MANZONI TRA P.ZZA GARIBALDI E VIA CALEFATI E CORSO ITALIA E VIA PRINCIPE AMEDEO
+      <name>ORDINANZA 2026/04048 
+DIVIETO DI FERMATA E DIVIETO DI TRANSITO
+VIA MANZONI TRA PIAZZA GARIBALDI E VIA CALEFATI
+VIA MANZONI TRA CORSO ITALIA E VIA PRINCIPE AMEDEO 
 LAVORI DI RIQUALIFICAZIONE DI VIA MANZONI
-IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. 
-01/07/2026 - 01/09/2026  
+IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A.
+08/09/2026 - 31/12/2026 
 </name>
-      <description><![CDATA[ORDINANZA 2026/03274 <br><br>https://drive.google.com/file/d/1ZBgsCzR-O5UEjr6tgQbGTI72I3-k3m0k/view<br><br><br>PROCEDURA NEGOZIATA PN23023 PER LA CONCLUSIONE DI UN ACCORDO QUADRO QUADRIENNALE PER L'AFFIDAMENTO CONGIUNTO DI PROGETTAZIONE ESECUTIVA ED ESECUZIONE DEI "LAVORI DI RIQUALIFICAZIONE DI VIA MANZONI" – ACCORDO QUADRO CIG: 9934949346 1° CONTRATTO ATTUATIVO CUP: J91B21001180001 – CIG: A065861BA9 2° CONTRATTO ATTUATIVO CUP: J98E22000030003 – CIG: A06586D592 RICHIESTA ORDINANZA PER CHIUSURA AL TRAFFICO VEICOLARE H 24, DIVIETO DI SOSTA E FERMATA AMBO I LATI CON RIMOZIONE, SU VIA MANZONI NEI TRATTI COMPRESI TRA P.ZZA GARIBALDI E VIA CALEFATI E CORSO ITALIA E VIA PRINCIPE AMEDEO DAL GIORNO 01/07/2026 AL 01/09/2026 IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. CON SEDE LEGALE IN VIA PO N. 31 <br><br>Durata e tempistiche: 01/07/2026 - 01/09/2026 <br><br>2026/00399 <br><br>https://drive.google.com/file/d/1op0_ljbF4lwUzOdbzrajcLWR4u5asjQ6/view<br><br>PROCEDURA NEGOZIATA PN23023 PER LA CONCLUSIONE DI UN ACCORDO QUADRO QUADRIENNALE PER L'AFFIDAMENTO CONGIUNTO DI PROGETTAZIONE ESECUTIVA ED ESECUZIONE DEI "LAVORI DI RIQUALIFICAZIONE DI VIA MANZONI" – ACCORDO QUADRO CIG: 9934949346 1° CONTRATTO ATTUATIVO CUP: J91B21001180001 – CIG: A065861BA9 2° CONTRATTO ATTUATIVO CUP: J98E22000030003 – CIG: A06586D592 RICHIESTA ORDINANZA PER CHIUSURA AL TRAFFICO VEICOLARE H 24, DIVIETO DI SOSTA E FERMATA AMBO I LATI CON RIMOZIONE, SU VIA MANZONI NEI TRATTI COMPRESI TRA P.ZZA GARIBALDI E VIA CALEFATI DAL GIORNO 02/02/2026 AL 30/06/2026 IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. CON SEDE LEGALE IN VIA PO N. 31 <br><br>1) divieto di sosta e fermata con rimozione, e chiusura al traffico Veicolare H24 su via Manzoni nei tratti compresi tra P.zza Garibaldi e Via Calefati.<br><br>Durata e tempistiche: 02/02/2026 - 30/06/2026 h24]]></description>
+      <description><![CDATA[ORDINANZA 2026/04048 <br>https://drive.google.com/file/d/1FvrYwcH0NY4JOqYR9ZJNyqZpEz-_2Tlq/view<br><br>LAVORI DI RIQUALIFICAZIONE DI VIA MANZONI REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA MANZONI NEI TRATTI COMPRESI TRA PIAZZA GARIBALDI E VIA CALEFATI E TRA CORSO ITALIA E VIA PRINCIPE AMEDEO FINO AL GIORNO 31.12.2026 IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. <br><br>Durata e tempistiche: 08/09/2026 - 31/12/2026 <br><br>ORDINANZA 2026/03274 <br><br>https://drive.google.com/file/d/1ZBgsCzR-O5UEjr6tgQbGTI72I3-k3m0k/view<br><br><br>PROCEDURA NEGOZIATA PN23023 PER LA CONCLUSIONE DI UN ACCORDO QUADRO QUADRIENNALE PER L'AFFIDAMENTO CONGIUNTO DI PROGETTAZIONE ESECUTIVA ED ESECUZIONE DEI "LAVORI DI RIQUALIFICAZIONE DI VIA MANZONI" – ACCORDO QUADRO CIG: 9934949346 1° CONTRATTO ATTUATIVO CUP: J91B21001180001 – CIG: A065861BA9 2° CONTRATTO ATTUATIVO CUP: J98E22000030003 – CIG: A06586D592 RICHIESTA ORDINANZA PER CHIUSURA AL TRAFFICO VEICOLARE H 24, DIVIETO DI SOSTA E FERMATA AMBO I LATI CON RIMOZIONE, SU VIA MANZONI NEI TRATTI COMPRESI TRA P.ZZA GARIBALDI E VIA CALEFATI E CORSO ITALIA E VIA PRINCIPE AMEDEO DAL GIORNO 01/07/2026 AL 01/09/2026 IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. CON SEDE LEGALE IN VIA PO N. 31 <br><br>Durata e tempistiche: 01/07/2026 - 01/09/2026 <br><br>2026/00399 <br><br>https://drive.google.com/file/d/1op0_ljbF4lwUzOdbzrajcLWR4u5asjQ6/view<br><br>PROCEDURA NEGOZIATA PN23023 PER LA CONCLUSIONE DI UN ACCORDO QUADRO QUADRIENNALE PER L'AFFIDAMENTO CONGIUNTO DI PROGETTAZIONE ESECUTIVA ED ESECUZIONE DEI "LAVORI DI RIQUALIFICAZIONE DI VIA MANZONI" – ACCORDO QUADRO CIG: 9934949346 1° CONTRATTO ATTUATIVO CUP: J91B21001180001 – CIG: A065861BA9 2° CONTRATTO ATTUATIVO CUP: J98E22000030003 – CIG: A06586D592 RICHIESTA ORDINANZA PER CHIUSURA AL TRAFFICO VEICOLARE H 24, DIVIETO DI SOSTA E FERMATA AMBO I LATI CON RIMOZIONE, SU VIA MANZONI NEI TRATTI COMPRESI TRA P.ZZA GARIBALDI E VIA CALEFATI DAL GIORNO 02/02/2026 AL 30/06/2026 IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. CON SEDE LEGALE IN VIA PO N. 31 <br><br>1) divieto di sosta e fermata con rimozione, e chiusura al traffico Veicolare H24 su via Manzoni nei tratti compresi tra P.zza Garibaldi e Via Calefati.<br><br>Durata e tempistiche: 02/02/2026 - 30/06/2026 h24]]></description>
       <styleUrl>#line-E65100-4488</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -6867,14 +6925,15 @@ IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03274 
-CHIUSURA AL TRAFFICO VEICOLARE H 24, DIVIETO DI SOSTA E FERMATA AMBO I LATI CON RIMOZIONE
-VIA MANZONI TRA P.ZZA GARIBALDI E VIA CALEFATI E CORSO ITALIA E VIA PRINCIPE AMEDEO
+      <name>ORDINANZA 2026/04048 
+DIVIETO DI FERMATA E DIVIETO DI TRANSITO
+VIA MANZONI TRA PIAZZA GARIBALDI E VIA CALEFATI
+VIA MANZONI TRA CORSO ITALIA E VIA PRINCIPE AMEDEO 
 LAVORI DI RIQUALIFICAZIONE DI VIA MANZONI
-IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. 
-01/07/2026 - 01/09/2026 
+IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A.
+08/09/2026 - 31/12/2026 
 </name>
-      <description><![CDATA[ORDINANZA 2026/03274 <br><br>https://drive.google.com/file/d/1ZBgsCzR-O5UEjr6tgQbGTI72I3-k3m0k/view<br><br><br>PROCEDURA NEGOZIATA PN23023 PER LA CONCLUSIONE DI UN ACCORDO QUADRO QUADRIENNALE PER L'AFFIDAMENTO CONGIUNTO DI PROGETTAZIONE ESECUTIVA ED ESECUZIONE DEI "LAVORI DI RIQUALIFICAZIONE DI VIA MANZONI" – ACCORDO QUADRO CIG: 9934949346 1° CONTRATTO ATTUATIVO CUP: J91B21001180001 – CIG: A065861BA9 2° CONTRATTO ATTUATIVO CUP: J98E22000030003 – CIG: A06586D592 RICHIESTA ORDINANZA PER CHIUSURA AL TRAFFICO VEICOLARE H 24, DIVIETO DI SOSTA E FERMATA AMBO I LATI CON RIMOZIONE, SU VIA MANZONI NEI TRATTI COMPRESI TRA P.ZZA GARIBALDI E VIA CALEFATI E CORSO ITALIA E VIA PRINCIPE AMEDEO DAL GIORNO 01/07/2026 AL 01/09/2026 IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. CON SEDE LEGALE IN VIA PO N. 31 <br><br>Durata e tempistiche: 01/07/2026 - 01/09/2026     ]]></description>
+      <description><![CDATA[ORDINANZA 2026/04048 <br>https://drive.google.com/file/d/1FvrYwcH0NY4JOqYR9ZJNyqZpEz-_2Tlq/view<br><br>LAVORI DI RIQUALIFICAZIONE DI VIA MANZONI REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA MANZONI NEI TRATTI COMPRESI TRA PIAZZA GARIBALDI E VIA CALEFATI E TRA CORSO ITALIA E VIA PRINCIPE AMEDEO FINO AL GIORNO 31.12.2026 IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. <br><br>Durata e tempistiche: 08/09/2026 - 31/12/2026<br><br>ORDINANZA 2026/03274 <br><br>https://drive.google.com/file/d/1ZBgsCzR-O5UEjr6tgQbGTI72I3-k3m0k/view<br><br><br>PROCEDURA NEGOZIATA PN23023 PER LA CONCLUSIONE DI UN ACCORDO QUADRO QUADRIENNALE PER L'AFFIDAMENTO CONGIUNTO DI PROGETTAZIONE ESECUTIVA ED ESECUZIONE DEI "LAVORI DI RIQUALIFICAZIONE DI VIA MANZONI" – ACCORDO QUADRO CIG: 9934949346 1° CONTRATTO ATTUATIVO CUP: J91B21001180001 – CIG: A065861BA9 2° CONTRATTO ATTUATIVO CUP: J98E22000030003 – CIG: A06586D592 RICHIESTA ORDINANZA PER CHIUSURA AL TRAFFICO VEICOLARE H 24, DIVIETO DI SOSTA E FERMATA AMBO I LATI CON RIMOZIONE, SU VIA MANZONI NEI TRATTI COMPRESI TRA P.ZZA GARIBALDI E VIA CALEFATI E CORSO ITALIA E VIA PRINCIPE AMEDEO DAL GIORNO 01/07/2026 AL 01/09/2026 IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. CON SEDE LEGALE IN VIA PO N. 31 <br><br>Durata e tempistiche: 01/07/2026 - 01/09/2026     ]]></description>
       <styleUrl>#line-E65100-3131</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -6885,14 +6944,15 @@ IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03274 
-CHIUSURA AL TRAFFICO VEICOLARE H 24, DIVIETO DI SOSTA E FERMATA AMBO I LATI CON RIMOZIONE
-VIA MANZONI TRA P.ZZA GARIBALDI E VIA CALEFATI E CORSO ITALIA E VIA PRINCIPE AMEDEO
+      <name>ORDINANZA 2026/04048 
+DIVIETO DI FERMATA E DIVIETO DI TRANSITO
+VIA MANZONI TRA PIAZZA GARIBALDI E VIA CALEFATI
+VIA MANZONI TRA CORSO ITALIA E VIA PRINCIPE AMEDEO 
 LAVORI DI RIQUALIFICAZIONE DI VIA MANZONI
-IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. 
-01/07/2026 - 01/09/2026
+IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A.
+08/09/2026 - 31/12/2026 
 </name>
-      <description><![CDATA[ORDINANZA 2026/03274 <br><br>https://drive.google.com/file/d/1ZBgsCzR-O5UEjr6tgQbGTI72I3-k3m0k/view<br><br><br>PROCEDURA NEGOZIATA PN23023 PER LA CONCLUSIONE DI UN ACCORDO QUADRO QUADRIENNALE PER L'AFFIDAMENTO CONGIUNTO DI PROGETTAZIONE ESECUTIVA ED ESECUZIONE DEI "LAVORI DI RIQUALIFICAZIONE DI VIA MANZONI" – ACCORDO QUADRO CIG: 9934949346 1° CONTRATTO ATTUATIVO CUP: J91B21001180001 – CIG: A065861BA9 2° CONTRATTO ATTUATIVO CUP: J98E22000030003 – CIG: A06586D592 RICHIESTA ORDINANZA PER CHIUSURA AL TRAFFICO VEICOLARE H 24, DIVIETO DI SOSTA E FERMATA AMBO I LATI CON RIMOZIONE, SU VIA MANZONI NEI TRATTI COMPRESI TRA P.ZZA GARIBALDI E VIA CALEFATI E CORSO ITALIA E VIA PRINCIPE AMEDEO DAL GIORNO 01/07/2026 AL 01/09/2026 IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. CON SEDE LEGALE IN VIA PO N. 31 <br><br>Durata e tempistiche: 01/07/2026 - 01/09/2026     ]]></description>
+      <description><![CDATA[ORDINANZA 2026/04048 <br>https://drive.google.com/file/d/1FvrYwcH0NY4JOqYR9ZJNyqZpEz-_2Tlq/view<br><br>LAVORI DI RIQUALIFICAZIONE DI VIA MANZONI REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA MANZONI NEI TRATTI COMPRESI TRA PIAZZA GARIBALDI E VIA CALEFATI E TRA CORSO ITALIA E VIA PRINCIPE AMEDEO FINO AL GIORNO 31.12.2026 IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. <br><br>Durata e tempistiche: 08/09/2026 - 31/12/2026<br><br>ORDINANZA 2026/03274 <br><br>https://drive.google.com/file/d/1ZBgsCzR-O5UEjr6tgQbGTI72I3-k3m0k/view<br><br><br>PROCEDURA NEGOZIATA PN23023 PER LA CONCLUSIONE DI UN ACCORDO QUADRO QUADRIENNALE PER L'AFFIDAMENTO CONGIUNTO DI PROGETTAZIONE ESECUTIVA ED ESECUZIONE DEI "LAVORI DI RIQUALIFICAZIONE DI VIA MANZONI" – ACCORDO QUADRO CIG: 9934949346 1° CONTRATTO ATTUATIVO CUP: J91B21001180001 – CIG: A065861BA9 2° CONTRATTO ATTUATIVO CUP: J98E22000030003 – CIG: A06586D592 RICHIESTA ORDINANZA PER CHIUSURA AL TRAFFICO VEICOLARE H 24, DIVIETO DI SOSTA E FERMATA AMBO I LATI CON RIMOZIONE, SU VIA MANZONI NEI TRATTI COMPRESI TRA P.ZZA GARIBALDI E VIA CALEFATI E CORSO ITALIA E VIA PRINCIPE AMEDEO DAL GIORNO 01/07/2026 AL 01/09/2026 IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. CON SEDE LEGALE IN VIA PO N. 31 <br><br>Durata e tempistiche: 01/07/2026 - 01/09/2026     ]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -9649,17 +9709,16 @@ IMPRESA ESECUTRICE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03872
+      <name>ORDINANZA 2026/03872 + INTEGRAZIONE ORDINANZA 2026/04049
 DEL DIVIETO DI TRANSITO
 TRATTO DA VIA VITTORIO VENETO A PIAZZA UMBERTO DIREZIONE VIA
 QUARANTA
-DIVIETO DI SOSTA,DI FERMATA AMBO I LATI CON SENSO UNICO ALTERNATO 
-PIAZZA UMBERTO
+DIVIETO DI SOSTA,DI FERMATA AMBO I LATI CON DOPPIO SENSO DI CIRCOLAZIONE PIAZZA UMBERTO
 ULTIMAZIONE TRONCO FOGNARIO
 IMPRESA ESECUTRICE: CO.RES. SRL
-25/08/2026 - 25/11/2026
+25/08/2026 - 25/10/2026
 </name>
-      <description><![CDATA[Ordinanza 2026/03872<br><br>https://drive.google.com/file/d/10c1Bi8_DQZ6MmRgieU250e8MqPFGwTDH/view<br><br>LAVORI DI COSTRUZIONE DELLA RETE DI FOGNATURA PLUVIALE E<br><br>RIFACIMENTO DEI MARCIAPIEDI.<br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO VEICOLARE TRATTO<br>CHE COLLEGA VIA VITTORIO VENETO A PIAZZA UMBERTO DIREZIONE VIA<br>QUARANTA E DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON SENSO<br>UNICO ALTERNATO SU TUTTA PIAZZA UMBERTO I PER ULTIMAZIONE<br>TRONCO FOGNARIO DAL GIORNO 25 AGOSTO PER GIORNI 60.<br>IMPRESA : CO.RES. SRL<br>ISTANTE: ING. COLAPIETRO SALVATORE VITANTONIO<br><br>Durata e tempistiche: 25/08/2026 - 25/11/2026]]></description>
+      <description><![CDATA[Ordinanza 2026/03872<br><br>https://drive.google.com/file/d/10c1Bi8_DQZ6MmRgieU250e8MqPFGwTDH/view<br><br>LAVORI DI COSTRUZIONE DELLA RETE DI FOGNATURA PLUVIALE E<br>RIFACIMENTO DEI MARCIAPIEDI.<br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO VEICOLARE TRATTO<br>CHE COLLEGA VIA VITTORIO VENETO A PIAZZA UMBERTO DIREZIONE VIA<br>QUARANTA E DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON SENSO<br>UNICO ALTERNATO SU TUTTA PIAZZA UMBERTO I PER ULTIMAZIONE<br>TRONCO FOGNARIO DAL GIORNO 25 AGOSTO PER GIORNI 60.<br>IMPRESA : CO.RES. SRL<br>ISTANTE: ING. COLAPIETRO SALVATORE VITANTONIO<br>____________<br>ORDINANZA 2026/04049 <br>INTEGRAZIONE E/O VARIAZIONE ORDINANZA DIRIGENZIALE N. 2026/03872<br>DEL 12/08/2026.<br><br>https://drive.google.com/file/d/1SGYuJRRjBRZg-df-pgrjMXynHHnDiQJL/view?usp=sharing<br><br>Tutto quanto espresso integralmente nell’ordinanza n. 2026/03872 del 12/08/2026 ad eccezione<br>dell’integrazione descritta nel riquadro “RILEVATO” e della variazione al punto 3 dell’”ORDINA”;<br>1) Con la stessa nota prot. 325157 del 08/09/2026, il commissario della Polizia Locale, ha ritenuto variare il punto 3<br>dell’ordinanza in questione e quindi non più istituzione del senso unico alternato ma bensì istituzione del doppio<br>senso di circolazione su tutta la Piazza Umberto I per tutta la durata dei lavori;<br><br>Durata e tempistiche: 25/08/2026 - 25/10/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -10892,14 +10951,13 @@ IMPRESA ESECUTRICE: IMPRESA FAP S.R.L. PER RETEGAS BARI S.P.A. – BARI
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/04040
-ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E
-DEL DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI PER
+      <name>ORDINANZA 2026/04040 + ORDINANZA 2026/04051DI RETTIFICA 
+ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E DEL DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI PER
 LAVORI IMPIANTI STRADALI RETE GAS METANO SU VIA CIRILLO TRATTO
 COMPRESO TRA VIA DEI MILLE E VIA PISACANE
 TERMINE E DURATA: DAL GIORNO 14.9.2026 AL GIORNO 30.9.2026.
-IMPRESA ESECUTRICE:RETEGAS BARI S.P.A. – BARI.</name>
-      <description><![CDATA[ORDINANZA 2026/04040<br>https://drive.google.com/file/d/1MMmmd39gnrCubJtn066zAuYhF5pDdxLc/view<br>Restringimento di carreggiata e divieto di sosta con rimozione forzata ambo i lati su:<br>1 via Cirillo tratto compreso tra via Dei Mille e via Pisacane<br><br>Tutte le ordinanze sindacali in contrasto con la presente sono provvisoriamente sospese e divengono nuovamente efficaci al raggiungimento dei termini<br>previsti dal presente disposto.<br>TERMINE E DURATA: DAL GIORNO 14.9.2026 AL GIORNO 30.9.2026.]]></description>
+IMPRESA ESECUTRICE:RETEGAS BARI S.P.A. – BARI</name>
+      <description><![CDATA[ORDINANZA 2026/04040<br>https://drive.google.com/file/d/1MMmmd39gnrCubJtn066zAuYhF5pDdxLc/view<br>Restringimento di carreggiata e divieto di sosta con rimozione forzata ambo i lati su:<br>1 via Cirillo tratto compreso tra via Dei Mille e via Pisacane<br><br>Tutte le ordinanze sindacali in contrasto con la presente sono provvisoriamente sospese e divengono nuovamente efficaci al raggiungimento dei termini<br>previsti dal presente disposto.<br>______________<br>ORDINANZA 2026/04051 DI RETTIFICA<br>https://drive.google.com/file/d/1XTxwvcbXWrT5EIW7yObk6VunUAvjo2bN/view?usp=sharing<br><br>dal giorno 14.9.2026 al giorno 30.9.2026, è istituito:<br>Restringimento di carreggiata e divieto di sosta con rimozione forzata ambo i lati su:<br>1 via Cirillo tratto compreso tra via Dei Mille e via Pisacane <br><br>TERMINE E DURATA: DAL GIORNO 14.9.2026 AL GIORNO 30.9.2026.]]></description>
       <styleUrl>#line-E65100-3906</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -10910,15 +10968,14 @@ IMPRESA ESECUTRICE:RETEGAS BARI S.P.A. – BARI.</name>
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/04040
-ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E
-DEL DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI PER
+      <name>ORDINANZA 2026/04040 + ORDINANZA 2026/04051DI RETTIFICA 
+ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E DEL DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI PER
 LAVORI IMPIANTI STRADALI RETE GAS METANO SU VIA CIRILLO TRATTO
 COMPRESO TRA VIA DEI MILLE E VIA PISACANE
 TERMINE E DURATA: DAL GIORNO 14.9.2026 AL GIORNO 30.9.2026.
 IMPRESA ESECUTRICE:RETEGAS BARI S.P.A. – BARI.
 </name>
-      <description><![CDATA[ORDINANZA 2026/04040<br>https://drive.google.com/file/d/1MMmmd39gnrCubJtn066zAuYhF5pDdxLc/view<br>Restringimento di carreggiata e divieto di sosta con rimozione forzata ambo i lati su:<br>1 via Cirillo tratto compreso tra via Dei Mille e via Pisacane<br><br>Tutte le ordinanze sindacali in contrasto con la presente sono provvisoriamente sospese e divengono nuovamente efficaci al raggiungimento dei termini<br>previsti dal presente disposto.<br>TERMINE E DURATA: DAL GIORNO 14.9.2026 AL GIORNO 30.9.2026.]]></description>
+      <description><![CDATA[ORDINANZA 2026/04040<br>https://drive.google.com/file/d/1MMmmd39gnrCubJtn066zAuYhF5pDdxLc/view<br>Restringimento di carreggiata e divieto di sosta con rimozione forzata ambo i lati su:<br>1 via Cirillo tratto compreso tra via Dei Mille e via Pisacane<br><br>Tutte le ordinanze sindacali in contrasto con la presente sono provvisoriamente sospese e divengono nuovamente efficaci al raggiungimento dei termini<br>previsti dal presente disposto.<br>______________<br>ORDINANZA 2026/04051 DI RETTIFICA<br>https://drive.google.com/file/d/1XTxwvcbXWrT5EIW7yObk6VunUAvjo2bN/view?usp=sharing<br><br>dal giorno 14.9.2026 al giorno 30.9.2026, è istituito:<br>Restringimento di carreggiata e divieto di sosta con rimozione forzata ambo i lati su:<br>1 via Cirillo tratto compreso tra via Dei Mille e via Pisacane <br><br>TERMINE E DURATA: DAL GIORNO 14.9.2026 AL GIORNO 30.9.2026.]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -11258,6 +11315,304 @@ IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
         <coordinates>
           16.9109581,41.1018184,0
           16.9148498,41.100297,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04046
+DIVIETO DI FERMATA E RESTRINGIMENTO CARREGGIATA E 
+PIAZZA ALDO MORO
+BRT
+IMPRESA ESECUTRICE:R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
+08/09/2026 - 09/09/2026
+</name>
+      <description><![CDATA[Ordinanza 2026/04046<br><br>https://drive.google.com/file/d/1LVJ1irw7llpPcnWt3dkgidGOK_PJgmDp/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>PIAZZA ALDO MORO<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>Durata e Tempistiche: 08/09/2026 - 09/09/2026]]></description>
+      <styleUrl>#line-E65100-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8692431,41.1191039,0
+          16.870845,41.119182,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04046
+DIVIETO DI FERMATA E RESTRINGIMENTO CARREGGIATA E 
+PIAZZA ALDO MORO
+BRT
+IMPRESA ESECUTRICE:R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
+08/09/2026 - 09/09/2026</name>
+      <description><![CDATA[Ordinanza 2026/04046<br><br>https://drive.google.com/file/d/1LVJ1irw7llpPcnWt3dkgidGOK_PJgmDp/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>PIAZZA ALDO MORO<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>Durata e Tempistiche: 08/09/2026 - 09/09/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8692626,41.1191308,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04062
+DEROGA AL DIVIETO DI TRANSITO MEZZI PESANTI E ISTITUZIONE PASSAGGIO PEDONALE
+VIA VACCARELLA DAL CIVICO 50 AL CIVICO 67
+DI DEMOLIZIONE DI VECCHIO FABBRICATO E RICOSTRUZIONE
+DI UN NUOVO FABBRICATO AD USO CIVILE ABITAZIONE
+RICHIEDENTE: COTAM S.R.L.
+08/09/2026 - 08/06/2027</name>
+      <description><![CDATA[Ordinanza 2026/04062<br><br>https://drive.google.com/file/d/1pa9Cmb-3fk1MxpXBb-X1Ay2cyl0HC28v/view<br><br>ISTITUZIONE TEMPORANEA DELLA DEROGA AL DIVIETO DI TRANSITO PER I<br>MEZZI PESANTI AVENTI MASSA COMPLESSIVA SUPERIORE AI 35 Q.LI SU<br>VIA VACCARELLA DAL CIVICO 50 AL CIVICO 67 DALL’ESECUTIVITÀ<br>DELL’ATTO PER I SUCCESSIVI 9 MESI DALLE ORE 06:00 ALLE ORE 17:00<br>PER OPERE DI DEMOLIZIONE DI VECCHIO FABBRICATO E RICOSTRUZIONE<br>DI UN NUOVO FABBRICATO AD USO CIVILE ABITAZIONE.<br>IMPRESA: COTAM S.R.L.<br>ISTANTE: TAMBORRA VITO (LEGALE RAPPRESENTANTE)<br><br>Durata e Tempistiche: 08/09/2026 - 08/06/2027]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8653876,41.0684047,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04059
+DIVIETO DI TRANSITO
+VIA ADOLFO OMODEO TRA VIA AMENDOLA E VIA SALVEMINI
+VIA GAETANO SALVEMINI 
+BRT
+RICHIEDENTE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
+08/09/2026 - 10/09/2026</name>
+      <description><![CDATA[Ordinanza<br>2026/04059<br><br>https://drive.google.com/file/d/1zCkUugA4KMEDOgGs7Jjv9pjr9NQ5vBx_/view<br><br>Dalle ore 23:30 del giorno 08.09.2026 alle ore 05:30 del giorno 09.09.2026 sono istituiti i seguenti<br>provvedimenti temporanei di circolazione:<br>a) L’istituzione del divieto di transito su:<br>i) via Adolfo Omodeo, nel tratto stradale compreso tra via Fanelli e via Salvemini, per la carreggiata stradale<br>che percorre la corrente di traffico che va da via Fanelli verso via Amendola;<br>ii) via Giustino Fortunato nel tratto stradale compreso tra via Omodeo e via Guido Dorso<br>iii) via Gaetano Salvemini, nel tratto stradale compreso tra via Guido Dorso e via Adolfo Omodeo, nella<br>carreggiata stradale che va da via Guido Dorso verso via Adolfo Omodeo;<br>b) L’istituzione dell’obbligo di svolta a destra su via Salvemini, per la corrente di traffico proveniente da via<br>Orabona, in prossimità dell’intersezione con via Omodeo.<br><br>c) L’istituzione dell’obbligo di proseguire diritto e di svoltare a destra su via Omodeo per la corrente di traffico<br>proveniente da via Amendola, in prossimità dell’intersezione con via Salvemini.<br>d) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree<br>interessate dai lavori.<br>2) Dalle ore 23:30 del giorno 09.09.2026 alle ore 05:30 del giorno 10.09.2026 sono istituiti i seguenti<br>provvedimenti temporanei di circolazione:<br>a) L’istituzione del divieto di transito su:<br>i) via Adolfo Omodeo, nel tratto stradale compreso tra via Amendola e via Salvemini, per la carreggiata<br>stradale che percorre la corrente di traffico che va da via Amendola verso via Fanelli;<br>ii) via Gaetano Salvemini, per la corrente di traffico proveniente da via Orabona;<br>b) L’istituzione dell’obbligo di svolta a destra su via Salvemini, per la corrente di traffico proveniente da via Guido<br>Dorso, in prossimità dell’intersezione con via Salvemini.<br>c) L’istituzione dell’obbligo di proseguire diritto e di svoltare a destra su via Omodeo per la corrente di traffico<br>proveniente da via Fanelli, in prossimità dell’intersezione con via Salvemini.<br>d) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree<br>interessate dai lavori.]]></description>
+      <styleUrl>#line-E65100-4100</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8852142,41.1075114,0
+          16.881513,41.1060131,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04059
+DIVIETO DI TRANSITO
+VIA ADOLFO OMODEO TRA VIA AMENDOLA E VIA SALVEMINI
+VIA GAETANO SALVEMINI 
+BRT
+RICHIEDENTE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
+08/09/2026 - 10/09/2026</name>
+      <description><![CDATA[Ordinanza<br>2026/04059<br><br>https://drive.google.com/file/d/1zCkUugA4KMEDOgGs7Jjv9pjr9NQ5vBx_/view<br><br>Dalle ore 23:30 del giorno 08.09.2026 alle ore 05:30 del giorno 09.09.2026 sono istituiti i seguenti<br>provvedimenti temporanei di circolazione:<br>a) L’istituzione del divieto di transito su:<br>i) via Adolfo Omodeo, nel tratto stradale compreso tra via Fanelli e via Salvemini, per la carreggiata stradale<br>che percorre la corrente di traffico che va da via Fanelli verso via Amendola;<br>ii) via Giustino Fortunato nel tratto stradale compreso tra via Omodeo e via Guido Dorso<br>iii) via Gaetano Salvemini, nel tratto stradale compreso tra via Guido Dorso e via Adolfo Omodeo, nella<br>carreggiata stradale che va da via Guido Dorso verso via Adolfo Omodeo;<br>b) L’istituzione dell’obbligo di svolta a destra su via Salvemini, per la corrente di traffico proveniente da via<br>Orabona, in prossimità dell’intersezione con via Omodeo.<br><br>c) L’istituzione dell’obbligo di proseguire diritto e di svoltare a destra su via Omodeo per la corrente di traffico<br>proveniente da via Amendola, in prossimità dell’intersezione con via Salvemini.<br>d) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree<br>interessate dai lavori.<br>2) Dalle ore 23:30 del giorno 09.09.2026 alle ore 05:30 del giorno 10.09.2026 sono istituiti i seguenti<br>provvedimenti temporanei di circolazione:<br>a) L’istituzione del divieto di transito su:<br>i) via Adolfo Omodeo, nel tratto stradale compreso tra via Amendola e via Salvemini, per la carreggiata<br>stradale che percorre la corrente di traffico che va da via Amendola verso via Fanelli;<br>ii) via Gaetano Salvemini, per la corrente di traffico proveniente da via Orabona;<br>b) L’istituzione dell’obbligo di svolta a destra su via Salvemini, per la corrente di traffico proveniente da via Guido<br>Dorso, in prossimità dell’intersezione con via Salvemini.<br>c) L’istituzione dell’obbligo di proseguire diritto e di svoltare a destra su via Omodeo per la corrente di traffico<br>proveniente da via Fanelli, in prossimità dell’intersezione con via Salvemini.<br>d) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree<br>interessate dai lavori.]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8850157,41.1075802,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ORDINANZA 2026/04059
+DIVIETO DI TRANSITO ECCETTO FRONTISTI 
+STRADA RURALE CANNONE
+BARI COSTA SUD, PARCO COSTIERO DELLA CULTURA, DEL TURISMO,
+DELL'AMBIENTE - LOTTO 6
+IMPRESA ESECUTRICE: FORTE DOMENICO
+08/09/2026 - 07/11/2026]]></name>
+      <description><![CDATA[2026/04058<br><br>https://drive.google.com/file/d/1Nc-rV9H_My5S1L_fznEZCG4LOmvhV-km/view<br><br>BARI COSTA SUD, PARCO COSTIERO DELLA CULTURA, DEL TURISMO,<br><br>DELL'AMBIENTE - LOTTO 6<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU STRADA<br>RURALE CANNONE DALLA DATA DI EMANAZIONE DELLA PRESENTE<br>ORDINANZA DALLA DATA DI EMANAZIONE DELLA PRESENTE ORDINANZA<br>AL GIORNO 7.11.2026<br>IMPRESA ESECUTRICE: FORTE DOMENICO<br><br>Durata e tempistiche: 08/09/2026 - 07/11/2026]]></description>
+      <styleUrl>#icon-1541-673AB7</styleUrl>
+      <Point>
+        <coordinates>
+          16.923321,41.105855,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04057
+PER DIVIETO DI SOSTA E DI FERMATA AMBO I
+LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO DI CARREGGIATA
+VIA F. VECCHIO DA VIA PASUBIO A VIA MANFREDI AZZARITA
+VIA PADRE MARIO LABARBUTA VIA G. PETRONI PER CIRCA ML 60,00
+RIPRISTINO MANTO STRADALE
+C/ENEL
+IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
+14/09/2026 - 21/09/2026
+07.00 - 17.00
+</name>
+      <description><![CDATA[Ordinanza 2026/04057<br><br>https://drive.google.com/file/d/1H7TpqBzHk9Abp3deRdtbTVj0gaxS5Bog/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO DI CARREGGIATA<br>SU VIA F. VECCHIO (DA VIA PASUBIO A VIA MANFREDI AZZARITA) E VIA<br>PADRE MARIO LABARBUTA (DA VIA G. PETRONI PER CIRCA ML 60,00) –<br>BARI” DAL GIORNO 14 SETTEMBRE 2026 AL 21 SETTEMBRE 2026 DALLE<br>ORE 07.00 ALLE ORE 17.00 PER LAVORI DI RIPRISTINO MANTO STRADALE<br>C/ENEL,<br>SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L<br><br>Durata e tempistiche: 14/09/2026 - 21/09/2026<br>07.00 - 17.00.]]></description>
+      <styleUrl>#line-E65100-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8678416,41.1113212,0
+          16.8676385,41.1104697,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04057
+PER DIVIETO DI SOSTA E DI FERMATA AMBO I
+LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO DI CARREGGIATA
+VIA F. VECCHIO DA VIA PASUBIO A VIA MANFREDI AZZARITA
+VIA PADRE MARIO LABARBUTA VIA G. PETRONI PER CIRCA ML 60,00
+RIPRISTINO MANTO STRADALE
+C/ENEL
+IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
+14/09/2026 - 21/09/2026
+07.00 - 17.00
+</name>
+      <description><![CDATA[Ordinanza 2026/04057<br><br>https://drive.google.com/file/d/1H7TpqBzHk9Abp3deRdtbTVj0gaxS5Bog/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO DI CARREGGIATA<br>SU VIA F. VECCHIO (DA VIA PASUBIO A VIA MANFREDI AZZARITA) E VIA<br>PADRE MARIO LABARBUTA (DA VIA G. PETRONI PER CIRCA ML 60,00) –<br>BARI” DAL GIORNO 14 SETTEMBRE 2026 AL 21 SETTEMBRE 2026 DALLE<br>ORE 07.00 ALLE ORE 17.00 PER LAVORI DI RIPRISTINO MANTO STRADALE<br>C/ENEL,<br>SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L<br><br>Durata e tempistiche: 14/09/2026 - 21/09/2026<br>07.00 - 17.00.]]></description>
+      <styleUrl>#line-E65100-8169</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8684039,41.1123258,0
+          16.8682937,41.1123528,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04057
+PER DIVIETO DI SOSTA E DI FERMATA AMBO I
+LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO DI CARREGGIATA
+VIA F. VECCHIO DA VIA PASUBIO A VIA MANFREDI AZZARITA
+VIA PADRE MARIO LABARBUTA VIA G. PETRONI PER CIRCA ML 60,00
+RIPRISTINO MANTO STRADALE
+C/ENEL
+IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
+14/09/2026 - 21/09/2026
+07.00 - 17.00
+</name>
+      <description><![CDATA[Ordinanza 2026/04057<br><br>https://drive.google.com/file/d/1H7TpqBzHk9Abp3deRdtbTVj0gaxS5Bog/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO DI CARREGGIATA<br>SU VIA F. VECCHIO (DA VIA PASUBIO A VIA MANFREDI AZZARITA) E VIA<br>PADRE MARIO LABARBUTA (DA VIA G. PETRONI PER CIRCA ML 60,00) –<br>BARI” DAL GIORNO 14 SETTEMBRE 2026 AL 21 SETTEMBRE 2026 DALLE<br>ORE 07.00 ALLE ORE 17.00 PER LAVORI DI RIPRISTINO MANTO STRADALE<br>C/ENEL,<br>SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L<br><br>Durata e tempistiche: 14/09/2026 - 21/09/2026<br>07.00 - 17.00.]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8679632,41.1112905,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04056
+PER DIVIETO DI SOSTA E DI FERMATA AMBO I
+LATI CON RIMOZIONE FORZATA E CHIUSURA AL TRANSITO
+VIA IMBRIANI TRA CORSO CAVOUR E VIA DE GIOSA
+LAVORI DI POSA CAVI INTERRATI BT
+IMPRESA ESECUTRICE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
+14/09/2026 - 21/09/2026
+07.00 - 17.00</name>
+      <description><![CDATA[Ordinanza 2026/04056<br><br>http://drive.google.com/file/d/1NajUceku_C963LPA4GlO-d-VfVNy2ZSZ/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E CHIUSURA AL TRANSITO VEICOLARE<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>14.9.2026 AL GIORNO 25.9.2026 DALLE ORE 7.00 ALLE ORE 17.00 IN VIA<br>IMBRIANI – TRATTO COMPRESO TRA CORSO CAVOUR E VIA DE GIOSA<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 14/09/2026 - 21/09/2026<br>07.00 - 17.00]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8727886,41.1221641,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04056
+PER DIVIETO DI SOSTA E DI FERMATA AMBO I
+LATI CON RIMOZIONE FORZATA E CHIUSURA AL TRANSITO
+VIA IMBRIANI TRA CORSO CAVOUR E VIA DE GIOSA
+LAVORI DI POSA CAVI INTERRATI BT
+IMPRESA ESECUTRICE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
+14/09/2026 - 21/09/2026
+07.00 - 17.00
+</name>
+      <description><![CDATA[Ordinanza 2026/04056<br><br>http://drive.google.com/file/d/1NajUceku_C963LPA4GlO-d-VfVNy2ZSZ/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E CHIUSURA AL TRANSITO VEICOLARE<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>14.9.2026 AL GIORNO 25.9.2026 DALLE ORE 7.00 ALLE ORE 17.00 IN VIA<br>IMBRIANI – TRATTO COMPRESO TRA CORSO CAVOUR E VIA DE GIOSA<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 14/09/2026 - 21/09/2026<br>07.00 - 17.00]]></description>
+      <styleUrl>#line-E65100-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8727683,41.122204,0
+          16.8736162,41.1222703,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04052
+ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA
+AMBO I LATI CON RESTRINGIMENTO CARREGGIATA 
+STRADA SANTA CATERINA: DA VIA NICOLA RUFFO A STRADA SANTA
+CATERINA IN CORRISPONDENZA INGRESSO IPERCOOP
+LAVORI DI SCAVO PER POSA CAVI
+IMPRESA: DMF COSTRUZIONI S.R.L.
+ISTANTE: LOSACCO LUIGI
+09/09/2026 - 31/10/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/04052<br><br>https://drive.google.com/file/d/1ZXTojDsbq2DkH-RYjST000QrhyWkNRZ6/view?usp=sharing<br><br>dal 09 Settembre 2026 al 31 Ottobre 2026<br>1. L’istituzione temporanea del divieto di sosta ambo i lati della carreggiata con restringimento carreggiata<br>su:<br> Strada Santa Caterina: da Via Nicola Ruffo a strada Santa Caterina in corrispondenza<br>ingresso Ipercoop<br><br>Durata e tempistiche:  09/09/2026 - 31/10/2026]]></description>
+      <styleUrl>#line-E65100-5263</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8358764,41.102269,0
+          16.8355098,41.1017613,0
+          16.8353274,41.1016319,0
+          16.8351129,41.1016562,0
+          16.8340332,41.1005365,0
+          16.8327954,41.0996592,0
+          16.8311364,41.0981551,0
+          16.8313119,41.0978391,0
+          16.8313607,41.0976406,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04052
+ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA
+AMBO I LATI CON RESTRINGIMENTO CARREGGIATA 
+STRADA SANTA CATERINA: DA VIA NICOLA RUFFO A STRADA SANTA
+CATERINA IN CORRISPONDENZA INGRESSO IPERCOOP
+LAVORI DI SCAVO PER POSA CAVI
+IMPRESA: DMF COSTRUZIONI S.R.L.
+ISTANTE: LOSACCO LUIGI
+09/09/2026 - 31/10/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/04052<br>https://drive.google.com/file/d/1ZXTojDsbq2DkH-RYjST000QrhyWkNRZ6/view?usp=sharing<br><br>dal 09 Settembre 2026 al 31 Ottobre 2026<br>1. L’istituzione temporanea del divieto di sosta ambo i lati della carreggiata con restringimento carreggiata<br>su:<br> Strada Santa Caterina: da Via Nicola Ruffo a strada Santa Caterina in corrispondenza<br>ingresso Ipercoop<br><br>Durata e tempistiche: 09/09/2026 - 31/10/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8326522,41.0994707,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ORDINANZA 2026/04054
+ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA
+AMBO I LATI CON RESTRINGIMENTO CARREGGIATA 
+VIA MONTEGRAPPA DAL CIV.137 AL CIV.161
+LAVORI DI SCAVO PER POSA CAVI
+IMPRESA: PATANO IMPIANTI & COSTRUZIONI S.R.L.
+28/09/2026 - 02/10/2026 DALLE ORE 07:30 ALLE ORE 19:00]]></name>
+      <description><![CDATA[ORDINANZA 2026/04054<br>https://drive.google.com/file/d/12H4131mPOBPKbjfgJIWXay1GxMGXEe3S/view?usp=sharing<br>dal giorno 28/09/2026 al giorno 02/10/2026 dalle ore 07:30 alle ore 19:00<br>Istituire temporaneamente un restringimento carreggiata, divieto di sosta ambo i lati su :<br>Via Montegrappa dal civ.137 al civ.161.<br>Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br><br>28/09/2026 - 02/10/2026 DALLE ORE 07:30 ALLE ORE 19:00]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8683874,41.1092215,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ORDINANZA 2026/04054
+ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA
+AMBO I LATI CON RESTRINGIMENTO CARREGGIATA 
+VIA MONTEGRAPPA DAL CIV.137 AL CIV.161
+LAVORI DI SCAVO PER POSA CAVI
+IMPRESA: PATANO IMPIANTI & COSTRUZIONI S.R.L.
+28/09/2026 - 02/10/2026 DALLE ORE 07:30 ALLE ORE 19:00]]></name>
+      <description><![CDATA[ORDINANZA 2026/04054<br>https://drive.google.com/file/d/12H4131mPOBPKbjfgJIWXay1GxMGXEe3S/view?usp=sharing<br>dal giorno 28/09/2026 al giorno 02/10/2026 dalle ore 07:30 alle ore 19:00<br>Istituire temporaneamente un restringimento carreggiata, divieto di sosta ambo i lati su :<br>Via Montegrappa dal civ.137 al civ.161.<br>Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br><br>28/09/2026 - 02/10/2026 DALLE ORE 07:30 ALLE ORE 19:00]]></description>
+      <styleUrl>#line-E65100-4681</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8687155,41.1091053,0
+          16.8681059,41.10921,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ORDINANZA 2026/04055
+ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA AMBO I LATI CON RESTRINGIMENTO CARREGGIATA 
+CORSO GIUSEPPE MAZZINI DAL CIV.96 AL CIV.108
+LAVORI DI SCAVO PER POSA CAVI
+IMPRESA: PATANO IMPIANTI & COSTRUZIONI S.R.L.
+01/10/2026 - 02/10/2026 DALLE ORE 07:30 ALLE ORE 19:00]]></name>
+      <description><![CDATA[ORDINANZA 2026/04055<br>https://drive.google.com/file/d/1xHlYzMNGk8gAjbFZKqz-WCYd-zMKo_l5/view?usp=sharing<br>dal giorno 01/10/2026 al giorno 02/10/2026 dalle ore 07:30 alle ore 19:00<br>Istituire temporaneamente un restringimento carreggiata, divieto di sosta ambo i lati su :<br>Corso Giuseppe Mazzini dal civ.96 al civ.108 .<br>Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br><br>01/10/2026 - 02/10/2026 DALLE ORE 07:30 ALLE ORE 19:00]]></description>
+      <styleUrl>#line-E65100-4100</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8564462,41.1253147,0
+          16.856768,41.1253294,0
         </coordinates>
       </LineString>
     </Placemark>
