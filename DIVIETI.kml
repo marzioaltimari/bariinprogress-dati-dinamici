@@ -36,42 +36,6 @@
         <styleUrl>#icon-1541-E65100-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="icon-1899-0288D1-normal">
-      <IconStyle>
-        <color>ffd18802</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-1899-0288D1-highlight">
-      <IconStyle>
-        <color>ffd18802</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-1899-0288D1">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="icon-1899-E65100-normal">
       <IconStyle>
         <color>ff0051e6</color>
@@ -764,22 +728,6 @@ IMPRESA: PATANO IMPIANTI & COSTRUZIONI S.R.L.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/04287
-DIVIETO DI TRANSITO ECCETTO FRONTISTI
-STRADA RAFASCHIERI TRA LA
-ROTATORIA DELL’IMBOCCO DI VIA RAFASCHIERI FINO AL KM 1,70
-REALIZZAZIONE DELLA FUTURA VIABILITA’ PER LINEA FERROVIARIA
-RICHIEDENTE: D’AGOSTINO COSTRUZIONI GENERALI
-16/09/2026 - 16/09/2027</name>
-      <description><![CDATA[2026/04287<br>DATE AGGIORNATE: 16/09/2026 - 16/09/2027<br>https://drive.google.com/file/d/1bAduST9DaneaPDJAQsz5yPPhi68Lbzem/view<br><br><br>Ordinanza 2026/03804<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO ECCETTO<br>FRONTISTI SU STRADA RAFASCHIERI NEL TRATTO COMPRESO TRA LA<br>ROTATORIA DELL’IMBOCCO DI VIA RAFASCHIERI FINO AL KM 1,70  PER LA<br>REALIZZAZIONE DELLA FUTURA VIABILITA’ COMUNALE RAFASCHIERI E<br>DELLE STRADE DI CUCITURA AI FONDI PREVISTE NELL’AMBITO<br>DELL’ADEGUAMENTO DELLA VIABILITA’ RISPETTO ALLA COSTRUENDA<br>LINEA FERROVIARIA .<br>RICHIEDENTE: D’AGOSTINO COSTRUZIONI GENERALI<br><br>Durata e tempistiche: 11/09/2026 - 11/09/2027]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.914195,41.0984145,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>ORDINANZA 2026/02833 
 RESTRINGIMENTO CARREGGIATA
 STRADA FRATTASIO (DAL CONSORZIO DI BONIFICA TERRA D’APULIA FINO ALLA STRADA COMUNALE CALDAROLA
@@ -1140,49 +1088,6 @@ IMPRESA ESECUTRICE: EUROAMBIENTE S.R.L.
           16.9059435,41.1058565,0
           16.9059649,41.1058586,0
           16.9078036,41.1086071,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/03221
-DIVIETO DI TRANSITO
-STRADA SANTA CATERINA
-STRADA MASSIMI – LOSACCO
-VIA GENERALE NICOLA BELLOMO
-LAVORI TRATTA LINEA BARI - ALTAMURA - MATERA DELLE FERROVIE APPULO LUCANE
-IMPRESA ESECUTRICE: COBAR S.P.A
-30/06/2026-30/09/2026</name>
-      <description><![CDATA[PROROGATA FINO AL 30/09/2026 <br>Ordinanza 2026/03221<br><br>https://drive.google.com/file/d/1A_bVAPhU5qpnG2FCVYLpGn3k2y9DDraF/view<br>-----<br><br>2026/01491<br>https://drive.google.com/file/d/13lpDQG-a_Dj09kvmz-FbuYxQBi45IHNl/view<br><br>PROROGA DELL’ORDINANZA DIRIGENZIALE N. 2026/00579 DI<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU STRADA<br>SANTA CATERINA E STRADA MASSIMI LOSACCO <br>FINO AL GIORNO30.06.2026 <br><br>REVOCA DELL’ORDINANZA DIRIGENZIALE N. 2026/00249<br><br>2026/00579<br><br>https://drive.google.com/file/d/1GBe3-_6pFKxp1_dsTb-mXkx88MKoUlmh/view<br><br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU STRADA SANTA CATERINA E STRADA MASSIMI LOSACCO FINO AL GIORNO 31.03.2026 LAVORI DI "LINEA BARI - ALTAMURA - MATERA DELLE FERROVIE APPULO LUCANE S.R.L. - POTENZIAMENTO E VELOCIZZAZIONE DELLA TRATTA BARI - TORITTO. LOTTO 4: RADDOPPIO BARI POLICLINICO - BARI S. ANDREA". SOVRAPPASSO S. CATERINA. REVOCA DELL’ORDINANZA DIRIGENZIALE N. 2026/00249 IMPRESA ESECUTRICE: COBAR S.P.A<br><br>a) L’istituzione del divieto di transito, eccetto frontisti, a tutti i veicoli sui seguenti tratti stradali:<br> i) Strada Santa Caterina nel tratto stradale compreso tra il passaggio a livello e via San Giorgio Martire; o l’ingresso e l’uscita dei frontisti dovrà avvenire esclusivamente dalla rotatoria con via San Giorgio Martire; <br>ii) Strada Santa Caterina nel tratto stradale compreso tra viale Caduti di Nassiriya e Strada Massimi Losacco o l’ingresso e l’uscita dei frontisti dovrà avvenire esclusivamente dalla rotatoria con viale Caduti di Nassiriya;<br> iii) Strada Massimi – Losacco; o L’ingresso e l’uscita dei frontisti dovrà avvenire esclusivamente da via Generale Bellomo;<br> b) L’istituzione dell’obbligo di proseguire diritto a tutti i veicoli eccetto frontisti sui seguenti tratti stradali:<br> i) via Generale Nicola Bellomo all’intersezione con Strada Massimi Losacco per entrambe le correnti di traffico; <br>a) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. 2) Dai divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza;<br><br>Durata e tempistiche: 03/02/2026 - 31/03/2026<br><br>2026/00249 <br>https://drive.google.com/file/d/1EuApqvL_QhrXXW3b-e_FuiOlYIo6_GFP/view]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8398783,41.1067517,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/03221
-DIVIETO DI TRANSITO
-STRADA SANTA CATERINA
-STRADA MASSIMI – LOSACCO
-VIA GENERALE NICOLA BELLOMO
-LAVORI TRATTA LINEA BARI - ALTAMURA - MATERA DELLE FERROVIE APPULO LUCANE
-IMPRESA ESECUTRICE: COBAR S.P.A
-30/06/2026-30/09/2026</name>
-      <description><![CDATA[PROROGATA FINO AL 30/09/2026<br>Ordinanza 2026/03221<br><br>https://drive.google.com/file/d/1A_bVAPhU5qpnG2FCVYLpGn3k2y9DDraF/view<br>-----<br><br>2026/01491<br><br>https://drive.google.com/file/d/13lpDQG-a_Dj09kvmz-FbuYxQBi45IHNl/view<br><br>PROROGA DELL’ORDINANZA DIRIGENZIALE N. 2026/00579 DI<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU STRADA<br>SANTA CATERINA E STRADA MASSIMI LOSACCO<br>FINO AL GIORNO30.06.2026 <br>REVOCA DELL’ORDINANZA DIRIGENZIALE N. 2026/00249<br>2026/00579<br>https://drive.google.com/file/d/1GBe3-_6pFKxp1_dsTb-mXkx88MKoUlmh/view<br><br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU STRADA SANTA CATERINA E STRADA MASSIMI LOSACCO FINO AL GIORNO 31.03.2026 LAVORI DI "LINEA BARI - ALTAMURA - MATERA DELLE FERROVIE APPULO LUCANE S.R.L. - POTENZIAMENTO E VELOCIZZAZIONE DELLA TRATTA BARI - TORITTO. LOTTO 4: RADDOPPIO BARI POLICLINICO - BARI S. ANDREA". SOVRAPPASSO S. CATERINA. REVOCA DELL’ORDINANZA DIRIGENZIALE N. 2026/00249 IMPRESA ESECUTRICE: COBAR S.P.A<br><br>a) L’istituzione del divieto di transito, eccetto frontisti, a tutti i veicoli sui seguenti tratti stradali:<br> i) Strada Santa Caterina nel tratto stradale compreso tra il passaggio a livello e via San Giorgio Martire; o l’ingresso e l’uscita dei frontisti dovrà avvenire esclusivamente dalla rotatoria con via San Giorgio Martire; <br>ii) Strada Santa Caterina nel tratto stradale compreso tra viale Caduti di Nassiriya e Strada Massimi Losacco o l’ingresso e l’uscita dei frontisti dovrà avvenire esclusivamente dalla rotatoria con viale Caduti di Nassiriya;<br> iii) Strada Massimi – Losacco; o L’ingresso e l’uscita dei frontisti dovrà avvenire esclusivamente da via Generale Bellomo;<br> b) L’istituzione dell’obbligo di proseguire diritto a tutti i veicoli eccetto frontisti sui seguenti tratti stradali:<br> i) via Generale Nicola Bellomo all’intersezione con Strada Massimi Losacco per entrambe le correnti di traffico; <br>a) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. 2) Dai divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza;<br><br>Durata e tempistiche: 03/02/2026 - 31/03/2026<br><br>2026/00249<br> https://drive.google.com/file/d/1EuApqvL_QhrXXW3b-e_FuiOlYIo6_GFP/view]]></description>
-      <styleUrl>#line-E65100-3131</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8502638,41.1056725,0
-          16.8477854,41.1070872,0
-          16.8394169,41.1062384,0
-          16.8358764,41.102269,0
-          16.8394062,41.1062384,0
-          16.8430647,41.1092941,0
-          16.8449208,41.1116545,0
-          16.8463048,41.113158,0
-          16.8466696,41.1133439,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -1696,76 +1601,6 @@ IMPRESA ESECUTRICE: DMF COSTRUZIONI S.R.L.
         <coordinates>
           16.8695872,41.0891101,0
           16.8699177,41.0908262,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/03876 
-DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA
-CON RESTRINGIMENTO CARREGGIATA
-VIA BRUNO BUOZZI DA VIALE EUROPA A VIA GIOVANNI LARICCHIA
-LAVORI DI SCAVO PER LA POSA CAVI MT
-IMPRESA ESECUTRICE: DMF COSTRUZIONI S.R.L.
-01/06//2026 - 30/09/2026</name>
-      <description><![CDATA[PROROGATA FINO AL 30/09/2026<br>DALLA Ordinanza 2026/03876<br>https://drive.google.com/file/d/1EszEaRK2Fxodu1Ux3fPg4HAYluINe6q0/view<br><br>ORDINANZA 2026/02862 <br><br>https://drive.google.com/file/d/1lALUyJt2LI0InpfqtUFebgPjiAN_P7qi/view<br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA SU VIA BRUNO BUOZZI DA VIALE EUROPA A VIA GIOVANNI LARICCHIA, PER TERMINARE I LAVORI DI SCAVO PER LA POSA CAVI MT DAL 01/06/2026 AL 31/07/2026. PROROGA ORDINANZA DIRIGENZIALE N. 2026/01438 DEL 24/03/2026. IMPRESA: DMF COSTRUZIONI S.R.L. ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF COSTRUZIONI S.R.L.) <br><br>Durata e tempistiche: 01/06//2026 - 31/07/2026 <br><br>ORDINANZA 2026/01438 <br>https://drive.google.com/file/d/1UO6Ekv5Uge1lQOzQ_XAY6fmUP3uDxpWk/view<br><br>PROROGA ORDINANZA DIRIGENZIALE N. 2026/00696 <br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA SU VIA BRUNO BUOZZI DA VIALE EUROPA A VIA GIOVANNI LARICCHIA, PER TERMINARE I LAVORI DI SCAVO PER LA POSA CAVI MT DAL 01/04/2026 AL 30/05/2026. PROROGA ORDINANZA DIRIGENZIALE N. 2026/00696 DEL 12/02/2026. IMPRESA: DMF COSTRUZIONI S.R.L. ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF COSTRUZIONI S.R.L.)<br><br>Durata e tempistiche: 01/04/2026 - 30/05/2026  <br><br>proroga<br>2026/00696<br><br>https://drive.google.com/file/d/18B-xRwWnyHYOs1V3IrffW2Kk7TRn5H3g/view<br><br> ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA SU VIA BRUNO BUOZZI DA VIALE EUROPA A VIA GIOVANNI LARICCHIA, PER TERMINARE I LAVORI DI SCAVO PER LA POSA CAVI MT DALL’ESECUTIVITÀ DELL’ATTO SINO AL 31/03/2026. IMPRESA: DMF COSTRUZIONI S.R.L. ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF COSTRUZIONI S.R.L.)<br><br>1. Istituzione temporanea del divieto di sosta ambo i lati della carreggiata con restringimento carreggiata su via Bruno Buozzi da viale Europa a via Giovanni Laricchia, per terminare i lavori di scavo per la posa cavi MT; <br>2. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br><br>Durata e tempistiche: 12/02/2026 - 31/03/2026<br><br>Ordinanza: 2025/03320<br><br>https://drive.google.com/file/d/1pP5YD1wowTvu55c9EesQXUdSCwo7iFd6/view<br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA SU VIA BRUNO BUOZZI DA VIALE EUROPA A VIA GIOVANNI LARICCHIA, PER LAVORI DI SCAVO PER LA POSA CAVI MT. PROROGA ORDINANZA DIRIGENZIALE N. 2025/02843 – 2025/185/01343 DEL 26/09/2025 DAL. IMPRESA: DMF COSTRUZIONI S.R.L. ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF COSTRUZIONI S.R.L.)<br>Durata e tempistiche: 01/11/2025 - 31/01/2026]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8439613,41.1191792,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/03876 
-DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA
-CON RESTRINGIMENTO CARREGGIATA
-VIA BRUNO BUOZZI DA VIALE EUROPA A VIA GIOVANNI LARICCHIA
-LAVORI DI SCAVO PER LA POSA CAVI MT
-IMPRESA ESECUTRICE: DMF COSTRUZIONI S.R.L.
-01/06//2026 - 30/09/2026</name>
-      <description><![CDATA[PROROGATA FINO AL 30/09/2026<br>DALLA Ordinanza 2026/03876<br>https://drive.google.com/file/d/1EszEaRK2Fxodu1Ux3fPg4HAYluINe6q0/view<br><br>ORDINANZA 2026/02862 <br><br>https://drive.google.com/file/d/1lALUyJt2LI0InpfqtUFebgPjiAN_P7qi/view<br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA SU VIA BRUNO BUOZZI DA VIALE EUROPA A VIA GIOVANNI LARICCHIA, PER TERMINARE I LAVORI DI SCAVO PER LA POSA CAVI MT DAL 01/06/2026 AL 31/07/2026. PROROGA ORDINANZA DIRIGENZIALE N. 2026/01438 DEL 24/03/2026. IMPRESA: DMF COSTRUZIONI S.R.L. ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF COSTRUZIONI S.R.L.) <br><br>Durata e tempistiche: 01/06//2026 - 31/07/2026 <br><br>ORDINANZA 2026/01438 <br>https://drive.google.com/file/d/1UO6Ekv5Uge1lQOzQ_XAY6fmUP3uDxpWk/view<br><br>PROROGA ORDINANZA DIRIGENZIALE N. 2026/00696 <br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA SU VIA BRUNO BUOZZI DA VIALE EUROPA A VIA GIOVANNI LARICCHIA, PER TERMINARE I LAVORI DI SCAVO PER LA POSA CAVI MT DAL 01/04/2026 AL 30/05/2026. PROROGA ORDINANZA DIRIGENZIALE N. 2026/00696 DEL 12/02/2026. IMPRESA: DMF COSTRUZIONI S.R.L. ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF COSTRUZIONI S.R.L.)<br><br>Durata e tempistiche: 01/04/2026 - 30/05/2026  <br><br>proroga<br>2026/00696<br><br>https://drive.google.com/file/d/18B-xRwWnyHYOs1V3IrffW2Kk7TRn5H3g/view<br><br> ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA SU VIA BRUNO BUOZZI DA VIALE EUROPA A VIA GIOVANNI LARICCHIA, PER TERMINARE I LAVORI DI SCAVO PER LA POSA CAVI MT DALL’ESECUTIVITÀ DELL’ATTO SINO AL 31/03/2026. IMPRESA: DMF COSTRUZIONI S.R.L. ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF COSTRUZIONI S.R.L.)<br><br>1. Istituzione temporanea del divieto di sosta ambo i lati della carreggiata con restringimento carreggiata su via Bruno Buozzi da viale Europa a via Giovanni Laricchia, per terminare i lavori di scavo per la posa cavi MT; <br>2. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br><br>Durata e tempistiche: 12/02/2026 - 31/03/2026<br><br>https://drive.google.com/file/d/1pP5YD1wowTvu55c9EesQXUdSCwo7iFd6/view<br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA SU VIA BRUNO BUOZZI DA VIALE EUROPA A VIA GIOVANNI LARICCHIA, PER LAVORI DI SCAVO PER LA POSA CAVI MT. PROROGA ORDINANZA DIRIGENZIALE N. 2025/02843 – 2025/185/01343 DEL 26/09/2025 DAL. IMPRESA: DMF COSTRUZIONI S.R.L. ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF COSTRUZIONI S.R.L.)<br>Durata e tempistiche: 01/11/2025 - 31/01/2026]]></description>
-      <styleUrl>#line-E65100-4875</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8403243,41.1176719,0
-          16.8417512,41.1182053,0
-          16.8440686,41.1191065,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/03874
-DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA
-CON RESTRINGIMENTO CARREGGIATA
-VIE CALACE, BUOZZI E VIALE EUROPA
-LAVORI DI SCAVO PER LA POSA CAVI MT
-IMPRESA ESECUTRICE: DMF COSTRUZIONI S.R.L.
-01/06//2026 - 30/09/2026</name>
-      <description><![CDATA[PROROGATA FINO AL 30/09/2026<br>DALLA Ordinanza 2026/03874<br>https://drive.google.com/file/d/1kdSIyB22pBNvVBlajLCSHI5MfAE75OKd/view<br><br>ORDINANZA 2026/02859 <br><br>https://drive.google.com/file/d/1am4ke70gBJmH8sTE9RM3ZN2-3lkAfXjJ/view<br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA DEL TRATTO INTERESSATO DAI LAVORI NELLE VIE CALACE- BUOZZI E VIALE EUROPA PER LAVORI DI SCAVO PER LA POSA CAVI MT DAL GIORNO 01/06/2026 AL 31/07/2026. PROROGA ORDINANZA DIRIGENZIALE N. 2026/01437 DEL 24/03/2026. IMPRESA: DMF COSTRUZIONI S.R.L. ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF COSTRUZIONI S.R.L.) <br><br>Durata e tempistiche: 01/06//2026 - 31/07/2026 <br><br>ORDINANZA 2026/01437<br>https://drive.google.com/file/d/1JAWALqPsKHwvxEemb0ZDWAW0_xGcCI9f/view<br><br>PROROGA ORDINANZA DIRIGENZIALE N. 2026/00698<br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA DEL TRATTO INTERESSATO DAI LAVORI NELLE VIE CALACE- BUOZZI E VIALE EUROPA PER LAVORI DI SCAVO PER LA POSA CAVI MT DAL GIORNO 01/04/2026 AL 30/05/2026. PROROGA ORDINANZA DIRIGENZIALE N. 2026/00698 DEL 12/02/2026. IMPRESA: DMF COSTRUZIONI S.R.L. ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF COSTRUZIONI S.R.L.) <br><br>Durata e tempistiche: 01/04/2026 - 30/05/2026  <br><br>proroga<br>2026/00698 <br><br>https://drive.google.com/file/d/1Q3DKkCeyNv-Mci8N8EDDJTqKd4bmUgKD/view<br><br> ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA DEL TRATTO INTERESSATO DAI LAVORI NELLE VIE CALACE- BUOZZI E VIALE EUROPA PER LAVORI DI SCAVO PER LA POSA CAVI MT DALL’ESECUTIVITÀ DELL’ATTO SINO AL 31/03/2026. IMPRESA: DMF COSTRUZIONI S.R.L. ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF COSTRUZIONI S.R.L.<br><br>1. Istituzione temporanea del divieto di sosta ambo i lati della carreggiata con restringimento carreggiata del tratto interessato dai lavori nelle vie Calace- Buozzi e Viale Europa, per terminare lo scavo per posa cavi MT; <br>2. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br><br>Durata e tempistiche: 12/02/2026 - 31/03/2026<br><br>2025/03321<br>https://drive.google.com/file/d/1rMfyXIaAgfXExSnZ1Rrv_Id6O-n4sJwg/view<br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA DEL TRATTO INTERESSATO DAI LAVORI NELLE VIE CALACE- BUOZZI E VIALE EUROPA PER LAVORI DI SCAVO PER LA POSA CAVI MT. PROROGA ORDINANZA DIRIGENZIALE N. 2025/02841 DEL 26/09/2025. IMPRESA: DMF COSTRUZIONI S.R.L. ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF COSTRUZIONI S.R.L.)<br>Durata e tempistiche: 01/11/2025 - 31/01/2026]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8376972,41.1167998,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/03874
-DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA
-CON RESTRINGIMENTO CARREGGIATA
-VIE CALACE, BUOZZI E VIALE EUROPA
-LAVORI DI SCAVO PER LA POSA CAVI MT
-IMPRESA ESECUTRICE: DMF COSTRUZIONI S.R.L.
-01/06//2026 - 30/09/2026</name>
-      <description><![CDATA[PROROGATA FINO AL 30/09/2026<br>DALLA Ordinanza 2026/03874<br>https://drive.google.com/file/d/1kdSIyB22pBNvVBlajLCSHI5MfAE75OKd/view<br><br>ORDINANZA 2026/02859 <br><br>https://drive.google.com/file/d/1am4ke70gBJmH8sTE9RM3ZN2-3lkAfXjJ/view<br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA DEL TRATTO INTERESSATO DAI LAVORI NELLE VIE CALACE- BUOZZI E VIALE EUROPA PER LAVORI DI SCAVO PER LA POSA CAVI MT DAL GIORNO 01/06/2026 AL 31/07/2026. PROROGA ORDINANZA DIRIGENZIALE N. 2026/01437 DEL 24/03/2026. IMPRESA: DMF COSTRUZIONI S.R.L. ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF COSTRUZIONI S.R.L.) <br><br>Durata e tempistiche: 01/06//2026 - 31/07/2026 <br><br>ORDINANZA 2026/01437<br>https://drive.google.com/file/d/1JAWALqPsKHwvxEemb0ZDWAW0_xGcCI9f/view<br><br>PROROGA ORDINANZA DIRIGENZIALE N. 2026/00698<br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA DEL TRATTO INTERESSATO DAI LAVORI NELLE VIE CALACE- BUOZZI E VIALE EUROPA PER LAVORI DI SCAVO PER LA POSA CAVI MT DAL GIORNO 01/04/2026 AL 30/05/2026. PROROGA ORDINANZA DIRIGENZIALE N. 2026/00698 DEL 12/02/2026. IMPRESA: DMF COSTRUZIONI S.R.L. ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF COSTRUZIONI S.R.L.) <br><br>Durata e tempistiche: 01/04/2026 - 30/05/2026  <br><br>proroga<br>2026/00698 <br><br>https://drive.google.com/file/d/1Q3DKkCeyNv-Mci8N8EDDJTqKd4bmUgKD/view<br><br> ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA DEL TRATTO INTERESSATO DAI LAVORI NELLE VIE CALACE- BUOZZI E VIALE EUROPA PER LAVORI DI SCAVO PER LA POSA CAVI MT DALL’ESECUTIVITÀ DELL’ATTO SINO AL 31/03/2026. IMPRESA: DMF COSTRUZIONI S.R.L. ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF COSTRUZIONI S.R.L.<br><br>1. Istituzione temporanea del divieto di sosta ambo i lati della carreggiata con restringimento carreggiata del tratto interessato dai lavori nelle vie Calace- Buozzi e Viale Europa, per terminare lo scavo per posa cavi MT; <br>2. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br><br>Durata e tempistiche: 12/02/2026 - 31/03/2026<br><br>https://drive.google.com/file/d/1rMfyXIaAgfXExSnZ1Rrv_Id6O-n4sJwg/view<br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA DEL TRATTO INTERESSATO DAI LAVORI NELLE VIE CALACE- BUOZZI E VIALE EUROPA PER LAVORI DI SCAVO PER LA POSA CAVI MT. PROROGA ORDINANZA DIRIGENZIALE N. 2025/02841 DEL 26/09/2025. IMPRESA: DMF COSTRUZIONI S.R.L. ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF COSTRUZIONI S.R.L.)<br>Durata e tempistiche: 01/11/2025 - 31/01/2026]]></description>
-      <styleUrl>#line-E65100-4681</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8366296,41.1181698,0
-          16.8376864,41.1166704,0
-          16.8394996,41.1173454,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -4024,38 +3859,6 @@ IMPRESA ESECUTRICE:SIG. LADISA COSIMO
         <coordinates>
           16.8745617,41.1156765,0
           16.875471,41.116022,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/03059
-DIVIETO DI SOSTA E DI FERMATA AMBO I LATI
-VIA NICOLAI TRA VIA RAVANAS E VIA BRIGATA BARI
-MANUTENZIONE STRAORDINARIA DELLE OPERE A RETE IDRICHE E FOGNARIE AQP
-IMPRESA ESECUTRICE:INGALLINA S.R.L.
-23/06/2026 - 30/09/2026</name>
-      <description><![CDATA[ORDINANZA 2026/03059<br><br>https://drive.google.com/file/d/1uataRXIZQKDJe_l7H9p-zx-DS959RExd/view<br><br>ISTITUZIONE TEMPORANEAMENTE DI DIVIETO DI SOSTA E DI FERMATA<br>AMBO I LATI PER SOTTO-CANTIERI DI LUNGHEZZA MEDIA PARI A CIRCA 50<br>METRI DI VIA NICOLAI NEL TRATTO COMPRESO TRA VIA RAVANAS E VIA<br>BRIGATA BARI PER LAVORI DI MANUTENZIONE STRAORDINARIA DELLE<br>OPERE A RETE IDRICHE E FOGNARIE DELLA STO BA-BAT – AET BARI –<br>SOSTITUZIONE DELLA CONDOTTA IDRICA IN VIA NICOLAI DALLA DATA DI<br>EMANAZIONE DELLA PRESENTE ORDINANZA FINO AL 30/09/2026<br>ISTANTE: AQP<br>SOCIETÀ: INGALLINA S.R.L.<br><br>Durata e Tempistiche: 23/06/2026 - 30/09/2026]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8526238,41.120593,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/03059
-DIVIETO DI SOSTA E DI FERMATA AMBO I LATI
-VIA NICOLAI TRA VIA RAVANAS E VIA BRIGATA BARI
-MANUTENZIONE STRAORDINARIA DELLE OPERE A RETE IDRICHE E FOGNARIE AQP
-IMPRESA ESECUTRICE:INGALLINA S.R.L.
-23/06/2026 - 30/09/2026</name>
-      <description><![CDATA[ORDINANZA 2026/03059<br><br>https://drive.google.com/file/d/1uataRXIZQKDJe_l7H9p-zx-DS959RExd/view<br><br>ISTITUZIONE TEMPORANEAMENTE DI DIVIETO DI SOSTA E DI FERMATA<br>AMBO I LATI PER SOTTO-CANTIERI DI LUNGHEZZA MEDIA PARI A CIRCA 50<br>METRI DI VIA NICOLAI NEL TRATTO COMPRESO TRA VIA RAVANAS E VIA<br>BRIGATA BARI PER LAVORI DI MANUTENZIONE STRAORDINARIA DELLE<br>OPERE A RETE IDRICHE E FOGNARIE DELLA STO BA-BAT – AET BARI –<br>SOSTITUZIONE DELLA CONDOTTA IDRICA IN VIA NICOLAI DALLA DATA DI<br>EMANAZIONE DELLA PRESENTE ORDINANZA FINO AL 30/09/2026<br>ISTANTE: AQP<br>SOCIETÀ: INGALLINA S.R.L.<br><br>Durata e Tempistiche: 23/06/2026 - 30/09/2026]]></description>
-      <styleUrl>#line-E65100-4294</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8521142,41.120393,0
-          16.858775,41.120712,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -8261,26 +8064,6 @@ IMPRESA ESECUTRICE: AQP S.P.A.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/04298 
- RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI SOSTA
-VIA LIBERTÀ DA VIA S. CRISANZIO A VIA S. SPERANZA E DA VIA S. SPERANZA A VIA P. RAVANAS
-LAVORI DI COSTRUZIONE ALLACCIO IDRICO E IMPIANTO FOGNARIO
-IMPRESA ESECUTRICE: ISAP SRL
-ISTANTE: AQP S.P.A.
-02/11/2026 - 15/11/2026 07:00-16:00
-</name>
-      <description><![CDATA[ORDINANZA 2026/04298 <br>https://drive.google.com/file/d/1cASeJBapJy3mzuS-2bkZQjOTlZSnnq1V/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI SOSTA IN VIA LIBERTÀ DA VIA S. CRISANZIO A VIA S. SPERANZA E DA VIA S. SPERANZA A VIA P. RAVANAS PER LAVORI DI COSTRUZIONE ALLACCIO IDRICO E IMPIANTO FOGNARIO DAL 2 AL 15 NOVEMBRE 2026 DALLA ORE 7.00 ALLE ORE 16.00 IMPRESA: ISAP SRL” CON SEDE LEGALE IN CONTRADA LEONESSA SNC - 85025 - MELFI (PZ) ISTANTE: AQP S.P.A. <br><br>Durata e tempistiche: 02/11/2026 - 15/11/2026 07:00-16:00]]></description>
-      <styleUrl>#line-E65100-3519</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.856181,41.1198286,0
-          16.8562668,41.1191254,0
-          16.858899,41.119318,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>ORDINANZA 2026/04300
 RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI SOSTA
 VIA PEUCETIA N. 19 DA VIA MAGNA GRECIA A VIA DELLE MEDAGLIE D’ORO
@@ -8331,21 +8114,43 @@ IMPRESA ESECUTRICE: ISAP SRL”
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/04298 
+      <name>ORDINANZA 2026/04298
+ ORDINANZA 2026/04940 Rettifica
  RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI SOSTA
 VIA LIBERTÀ DA VIA S. CRISANZIO A VIA S. SPERANZA E DA VIA S. SPERANZA A VIA P. RAVANAS
 LAVORI DI COSTRUZIONE ALLACCIO IDRICO E IMPIANTO FOGNARIO
 IMPRESA ESECUTRICE: ISAP SRL
 ISTANTE: AQP S.P.A.
-02/11/2026 - 15/11/2026 07:00-16:00
+13/10/2026-17/10/2026 07:00-16:00
 </name>
-      <description><![CDATA[ORDINANZA 2026/04298 <br>https://drive.google.com/file/d/1cASeJBapJy3mzuS-2bkZQjOTlZSnnq1V/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI SOSTA IN VIA LIBERTÀ DA VIA S. CRISANZIO A VIA S. SPERANZA E DA VIA S. SPERANZA A VIA P. RAVANAS PER LAVORI DI COSTRUZIONE ALLACCIO IDRICO E IMPIANTO FOGNARIO DAL 2 AL 15 NOVEMBRE 2026 DALLA ORE 7.00 ALLE ORE 16.00 IMPRESA: ISAP SRL” CON SEDE LEGALE IN CONTRADA LEONESSA SNC - 85025 - MELFI (PZ) ISTANTE: AQP S.P.A. <br><br>Durata e tempistiche: 02/11/2026 - 15/11/2026 07:00-16:00]]></description>
+      <description><![CDATA[Ordinanza<br>2026/04940<br>https://drive.google.com/file/d/1O4Iu9wVZN-DbdvB6U_NC6Wyw-99vVMLN/view<br><br>RETTIFICA ORDINANZA N. 2026/04298 DEL 17.9.2026<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI<br>CARREGGIATA E DIVIETO DI SOSTA IN VIA LIBERTÀ DA VIA S. CRISANZIO<br>A VIA S. SPERANZA E DA VIA S. SPERANZA A VIA P. RAVANAS PER LAVORI<br>DI COSTRUZIONE ALLACCIO IDRICO E IMPIANTO FOGNARIO DAL 13 AL 17<br>OTTOBRE 2026 DALLA ORE 7.00 ALLE ORE 16.00<br>IMPRESA: ISAP SRL” CON SEDE LEGALE IN CONTRADA LEONESSA SNC -<br>85025 - MELFI (PZ)<br>ISTANTE: AQP S.P.A.<br>Durata e tempistiche: 13/10/2026-17/10/2026 07:00-16:00<br><br><br><br>ORDINANZA 2026/04298 <br>https://drive.google.com/file/d/1cASeJBapJy3mzuS-2bkZQjOTlZSnnq1V/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI SOSTA IN VIA LIBERTÀ DA VIA S. CRISANZIO A VIA S. SPERANZA E DA VIA S. SPERANZA A VIA P. RAVANAS PER LAVORI DI COSTRUZIONE ALLACCIO IDRICO E IMPIANTO FOGNARIO DAL 2 AL 15 NOVEMBRE 2026 DALLA ORE 7.00 ALLE ORE 16.00 IMPRESA: ISAP SRL” CON SEDE LEGALE IN CONTRADA LEONESSA SNC - 85025 - MELFI (PZ) ISTANTE: AQP S.P.A. <br><br>Durata e tempistiche: 02/11/2026 - 15/11/2026 07:00-16:00]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
           16.8564131,41.1192598,0
         </coordinates>
       </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04298
+ ORDINANZA 2026/04940  Rettifica
+ RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI SOSTA
+VIA LIBERTÀ DA VIA S. CRISANZIO A VIA S. SPERANZA E DA VIA S. SPERANZA A VIA P. RAVANAS
+LAVORI DI COSTRUZIONE ALLACCIO IDRICO E IMPIANTO FOGNARIO
+IMPRESA ESECUTRICE: ISAP SRL
+ISTANTE: AQP S.P.A.
+13/10/2026-17/10/2026 07:00-16:00
+</name>
+      <description><![CDATA[Ordinanza<br>2026/04940<br>https://drive.google.com/file/d/1O4Iu9wVZN-DbdvB6U_NC6Wyw-99vVMLN/view<br><br>RETTIFICA ORDINANZA N. 2026/04298 DEL 17.9.2026<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI<br>CARREGGIATA E DIVIETO DI SOSTA IN VIA LIBERTÀ DA VIA S. CRISANZIO<br>A VIA S. SPERANZA E DA VIA S. SPERANZA A VIA P. RAVANAS PER LAVORI<br>DI COSTRUZIONE ALLACCIO IDRICO E IMPIANTO FOGNARIO DAL 13 AL 17<br>OTTOBRE 2026 DALLA ORE 7.00 ALLE ORE 16.00<br>IMPRESA: ISAP SRL” CON SEDE LEGALE IN CONTRADA LEONESSA SNC -<br>85025 - MELFI (PZ)<br>ISTANTE: AQP S.P.A.<br>Durata e tempistiche: 13/10/2026-17/10/2026 07:00-16:00<br><br>ORDINANZA 2026/04298 <br>https://drive.google.com/file/d/1cASeJBapJy3mzuS-2bkZQjOTlZSnnq1V/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI SOSTA IN VIA LIBERTÀ DA VIA S. CRISANZIO A VIA S. SPERANZA E DA VIA S. SPERANZA A VIA P. RAVANAS PER LAVORI DI COSTRUZIONE ALLACCIO IDRICO E IMPIANTO FOGNARIO DAL 2 AL 15 NOVEMBRE 2026 DALLA ORE 7.00 ALLE ORE 16.00 IMPRESA: ISAP SRL” CON SEDE LEGALE IN CONTRADA LEONESSA SNC - 85025 - MELFI (PZ) ISTANTE: AQP S.P.A. <br><br>Durata e tempistiche: 02/11/2026 - 15/11/2026 07:00-16:00]]></description>
+      <styleUrl>#line-E65100-3519</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.856181,41.1198286,0
+          16.8562668,41.1191254,0
+          16.858899,41.119318,0
+        </coordinates>
+      </LineString>
     </Placemark>
     <Placemark>
       <name>ORDINANZA 2026/04306
@@ -11080,10 +10885,562 @@ FOGNARIO
 IMPRESA ESECUTRICE:IMPRESA INDIVIDUALE “FRISULLO LUIGI” - ACQ
 TERMINE E DURATA: DAL GIORNO DAL 12/10 AL 31/10</name>
       <description><![CDATA[ORDINANZA 2026/04876<br>https://drive.google.com/file/d/18-Vg3FD57l9ptZV69CH8HUdLNQFBOCxS/view<br>L’istituzione temporanea del un restringimento carreggiata e divieto di sosta in Via Scipione<br>L’Africano snc da via F. Campione a via S. Dodaro<br>1. Sarà garantito l’accesso ai soli residenti e ai mezzi di soccorso;<br>TERMINE E DURATA: DAL GIORNODAL 12/10 AL 31/10]]></description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
           16.8637502,41.1118964,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04871
+ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA
+SULLA COMPLANARE DEL LUNGOMARE C. COLOMBO FIANCO CIV. 8 IN
+DIREZIONE LATO VIA LIPPOLIS CON RESTRINGIMENTO CARREGGIATA PER
+CONSENTIRE IL POSIZIONAMENTO DI N. 2 CONTAINER UTILI
+ALL’ESPLETAMENTO DELLE OPERAZIONI DI DISALLESTIMENTO DELLE
+STRUTTURE AMOVIBILI PRECEDENTEMENTE INSTALLATE PRESSO L’AREA
+DEMANIALE MARITTIMA IN CONCESSIONE AL PREDETTO R.T.I.
+IMPRESA ESECUTRICE:RTI ALMA SRLS
+TERMINE E DURATA: DAL GIORNO 19/10/2026 AL GIORNO 17/11/2026.
+</name>
+      <description><![CDATA[ORDINANZA 2026/04871<br>https://drive.google.com/file/d/1D98Is-kP8yzuqC7POunHt6I5QCkV-W3v/view<br>L’istituzione temporanea del divieto di sosta con rimozione coatta sulla complanare del Lungomare C.<br>Colombo fianco civ. 8 per un tratto di strada di mt. 19.00 x mt. 2.45, in direzione del lato via Lippolis;<br>2. L’istituzione temporanea del restringimento carreggiata sulla complanare del Lungomare C. Colombo<br>fianco civ. 8 in direzione del lato via Lipposi, secondo il divieto di cui la punto precedente;<br>3. Occorrerà interdire il transito dei pedoni nell’area di cantiere con particolare attenzione alla zona<br>sottostante l’eventuale braccio operativo;<br>4. Il marciapiede non dovrà essere occupato dai containers o parte di essi e dovrà essere lasciato fruibile<br>dall’utenza;<br>5. Particolare importanza dovrà essere posta al transito pedonale e alle persone con ridotte capacità<br>motorie;<br>TERMINE E DURATA: DAL GIORNO 19/10/2026 AL GIORNO 17/11/2026.]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.7578082,41.1635954,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04885
+DIVIETO DI SOSTA
+SLARGO AL TERMINE DI VIA DE MARINIS NEI PRESSI DELLA PIAZZA UMBERTO I
+LAVORI DI COSTRUZIONE DELLA RETE DI FOGNATURA PLUVIALE E
+RIFACIMENTO DEI MARCIAPIEDI
+IMPRESA ESECUTRICE: CO.RES. SRL
+13/10/2026 - 23/11/2026</name>
+      <description><![CDATA[Ordinanza 2026/04885<br><br>http://drive.google.com/file/d/18YAFU6x0YsyGVJxETP0Gb2MPTyX_M_dK/view<br><br>LAVORI DI COSTRUZIONE DELLA RETE DI FOGNATURA PLUVIALE E<br><br>RIFACIMENTO DEI MARCIAPIEDI.<br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA NELLO SLARGO AL<br>TERMINE DI VIA DE MARINIS NEI PRESSI DELLA PIAZZA UMBERTO I, PER<br>ATTIVITÀ DI SCAVO PER LA POSA DELLE TUBAZIONI, DAL GIORNO<br>13/10/2026 PER LA DURATA DI 40 GIORNI.<br>IMPRESA : CO.RES. SRL<br>ISTANTE: ING. COLAPIETRO SALVATORE VITANTONIO<br><br>Durata e Tempistiche: 13/10/2026 - 23/11/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8702122,41.0745707,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04872
+ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E DI FERMATA NONCHÉ
+RESTRINGIMENTO CARREGGIATA SU VIA BOLOGNA E VIA RANDACCIO PER
+IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE
+GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI
+TRONCHI VETUSTI ED AMMALORATI
+IMPRESA ESECUTRICE:ACCIONA AGUA S.A.
+TERMINE E DURATA: DAL GIORNO dal 19/10/2026 AL 31/01/2027.
+
+</name>
+      <description><![CDATA[https://drive.google.com/file/d/1rHF7_2x6je1XJq9kmYEglcLwx7J4qqKe/view<br>https://drive.google.com/file/d/1rHF7_2x6je1XJq9kmYEglcLwx7J4qqKe/view<br>1. L’istituzione temporanea del un divieto di sosta, di fermata con successiva chiusura al traffico su<br>Lungomare Starita nel tratto prospiciente il faro di San Cataldo per lavori di riqualificazione del Waterfront<br>di San Cataldo;<br>2. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br>TERMINE E DURATA: DAL GIORNO dal dal 19/10/2026 al 31/01/2027]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8674722,41.0768871,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04872
+ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E DI FERMATA NONCHÉ
+RESTRINGIMENTO CARREGGIATA SU VIA BOLOGNA E VIA RANDACCIO PER
+IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE
+GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI
+TRONCHI VETUSTI ED AMMALORATI
+IMPRESA ESECUTRICE:ACCIONA AGUA S.A.
+TERMINE E DURATA: DAL GIORNO dal 19/10/2026 AL 31/01/2027.
+
+</name>
+      <description><![CDATA[https://drive.google.com/file/d/1rHF7_2x6je1XJq9kmYEglcLwx7J4qqKe/view<br>https://drive.google.com/file/d/1rHF7_2x6je1XJq9kmYEglcLwx7J4qqKe/view<br>1. L’istituzione temporanea del un divieto di sosta, di fermata con successiva chiusura al traffico su<br>Lungomare Starita nel tratto prospiciente il faro di San Cataldo per lavori di riqualificazione del Waterfront<br>di San Cataldo;<br>2. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br>TERMINE E DURATA: DAL GIORNO dal dal 19/10/2026 al 31/01/2027]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8634993,41.0657517,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04874
+DIVIETO DI SOSTA E DI FERMATA AMBO I LATI NONCHÉ RESTRINGIMENTO
+CARREGGIATA CON SENSO UNICO ALTERNATO  
+VIA S. MARCO, DISTRETTUALIZZAZIONE, 
+CONTROLLO DELLE PRESSIONI ED  MONITORAGGIO DELLE GRANDEZZE
+IDRAULICHE NELLE RETI IDRICHE 
+IMPRESA ESECUTRICE:ACCIONA AGUA S.A.
+17/10/2026 AL 06/11/2026  00:00- 24:00 e salvo urgenze e necessità anche nei giorni di sabato e domenica;
+
+</name>
+      <description><![CDATA[ORDINANZA 2026/04874<br>https://drive.google.com/file/d/1NhiT-th4LglhrT11vZMn1SMwK75ffxN4/view<br>Istituzione temporanea del divieto di sosta e di fermata ambo i lati nonché restringimento carreggiata con<br>senso unico alternato su via S. Marco, per interventi mirati a conseguire la distrettualizzazione, il controllo<br>delle pressioni ed il monitoraggio delle grandezze idrauliche nelle reti idriche e sostituzione dei tronchi<br>vetusti ed ammalorati;<br>2. La ditta deve regolamentare la situazione viabilistica a mezzo di appositi movieri e delimiti accuratamente<br>con segnaletica di cantiere, recinzioni ed ogni strumento idoneo, l’area interessata dai lavori;I lavori saranno svolti nei giorni dal lunedì al venerdì, dalle ore 00:00 alle ore 24:00 e salvo urgenze e necessità anche nei giorni di sabato e domenica;<br>TERMINE E DURATA: DAL GIORNO 17/10/2026 AL 06/11/2026.]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8672728,41.0696852,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04873 
+DIVIETO DI SOSTA, DI FERMATA CON SUCCESSIVA CHIUSURA AL TRAFFICO SU LUNGOMARE STARITA NEL TRATTO PROSPICIENTE IL FARO DI SAN CATALDO. 
+LAVORI DI RIQUALILFICAZIONE DEL
+WATERFRONT DI SAN CATALDO
+IMPRESA ESECUTRICE:DE GRECIS COS.E.MA VERDE SRL
+ 12/10/2026 al 11/06/2028
+
+</name>
+      <description><![CDATA[ORDINANZA 2026/04873<br>https://drive.google.com/file/d/1xywewYQCmocyEr4PmCLw1NX9KLVSuacD/view<br>1. L’istituzione temporanea del un divieto di sosta, di fermata con successiva chiusura al traffico su<br>Lungomare Starita nel tratto prospiciente il faro di San Cataldo per lavori di riqualificazione del Waterfront<br>di San Cataldo;<br>2. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br>TERMINE E DURATA: DAL GIORNO dal 12/10/2026 al 11/06/2028.]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8450554,41.1391199,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04884
+DIVIETO DI TRANSITO E DI SOSTA RIMOZIONE COATTA
+VIALE DELLE REGIONI TRATTO COMPRESO TRA VIA
+MARIO CASCELLA E VIA ALFREDO VIOLANTE
+COMPLETAMENTO FOGNATURA PLUVIALE
+IMPRESA ESECUTRICE: MADOMEC ECOAMBIENTE SRL
+13/10/2026 - 06/11/2026</name>
+      <description><![CDATA[Ordinanza 2026/04884<br><br>https://drive.google.com/file/d/1x1UcB1vT-ZFoTdrJojBlYe4qY2qioOk4/view<br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI TRANSITO<br>E DI SOSTA RIMOZIONE COATTA (ECCETTO ACCESSO SCUOLA) SULLA<br>CARREGGIATA DEL VIALE DELLE REGIONI TRATTO COMPRESO TRA VIA<br>MARIO CASCELLA E VIA ALFREDO VIOLANTE PER LAVORI DI<br>COMPLETAMENTO FOGNATURA PLUVIALE<br>IMPRESA: MADOMEC ECOAMBIENTE SRL<br>ISTANTE: ING. PIETRO FIORINO (APPARTENENTE ALLA RIP. IVOP)<br><br>Durata e Tempistiche: 13/10/2026 - 06/11/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.7863762,41.1212399,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04884
+DIVIETO DI TRANSITO E DI SOSTA RIMOZIONE COATTA
+VIALE DELLE REGIONI TRATTO COMPRESO TRA VIA
+MARIO CASCELLA E VIA ALFREDO VIOLANTE
+COMPLETAMENTO FOGNATURA PLUVIALE
+IMPRESA ESECUTRICE: MADOMEC ECOAMBIENTE SRL
+13/10/2026 - 06/11/2026</name>
+      <description><![CDATA[Ordinanza 2026/04884<br><br>https://drive.google.com/file/d/1x1UcB1vT-ZFoTdrJojBlYe4qY2qioOk4/view<br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI TRANSITO<br>E DI SOSTA RIMOZIONE COATTA (ECCETTO ACCESSO SCUOLA) SULLA<br>CARREGGIATA DEL VIALE DELLE REGIONI TRATTO COMPRESO TRA VIA<br>MARIO CASCELLA E VIA ALFREDO VIOLANTE PER LAVORI DI<br>COMPLETAMENTO FOGNATURA PLUVIALE<br>IMPRESA: MADOMEC ECOAMBIENTE SRL<br>ISTANTE: ING. PIETRO FIORINO (APPARTENENTE ALLA RIP. IVOP)<br><br>Durata e Tempistiche: 13/10/2026 - 06/11/2026]]></description>
+      <styleUrl>#line-E65100-2550</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.7864298,41.1212399,0
+          16.7885219,41.1218057,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04877
+RESTRINGIMENTO CARREGGIATA E
+DIVIETO DI SOSTA  
+VIA SCIPIONE L’AFRICANO SNC DA VIA F. CAMPIONE A VIA S. DODARO LAVORI DI COSTRUZIONE ALLACCIO IDRICO E FOGNARIO
+IMPRESA ESECUTRICE:IMPRESA INDIVIDUALE “FRISULLO LUIGI” - ACQ
+TERMINE E DURATA: DAL GIORNO DAL 12/10 AL 31/10
+
+</name>
+      <description><![CDATA[ORDINANZA 2026/04877<br>https://drive.google.com/file/d/18-Vg3FD57l9ptZV69CH8HUdLNQFBOCxS/view<br>L’istituzione temporanea del un restringimento carreggiata e divieto di sosta in Via Scipione<br>L’Africano snc da via F. Campione a via S. Dodaro<br>1. Sarà garantito l’accesso ai soli residenti e ai mezzi di soccorso;<br>TERMINE E DURATA: DAL GIORNODAL 12/10 AL 31/10]]></description>
+      <styleUrl>#line-E65100-3906</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8661116,41.114011,0
+          16.8657039,41.1131704,0
+          16.8660097,41.1120832,0
+          16.8657253,41.1120468,0
+          16.8653284,41.1107292,0
+          16.8653337,41.1107575,0
+          16.8637512,41.111772,0
+          16.8635474,41.1122448,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04875
+RESTRINGIMENTO CARREGGIATA E
+DIVIETO DI SOSTA  
+VIA PRINCIPE AMEDEO 289 DA VIA MANZONI A VIA VISCONTI 
+LAVORI DI COSTRUZIONE ALLACCIO IDRICO E FOGNARIO
+IMPRESA ESECUTRICE:IMPRESA INDIVIDUALE “FRISULLO LUIGI” - ACQ
+TERMINE E DURATA: DAL GIORNO 1/11 AL 14/11 /2026
+
+</name>
+      <description><![CDATA[https://drive.google.com/file/d/1Z3Dud17rylp_eQLOB6ZIP4uTOgdUoH-9/view<br>L’istituzione temporanea del un restringimento carreggiata e divieto di sosta in Via<br>Principe Amedeo 289 da via Manzoni a via Visconti<br>1. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br>TERMINE E DURATA: DAL GIORNO 1/11 AL 14/11/ 2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8622396,41.1224062,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04875
+RESTRINGIMENTO CARREGGIATA E
+DIVIETO DI SOSTA 
+VIA PRINCIPE AMEDEO 289 DA VIA MANZONI A VIA VISCONTI 
+LAVORI DI COSTRUZIONE ALLACCIO IDRICO E FOGNARIO
+IMPRESA ESECUTRICE:IMPRESA INDIVIDUALE “FRISULLO LUIGI” - ACQ
+TERMINE E DURATA: DAL GIORNO 1/11 AL 14/11 /2026
+</name>
+      <description><![CDATA[https://drive.google.com/file/d/1Z3Dud17rylp_eQLOB6ZIP4uTOgdUoH-9/view<br>L’istituzione temporanea del un restringimento carreggiata e divieto di sosta in Via<br>Principe Amedeo 289 da via Manzoni a via Visconti<br>1. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br>TERMINE E DURATA: DAL GIORNO 1/11 AL 14/11/ 2026]]></description>
+      <styleUrl>#line-E65100-4294</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.861149,41.122192,0
+          16.8631997,41.1223214,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04882
+RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA
+VIA A. GABRIELI 10 DA VIA DELLA COSTITUENTE A
+CORSO A. DE GASPERI
+LAVORI DI COSTRUZIONE ALLACCIO IDRICO E FOGNARIO AQP S.P.A.
+IMPRESA ESECUTRICE: IMPRESA INDIVIDUALE “FRISULLO LUIGI”
+16/11/2026 - 30/11/2026</name>
+      <description><![CDATA[Ordinanza 2026/04882<br><br>https://drive.google.com/file/d/1Aj-4PZnrqdY1N5trLH7MFDy9uxkcdAAu/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO CARREGGIATA E<br>DIVIETO DI SOSTA IN VIA A. GABRIELI 10 DA VIA DELLA COSTITUENTE A<br>CORSO A. DE GASPERIPER LAVORI DI COSTRUZIONE ALLACCIO IDRICO E<br>FOGNARIO DAL 16/11 AL 30/11 2026<br>IMPRESA: IMPRESA INDIVIDUALE “FRISULLO LUIGI”<br>ISTANTE: AQP S.P.A.<br><br>Durata e Tempistiche: 16/11/2026 - 30/11/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8716976,41.1064022,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04882
+RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA
+VIA A. GABRIELI 10 DA VIA DELLA COSTITUENTE A
+CORSO A. DE GASPERI
+LAVORI DI COSTRUZIONE ALLACCIO IDRICO E FOGNARIO AQP S.P.A.
+IMPRESA ESECUTRICE: IMPRESA INDIVIDUALE “FRISULLO LUIGI”
+16/11/2026 - 30/11/2026</name>
+      <description><![CDATA[Ordinanza 2026/04882<br><br>https://drive.google.com/file/d/1Aj-4PZnrqdY1N5trLH7MFDy9uxkcdAAu/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO CARREGGIATA E<br>DIVIETO DI SOSTA IN VIA A. GABRIELI 10 DA VIA DELLA COSTITUENTE A<br>CORSO A. DE GASPERIPER LAVORI DI COSTRUZIONE ALLACCIO IDRICO E<br>FOGNARIO DAL 16/11 AL 30/11 2026<br>IMPRESA: IMPRESA INDIVIDUALE “FRISULLO LUIGI”<br>ISTANTE: AQP S.P.A.<br><br>Durata e Tempistiche: 16/11/2026 - 30/11/2026]]></description>
+      <styleUrl>#line-E65100-2938</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8717478,41.1064033,0
+          16.873561,41.1064256,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04877
+RESTRINGIMENTO CARREGGIATA E
+DIVIETO DI SOSTA 
+VIA SCIPIONE L’AFRICANO SNC DA VIA F. CAMPIONE A VIA S. DODARO LAVORI DI COSTRUZIONE ALLACCIO IDRICO E FOGNARIO
+IMPRESA ESECUTRICE:IMPRESA INDIVIDUALE “FRISULLO LUIGI” - ACQ
+TERMINE E DURATA: DAL GIORNO DAL 12/10 AL 31/10
+</name>
+      <description><![CDATA[ORDINANZA 2026/04877<br>https://drive.google.com/file/d/18-Vg3FD57l9ptZV69CH8HUdLNQFBOCxS/view<br>L’istituzione temporanea del un restringimento carreggiata e divieto di sosta in Via Scipione<br>L’Africano snc da via F. Campione a via S. Dodaro<br>1. Sarà garantito l’accesso ai soli residenti e ai mezzi di soccorso;<br>TERMINE E DURATA: DAL GIORNODAL 12/10 AL 31/10]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8657471,41.1115209,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04881
+DIVIETO DI TRANSITO E DI SOSTA SU AMBO I LATI CON RIMOZIONE COATTA
+VIA PALASCIANO CIV. 5 PALESE (BA)
+ALLACCIO IDRICO E FOGNARIO AQP S.P.A.
+IMPRESA ESECUTRICE: IMPRESA INDIVIDUALE “FRISULLO LUIGI”
+19/10/2026 - 31/10/2026
+</name>
+      <description><![CDATA[Ordinanza<br>2026/04881<br><br>https://drive.google.com/file/d/1t2HcBINhBv9n8ckPEqdSzgbZsQo0CVDn/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO E DI SOSTA SU<br>AMBO I LATI CON RIMOZIONE COATTA SU VIA PALASCIANO CIV. 5 PALESE<br>(BA), PER REALIZZAZIONE ALLACCIO IDRICO E FOGNARIO <br>IMPRESA: ISAP SRL<br>ISTANTE: AQP S.P.A.<br><br>Durata e tempistiche: 19/10/2026 - 31/10/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.7678032,41.1540399,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 026/04878 
+DIVIETO DI TRANSITO
+CORSO BENEDETTO CROCE TRA VIA GIOACCHINO TOMA E VIA RAFFAELE ARMENISE
+VIA MONTEGRAPPA TRA VIA MAGGIORE FRANCESCO BARACCA E CORSO BENEDETTO CROCE
+VIA RAFFAELE ARMENISE VIALE DELLA REPUBBLICA E CORSO BENEDETTO CROCE.
+LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. 
+12/10/2026- 14/10/2026 07:00-16:00
+</name>
+      <description><![CDATA[ORDINANZA 026/04878 <br>https://drive.google.com/file/d/1B-Zd49cuH4q_vw9Oe4QH4CX4LPl0r7x_/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU CORSO BENEDETTO CROCE, VIA MONTEGRAPPA, VIA RAFFAELE ARMENISE DALLE ORE 07:00 ALLE ORE 16:00 DEI GIORNI 12-13-14 OTTOBRE 2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br><br><br>Durata e tempistiche: 16/11/2026- 28/11/2026  ]]></description>
+      <styleUrl>#line-E65100-4294</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8718953,41.108853,0
+          16.8718387,41.1086366,0
+          16.8688019,41.1091584,0
+          16.8706079,41.1088395,0
+          16.8705681,41.1084231,0
+          16.870596,41.1088395,0
+          16.8718387,41.1086366,0
+          16.8718417,41.1082422,0
+          16.8739457,41.1081659,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 026/04878 
+DIVIETO DI TRANSITO
+CORSO BENEDETTO CROCE TRA VIA GIOACCHINO TOMA E VIA RAFFAELE ARMENISE
+VIA MONTEGRAPPA TRA VIA MAGGIORE FRANCESCO BARACCA E CORSO BENEDETTO CROCE
+VIA RAFFAELE ARMENISE VIALE DELLA REPUBBLICA E CORSO BENEDETTO CROCE.
+LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. 
+12/10/2026- 14/10/2026 07:00-16:00
+</name>
+      <description><![CDATA[ORDINANZA 026/04878 <br>https://drive.google.com/file/d/1B-Zd49cuH4q_vw9Oe4QH4CX4LPl0r7x_/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU CORSO BENEDETTO CROCE, VIA MONTEGRAPPA, VIA RAFFAELE ARMENISE DALLE ORE 07:00 ALLE ORE 16:00 DEI GIORNI 12-13-14 OTTOBRE 2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br><br><br>Durata e tempistiche: 16/11/2026- 28/11/2026  ]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8717046,41.1085637,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04880
+DIVIETO DI SOSTA
+AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO
+CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO
+VIA NIZZA 
+VIA MONTE SEI BUSI 
+VIA TRULLI 
+VIA GIUSEPPE MAZZINI
+VIA VITTORIO POSITANO CON TRAVERSA 
+VIA LUIGI MARINELLI GIOVENE
+SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
+19/10/2026 - 30/11/2026</name>
+      <description><![CDATA[Ordinanza 2026/04880<br><br>https://drive.google.com/file/d/1wYpm0dLH0Tw0OHHZ_mwTj7dRKa1gibY9/view<br><br>P1557 LOTTO 1. PROGRAMMA DEGLI INTERVENTI AQP 2020-2023<br>“INTERVENTI MIRATI PER CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL<br>CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE<br>IDRAULICHE NELLE RETI DEL TERRITORIO SERVITO DALL’ACQUEDOTTO<br>PUGLIESE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI -<br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA<br>AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO<br>CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO SU VIA<br>NIZZA,VIA MONTE SEI BUSI , VIA TRULLI , VIA GIUSEPPE MAZZINI , VIA<br>VITTORIO POSITANO CON TRAVERSA , VIA LUIGI MARINELLI GIOVENE,<br>DALLE ORE 00:00 ALLE ORE 24:00., DAL GIORNO 19/10/2026 AL 30/11/2026<br>PER LAVORI DI RIPRISTINI SEDE STRADALE.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e tempistiche: 19/10/2026 - 30/11/2026]]></description>
+      <styleUrl>#line-E65100-3519</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8752517,41.1146212,0
+          16.8780197,41.1159791,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04880
+DIVIETO DI SOSTA
+AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO
+CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO
+VIA NIZZA 
+VIA MONTE SEI BUSI 
+VIA TRULLI 
+VIA GIUSEPPE MAZZINI
+VIA VITTORIO POSITANO CON TRAVERSA 
+VIA LUIGI MARINELLI GIOVENE
+SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
+19/10/2026 - 30/11/2026</name>
+      <description><![CDATA[Ordinanza 2026/04880<br><br>https://drive.google.com/file/d/1wYpm0dLH0Tw0OHHZ_mwTj7dRKa1gibY9/view<br><br>P1557 LOTTO 1. PROGRAMMA DEGLI INTERVENTI AQP 2020-2023<br>“INTERVENTI MIRATI PER CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL<br>CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE<br>IDRAULICHE NELLE RETI DEL TERRITORIO SERVITO DALL’ACQUEDOTTO<br>PUGLIESE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI -<br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA<br>AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO<br>CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO SU VIA<br>NIZZA,VIA MONTE SEI BUSI , VIA TRULLI , VIA GIUSEPPE MAZZINI , VIA<br>VITTORIO POSITANO CON TRAVERSA , VIA LUIGI MARINELLI GIOVENE,<br>DALLE ORE 00:00 ALLE ORE 24:00., DAL GIORNO 19/10/2026 AL 30/11/2026<br>PER LAVORI DI RIPRISTINI SEDE STRADALE.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e tempistiche: 19/10/2026 - 30/11/2026]]></description>
+      <styleUrl>#line-E65100-3131</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.9994221,41.0862195,0
+          16.9996421,41.0861589,0
+          16.9997923,41.0861154,0
+          16.9998714,41.0861306,0
+          17.000078,41.086526,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04880
+DIVIETO DI SOSTA
+AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO
+CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO
+VIA NIZZA 
+VIA MONTE SEI BUSI 
+VIA TRULLI 
+VIA GIUSEPPE MAZZINI
+VIA VITTORIO POSITANO CON TRAVERSA 
+VIA LUIGI MARINELLI GIOVENE
+SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
+19/10/2026 - 30/11/2026</name>
+      <description><![CDATA[Ordinanza 2026/04880<br><br>https://drive.google.com/file/d/1wYpm0dLH0Tw0OHHZ_mwTj7dRKa1gibY9/view<br><br>P1557 LOTTO 1. PROGRAMMA DEGLI INTERVENTI AQP 2020-2023<br>“INTERVENTI MIRATI PER CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL<br>CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE<br>IDRAULICHE NELLE RETI DEL TERRITORIO SERVITO DALL’ACQUEDOTTO<br>PUGLIESE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI -<br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA<br>AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO<br>CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO SU VIA<br>NIZZA,VIA MONTE SEI BUSI , VIA TRULLI , VIA GIUSEPPE MAZZINI , VIA<br>VITTORIO POSITANO CON TRAVERSA , VIA LUIGI MARINELLI GIOVENE,<br>DALLE ORE 00:00 ALLE ORE 24:00., DAL GIORNO 19/10/2026 AL 30/11/2026<br>PER LAVORI DI RIPRISTINI SEDE STRADALE.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e tempistiche: 19/10/2026 - 30/11/2026]]></description>
+      <styleUrl>#line-E65100-2938</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          17.006407,41.0867069,0
+          17.0066538,41.0865816,0
+          17.0068469,41.0864644,0
+          17.0070615,41.0863673,0
+          17.0073082,41.0862501,0
+          17.0074423,41.0860883,0
+          17.0076301,41.0858376,0
+          17.007819,41.085558,0
+          17.0079788,41.0855061,0
+          17.0082577,41.0854576,0
+          17.0086654,41.0854171,0
+          17.0090624,41.0853727,0
+          17.0094164,41.0853727,0
+          17.0096954,41.0853727,0
+          17.0099261,41.0854171,0
+          17.0102157,41.0855101,0
+          17.0103794,41.0855425,0
+          17.010602,41.0855485,0
+          17.0108809,41.0854818,0
+          17.011007,41.0854232,0
+          17.0111116,41.0853504,0
+          17.0112698,41.0852069,0
+          17.0114549,41.0850815,0
+          17.0116346,41.085035,0
+          17.0118358,41.0850452,0
+          17.0120021,41.0850977,0
+          17.012155,41.0851563,0
+          17.0122328,41.0851786,0
+          17.0123481,41.0851988,0
+          17.0124634,41.0851948,0
+          17.0126083,41.0851968,0
+          17.0128282,41.0851665,0
+          17.012976,41.08512,0
+          17.013134,41.0850553,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04880
+DIVIETO DI SOSTA
+AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO
+CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO
+VIA NIZZA 
+VIA MONTE SEI BUSI 
+VIA TRULLI 
+VIA GIUSEPPE MAZZINI
+VIA VITTORIO POSITANO CON TRAVERSA 
+VIA LUIGI MARINELLI GIOVENE
+SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
+19/10/2026 - 30/11/2026</name>
+      <description><![CDATA[Ordinanza 2026/04880<br><br>https://drive.google.com/file/d/1wYpm0dLH0Tw0OHHZ_mwTj7dRKa1gibY9/view<br><br>P1557 LOTTO 1. PROGRAMMA DEGLI INTERVENTI AQP 2020-2023<br>“INTERVENTI MIRATI PER CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL<br>CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE<br>IDRAULICHE NELLE RETI DEL TERRITORIO SERVITO DALL’ACQUEDOTTO<br>PUGLIESE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI -<br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA<br>AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO<br>CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO SU VIA<br>NIZZA,VIA MONTE SEI BUSI , VIA TRULLI , VIA GIUSEPPE MAZZINI , VIA<br>VITTORIO POSITANO CON TRAVERSA , VIA LUIGI MARINELLI GIOVENE,<br>DALLE ORE 00:00 ALLE ORE 24:00., DAL GIORNO 19/10/2026 AL 30/11/2026<br>PER LAVORI DI RIPRISTINI SEDE STRADALE.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e tempistiche: 19/10/2026 - 30/11/2026]]></description>
+      <styleUrl>#line-E65100-2744</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.9959567,41.086645,0
+          16.996123,41.0866207,0
+          16.9963,41.0866814,0
+          16.9964824,41.0868189,0
+          16.9967334,41.0869344,0
+          16.9969652,41.086928,0
+          16.997271,41.086835,0
+          16.9975607,41.0867582,0
+          16.9978128,41.0866612,0
+          16.9980381,41.0866167,0
+          16.9982795,41.0865358,0
+          16.9986215,41.0864337,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04880
+DIVIETO DI SOSTA
+AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO
+CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO
+VIA NIZZA 
+VIA MONTE SEI BUSI 
+VIA TRULLI 
+VIA GIUSEPPE MAZZINI
+VIA VITTORIO POSITANO CON TRAVERSA 
+VIA LUIGI MARINELLI GIOVENE
+SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
+19/10/2026 - 30/11/2026
+</name>
+      <description><![CDATA[Ordinanza 2026/04880<br><br>https://drive.google.com/file/d/1wYpm0dLH0Tw0OHHZ_mwTj7dRKa1gibY9/view<br><br>P1557 LOTTO 1. PROGRAMMA DEGLI INTERVENTI AQP 2020-2023<br>“INTERVENTI MIRATI PER CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL<br>CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE<br>IDRAULICHE NELLE RETI DEL TERRITORIO SERVITO DALL’ACQUEDOTTO<br>PUGLIESE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI -<br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA<br>AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO<br>CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO SU VIA<br>NIZZA,VIA MONTE SEI BUSI , VIA TRULLI , VIA GIUSEPPE MAZZINI , VIA<br>VITTORIO POSITANO CON TRAVERSA , VIA LUIGI MARINELLI GIOVENE,<br>DALLE ORE 00:00 ALLE ORE 24:00., DAL GIORNO 19/10/2026 AL 30/11/2026<br>PER LAVORI DI RIPRISTINI SEDE STRADALE.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e tempistiche: 19/10/2026 - 30/11/2026<br>246 m]]></description>
+      <styleUrl>#line-E65100-4100</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          17.0007439,41.0850257,0
+          17.0008083,41.0854068,0
+          17.0008847,41.0856201,0
+          17.000756,41.0856464,0
+          17.0005441,41.0856959,0
+          17.0004945,41.0859527,0
+          17.0005146,41.0859517,0
+          17.0005669,41.085707,0
+          17.0007252,41.0856696,0
+          17.0008955,41.0856343,0
+          17.0011261,41.0860669,0
+          17.0014708,41.0866269,0
+          17.0016116,41.086823,0
+          17.0016264,41.0868422,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04880
+DIVIETO DI SOSTA
+AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO
+CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO
+VIA NIZZA 
+VIA MONTE SEI BUSI 
+VIA TRULLI 
+VIA GIUSEPPE MAZZINI
+VIA VITTORIO POSITANO CON TRAVERSA 
+VIA LUIGI MARINELLI GIOVENE
+SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
+19/10/2026 - 30/11/2026
+</name>
+      <description><![CDATA[Ordinanza 2026/04880<br><br>https://drive.google.com/file/d/1wYpm0dLH0Tw0OHHZ_mwTj7dRKa1gibY9/view<br><br>P1557 LOTTO 1. PROGRAMMA DEGLI INTERVENTI AQP 2020-2023<br>“INTERVENTI MIRATI PER CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL<br>CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE<br>IDRAULICHE NELLE RETI DEL TERRITORIO SERVITO DALL’ACQUEDOTTO<br>PUGLIESE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI -<br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA<br>AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO<br>CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO SU VIA<br>NIZZA,VIA MONTE SEI BUSI , VIA TRULLI , VIA GIUSEPPE MAZZINI , VIA<br>VITTORIO POSITANO CON TRAVERSA , VIA LUIGI MARINELLI GIOVENE,<br>DALLE ORE 00:00 ALLE ORE 24:00., DAL GIORNO 19/10/2026 AL 30/11/2026<br>PER LAVORI DI RIPRISTINI SEDE STRADALE.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e tempistiche: 19/10/2026 - 30/11/2026<br>246 m]]></description>
+      <styleUrl>#line-E65100-4488</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.9926313,41.089252,0
+          16.9925937,41.0889609,0
+          16.9925455,41.0887183,0
+          16.9925669,41.0886051,0
+          16.9926635,41.0885121,0
+          16.9928512,41.0884555,0
+          16.9932321,41.0882574,0
+          16.993613,41.0881361,0
+          16.9939402,41.0879542,0
+          16.9944069,41.0877682,0
+          16.9946644,41.087659,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/04880
+DIVIETO DI SOSTA
+AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO
+CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO
+VIA NIZZA 
+VIA MONTE SEI BUSI 
+VIA TRULLI 
+VIA GIUSEPPE MAZZINI
+VIA VITTORIO POSITANO CON TRAVERSA 
+VIA LUIGI MARINELLI GIOVENE
+SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
+19/10/2026 - 30/11/2026
+</name>
+      <description><![CDATA[Ordinanza 2026/04880<br><br>https://drive.google.com/file/d/1wYpm0dLH0Tw0OHHZ_mwTj7dRKa1gibY9/view<br><br>P1557 LOTTO 1. PROGRAMMA DEGLI INTERVENTI AQP 2020-2023<br>“INTERVENTI MIRATI PER CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL<br>CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE<br>IDRAULICHE NELLE RETI DEL TERRITORIO SERVITO DALL’ACQUEDOTTO<br>PUGLIESE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI -<br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA<br>AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO<br>CARREGGIATA E ALL’OCCORRENZA DIVIETO DI TRANSITO SU VIA<br>NIZZA,VIA MONTE SEI BUSI , VIA TRULLI , VIA GIUSEPPE MAZZINI , VIA<br>VITTORIO POSITANO CON TRAVERSA , VIA LUIGI MARINELLI GIOVENE,<br>DALLE ORE 00:00 ALLE ORE 24:00., DAL GIORNO 19/10/2026 AL 30/11/2026<br>PER LAVORI DI RIPRISTINI SEDE STRADALE.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e tempistiche: 19/10/2026 - 30/11/2026<br>246 m]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.9975979,41.0870767,0
         </coordinates>
       </Point>
     </Placemark>
