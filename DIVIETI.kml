@@ -36,6 +36,40 @@
         <styleUrl>#icon-1541-E65100-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1719-3949AB-normal">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1719-3949AB-highlight">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1719-3949AB">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1719-3949AB-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1719-3949AB-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1899-E65100-normal">
       <IconStyle>
         <color>ff0051e6</color>
@@ -1972,17 +2006,16 @@ REVOCA DELL’ORDINANZA DIRIGENZIALE N. 2025/03762 DI ISTITUZIONE DEL DIVIETO DI
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA N. 2026/02496
-DIVIETO DI SOSTA RIMOZIONE COATTA
-CON RESTRINGIMENTO CARREGGIATA SU VIA ZANDONAI CIV. 15-19 PER
-REALIZZAZIONE AREA DI CANTIERE PER ALLESTIMENTO NUOVA
-EDIFICAZIONE
-ISTANTE: D’AMICO VINCENZO (LEGALE RAPPRESENTANTE DELLA IDA
-COSTRUZIONI S.R.L.)
-IMPRESA: IDA COSTRUZIONI S.R.L.
-TERMINE E DURATA: DAL 05/03/2026 AL 30/10/2026.
+      <name>ORDINANZA 2026/05130 
+PROROGA ORDINANZA 2026/02496
+DIVIETO DI SOSTA/RIMOZIONE COATTA CON RESTRINGIMENTO CARREGGIATA
+VIA ZANDONAI CIV. 15-19
+SCAVO E SUCCESSIVA REALIZZAZIONE DI UN NUOVO CORPO DI FABBRICA CON TELAIO IN CALCESTRUZZO ARMATO
+IMPRESA ESECUTRICE: IDA COSTRUZIONI S.R.L. 
+ISTANTE: D’AMICO ROBERTO
+30/10/2026-30/10/2027
 </name>
-      <description><![CDATA[PROROGA: Ordinanza 2026/02496<br>FINO AL 30/10/2026.<br>https://drive.google.com/file/d/13Bx2E-uGP7CcEkuaHoVo8Kb60yh4WGsn/view<br><br>ORDINANZA N. 2026/00903<br>DIVIETO DI SOSTA RIMOZIONE COATTA<br>CON RESTRINGIMENTO CARREGGIATA SU VIA ZANDONAI CIV. 15-19 PER<br>REALIZZAZIONE AREA DI CANTIERE PER ALLESTIMENTO NUOVA<br>EDIFICAZIONE<br><br>https://drive.google.com/file/d/1x-VBOI19lQKrlKdGr9HDbAnF-67rxwo7/view<br><br>L’istituzione temporanea del divieto di sosta – rimozione coatta in Bari San Girolamo su via Zandonai civv.<br>15-19 per un tratto di strada di mt. 29.17;<br>2. L’istituzione temporanea del restringimento carreggiata su via Zandonai civv. 15-19, al fine della<br>realizzazione di un corridoio pedonale prospicente la recinzione di cantiere;<br>3. Il transito pedonale dovrà essere salvaguardato mediante la realizzazione di un corridoio pedonale sul<br>tratto di carreggiata adiacente l’occupazione, di dimensioni trasversali di mt. 1.00 e debitamente protetto<br>da corrimano, accessibile anche a persone con difficoltà motoria, deambulanti con ausili ortopedici;<br>4. Dovrà essere modificata la planimetria con l’indicazione dello stesso corridoio pedonale , in tal senso, il<br>presente parere è confermato nelle indicazioni prescritte;<br>5. Particolare attenzione dovrà essere posta al transito pedonale e alle persone con ridotte capacità motorie;<br><br>6. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br>TERMINE E DURATA: DAL 05/03/2026 AL 15/05/2026.<br>2025/03898<br><br>https://drive.google.com/file/d/1bJ3syfNUso-f8Y6AIC3iqKkY4OZvGt2D/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA RIMOZIONE COATTA CON RESTRINGIMENTO CARREGGIATA SU VIA ZANDONAI CIV. 15-19 PER REALIZZAZIONE AREA DI CANTIERE PER LAVORI DI DEMOLIZIONE MANUFATTI ESISTENTI DAL 03/12/2025 AL 03/02/2026. ISTANTE: D’AMICO VINCENZO (LEGALE RAPPRESENTANTE DELLA IDA COSTRUZIONI S.R.L.) IMPRESA: IDA COSTRUZIONI S.R.L.<br><br>1. L’istituzione temporanea del divieto di sosta – rimozione coatta in Bari San Girolamo su via Zandonai civv. 15-19 per un tratto di strada di mt. 29.10;<br>2. L’istituzione temporanea del restringimento carreggiata su via Zandonai civv. 15-19, al fine della realizzazione di un corridoio pedonale prospicente la recinzione di cantiere;<br>3. Il transito pedonale dovrà essere salvaguardato mediante la realizzazione di un corridoio pedonale sul tratto di carreggiata adiacente l’occupazione, di dimensioni trasversali di mt. 1.00 e debitamente protetto da corrimano, accessibile anche a persone con difficoltà motoria, deambulanti con ausili ortopedici;<br>4. Dovrà essere modificata la planimetria con l’indicazione dello stesso corridoio pedonale , in tal senso, il presente parere è confermato nelle indicazioni prescritte;<br>5. Particolare attenzione dovrà essere posta al transito pedonale e alle persone con ridotte capacità motorie; 6. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br><br><br>Durata e tempistiche: 03/12/2025 - 03/02/2026]]></description>
+      <description><![CDATA[PROROGA ORDINANZA 2026/02496<br>ORDINANZA 2026/05130 <br>https://drive.google.com/file/d/1MYrdOSM5AAmWGG69pas16cZoZO4OCNae/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA/RIMOZIONE COATTA CON RESTRINGIMENTO CARREGGIATA SU VIA ZANDONAI CIV. 15-19 PER SCAVO E SUCCESSIVA REALIZZAZIONE DI UN NUOVO CORPO DI FABBRICA CON TELAIO IN CALCESTRUZZO ARMATO DAL 30/10/2026 AL 30/10/2027. PROROGA ORDINANZA DIRIGENZIALE N. 2026/02496 - 2026/185/00939 DEL 12/05/2026. ISTANTE: D’AMICO ROBERTO (LEGALE RAPPRESENTANTE DELLA IDA COSTRUZIONI S.R.L.) IMPRESA: IDA COSTRUZIONI S.R.L. <br><br>Durata e tempistiche: 28/10/2026-03/02/2027<br><br>PROROGA: Ordinanza 2026/02496<br>FINO AL 30/10/2026.<br>https://drive.google.com/file/d/13Bx2E-uGP7CcEkuaHoVo8Kb60yh4WGsn/view<br><br>ORDINANZA N. 2026/00903<br>DIVIETO DI SOSTA RIMOZIONE COATTA<br>CON RESTRINGIMENTO CARREGGIATA SU VIA ZANDONAI CIV. 15-19 PER<br>REALIZZAZIONE AREA DI CANTIERE PER ALLESTIMENTO NUOVA<br>EDIFICAZIONE<br><br>https://drive.google.com/file/d/1x-VBOI19lQKrlKdGr9HDbAnF-67rxwo7/view<br><br>L’istituzione temporanea del divieto di sosta – rimozione coatta in Bari San Girolamo su via Zandonai civv.<br>15-19 per un tratto di strada di mt. 29.17;<br>2. L’istituzione temporanea del restringimento carreggiata su via Zandonai civv. 15-19, al fine della<br>realizzazione di un corridoio pedonale prospicente la recinzione di cantiere;<br>3. Il transito pedonale dovrà essere salvaguardato mediante la realizzazione di un corridoio pedonale sul<br>tratto di carreggiata adiacente l’occupazione, di dimensioni trasversali di mt. 1.00 e debitamente protetto<br>da corrimano, accessibile anche a persone con difficoltà motoria, deambulanti con ausili ortopedici;<br>4. Dovrà essere modificata la planimetria con l’indicazione dello stesso corridoio pedonale , in tal senso, il<br>presente parere è confermato nelle indicazioni prescritte;<br>5. Particolare attenzione dovrà essere posta al transito pedonale e alle persone con ridotte capacità motorie;<br><br>6. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br>TERMINE E DURATA: DAL 05/03/2026 AL 15/05/2026.<br>2025/03898<br><br>https://drive.google.com/file/d/1bJ3syfNUso-f8Y6AIC3iqKkY4OZvGt2D/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA RIMOZIONE COATTA CON RESTRINGIMENTO CARREGGIATA SU VIA ZANDONAI CIV. 15-19 PER REALIZZAZIONE AREA DI CANTIERE PER LAVORI DI DEMOLIZIONE MANUFATTI ESISTENTI DAL 03/12/2025 AL 03/02/2026. ISTANTE: D’AMICO VINCENZO (LEGALE RAPPRESENTANTE DELLA IDA COSTRUZIONI S.R.L.) IMPRESA: IDA COSTRUZIONI S.R.L.<br><br>1. L’istituzione temporanea del divieto di sosta – rimozione coatta in Bari San Girolamo su via Zandonai civv. 15-19 per un tratto di strada di mt. 29.10;<br>2. L’istituzione temporanea del restringimento carreggiata su via Zandonai civv. 15-19, al fine della realizzazione di un corridoio pedonale prospicente la recinzione di cantiere;<br>3. Il transito pedonale dovrà essere salvaguardato mediante la realizzazione di un corridoio pedonale sul tratto di carreggiata adiacente l’occupazione, di dimensioni trasversali di mt. 1.00 e debitamente protetto da corrimano, accessibile anche a persone con difficoltà motoria, deambulanti con ausili ortopedici;<br>4. Dovrà essere modificata la planimetria con l’indicazione dello stesso corridoio pedonale , in tal senso, il presente parere è confermato nelle indicazioni prescritte;<br>5. Particolare attenzione dovrà essere posta al transito pedonale e alle persone con ridotte capacità motorie; 6. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br><br><br>Durata e tempistiche: 03/12/2025 - 03/02/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -1991,17 +2024,16 @@ TERMINE E DURATA: DAL 05/03/2026 AL 30/10/2026.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA N. 2026/02496
-DIVIETO DI SOSTA RIMOZIONE COATTA
-CON RESTRINGIMENTO CARREGGIATA SU VIA ZANDONAI CIV. 15-19 PER
-REALIZZAZIONE AREA DI CANTIERE PER ALLESTIMENTO NUOVA
-EDIFICAZIONE
-ISTANTE: D’AMICO VINCENZO (LEGALE RAPPRESENTANTE DELLA IDA
-COSTRUZIONI S.R.L.)
-IMPRESA: IDA COSTRUZIONI S.R.L.
-TERMINE E DURATA: DAL 05/03/2026 AL 30/10/2026.
+      <name>ORDINANZA 2026/05130 
+PROROGA ORDINANZA 2026/02496
+DIVIETO DI SOSTA/RIMOZIONE COATTA CON RESTRINGIMENTO CARREGGIATA
+VIA ZANDONAI CIV. 15-19
+SCAVO E SUCCESSIVA REALIZZAZIONE DI UN NUOVO CORPO DI FABBRICA CON TELAIO IN CALCESTRUZZO ARMATO
+IMPRESA ESECUTRICE: IDA COSTRUZIONI S.R.L. 
+ISTANTE: D’AMICO ROBERTO
+30/10/2026-30/10/2027
 </name>
-      <description><![CDATA[PROROGA: Ordinanza 2026/02496<br>FINO AL 30/10/2026.<br>https://drive.google.com/file/d/13Bx2E-uGP7CcEkuaHoVo8Kb60yh4WGsn/view<br><br>ORDINANZA N. 2026/00903<br>DIVIETO DI SOSTA RIMOZIONE COATTA<br>CON RESTRINGIMENTO CARREGGIATA SU VIA ZANDONAI CIV. 15-19 PER<br>REALIZZAZIONE AREA DI CANTIERE PER ALLESTIMENTO NUOVA<br>EDIFICAZIONE<br><br>https://drive.google.com/file/d/1x-VBOI19lQKrlKdGr9HDbAnF-67rxwo7/view<br><br>L’istituzione temporanea del divieto di sosta – rimozione coatta in Bari San Girolamo su via Zandonai civv.<br>15-19 per un tratto di strada di mt. 29.17;<br>2. L’istituzione temporanea del restringimento carreggiata su via Zandonai civv. 15-19, al fine della<br>realizzazione di un corridoio pedonale prospicente la recinzione di cantiere;<br>3. Il transito pedonale dovrà essere salvaguardato mediante la realizzazione di un corridoio pedonale sul<br>tratto di carreggiata adiacente l’occupazione, di dimensioni trasversali di mt. 1.00 e debitamente protetto<br>da corrimano, accessibile anche a persone con difficoltà motoria, deambulanti con ausili ortopedici;<br>4. Dovrà essere modificata la planimetria con l’indicazione dello stesso corridoio pedonale , in tal senso, il<br>presente parere è confermato nelle indicazioni prescritte;<br>5. Particolare attenzione dovrà essere posta al transito pedonale e alle persone con ridotte capacità motorie;<br><br>6. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br>TERMINE E DURATA: DAL 05/03/2026 AL 15/05/2026.<br>2025/03898<br><br>https://drive.google.com/file/d/1bJ3syfNUso-f8Y6AIC3iqKkY4OZvGt2D/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA RIMOZIONE COATTA CON RESTRINGIMENTO CARREGGIATA SU VIA ZANDONAI CIV. 15-19 PER REALIZZAZIONE AREA DI CANTIERE PER LAVORI DI DEMOLIZIONE MANUFATTI ESISTENTI DAL 03/12/2025 AL 03/02/2026. ISTANTE: D’AMICO VINCENZO (LEGALE RAPPRESENTANTE DELLA IDA COSTRUZIONI S.R.L.) IMPRESA: IDA COSTRUZIONI S.R.L.<br><br>1. L’istituzione temporanea del divieto di sosta – rimozione coatta in Bari San Girolamo su via Zandonai civv. 15-19 per un tratto di strada di mt. 29.10;<br>2. L’istituzione temporanea del restringimento carreggiata su via Zandonai civv. 15-19, al fine della realizzazione di un corridoio pedonale prospicente la recinzione di cantiere;<br>3. Il transito pedonale dovrà essere salvaguardato mediante la realizzazione di un corridoio pedonale sul tratto di carreggiata adiacente l’occupazione, di dimensioni trasversali di mt. 1.00 e debitamente protetto da corrimano, accessibile anche a persone con difficoltà motoria, deambulanti con ausili ortopedici;<br>4. Dovrà essere modificata la planimetria con l’indicazione dello stesso corridoio pedonale , in tal senso, il presente parere è confermato nelle indicazioni prescritte;<br>5. Particolare attenzione dovrà essere posta al transito pedonale e alle persone con ridotte capacità motorie; 6. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br><br><br>Durata e tempistiche: 03/12/2025 - 03/02/2026]]></description>
+      <description><![CDATA[PROROGA ORDINANZA 2026/02496<br>ORDINANZA 2026/05130 <br>https://drive.google.com/file/d/1MYrdOSM5AAmWGG69pas16cZoZO4OCNae/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA/RIMOZIONE COATTA CON RESTRINGIMENTO CARREGGIATA SU VIA ZANDONAI CIV. 15-19 PER SCAVO E SUCCESSIVA REALIZZAZIONE DI UN NUOVO CORPO DI FABBRICA CON TELAIO IN CALCESTRUZZO ARMATO DAL 30/10/2026 AL 30/10/2027. PROROGA ORDINANZA DIRIGENZIALE N. 2026/02496 - 2026/185/00939 DEL 12/05/2026. ISTANTE: D’AMICO ROBERTO (LEGALE RAPPRESENTANTE DELLA IDA COSTRUZIONI S.R.L.) IMPRESA: IDA COSTRUZIONI S.R.L. <br><br>Durata e tempistiche: 28/10/2026-03/02/2027<br><br>PROROGA: Ordinanza 2026/02496<br>FINO AL 30/10/2026.<br>https://drive.google.com/file/d/13Bx2E-uGP7CcEkuaHoVo8Kb60yh4WGsn/view<br><br>ORDINANZA N. 2026/00903<br>DIVIETO DI SOSTA RIMOZIONE COATTA<br>CON RESTRINGIMENTO CARREGGIATA SU VIA ZANDONAI CIV. 15-19 PER<br>REALIZZAZIONE AREA DI CANTIERE PER ALLESTIMENTO NUOVA<br>EDIFICAZIONE<br><br>https://drive.google.com/file/d/1x-VBOI19lQKrlKdGr9HDbAnF-67rxwo7/view<br><br>L’istituzione temporanea del divieto di sosta – rimozione coatta in Bari San Girolamo su via Zandonai civv.<br>15-19 per un tratto di strada di mt. 29.17;<br>2. L’istituzione temporanea del restringimento carreggiata su via Zandonai civv. 15-19, al fine della<br>realizzazione di un corridoio pedonale prospicente la recinzione di cantiere;<br>3. Il transito pedonale dovrà essere salvaguardato mediante la realizzazione di un corridoio pedonale sul<br>tratto di carreggiata adiacente l’occupazione, di dimensioni trasversali di mt. 1.00 e debitamente protetto<br>da corrimano, accessibile anche a persone con difficoltà motoria, deambulanti con ausili ortopedici;<br>4. Dovrà essere modificata la planimetria con l’indicazione dello stesso corridoio pedonale , in tal senso, il<br>presente parere è confermato nelle indicazioni prescritte;<br>5. Particolare attenzione dovrà essere posta al transito pedonale e alle persone con ridotte capacità motorie;<br><br>6. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br>TERMINE E DURATA: DAL 05/03/2026 AL 15/05/2026.<br>2025/03898<br><br>https://drive.google.com/file/d/1bJ3syfNUso-f8Y6AIC3iqKkY4OZvGt2D/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA RIMOZIONE COATTA CON RESTRINGIMENTO CARREGGIATA SU VIA ZANDONAI CIV. 15-19 PER REALIZZAZIONE AREA DI CANTIERE PER LAVORI DI DEMOLIZIONE MANUFATTI ESISTENTI DAL 03/12/2025 AL 03/02/2026. ISTANTE: D’AMICO VINCENZO (LEGALE RAPPRESENTANTE DELLA IDA COSTRUZIONI S.R.L.) IMPRESA: IDA COSTRUZIONI S.R.L.<br><br>1. L’istituzione temporanea del divieto di sosta – rimozione coatta in Bari San Girolamo su via Zandonai civv. 15-19 per un tratto di strada di mt. 29.10;<br>2. L’istituzione temporanea del restringimento carreggiata su via Zandonai civv. 15-19, al fine della realizzazione di un corridoio pedonale prospicente la recinzione di cantiere;<br>3. Il transito pedonale dovrà essere salvaguardato mediante la realizzazione di un corridoio pedonale sul tratto di carreggiata adiacente l’occupazione, di dimensioni trasversali di mt. 1.00 e debitamente protetto da corrimano, accessibile anche a persone con difficoltà motoria, deambulanti con ausili ortopedici;<br>4. Dovrà essere modificata la planimetria con l’indicazione dello stesso corridoio pedonale , in tal senso, il presente parere è confermato nelle indicazioni prescritte;<br>5. Particolare attenzione dovrà essere posta al transito pedonale e alle persone con ridotte capacità motorie; 6. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br><br><br>Durata e tempistiche: 03/12/2025 - 03/02/2026]]></description>
       <styleUrl>#line-E65100-4294</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -2681,7 +2713,7 @@ RICHIEDENTE: SIG. CARLO MASTRANDREA
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03783
+      <name>ORDINANZA 2026/05136
 DIVIETO DI SOSTA RESTRINGIMENTO DI CARREGGIATA E SENSO UNICO ALTERNATO
 VIA ABATE GIMMA TRA VIA MANZONI E VIA SAG.VISCONTI
 VIA DE ROSSI – TRA C.SO VITT.EMANUELE E VIA CALEFATI
@@ -2693,8 +2725,8 @@ VIA S.FRANCESCO TRA P.ZZA MASSARI E VIA Q.SELLA
 VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI
 LAVORI DI POSA CAVI INTERRATI BT
 RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
-11/05/2026 - 31/10/2026 </name>
-      <description><![CDATA[PROROGATA DALLA  ORDINANZA 2026/03783 FINO AL 31/10/2026<br>https://drive.google.com/file/d/10tdzuYcZhYBncrsJLkkUm3IyJjR_2eDK/view<br><br>Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
+11/05/2026 - 31/01/2027</name>
+      <description><![CDATA[PROROGATA FINO AL 31/01/2027<br>DALLA ORDINANZA 2026/05136<br>https://drive.google.com/file/d/1RVuDSjFTpYALUGY3X8ccyLrj5y5He-qZ/view<br><br>PROROGATA DALLA  ORDINANZA 2026/03783 FINO AL 31/10/2026<br>https://drive.google.com/file/d/10tdzuYcZhYBncrsJLkkUm3IyJjR_2eDK/view<br><br>Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
       <styleUrl>#line-E65100-3906</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -2705,7 +2737,7 @@ RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03783
+      <name>ORDINANZA 2026/05136
 DIVIETO DI SOSTA RESTRINGIMENTO DI CARREGGIATA E SENSO UNICO ALTERNATO
 VIA ABATE GIMMA TRA VIA MANZONI E VIA SAG.VISCONTI
 VIA DE ROSSI – TRA C.SO VITT.EMANUELE E VIA CALEFATI
@@ -2717,8 +2749,8 @@ VIA S.FRANCESCO TRA P.ZZA MASSARI E VIA Q.SELLA
 VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI
 LAVORI DI POSA CAVI INTERRATI BT
 RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
-11/05/2026 - 31/10/2026 </name>
-      <description><![CDATA[PROROGATA DALLA ORDINANZA 2026/03783 FINO AL 31/10/2026<br>https://drive.google.com/file/d/10tdzuYcZhYBncrsJLkkUm3IyJjR_2eDK/view<br><br>Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
+11/05/2026 - 31/01/2027</name>
+      <description><![CDATA[PROROGATA FINO AL 31/01/2027<br>DALLA ORDINANZA 2026/05136<br>https://drive.google.com/file/d/1RVuDSjFTpYALUGY3X8ccyLrj5y5He-qZ/view<br><br>PROROGATA DALLA ORDINANZA 2026/03783 FINO AL 31/10/2026<br>https://drive.google.com/file/d/10tdzuYcZhYBncrsJLkkUm3IyJjR_2eDK/view<br><br>Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
       <styleUrl>#line-E65100-3906</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -2729,7 +2761,7 @@ RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03783
+      <name>ORDINANZA 2026/05136
 DIVIETO DI SOSTA RESTRINGIMENTO DI CARREGGIATA E SENSO UNICO ALTERNATO
 VIA ABATE GIMMA TRA VIA MANZONI E VIA SAG.VISCONTI
 VIA DE ROSSI – TRA C.SO VITT.EMANUELE E VIA CALEFATI
@@ -2741,8 +2773,8 @@ VIA S.FRANCESCO TRA P.ZZA MASSARI E VIA Q.SELLA
 VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI
 LAVORI DI POSA CAVI INTERRATI BT
 RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
-11/05/2026 - 31/10/2026 </name>
-      <description><![CDATA[PROROGATA DALLA ORDINANZA 2026/03783 FINO AL 31/10/2026<br>https://drive.google.com/file/d/10tdzuYcZhYBncrsJLkkUm3IyJjR_2eDK/view<br><br>Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
+11/05/2026 - 31/01/2027</name>
+      <description><![CDATA[PROROGATA FINO AL 31/01/2027<br>DALLA ORDINANZA 2026/05136<br>https://drive.google.com/file/d/1RVuDSjFTpYALUGY3X8ccyLrj5y5He-qZ/view<br><br>PROROGATA DALLA ORDINANZA 2026/03783 FINO AL 31/10/2026<br>https://drive.google.com/file/d/10tdzuYcZhYBncrsJLkkUm3IyJjR_2eDK/view<br><br>Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
       <styleUrl>#line-E65100-4294</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -2753,7 +2785,7 @@ RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03783
+      <name>ORDINANZA 2026/05136
 DIVIETO DI SOSTA RESTRINGIMENTO DI CARREGGIATA E SENSO UNICO ALTERNATO
 VIA ABATE GIMMA TRA VIA MANZONI E VIA SAG.VISCONTI
 VIA DE ROSSI – TRA C.SO VITT.EMANUELE E VIA CALEFATI
@@ -2765,8 +2797,8 @@ VIA S.FRANCESCO TRA P.ZZA MASSARI E VIA Q.SELLA
 VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI
 LAVORI DI POSA CAVI INTERRATI BT
 RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
-11/05/2026 - 31/10/2026 </name>
-      <description><![CDATA[PROROGATA DALLA ORDINANZA 2026/03783 FINO AL 31/10/2026<br>https://drive.google.com/file/d/10tdzuYcZhYBncrsJLkkUm3IyJjR_2eDK/view<br><br>Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
+11/05/2026 - 31/01/2027</name>
+      <description><![CDATA[PROROGATA FINO AL 31/01/2027<br>DALLA ORDINANZA 2026/05136<br>https://drive.google.com/file/d/1RVuDSjFTpYALUGY3X8ccyLrj5y5He-qZ/view<br><br>PROROGATA DALLA ORDINANZA 2026/03783 FINO AL 31/10/2026<br>https://drive.google.com/file/d/10tdzuYcZhYBncrsJLkkUm3IyJjR_2eDK/view<br><br>Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
       <styleUrl>#line-E65100-3906</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -2777,7 +2809,7 @@ RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03783
+      <name>ORDINANZA 2026/05136
 DIVIETO DI SOSTA RESTRINGIMENTO DI CARREGGIATA E SENSO UNICO ALTERNATO
 VIA ABATE GIMMA TRA VIA MANZONI E VIA SAG.VISCONTI
 VIA DE ROSSI – TRA C.SO VITT.EMANUELE E VIA CALEFATI
@@ -2789,8 +2821,8 @@ VIA S.FRANCESCO TRA P.ZZA MASSARI E VIA Q.SELLA
 VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI
 LAVORI DI POSA CAVI INTERRATI BT
 RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
-11/05/2026 - 31/10/2026 </name>
-      <description><![CDATA[PROROGATA DALLA ORDINANZA 2026/03783 FINO AL 31/10/2026<br>https://drive.google.com/file/d/10tdzuYcZhYBncrsJLkkUm3IyJjR_2eDK/view<br><br>Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
+11/05/2026 - 31/01/2027</name>
+      <description><![CDATA[PROROGATA FINO AL 31/01/2027<br>DALLA ORDINANZA 2026/05136<br>https://drive.google.com/file/d/1RVuDSjFTpYALUGY3X8ccyLrj5y5He-qZ/view<br><br>PROROGATA DALLA ORDINANZA 2026/03783 FINO AL 31/10/2026<br>https://drive.google.com/file/d/10tdzuYcZhYBncrsJLkkUm3IyJjR_2eDK/view<br><br>Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
       <styleUrl>#line-E65100-3713</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -2801,7 +2833,7 @@ RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03783
+      <name>ORDINANZA 2026/05136
 DIVIETO DI SOSTA RESTRINGIMENTO DI CARREGGIATA E SENSO UNICO ALTERNATO
 VIA ABATE GIMMA TRA VIA MANZONI E VIA SAG.VISCONTI
 VIA DE ROSSI – TRA C.SO VITT.EMANUELE E VIA CALEFATI
@@ -2813,8 +2845,8 @@ VIA S.FRANCESCO TRA P.ZZA MASSARI E VIA Q.SELLA
 VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI
 LAVORI DI POSA CAVI INTERRATI BT
 RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
-11/05/2026 - 31/10/2026 </name>
-      <description><![CDATA[PROROGATA DALLA ORDINANZA 2026/03783 FINO AL 31/10/2026<br>https://drive.google.com/file/d/10tdzuYcZhYBncrsJLkkUm3IyJjR_2eDK/view<br><br>Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
+11/05/2026 - 31/01/2027</name>
+      <description><![CDATA[PROROGATA FINO AL 31/01/2027<br>DALLA ORDINANZA 2026/05136<br>https://drive.google.com/file/d/1RVuDSjFTpYALUGY3X8ccyLrj5y5He-qZ/view<br><br>PROROGATA DALLA ORDINANZA 2026/03783 FINO AL 31/10/2026<br>https://drive.google.com/file/d/10tdzuYcZhYBncrsJLkkUm3IyJjR_2eDK/view<br><br>Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
       <styleUrl>#line-E65100-2938</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -2825,7 +2857,7 @@ RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03783
+      <name>ORDINANZA 2026/05136
 DIVIETO DI SOSTA RESTRINGIMENTO DI CARREGGIATA E SENSO UNICO ALTERNATO
 VIA ABATE GIMMA TRA VIA MANZONI E VIA SAG.VISCONTI
 VIA DE ROSSI – TRA C.SO VITT.EMANUELE E VIA CALEFATI
@@ -2837,8 +2869,8 @@ VIA S.FRANCESCO TRA P.ZZA MASSARI E VIA Q.SELLA
 VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI
 LAVORI DI POSA CAVI INTERRATI BT
 RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
-11/05/2026 - 31/10/2026 </name>
-      <description><![CDATA[PROROGATA DALLA ORDINANZA 2026/03783 FINO AL 31/10/2026<br>https://drive.google.com/file/d/10tdzuYcZhYBncrsJLkkUm3IyJjR_2eDK/view<br><br>Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
+11/05/2026 - 31/01/2027</name>
+      <description><![CDATA[PROROGATA FINO AL 31/01/2027<br>DALLA ORDINANZA 2026/05136<br>https://drive.google.com/file/d/1RVuDSjFTpYALUGY3X8ccyLrj5y5He-qZ/view<br><br>PROROGATA DALLA ORDINANZA 2026/03783 FINO AL 31/10/2026<br>https://drive.google.com/file/d/10tdzuYcZhYBncrsJLkkUm3IyJjR_2eDK/view<br><br>Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
       <styleUrl>#line-E65100-4100</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -2849,7 +2881,7 @@ RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03783
+      <name>ORDINANZA 2026/05136
 DIVIETO DI SOSTA RESTRINGIMENTO DI CARREGGIATA E SENSO UNICO ALTERNATO
 VIA ABATE GIMMA TRA VIA MANZONI E VIA SAG.VISCONTI
 VIA DE ROSSI – TRA C.SO VITT.EMANUELE E VIA CALEFATI
@@ -2861,8 +2893,8 @@ VIA S.FRANCESCO TRA P.ZZA MASSARI E VIA Q.SELLA
 VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI
 LAVORI DI POSA CAVI INTERRATI BT
 RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE
-11/05/2026 - 31/10/2026 </name>
-      <description><![CDATA[PROROGATA DALLA ORDINANZA 2026/03783 FINO AL 31/10/2026<br>https://drive.google.com/file/d/10tdzuYcZhYBncrsJLkkUm3IyJjR_2eDK/view<br><br>Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
+11/05/2026 - 31/01/2027</name>
+      <description><![CDATA[PROROGATA FINO AL 31/01/2027<br>DALLA ORDINANZA 2026/05136<br>https://drive.google.com/file/d/1RVuDSjFTpYALUGY3X8ccyLrj5y5He-qZ/view<br><br>PROROGATA DALLA ORDINANZA 2026/03783 FINO AL 31/10/2026<br>https://drive.google.com/file/d/10tdzuYcZhYBncrsJLkkUm3IyJjR_2eDK/view<br><br>Ordinanza: 2026/02397<br><br>https://drive.google.com/file/d/18S8M_Sz27OzUFRmKcCXLvGEuG8vN11Hj/view<br><br>LIMITAZIONI TEMPORANEE ALLA SOSTA VEICOLARE CON RIMOZIONE<br>FORZATA SU ENTRAMBI I LATI E RESTRINGIMENTO DI CARREGGIATA<br>FINALIZZATE AI LAVORI DI POSA CAVI INTERRATI BT – PNRR DAL GIORNO<br>ABATE GIMMA – TRATTO COMPRESO TRA VIA MANZONI E VIA<br>SAG.VISCONTI, VIA DE ROSSI – TRATTO COMPRESO TRA C.SO<br>VITT.EMANUELE E VIA CALEFATI,VIA SAG.VISCONTI – TRATTO COMPRESO<br>TRA VIA CALEFATI E P.ZZA GARIBALDI, L.GO NITTI VALENTINI – TRATTO<br>COMPRESO TRA VIA PICCINNI E P.ZZA GARIBALDI, P.ZZA GARIBALDI –<br>TRATTO COMPRESO TRA L.GO N.VALENTINI E VIA S.FRANCESCO,P.ZZA<br>GARIBALDI – TRATTO COMPRESO TRA VIA BONAZZI E VIA PIZZOLI,• VIA<br>S.FRANCESCO – TRATTO COMPRESO TRA P.ZZA MASSARI E VIA Q.SELLA,•<br>VIA VILLARI – TRATTO COMPRESO TRA VIA Q.SELLA E P.ZZA MASSARI.<br>RICHIEDENTE: SITE SPA PER CONTO DI E-DISTRIBUZIONE<br><br>Durata e tempistiche: 11/05/2026 - 31/07/2026 <br>DALLE ORE 7.00 ALLE ORE 17.00]]></description>
       <styleUrl>#line-E65100-4681</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -3615,14 +3647,15 @@ IMPRESA ESECUTRICE:R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/02914 
-DIVIETO DI SOSTA 
-VIA ITALO BALBO TRA VIA G. PRIOLO E LA VIA GEN. G. VACCA, LATO PIAZZA G. BELLINI
+      <name>ORDINANZA 2026/05129 
+DIVIETO DI SOSTA
+VIA ITALO BALBO AMBO I LATI, NEL TRATTO COMPRESO TRA VIA G. PRIOLO E LA VIA GEN. G. VACCA, LATO PIAZZA G. BELLINI
 TRANSITO DEI MEZZI DI CANTIERE
-IMPRESA ESECUTRICE: DI GROUP BUILDINGS 
-24/06//2026 - 21/10/2026  
+IMPRESA ESECUTRICE: DI GROUP BUILDINGS S.R.L. 
+ISTANTE: DILERMA PIETRO 
+28/10/2026-03/02/2027
 </name>
-      <description><![CDATA[ORDINANZA 2026/04941 <br>https://drive.google.com/file/d/1oHr4ZDL7roiYewr6FqxfK8a0lZtg8ucs/view<br><br>ORDINANZA PER TEMPORANEA ISTITUZIONE DEL DIVIETO DI SOSTA ZONA RIMOZIONE SU VIA ITALO BALBO NEL TRATTO COMPRESO TRA VIA G. PRIOLO E LA VIA GEN. G. VACCA, AMBO I LATI – DIVIETO DI TRANSITO NEL TRATTO COMPRESO TRA VIA MARIA JOSÈ DI SAVOIA E VIA GEN. G. VACCA E DEROGA TEMPORANEA AL SENSO UNICO DI CIRCOLAZIONE PRESENTE SULLA VIA BALBO TRATTO COMPRESO TRA LA GEN. G. VACCA E LA VIA G. PRIOLO E DEROGA SU VIA PRIOLO TRATTO COMPRESO TRA LA VIA CAPUTO E LA VIA BALBO PER CONSENTIRE IL TRANSITO DEI MEZZI DI CANTIERE E SOVRAINTENDERE IL TRANSITO IN SICUREZZA DEI VEICOLI STESSI. DAL 22/10/2026 AL 23/10/2026 SOCIETÀ:DI GROUP BUILDINGS S.R.L. ISTANTE: DILERMA PIETRO <br><br><br>Durata e tempistiche: 22/10/2026 - 23/10/2026 <br><br>ORDINANZA 2026/02914 <br><br>https://drive.google.com/file/d/1q4DE7vfG8veLk16dPYr1wg_6rtNiAKis/view<br><br>ORDINANZA PER TEMPORANEA ISTITUZIONE DEL DIVIETO DI SOSTA ZONA RIMOZIONE SU VIA ITALO BALBO NEL TRATTO COMPRESO TRA VIA G. PRIOLO E LA VIA GEN. G. VACCA, LATO PIAZZA G. BELLINI, DEROGA TEMPORANEA AL SENSO UNICO DI CIRCOLAZIONE PRESENTE SULLA VIA BALBO TRATTO COMPRESO TRA LA GEN. G. VACCA E LA VIA G. PRIOLO E DEROGA SU VIA PRIOLO TRATTO COMPRESO TRA LA VIA CAPUTO E LA VIA BALBO IN VARIE DATE COMPRESE TRA IL 24/06/2026 E IL 21/10/2026 PER CONSENTIRE IL TRANSITO DEI MEZZI DI CANTIERE NECESSARI PER L’ESECUZIONE DEL GETTO DI CLS PER LA REALIZZAZIONE DI UN NUOVO FABBRICATO. SOCIETÀ: DI GROUP BUILDINGS S.R.L. ISTANTE: DILERMA PIETRO <br><br>24/06/2026 – 01/07/2026 – 08/07/2026 – 15/07/2026 – 22/07/2026 – 29/07/2026 – 05/08/2026 – 12/08/2026 – 19/08/2026 – 26/08/2026 – 02/09/2026 – 09/09/2026 – 16/09/2026 – 23/09/2026 – 30/09/2026 – 07/10/2026 – 14/10/2026 – 21/10/2026 1. Istituzione temporanea del divieto di sosta-rimozione coatta su via Italo Balbo nel tratto stradale compreso tra la via Priolo e la via Vacca, lato Piazza G. Bellini; 2. Deroga temporanea del senso unico di circolazione presente sulla via Balbo tatto compreso tra la via Vacca e la via Priolo per il tempo strettamente necessario al solo transito dei veicoli di cantiere, con l’ausilio di movieri dotati di idoneo equipaggiamento che dovranno posizionarsi alle intersezioni via Priolo/via Balbo e via Balbo/via Vacca; 3. Deroga temporanea al senso unico di circolazione presente sulla via Priolo tratto compreso tra la via Caputo e la via Balbo per il tempo strettamente necessario al solo transito dei mezzi di cantiere con l’ausilio di movieri dotati di idoneo equipaggiamento che dovranno posizionarsi alle intersezioni via Priolo/via Balbo e via Priolo/via Caputo; 4. Deroga temporanea al divieto di transito per mezzi superiori ai 35 t. vigente sulla via Vittorio Veneto a partire dall’intersezione con via Nazionale; 5. Il passaggio dei veicoli dovrà essere effettuato a velocità particolarmente ridotta e accompagnato da movieri di idoneo equipaggiamento; 6. Durante l’esecuzione dei lavori dovrà essere garantito l’accesso/uscita in zona ai residenti e mezzi di soccorso e/o polizia, con particolare attenzione al transito pedonale e alle persone con ridotte capacità motorie; 7. Dovranno essere lasciati liberi e fruibili gli accessi privati; 8. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto; <br><br>Durata e tempistiche: 24/06//2026 - 21/10/2026  ]]></description>
+      <description><![CDATA[ORDINANZA 2026/05129 <br>https://drive.google.com/file/d/1s9pZjUrX54kloJ5WvTmaNSRCy4Yp3bBC/view<br><br>ORDINANZA PER TEMPORANEA ISTITUZIONE DEL DIVIETO DI SOSTA ZONA RIMOZIONE SU VIA ITALO BALBO AMBO I LATI, NEL TRATTO COMPRESO TRA VIA G. PRIOLO E LA VIA GEN. G. VACCA, LATO PIAZZA G. BELLINI, DIVIETO DI SOSTA CON ZONA RIMOZIONE SU VIA BALBO AMBO I LATI NEL TRATTO COMPRESO TRA IL CIV. 16E LA VIA VACCA AL FINE DI CONSENTIRE LE MANOVRE D’INGRESSO AL CANTIERE EDILE, DEROGA TEMPORANEA AL SENSO UNICO DI CIRCOLAZIONE PRESENTE SULLA VIA BALBO TRATTO COMPRESO TRA LA GEN. G. VACCA E LA VIA G. PRIOLO PER IL SOLO TRANSITO DEI VEICOLI DI CANTIERE E DEROGA AL SENSO UNICO DI CIRCOLAZIONE SU VIA PRIOLO TRATTO COMPRESO TRA LA VIA CAPUTO E LA VIA BALBO PER IL TRANSITO DEI MEZZI DI CANTIERE PER SCARICO MERCI DAL GIORNO 28/10/2026 AL GIORNO 03/02/2027. SOCIETÀ:DI GROUP BUILDINGS S.R.L. ISTANTE: DILERMA PIETRO <br><br>Durata e tempistiche: 28/10/2026-03/02/2027<br><br>ORDINANZA 2026/04941 <br>https://drive.google.com/file/d/1oHr4ZDL7roiYewr6FqxfK8a0lZtg8ucs/view<br><br>ORDINANZA PER TEMPORANEA ISTITUZIONE DEL DIVIETO DI SOSTA ZONA RIMOZIONE SU VIA ITALO BALBO NEL TRATTO COMPRESO TRA VIA G. PRIOLO E LA VIA GEN. G. VACCA, AMBO I LATI – DIVIETO DI TRANSITO NEL TRATTO COMPRESO TRA VIA MARIA JOSÈ DI SAVOIA E VIA GEN. G. VACCA E DEROGA TEMPORANEA AL SENSO UNICO DI CIRCOLAZIONE PRESENTE SULLA VIA BALBO TRATTO COMPRESO TRA LA GEN. G. VACCA E LA VIA G. PRIOLO E DEROGA SU VIA PRIOLO TRATTO COMPRESO TRA LA VIA CAPUTO E LA VIA BALBO PER CONSENTIRE IL TRANSITO DEI MEZZI DI CANTIERE E SOVRAINTENDERE IL TRANSITO IN SICUREZZA DEI VEICOLI STESSI. DAL 22/10/2026 AL 23/10/2026 SOCIETÀ:DI GROUP BUILDINGS S.R.L. ISTANTE: DILERMA PIETRO <br><br><br>Durata e tempistiche: 22/10/2026 - 23/10/2026 <br><br>ORDINANZA 2026/02914 <br><br>https://drive.google.com/file/d/1q4DE7vfG8veLk16dPYr1wg_6rtNiAKis/view<br><br>ORDINANZA PER TEMPORANEA ISTITUZIONE DEL DIVIETO DI SOSTA ZONA RIMOZIONE SU VIA ITALO BALBO NEL TRATTO COMPRESO TRA VIA G. PRIOLO E LA VIA GEN. G. VACCA, LATO PIAZZA G. BELLINI, DEROGA TEMPORANEA AL SENSO UNICO DI CIRCOLAZIONE PRESENTE SULLA VIA BALBO TRATTO COMPRESO TRA LA GEN. G. VACCA E LA VIA G. PRIOLO E DEROGA SU VIA PRIOLO TRATTO COMPRESO TRA LA VIA CAPUTO E LA VIA BALBO IN VARIE DATE COMPRESE TRA IL 24/06/2026 E IL 21/10/2026 PER CONSENTIRE IL TRANSITO DEI MEZZI DI CANTIERE NECESSARI PER L’ESECUZIONE DEL GETTO DI CLS PER LA REALIZZAZIONE DI UN NUOVO FABBRICATO. SOCIETÀ: DI GROUP BUILDINGS S.R.L. ISTANTE: DILERMA PIETRO <br><br>24/06/2026 – 01/07/2026 – 08/07/2026 – 15/07/2026 – 22/07/2026 – 29/07/2026 – 05/08/2026 – 12/08/2026 – 19/08/2026 – 26/08/2026 – 02/09/2026 – 09/09/2026 – 16/09/2026 – 23/09/2026 – 30/09/2026 – 07/10/2026 – 14/10/2026 – 21/10/2026 1. Istituzione temporanea del divieto di sosta-rimozione coatta su via Italo Balbo nel tratto stradale compreso tra la via Priolo e la via Vacca, lato Piazza G. Bellini; 2. Deroga temporanea del senso unico di circolazione presente sulla via Balbo tatto compreso tra la via Vacca e la via Priolo per il tempo strettamente necessario al solo transito dei veicoli di cantiere, con l’ausilio di movieri dotati di idoneo equipaggiamento che dovranno posizionarsi alle intersezioni via Priolo/via Balbo e via Balbo/via Vacca; 3. Deroga temporanea al senso unico di circolazione presente sulla via Priolo tratto compreso tra la via Caputo e la via Balbo per il tempo strettamente necessario al solo transito dei mezzi di cantiere con l’ausilio di movieri dotati di idoneo equipaggiamento che dovranno posizionarsi alle intersezioni via Priolo/via Balbo e via Priolo/via Caputo; 4. Deroga temporanea al divieto di transito per mezzi superiori ai 35 t. vigente sulla via Vittorio Veneto a partire dall’intersezione con via Nazionale; 5. Il passaggio dei veicoli dovrà essere effettuato a velocità particolarmente ridotta e accompagnato da movieri di idoneo equipaggiamento; 6. Durante l’esecuzione dei lavori dovrà essere garantito l’accesso/uscita in zona ai residenti e mezzi di soccorso e/o polizi]]></description>
       <styleUrl>#line-E65100-3519</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -3633,14 +3666,15 @@ IMPRESA ESECUTRICE: DI GROUP BUILDINGS
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/02914 
-DIVIETO DI SOSTA 
-VIA ITALO BALBO TRA VIA G. PRIOLO E LA VIA GEN. G. VACCA, LATO PIAZZA G. BELLINI
+      <name>ORDINANZA 2026/05129 
+DIVIETO DI SOSTA
+VIA ITALO BALBO AMBO I LATI, NEL TRATTO COMPRESO TRA VIA G. PRIOLO E LA VIA GEN. G. VACCA, LATO PIAZZA G. BELLINI
 TRANSITO DEI MEZZI DI CANTIERE
-IMPRESA ESECUTRICE: DI GROUP BUILDINGS 
-24/06//2026 - 21/10/2026   
+IMPRESA ESECUTRICE: DI GROUP BUILDINGS S.R.L. 
+ISTANTE: DILERMA PIETRO 
+28/10/2026-03/02/2027
 </name>
-      <description><![CDATA[ORDINANZA 2026/04941 <br>https://drive.google.com/file/d/1oHr4ZDL7roiYewr6FqxfK8a0lZtg8ucs/view<br><br>ORDINANZA PER TEMPORANEA ISTITUZIONE DEL DIVIETO DI SOSTA ZONA RIMOZIONE SU VIA ITALO BALBO NEL TRATTO COMPRESO TRA VIA G. PRIOLO E LA VIA GEN. G. VACCA, AMBO I LATI – DIVIETO DI TRANSITO NEL TRATTO COMPRESO TRA VIA MARIA JOSÈ DI SAVOIA E VIA GEN. G. VACCA E DEROGA TEMPORANEA AL SENSO UNICO DI CIRCOLAZIONE PRESENTE SULLA VIA BALBO TRATTO COMPRESO TRA LA GEN. G. VACCA E LA VIA G. PRIOLO E DEROGA SU VIA PRIOLO TRATTO COMPRESO TRA LA VIA CAPUTO E LA VIA BALBO PER CONSENTIRE IL TRANSITO DEI MEZZI DI CANTIERE E SOVRAINTENDERE IL TRANSITO IN SICUREZZA DEI VEICOLI STESSI. DAL 22/10/2026 AL 23/10/2026 SOCIETÀ:DI GROUP BUILDINGS S.R.L. ISTANTE: DILERMA PIETRO <br><br><br>Durata e tempistiche: 22/10/2026 - 23/10/2026 <br><br>ORDINANZA 2026/02914 <br><br>https://drive.google.com/file/d/1q4DE7vfG8veLk16dPYr1wg_6rtNiAKis/view<br><br>ORDINANZA PER TEMPORANEA ISTITUZIONE DEL DIVIETO DI SOSTA ZONA RIMOZIONE SU VIA ITALO BALBO NEL TRATTO COMPRESO TRA VIA G. PRIOLO E LA VIA GEN. G. VACCA, LATO PIAZZA G. BELLINI, DEROGA TEMPORANEA AL SENSO UNICO DI CIRCOLAZIONE PRESENTE SULLA VIA BALBO TRATTO COMPRESO TRA LA GEN. G. VACCA E LA VIA G. PRIOLO E DEROGA SU VIA PRIOLO TRATTO COMPRESO TRA LA VIA CAPUTO E LA VIA BALBO IN VARIE DATE COMPRESE TRA IL 24/06/2026 E IL 21/10/2026 PER CONSENTIRE IL TRANSITO DEI MEZZI DI CANTIERE NECESSARI PER L’ESECUZIONE DEL GETTO DI CLS PER LA REALIZZAZIONE DI UN NUOVO FABBRICATO. SOCIETÀ: DI GROUP BUILDINGS S.R.L. ISTANTE: DILERMA PIETRO <br><br>24/06/2026 – 01/07/2026 – 08/07/2026 – 15/07/2026 – 22/07/2026 – 29/07/2026 – 05/08/2026 – 12/08/2026 – 19/08/2026 – 26/08/2026 – 02/09/2026 – 09/09/2026 – 16/09/2026 – 23/09/2026 – 30/09/2026 – 07/10/2026 – 14/10/2026 – 21/10/2026 1. Istituzione temporanea del divieto di sosta-rimozione coatta su via Italo Balbo nel tratto stradale compreso tra la via Priolo e la via Vacca, lato Piazza G. Bellini; 2. Deroga temporanea del senso unico di circolazione presente sulla via Balbo tatto compreso tra la via Vacca e la via Priolo per il tempo strettamente necessario al solo transito dei veicoli di cantiere, con l’ausilio di movieri dotati di idoneo equipaggiamento che dovranno posizionarsi alle intersezioni via Priolo/via Balbo e via Balbo/via Vacca; 3. Deroga temporanea al senso unico di circolazione presente sulla via Priolo tratto compreso tra la via Caputo e la via Balbo per il tempo strettamente necessario al solo transito dei mezzi di cantiere con l’ausilio di movieri dotati di idoneo equipaggiamento che dovranno posizionarsi alle intersezioni via Priolo/via Balbo e via Priolo/via Caputo; 4. Deroga temporanea al divieto di transito per mezzi superiori ai 35 t. vigente sulla via Vittorio Veneto a partire dall’intersezione con via Nazionale; 5. Il passaggio dei veicoli dovrà essere effettuato a velocità particolarmente ridotta e accompagnato da movieri di idoneo equipaggiamento; 6. Durante l’esecuzione dei lavori dovrà essere garantito l’accesso/uscita in zona ai residenti e mezzi di soccorso e/o polizia, con particolare attenzione al transito pedonale e alle persone con ridotte capacità motorie; 7. Dovranno essere lasciati liberi e fruibili gli accessi privati; 8. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto; <br><br>Durata e tempistiche: 24/06//2026 - 21/10/2026  ]]></description>
+      <description><![CDATA[ORDINANZA 2026/05129 <br>https://drive.google.com/file/d/1s9pZjUrX54kloJ5WvTmaNSRCy4Yp3bBC/view<br><br>ORDINANZA PER TEMPORANEA ISTITUZIONE DEL DIVIETO DI SOSTA ZONA RIMOZIONE SU VIA ITALO BALBO AMBO I LATI, NEL TRATTO COMPRESO TRA VIA G. PRIOLO E LA VIA GEN. G. VACCA, LATO PIAZZA G. BELLINI, DIVIETO DI SOSTA CON ZONA RIMOZIONE SU VIA BALBO AMBO I LATI NEL TRATTO COMPRESO TRA IL CIV. 16E LA VIA VACCA AL FINE DI CONSENTIRE LE MANOVRE D’INGRESSO AL CANTIERE EDILE, DEROGA TEMPORANEA AL SENSO UNICO DI CIRCOLAZIONE PRESENTE SULLA VIA BALBO TRATTO COMPRESO TRA LA GEN. G. VACCA E LA VIA G. PRIOLO PER IL SOLO TRANSITO DEI VEICOLI DI CANTIERE E DEROGA AL SENSO UNICO DI CIRCOLAZIONE SU VIA PRIOLO TRATTO COMPRESO TRA LA VIA CAPUTO E LA VIA BALBO PER IL TRANSITO DEI MEZZI DI CANTIERE PER SCARICO MERCI DAL GIORNO 28/10/2026 AL GIORNO 03/02/2027. SOCIETÀ:DI GROUP BUILDINGS S.R.L. ISTANTE: DILERMA PIETRO <br><br>Durata e tempistiche: 28/10/2026-03/02/2027<br><br>ORDINANZA 2026/04941 <br>https://drive.google.com/file/d/1oHr4ZDL7roiYewr6FqxfK8a0lZtg8ucs/view<br><br>ORDINANZA PER TEMPORANEA ISTITUZIONE DEL DIVIETO DI SOSTA ZONA RIMOZIONE SU VIA ITALO BALBO NEL TRATTO COMPRESO TRA VIA G. PRIOLO E LA VIA GEN. G. VACCA, AMBO I LATI – DIVIETO DI TRANSITO NEL TRATTO COMPRESO TRA VIA MARIA JOSÈ DI SAVOIA E VIA GEN. G. VACCA E DEROGA TEMPORANEA AL SENSO UNICO DI CIRCOLAZIONE PRESENTE SULLA VIA BALBO TRATTO COMPRESO TRA LA GEN. G. VACCA E LA VIA G. PRIOLO E DEROGA SU VIA PRIOLO TRATTO COMPRESO TRA LA VIA CAPUTO E LA VIA BALBO PER CONSENTIRE IL TRANSITO DEI MEZZI DI CANTIERE E SOVRAINTENDERE IL TRANSITO IN SICUREZZA DEI VEICOLI STESSI. DAL 22/10/2026 AL 23/10/2026 SOCIETÀ:DI GROUP BUILDINGS S.R.L. ISTANTE: DILERMA PIETRO <br><br><br>Durata e tempistiche: 22/10/2026 - 23/10/2026 <br><br>ORDINANZA 2026/02914 <br><br>https://drive.google.com/file/d/1q4DE7vfG8veLk16dPYr1wg_6rtNiAKis/view<br><br>ORDINANZA PER TEMPORANEA ISTITUZIONE DEL DIVIETO DI SOSTA ZONA RIMOZIONE SU VIA ITALO BALBO NEL TRATTO COMPRESO TRA VIA G. PRIOLO E LA VIA GEN. G. VACCA, LATO PIAZZA G. BELLINI, DEROGA TEMPORANEA AL SENSO UNICO DI CIRCOLAZIONE PRESENTE SULLA VIA BALBO TRATTO COMPRESO TRA LA GEN. G. VACCA E LA VIA G. PRIOLO E DEROGA SU VIA PRIOLO TRATTO COMPRESO TRA LA VIA CAPUTO E LA VIA BALBO IN VARIE DATE COMPRESE TRA IL 24/06/2026 E IL 21/10/2026 PER CONSENTIRE IL TRANSITO DEI MEZZI DI CANTIERE NECESSARI PER L’ESECUZIONE DEL GETTO DI CLS PER LA REALIZZAZIONE DI UN NUOVO FABBRICATO. SOCIETÀ: DI GROUP BUILDINGS S.R.L. ISTANTE: DILERMA PIETRO <br><br>24/06/2026 – 01/07/2026 – 08/07/2026 – 15/07/2026 – 22/07/2026 – 29/07/2026 – 05/08/2026 – 12/08/2026 – 19/08/2026 – 26/08/2026 – 02/09/2026 – 09/09/2026 – 16/09/2026 – 23/09/2026 – 30/09/2026 – 07/10/2026 – 14/10/2026 – 21/10/2026 1. Istituzione temporanea del divieto di sosta-rimozione coatta su via Italo Balbo nel tratto stradale compreso tra la via Priolo e la via Vacca, lato Piazza G. Bellini; 2. Deroga temporanea del senso unico di circolazione presente sulla via Balbo tatto compreso tra la via Vacca e la via Priolo per il tempo strettamente necessario al solo transito dei veicoli di cantiere, con l’ausilio di movieri dotati di idoneo equipaggiamento che dovranno posizionarsi alle intersezioni via Priolo/via Balbo e via Balbo/via Vacca; 3. Deroga temporanea al senso unico di circolazione presente sulla via Priolo tratto compreso tra la via Caputo e la via Balbo per il tempo strettamente necessario al solo transito dei mezzi di cantiere con l’ausilio di movieri dotati di idoneo equipaggiamento che dovranno posizionarsi alle intersezioni via Priolo/via Balbo e via Priolo/via Caputo; 4. Deroga temporanea al divieto di transito per mezzi superiori ai 35 t. vigente sulla via Vittorio Veneto a partire dall’intersezione con via Nazionale; 5. Il passaggio dei veicoli dovrà essere effettuato a velocità particolarmente ridotta e accompagnato da movieri di idoneo equipaggiamento; 6. Durante l’esecuzione dei lavori dovrà essere garantito l’accesso/uscita in zona ai residenti e mezzi di soccorso e/o polizi]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -4516,14 +4550,14 @@ IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03953 
+      <name>ORDINANZA 2026/05171 
 DIVIETO DI SOSTA, DI FERMATA AMBO I LATI
 STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI
 CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
 IMPRESA ESECUTRICE: ACCIONA AGUA S.A. 
-01/09/2026 - 30/10/2026 
+01/09/2026 - 31/12/2026
 </name>
-      <description><![CDATA[ORDINANZA 2026/03953 <br>https://drive.google.com/file/d/19DysoNHQrL8Xp6oe2fliY_O5B9DKleUj/view<br><br> PROROGA ORDINANZA DIRIGENZIALE N.2026/03299<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI. PROROGA ORDINANZA DIRIGENZIALE N.2026/03299 DEL 03/07/2026, DAL GIORNO 01/09/2026 AL 30/10/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 01/09/2026 - 30/10/2026 <br><br>ORDINANZA 2026/03299<br><br>https://drive.google.com/file/d/1fsN5NXZkNZnC7HhGyrb1ud_p488DRhJR/view<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA<br>CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br>DALL'ESECUTIVITA' DELL'ATTO SINO AL GIORNO 31/08/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL 03/07/2026 AL 31/08/2026]]></description>
+      <description><![CDATA[PROROGATA DALLA ORDINANZA 2026/05171<br>https://drive.google.com/file/d/1659ASrUkHhSVWiFIerIV3xVHx6XY_bBk/view<br>FINO AL 31/12/2026<br><br>ORDINANZA 2026/03953 <br>https://drive.google.com/file/d/19DysoNHQrL8Xp6oe2fliY_O5B9DKleUj/view<br><br> PROROGA ORDINANZA DIRIGENZIALE N.2026/03299<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI. PROROGA ORDINANZA DIRIGENZIALE N.2026/03299 DEL 03/07/2026, DAL GIORNO 01/09/2026 AL 30/10/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 01/09/2026 - 30/10/2026 <br><br>ORDINANZA 2026/03299<br><br>https://drive.google.com/file/d/1fsN5NXZkNZnC7HhGyrb1ud_p488DRhJR/view<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA<br>CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br>DALL'ESECUTIVITA' DELL'ATTO SINO AL GIORNO 31/08/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL 03/07/2026 AL 31/08/2026]]></description>
       <styleUrl>#line-E65100-5650</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -4534,14 +4568,14 @@ IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03953 
+      <name>ORDINANZA 2026/05171 
 DIVIETO DI SOSTA, DI FERMATA AMBO I LATI
 STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI
 CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
 IMPRESA ESECUTRICE: ACCIONA AGUA S.A. 
-01/09/2026 - 30/10/2026  
+01/09/2026 - 31/12/2026
 </name>
-      <description><![CDATA[ORDINANZA 2026/03953 <br>https://drive.google.com/file/d/19DysoNHQrL8Xp6oe2fliY_O5B9DKleUj/view<br><br> PROROGA ORDINANZA DIRIGENZIALE N.2026/03299<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI. PROROGA ORDINANZA DIRIGENZIALE N.2026/03299 DEL 03/07/2026, DAL GIORNO 01/09/2026 AL 30/10/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 01/09/2026 - 30/10/2026 <br><br>ORDINANZA 2026/03299<br><br>https://drive.google.com/file/d/1fsN5NXZkNZnC7HhGyrb1ud_p488DRhJR/view<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA<br>CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br>DALL'ESECUTIVITA' DELL'ATTO SINO AL GIORNO 31/08/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL 03/07/2026 AL 31/08/2026]]></description>
+      <description><![CDATA[PROROGATA DALLA ORDINANZA 2026/05171<br>https://drive.google.com/file/d/1659ASrUkHhSVWiFIerIV3xVHx6XY_bBk/view<br>FINO AL 31/12/2026<br><br>ORDINANZA 2026/03953 <br>https://drive.google.com/file/d/19DysoNHQrL8Xp6oe2fliY_O5B9DKleUj/view<br><br> PROROGA ORDINANZA DIRIGENZIALE N.2026/03299<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI. PROROGA ORDINANZA DIRIGENZIALE N.2026/03299 DEL 03/07/2026, DAL GIORNO 01/09/2026 AL 30/10/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 01/09/2026 - 30/10/2026 <br><br>ORDINANZA 2026/03299<br><br>https://drive.google.com/file/d/1fsN5NXZkNZnC7HhGyrb1ud_p488DRhJR/view<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA<br>CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br>DALL'ESECUTIVITA' DELL'ATTO SINO AL GIORNO 31/08/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL 03/07/2026 AL 31/08/2026]]></description>
       <styleUrl>#line-E65100-5069</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -4553,14 +4587,14 @@ IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03953 
+      <name>ORDINANZA 2026/05171 
 DIVIETO DI SOSTA, DI FERMATA AMBO I LATI
 STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI
 CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
 IMPRESA ESECUTRICE: ACCIONA AGUA S.A. 
-01/09/2026 - 30/10/2026 
+01/09/2026 - 31/12/2026
 </name>
-      <description><![CDATA[ORDINANZA 2026/03953 <br>https://drive.google.com/file/d/19DysoNHQrL8Xp6oe2fliY_O5B9DKleUj/view<br><br> PROROGA ORDINANZA DIRIGENZIALE N.2026/03299<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI. PROROGA ORDINANZA DIRIGENZIALE N.2026/03299 DEL 03/07/2026, DAL GIORNO 01/09/2026 AL 30/10/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 01/09/2026 - 30/10/2026 <br><br>ORDINANZA 2026/03299<br><br>https://drive.google.com/file/d/1fsN5NXZkNZnC7HhGyrb1ud_p488DRhJR/view<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA<br>CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br>DALL'ESECUTIVITA' DELL'ATTO SINO AL GIORNO 31/08/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL 03/07/2026 AL 31/08/2026]]></description>
+      <description><![CDATA[PROROGATA DALLA ORDINANZA 2026/05171<br>https://drive.google.com/file/d/1659ASrUkHhSVWiFIerIV3xVHx6XY_bBk/view<br>FINO AL 31/12/2026<br><br>ORDINANZA 2026/03953 <br>https://drive.google.com/file/d/19DysoNHQrL8Xp6oe2fliY_O5B9DKleUj/view<br><br> PROROGA ORDINANZA DIRIGENZIALE N.2026/03299<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI. PROROGA ORDINANZA DIRIGENZIALE N.2026/03299 DEL 03/07/2026, DAL GIORNO 01/09/2026 AL 30/10/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 01/09/2026 - 30/10/2026 <br><br>ORDINANZA 2026/03299<br><br>https://drive.google.com/file/d/1fsN5NXZkNZnC7HhGyrb1ud_p488DRhJR/view<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA<br>CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br>DALL'ESECUTIVITA' DELL'ATTO SINO AL GIORNO 31/08/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL 03/07/2026 AL 31/08/2026]]></description>
       <styleUrl>#line-E65100-4100</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -4571,14 +4605,14 @@ IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03953 
+      <name>ORDINANZA 2026/05171 
 DIVIETO DI SOSTA, DI FERMATA AMBO I LATI
 STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI
 CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
 IMPRESA ESECUTRICE: ACCIONA AGUA S.A. 
-01/09/2026 - 30/10/2026
+01/09/2026 - 31/12/2026
 </name>
-      <description><![CDATA[ORDINANZA 2026/03953 <br>https://drive.google.com/file/d/19DysoNHQrL8Xp6oe2fliY_O5B9DKleUj/view<br><br> PROROGA ORDINANZA DIRIGENZIALE N.2026/03299<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI. PROROGA ORDINANZA DIRIGENZIALE N.2026/03299 DEL 03/07/2026, DAL GIORNO 01/09/2026 AL 30/10/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 01/09/2026 - 30/10/2026 <br><br>ORDINANZA 2026/03299<br><br>https://drive.google.com/file/d/1fsN5NXZkNZnC7HhGyrb1ud_p488DRhJR/view<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA<br>CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br>DALL'ESECUTIVITA' DELL'ATTO SINO AL GIORNO 31/08/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL 03/07/2026 AL 31/08/2026]]></description>
+      <description><![CDATA[PROROGATA DALLA ORDINANZA 2026/05171<br>https://drive.google.com/file/d/1659ASrUkHhSVWiFIerIV3xVHx6XY_bBk/view<br>FINO AL 31/12/2026<br><br>ORDINANZA 2026/03953 <br>https://drive.google.com/file/d/19DysoNHQrL8Xp6oe2fliY_O5B9DKleUj/view<br><br> PROROGA ORDINANZA DIRIGENZIALE N.2026/03299<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI. PROROGA ORDINANZA DIRIGENZIALE N.2026/03299 DEL 03/07/2026, DAL GIORNO 01/09/2026 AL 30/10/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 01/09/2026 - 30/10/2026 <br><br>ORDINANZA 2026/03299<br><br>https://drive.google.com/file/d/1fsN5NXZkNZnC7HhGyrb1ud_p488DRhJR/view<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA<br>CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br>DALL'ESECUTIVITA' DELL'ATTO SINO AL GIORNO 31/08/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL 03/07/2026 AL 31/08/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -4587,14 +4621,14 @@ IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03953 
+      <name>ORDINANZA 2026/05171 
 DIVIETO DI SOSTA, DI FERMATA AMBO I LATI
 STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI
 CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
 IMPRESA ESECUTRICE: ACCIONA AGUA S.A. 
-01/09/2026 - 30/10/2026 
+01/09/2026 - 31/12/2026
 </name>
-      <description><![CDATA[ORDINANZA 2026/03953 <br>https://drive.google.com/file/d/19DysoNHQrL8Xp6oe2fliY_O5B9DKleUj/view<br><br> PROROGA ORDINANZA DIRIGENZIALE N.2026/03299<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI. PROROGA ORDINANZA DIRIGENZIALE N.2026/03299 DEL 03/07/2026, DAL GIORNO 01/09/2026 AL 30/10/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 01/09/2026 - 30/10/2026 <br><br>ORDINANZA 2026/03299<br><br>https://drive.google.com/file/d/1fsN5NXZkNZnC7HhGyrb1ud_p488DRhJR/view<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA<br>CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br>DALL'ESECUTIVITA' DELL'ATTO SINO AL GIORNO 31/08/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL 03/07/2026 AL 31/08/2026]]></description>
+      <description><![CDATA[PROROGATA DALLA ORDINANZA 2026/05171<br>https://drive.google.com/file/d/1659ASrUkHhSVWiFIerIV3xVHx6XY_bBk/view<br>FINO AL 31/12/2026<br><br>ORDINANZA 2026/03953 <br>https://drive.google.com/file/d/19DysoNHQrL8Xp6oe2fliY_O5B9DKleUj/view<br><br> PROROGA ORDINANZA DIRIGENZIALE N.2026/03299<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI. PROROGA ORDINANZA DIRIGENZIALE N.2026/03299 DEL 03/07/2026, DAL GIORNO 01/09/2026 AL 30/10/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 01/09/2026 - 30/10/2026 <br><br>ORDINANZA 2026/03299<br><br>https://drive.google.com/file/d/1fsN5NXZkNZnC7HhGyrb1ud_p488DRhJR/view<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA<br>CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br>DALL'ESECUTIVITA' DELL'ATTO SINO AL GIORNO 31/08/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL 03/07/2026 AL 31/08/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -4603,14 +4637,14 @@ IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03953 
+      <name>ORDINANZA 2026/05171 
 DIVIETO DI SOSTA, DI FERMATA AMBO I LATI
 STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI
 CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
 IMPRESA ESECUTRICE: ACCIONA AGUA S.A. 
-01/09/2026 - 30/10/2026  
+01/09/2026 - 31/12/2026 
 </name>
-      <description><![CDATA[ORDINANZA 2026/03953 <br>https://drive.google.com/file/d/19DysoNHQrL8Xp6oe2fliY_O5B9DKleUj/view<br><br> PROROGA ORDINANZA DIRIGENZIALE N.2026/03299<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI. PROROGA ORDINANZA DIRIGENZIALE N.2026/03299 DEL 03/07/2026, DAL GIORNO 01/09/2026 AL 30/10/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 01/09/2026 - 30/10/2026 <br><br>ORDINANZA 2026/03299<br><br>https://drive.google.com/file/d/1fsN5NXZkNZnC7HhGyrb1ud_p488DRhJR/view<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA<br>CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br>DALL'ESECUTIVITA' DELL'ATTO SINO AL GIORNO 31/08/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL 03/07/2026 AL 31/08/2026]]></description>
+      <description><![CDATA[PROROGATA DALLA ORDINANZA 2026/05171<br>https://drive.google.com/file/d/1659ASrUkHhSVWiFIerIV3xVHx6XY_bBk/view<br>FINO AL 31/12/2026<br><br>ORDINANZA 2026/03953 <br>https://drive.google.com/file/d/19DysoNHQrL8Xp6oe2fliY_O5B9DKleUj/view<br><br> PROROGA ORDINANZA DIRIGENZIALE N.2026/03299<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI. PROROGA ORDINANZA DIRIGENZIALE N.2026/03299 DEL 03/07/2026, DAL GIORNO 01/09/2026 AL 30/10/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 01/09/2026 - 30/10/2026 <br><br>ORDINANZA 2026/03299<br><br>https://drive.google.com/file/d/1fsN5NXZkNZnC7HhGyrb1ud_p488DRhJR/view<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA<br>CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br>DALL'ESECUTIVITA' DELL'ATTO SINO AL GIORNO 31/08/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL 03/07/2026 AL 31/08/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -4619,14 +4653,14 @@ IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03953 
+      <name>ORDINANZA 2026/05171 
 DIVIETO DI SOSTA, DI FERMATA AMBO I LATI
 STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI
 CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
 IMPRESA ESECUTRICE: ACCIONA AGUA S.A. 
-01/09/2026 - 30/10/2026 
+01/09/2026 - 31/12/2026
 </name>
-      <description><![CDATA[ORDINANZA 2026/03953 <br>https://drive.google.com/file/d/19DysoNHQrL8Xp6oe2fliY_O5B9DKleUj/view<br><br> PROROGA ORDINANZA DIRIGENZIALE N.2026/03299<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI. PROROGA ORDINANZA DIRIGENZIALE N.2026/03299 DEL 03/07/2026, DAL GIORNO 01/09/2026 AL 30/10/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 01/09/2026 - 30/10/2026 <br><br>ORDINANZA 2026/03299<br><br>https://drive.google.com/file/d/1fsN5NXZkNZnC7HhGyrb1ud_p488DRhJR/view<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA<br>CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br>DALL'ESECUTIVITA' DELL'ATTO SINO AL GIORNO 31/08/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL 03/07/2026 AL 31/08/2026]]></description>
+      <description><![CDATA[PROROGATA DALLA ORDINANZA 2026/05171<br>https://drive.google.com/file/d/1659ASrUkHhSVWiFIerIV3xVHx6XY_bBk/view<br>FINO AL 31/12/2026<br><br>ORDINANZA 2026/03953 <br>https://drive.google.com/file/d/19DysoNHQrL8Xp6oe2fliY_O5B9DKleUj/view<br><br> PROROGA ORDINANZA DIRIGENZIALE N.2026/03299<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI. PROROGA ORDINANZA DIRIGENZIALE N.2026/03299 DEL 03/07/2026, DAL GIORNO 01/09/2026 AL 30/10/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 01/09/2026 - 30/10/2026 <br><br>ORDINANZA 2026/03299<br><br>https://drive.google.com/file/d/1fsN5NXZkNZnC7HhGyrb1ud_p488DRhJR/view<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA<br>CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br>DALL'ESECUTIVITA' DELL'ATTO SINO AL GIORNO 31/08/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL 03/07/2026 AL 31/08/2026]]></description>
       <styleUrl>#line-E65100-3325</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -4637,14 +4671,14 @@ IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03953 
+      <name>ORDINANZA 2026/05171 
 DIVIETO DI SOSTA, DI FERMATA AMBO I LATI
 STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI
 CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
 IMPRESA ESECUTRICE: ACCIONA AGUA S.A. 
-01/09/2026 - 30/10/2026 
+01/09/2026 - 31/12/2026
 </name>
-      <description><![CDATA[ORDINANZA 2026/03953 <br>https://drive.google.com/file/d/19DysoNHQrL8Xp6oe2fliY_O5B9DKleUj/view<br><br> PROROGA ORDINANZA DIRIGENZIALE N.2026/03299<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI. PROROGA ORDINANZA DIRIGENZIALE N.2026/03299 DEL 03/07/2026, DAL GIORNO 01/09/2026 AL 30/10/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 01/09/2026 - 30/10/2026 <br><br>ORDINANZA 2026/03299<br><br>https://drive.google.com/file/d/1fsN5NXZkNZnC7HhGyrb1ud_p488DRhJR/view<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA<br>CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br>DALL'ESECUTIVITA' DELL'ATTO SINO AL GIORNO 31/08/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL 03/07/2026 AL 31/08/2026]]></description>
+      <description><![CDATA[PROROGATA DALLA ORDINANZA 2026/05171<br>https://drive.google.com/file/d/1659ASrUkHhSVWiFIerIV3xVHx6XY_bBk/view<br>FINO AL 31/12/2026<br><br>ORDINANZA 2026/03953 <br>https://drive.google.com/file/d/19DysoNHQrL8Xp6oe2fliY_O5B9DKleUj/view<br><br> PROROGA ORDINANZA DIRIGENZIALE N.2026/03299<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI. PROROGA ORDINANZA DIRIGENZIALE N.2026/03299 DEL 03/07/2026, DAL GIORNO 01/09/2026 AL 30/10/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 01/09/2026 - 30/10/2026 <br><br>ORDINANZA 2026/03299<br><br>https://drive.google.com/file/d/1fsN5NXZkNZnC7HhGyrb1ud_p488DRhJR/view<br><br>P1557 ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI<br>SOSTA, DI FERMATA AMBO I LATI SU STRADA TOMASICCHIO, VIA<br>CIMAROSA, VIA PAISIELLO E VIA NAPOLI, PER IL CONTROLLO DELLE<br>PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE<br>RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI<br>DALL'ESECUTIVITA' DELL'ATTO SINO AL GIORNO 31/08/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br><br>Durata e tempistiche: DAL 03/07/2026 AL 31/08/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -4755,8 +4789,8 @@ IMPRESA ESECUTRICE:R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/04765
-
+      <name>Prorogata da ordinanza ORDINANZA 2026/05208
+ORDINANZA 2026/04765
 DIVIETO DI SOSTA DI FERMATA E RESTRINGIMENTO CARREGGIATA SU VIA
 ERACLIDE (DA INTERSEZIONE CON VIA CALDAROLA A INTERSEZIONE CON
 VIA SCHIAVO DA BARI) INCROCI COMPRESI 2) VIA SCHIAVO DA BARI (DA
@@ -4774,8 +4808,9 @@ MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E
 SOSTITUZIONE DEI TRONCHI VETUSTI - P1557 LOTTO 1.
 IMPRESA ESECUTRICE :ACCIONA AGUA S.A.
 TERMINE E DURATA: dal 07/07/2029 al 10/11/2026
+11/11/2026-18/12/2026
 </name>
-      <description><![CDATA[PROROGATA FINO AL PROROGATA FINO AL 10/11/2026<br>DALLA 2026/04765<br>https://drive.google.com/file/d/1G0PC67DnrGDev7V6GdMdrHKc9f8E2SM7/view<br><br>ORDINANZA 2026/03369<br>https://drive.google.com/file/d/1q8S3AdsigJXolWwkFAWMpZxTcYmhFG0B/view<br>Istituzione temporanea del divieto di sosta di fermata e restringimento carreggiata su:<br>1)VIA ERACLIDE (da intersezione con Via Caldarola a intersezione con Via Schiavo da Bari) incroci<br>compresi<br>2) VIA SCHIAVO DA BARI (da intersezione con Via Eraclide a intersezione con Via Daunia)incroci<br>compresi –<br>3) VIA SIPONTO (da intersezione con Via Daunia a fine strada) incroci compresi –<br>4)VIA SALAPIA (da intersezione con Via Siponto a intersezione con Via Padre Massimiliano Kolbe) incroci<br>compresi<br><br>5) VIA PADRE MASSIMILIANO KOLBE (da intersezione con Via Salapia a fine strada) incroci compresi –<br>6) VIA DAI CADUTI PARTIGIANI (da intersezione con Via Salapia a intersezione con Via Lupo<br>Protospata) incroci compresi<br>La ditta deve regolamentare la situazione viabilistica a mezzo di appositi movieri e delimiti<br>accuratamente con segnaletica di cantiere, recinzioni ed ogni strumento idoneo, l’area interessata dai<br>lavori;<br>Particolare attenzione dovrà essere posta ai pedoni e alle persone con ridotta capacità motoria , il cui<br>transito dovrà essere salvaguardato durante i lavori;<br>Dovranno essere altresì salvaguardati gli accessi privati e il transito dei mezzi di soccorso e/o polizia,<br>compatibilmente con l’esecuzione dei lavori;<br>I lavori saranno svolti nei giorni dal lunedì al venerdì, dalle ore 00:00 alle ore 24:00 e salvo urgenze e<br>necessità anche nei giorni di sabato e domenica;<br>TERMINE E DURATA: dal 07/07/2029 al 30/09/2026]]></description>
+      <description><![CDATA[ORDINANZA 2026/05208 <br>https://drive.google.com/file/d/1XBlaLmpSJUgTVDY7_9gUAL331WbGYFmU/view<br>Durata e tempistiche: 11/11/2026-18/12/2026<br><br>PROROGATA FINO AL PROROGATA FINO AL 10/11/2026<br>DALLA 2026/04765<br>https://drive.google.com/file/d/1G0PC67DnrGDev7V6GdMdrHKc9f8E2SM7/view<br><br>ORDINANZA 2026/03369<br>https://drive.google.com/file/d/1q8S3AdsigJXolWwkFAWMpZxTcYmhFG0B/view<br>Istituzione temporanea del divieto di sosta di fermata e restringimento carreggiata su:<br>1)VIA ERACLIDE (da intersezione con Via Caldarola a intersezione con Via Schiavo da Bari) incroci<br>compresi<br>2) VIA SCHIAVO DA BARI (da intersezione con Via Eraclide a intersezione con Via Daunia)incroci<br>compresi –<br>3) VIA SIPONTO (da intersezione con Via Daunia a fine strada) incroci compresi –<br>4)VIA SALAPIA (da intersezione con Via Siponto a intersezione con Via Padre Massimiliano Kolbe) incroci<br>compresi<br><br>5) VIA PADRE MASSIMILIANO KOLBE (da intersezione con Via Salapia a fine strada) incroci compresi –<br>6) VIA DAI CADUTI PARTIGIANI (da intersezione con Via Salapia a intersezione con Via Lupo<br>Protospata) incroci compresi<br>La ditta deve regolamentare la situazione viabilistica a mezzo di appositi movieri e delimiti<br>accuratamente con segnaletica di cantiere, recinzioni ed ogni strumento idoneo, l’area interessata dai<br>lavori;<br>Particolare attenzione dovrà essere posta ai pedoni e alle persone con ridotta capacità motoria , il cui<br>transito dovrà essere salvaguardato durante i lavori;<br>Dovranno essere altresì salvaguardati gli accessi privati e il transito dei mezzi di soccorso e/o polizia,<br>compatibilmente con l’esecuzione dei lavori;<br>I lavori saranno svolti nei giorni dal lunedì al venerdì, dalle ore 00:00 alle ore 24:00 e salvo urgenze e<br>necessità anche nei giorni di sabato e domenica;<br>TERMINE E DURATA: dal 07/07/2029 al 30/09/2026]]></description>
       <styleUrl>#line-E65100-4100</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -4795,8 +4830,8 @@ TERMINE E DURATA: dal 07/07/2029 al 10/11/2026
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/04765
-
+      <name>Prorogata da ordinanza ORDINANZA 2026/05208
+ORDINANZA 2026/04765
 DIVIETO DI SOSTA DI FERMATA E RESTRINGIMENTO CARREGGIATA SU VIA
 ERACLIDE (DA INTERSEZIONE CON VIA CALDAROLA A INTERSEZIONE CON
 VIA SCHIAVO DA BARI) INCROCI COMPRESI 2) VIA SCHIAVO DA BARI (DA
@@ -4814,8 +4849,8 @@ MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E
 SOSTITUZIONE DEI TRONCHI VETUSTI - P1557 LOTTO 1.
 IMPRESA ESECUTRICE :ACCIONA AGUA S.A.
 TERMINE E DURATA: dal 07/07/2029 al 10/11/2026
-</name>
-      <description><![CDATA[PROROGATA FINO AL 10/11/2026 <br>DALLA 2026/04765<br>https://drive.google.com/file/d/1G0PC67DnrGDev7V6GdMdrHKc9f8E2SM7/view<br><br>ORDINANZA 2026/03369<br>https://drive.google.com/file/d/1q8S3AdsigJXolWwkFAWMpZxTcYmhFG0B/view<br>Istituzione temporanea del divieto di sosta di fermata e restringimento carreggiata su:<br>1)VIA ERACLIDE (da intersezione con Via Caldarola a intersezione con Via Schiavo da Bari) incroci<br>compresi<br>2) VIA SCHIAVO DA BARI (da intersezione con Via Eraclide a intersezione con Via Daunia)incroci<br>compresi –<br>3) VIA SIPONTO (da intersezione con Via Daunia a fine strada) incroci compresi –<br>4)VIA SALAPIA (da intersezione con Via Siponto a intersezione con Via Padre Massimiliano Kolbe) incroci<br>compresi<br><br>5) VIA PADRE MASSIMILIANO KOLBE (da intersezione con Via Salapia a fine strada) incroci compresi –<br>6) VIA DAI CADUTI PARTIGIANI (da intersezione con Via Salapia a intersezione con Via Lupo<br>Protospata) incroci compresi<br>La ditta deve regolamentare la situazione viabilistica a mezzo di appositi movieri e delimiti<br>accuratamente con segnaletica di cantiere, recinzioni ed ogni strumento idoneo, l’area interessata dai<br>lavori;<br>Particolare attenzione dovrà essere posta ai pedoni e alle persone con ridotta capacità motoria , il cui<br>transito dovrà essere salvaguardato durante i lavori;<br>Dovranno essere altresì salvaguardati gli accessi privati e il transito dei mezzi di soccorso e/o polizia,<br>compatibilmente con l’esecuzione dei lavori;<br>I lavori saranno svolti nei giorni dal lunedì al venerdì, dalle ore 00:00 alle ore 24:00 e salvo urgenze e<br>necessità anche nei giorni di sabato e domenica;<br>TERMINE E DURATA: dal 07/07/2029 al 30/09/2026]]></description>
+11/11/2026-18/12/2026</name>
+      <description><![CDATA[ORDINANZA 2026/05208<br>https://drive.google.com/file/d/1XBlaLmpSJUgTVDY7_9gUAL331WbGYFmU/view<br>Durata e tempistiche: 11/11/2026-18/12/2026<br><br>PROROGATA FINO AL 10/11/2026 <br>DALLA 2026/04765<br>https://drive.google.com/file/d/1G0PC67DnrGDev7V6GdMdrHKc9f8E2SM7/view<br><br>ORDINANZA 2026/03369<br>https://drive.google.com/file/d/1q8S3AdsigJXolWwkFAWMpZxTcYmhFG0B/view<br>Istituzione temporanea del divieto di sosta di fermata e restringimento carreggiata su:<br>1)VIA ERACLIDE (da intersezione con Via Caldarola a intersezione con Via Schiavo da Bari) incroci<br>compresi<br>2) VIA SCHIAVO DA BARI (da intersezione con Via Eraclide a intersezione con Via Daunia)incroci<br>compresi –<br>3) VIA SIPONTO (da intersezione con Via Daunia a fine strada) incroci compresi –<br>4)VIA SALAPIA (da intersezione con Via Siponto a intersezione con Via Padre Massimiliano Kolbe) incroci<br>compresi<br><br>5) VIA PADRE MASSIMILIANO KOLBE (da intersezione con Via Salapia a fine strada) incroci compresi –<br>6) VIA DAI CADUTI PARTIGIANI (da intersezione con Via Salapia a intersezione con Via Lupo<br>Protospata) incroci compresi<br>La ditta deve regolamentare la situazione viabilistica a mezzo di appositi movieri e delimiti<br>accuratamente con segnaletica di cantiere, recinzioni ed ogni strumento idoneo, l’area interessata dai<br>lavori;<br>Particolare attenzione dovrà essere posta ai pedoni e alle persone con ridotta capacità motoria , il cui<br>transito dovrà essere salvaguardato durante i lavori;<br>Dovranno essere altresì salvaguardati gli accessi privati e il transito dei mezzi di soccorso e/o polizia,<br>compatibilmente con l’esecuzione dei lavori;<br>I lavori saranno svolti nei giorni dal lunedì al venerdì, dalle ore 00:00 alle ore 24:00 e salvo urgenze e<br>necessità anche nei giorni di sabato e domenica;<br>TERMINE E DURATA: dal 07/07/2029 al 30/09/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -5489,7 +5524,9 @@ IMPRESA ESECUTRICE:R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/04766
+      <name>Proroga  2026/04766
+ORDINANZA 2026/05196
+ORDINANZA 2026/04766
 DIVIETO DI SOSTA AMBO I ALTI SENSO UNICO ALTERNATO 
 RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI
 TRANSITO
@@ -5497,8 +5534,9 @@ VIA PANTALEO CARABELLESE
 VIA COLONELLO LORENZO D’AVANZO LAVORI DI SCAVI PER
 SOSTITUZIONE E POSA DELLE NUOVE CONDOTTE IN GHISA
 IMPRESA ESECUTRICE:ACCIONA AGUA S.A
-17/08/2026 - 10/11/2026 </name>
-      <description><![CDATA[PROROGATA FINO AL 10/11/2026 DALLA 2026/04766<br>https://drive.google.com/file/d/1CavZj-A-PyBddTFz_DGJ9Nm1US8VIOKV/view<br><br>ORDINANZA 2026/03774<br><br>https://drive.google.com/file/d/1Pixj9nrPHPNxW87cI_tX7Q5iWUvWNx2x/view<br>Istituzione temporanea del<br>divieto di sosta ambo i alti, senso unico alternato nonché restringimento carreggiata e all’occorrenza<br>divieto di transito su .<br>VIA PANTALEO CARABELLESE (da intersezione con Via Colonello Lorenzo D’Avanzo a intersezione con Via<br>Giuseppe Papalia)<br>2) VIA COLONELLO LORENZO D’AVANZO (da intersezione con Via Pantaleo Carabellese a intersezione con<br>Via Lorenzo D’Avanzo<br>3. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br>TERMINE E DURATA: DAL 17/08/2026 SINO AL 30/09/2026 DALLE ORE 00 ALLE ORE 24.]]></description>
+17/08/2026 - 10/11/2026 
+11/11/2026-20/12/2026 00:00-24:00</name>
+      <description><![CDATA[Proroga<br>ORDINANZA 2026/05196<br>https://drive.google.com/file/d/19gvVV0hhD0932I-V_8rAxsSfYgEflFMZ/view<br><br>Durata e tempistiche: 11/11/2026-20/12/2026 00:00-24:00<br><br>PROROGATA FINO AL 10/11/2026 DALLA 2026/04766<br>https://drive.google.com/file/d/1CavZj-A-PyBddTFz_DGJ9Nm1US8VIOKV/view<br><br>ORDINANZA 2026/03774<br><br>https://drive.google.com/file/d/1Pixj9nrPHPNxW87cI_tX7Q5iWUvWNx2x/view<br>Istituzione temporanea del<br>divieto di sosta ambo i alti, senso unico alternato nonché restringimento carreggiata e all’occorrenza<br>divieto di transito su .<br>VIA PANTALEO CARABELLESE (da intersezione con Via Colonello Lorenzo D’Avanzo a intersezione con Via<br>Giuseppe Papalia)<br>2) VIA COLONELLO LORENZO D’AVANZO (da intersezione con Via Pantaleo Carabellese a intersezione con<br>Via Lorenzo D’Avanzo<br>3. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br>TERMINE E DURATA: DAL 17/08/2026 SINO AL 30/09/2026 DALLE ORE 00 ALLE ORE 24.]]></description>
       <styleUrl>#line-E65100-5069</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -5510,7 +5548,9 @@ IMPRESA ESECUTRICE:ACCIONA AGUA S.A
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/04766
+      <name>Proroga 2026/04766
+ORDINANZA 2026/05196
+ORDINANZA 2026/04766
 DIVIETO DI SOSTA AMBO I ALTI SENSO UNICO ALTERNATO 
 RESTRINGIMENTO CARREGGIATA E ALL’OCCORRENZA DIVIETO DI
 TRANSITO 
@@ -5518,8 +5558,9 @@ VIA PANTALEO CARABELLESE
 VIA COLONELLO LORENZO D’AVANZO LAVORI DI SCAVI PER
 SOSTITUZIONE E POSA DELLE NUOVE CONDOTTE IN GHISA
 IMPRESA ESECUTRICE:ACCIONA AGUA S.A
-17/08/2026 - 10/11/2026</name>
-      <description><![CDATA[PROROGATA FINO AL 10/11/2026 DALLA 2026/04766<br>https://drive.google.com/file/d/1CavZj-A-PyBddTFz_DGJ9Nm1US8VIOKV/view<br><br>ORDINANZA 2026/03774<br><br>https://drive.google.com/file/d/1Pixj9nrPHPNxW87cI_tX7Q5iWUvWNx2x/view<br>Istituzione temporanea del<br>divieto di sosta ambo i alti, senso unico alternato nonché restringimento carreggiata e all’occorrenza<br>divieto di transito su .<br>VIA PANTALEO CARABELLESE (da intersezione con Via Colonello Lorenzo D’Avanzo a intersezione con Via<br>Giuseppe Papalia)<br>2) VIA COLONELLO LORENZO D’AVANZO (da intersezione con Via Pantaleo Carabellese a intersezione con<br>Via Lorenzo D’Avanzo<br>3. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br>TERMINE E DURATA: DAL 17/08/2026 SINO AL 30/09/2026 DALLE ORE 00 ALLE ORE 24.]]></description>
+17/08/2026 - 10/11/2026
+11/11/2026-20/12/2026 00:00-24:00</name>
+      <description><![CDATA[Proroga <br>ORDINANZA 2026/05196<br>https://drive.google.com/file/d/19gvVV0hhD0932I-V_8rAxsSfYgEflFMZ/view <br><br>Durata e tempistiche: 11/11/2026-20/12/2026 00:00-24:00<br><br>PROROGATA FINO AL 10/11/2026 DALLA 2026/04766<br>https://drive.google.com/file/d/1CavZj-A-PyBddTFz_DGJ9Nm1US8VIOKV/view<br><br>ORDINANZA 2026/03774<br><br>https://drive.google.com/file/d/1Pixj9nrPHPNxW87cI_tX7Q5iWUvWNx2x/view<br>Istituzione temporanea del<br>divieto di sosta ambo i alti, senso unico alternato nonché restringimento carreggiata e all’occorrenza<br>divieto di transito su .<br>VIA PANTALEO CARABELLESE (da intersezione con Via Colonello Lorenzo D’Avanzo a intersezione con Via<br>Giuseppe Papalia)<br>2) VIA COLONELLO LORENZO D’AVANZO (da intersezione con Via Pantaleo Carabellese a intersezione con<br>Via Lorenzo D’Avanzo<br>3. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br>TERMINE E DURATA: DAL 17/08/2026 SINO AL 30/09/2026 DALLE ORE 00 ALLE ORE 24.]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -5961,13 +6002,13 @@ IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/03853
+      <name>ORDINANZA 2026/05137
 DIVIETO DI SOSTA E RESTRINGIMENTO DI CARREGIATA
 VIA GIOACCHINO MURAT 53
 MANUTENZIONE EDILE ED IMPIANTISTICA DI TIPO ECCEZIONALE SCUOLE
 IMPRESA ESECUTRICE: IMPRESA CARAMELLA SRL
-31/08/2026 - 15/10/2026</name>
-      <description><![CDATA[Ordinanza 2026/03853<br><br>https://drive.google.com/file/d/14rUxmXyQsG6nq2z0R8f0zVxuzLiFq4Q9/view<br><br>ACCORDO QUADRO PER INTERVENTI DI MANUTENZIONE EDILE ED<br>IMPIANTISTICA DI TIPO ECCEZIONALE NON PROGRAMMATA E “A<br>CHIAMATA” AGLI IMMOBILI ADIBITI A SCUOLA MEDIA, ELEMENTARE,<br>MATERNA E NIDO GESTITI DAL COMUNE DI BARI: MUNICIPIO 1.<br>DIVIETO DI SOSTA CON RIMOZIONE FORZATA RESTRINGIMENTO DI<br>CARREGGIATA IN VIA GIOACCHINO MURAT,<br>PER UN’AREA DI 12,50 M A DESTRA E SINISTRA DEL CIV. 53<br>(CORRISPONDENTE AI CIVICI DA 122 AL 140 SUL<br>LATO OPPOSTO) PER IL PERIODO INTERCORRENTE TRA IL 31 AGOSTO E IL<br>15 OTTOBRE PPVV PER LAVORI DI MANUTENZIONE STRAORDINARIA DEL<br>PLESSO SCOLASTICO PASCOLI<br>RICHIEDENTE : RIPARTIZIONE INFRASTRUTTURE VIABILITÀ E OPERE<br>PUBBLICHE IL RESPONSABILE DEL PROGETTO ING. MAURO RESTA<br>IMPRESA CARAMELLA SRL - VIA BERGAMO 20B - 70022 ALTAMURA BA,<br><br>Durata e Tempistiche:: 31/08/2026 - 15/10/2026]]></description>
+31/08/2026 - 31/12/2026</name>
+      <description><![CDATA[ORDINANZA 2026/05137<br>https://drive.google.com/file/d/11g6dII5AZZCduuiXMqfYIOFk5JLDEEEg/view<br>PROROGATA FINO AL 31/12/2026<br><br>Ordinanza 2026/03853<br><br>https://drive.google.com/file/d/14rUxmXyQsG6nq2z0R8f0zVxuzLiFq4Q9/view<br><br>ACCORDO QUADRO PER INTERVENTI DI MANUTENZIONE EDILE ED<br>IMPIANTISTICA DI TIPO ECCEZIONALE NON PROGRAMMATA E “A<br>CHIAMATA” AGLI IMMOBILI ADIBITI A SCUOLA MEDIA, ELEMENTARE,<br>MATERNA E NIDO GESTITI DAL COMUNE DI BARI: MUNICIPIO 1.<br>DIVIETO DI SOSTA CON RIMOZIONE FORZATA RESTRINGIMENTO DI<br>CARREGGIATA IN VIA GIOACCHINO MURAT,<br>PER UN’AREA DI 12,50 M A DESTRA E SINISTRA DEL CIV. 53<br>(CORRISPONDENTE AI CIVICI DA 122 AL 140 SUL<br>LATO OPPOSTO) PER IL PERIODO INTERCORRENTE TRA IL 31 AGOSTO E IL<br>15 OTTOBRE PPVV PER LAVORI DI MANUTENZIONE STRAORDINARIA DEL<br>PLESSO SCOLASTICO PASCOLI<br>RICHIEDENTE : RIPARTIZIONE INFRASTRUTTURE VIABILITÀ E OPERE<br>PUBBLICHE IL RESPONSABILE DEL PROGETTO ING. MAURO RESTA<br>IMPRESA CARAMELLA SRL - VIA BERGAMO 20B - 70022 ALTAMURA BA,<br><br>Durata e Tempistiche:: 31/08/2026 - 15/10/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -7336,14 +7377,14 @@ IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/04072
+      <name>ORDINANZA 2026/05169
 DIVIETO DI SOSTA E DI FERMATA AMBO I LATI NONCHÉ RESTRINGIMENTO
 CARREGGIATA CON SENSO UNICO ALTERNATO
 TRAVERSA 9/D DI VIA NAZIONALE
 LAVORO RETI IDRICHE
 IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
-09/09/2026 - 02/11/2026</name>
-      <description><![CDATA[Ordinanza 2026/04072<br><br>https://drive.google.com/file/d/1JqhqLIf7etckchmVLpOFzizWApu9DT03/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA E DI FERMATA AMBO I LATI NONCHÉ RESTRINGIMENTO<br>CARREGGIATA CON SENSO UNICO ALTERNATO SU TRAVERSA 9/D DI VIA<br>NAZIONALE, PER INTERVENTI MIRATI A CONSEGUIRE LA<br>DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL<br>MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E<br>SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI DALL’ESECUTIVITÀ<br>DELL’ATTO SINO AL 02/11/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e Tempistiche: 09/09/2026 - 02/11/2026]]></description>
+09/09/2026 - 30/12/2026.</name>
+      <description><![CDATA[PROROGATA DALLA 2026/05169<br>https://drive.google.com/file/d/1QlbRb6WMVX64BxyJm97Kmms0symaE2WO/view<br>FINO AL 30/12/2026.<br><br>Ordinanza 2026/04072<br><br>https://drive.google.com/file/d/1JqhqLIf7etckchmVLpOFzizWApu9DT03/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA E DI FERMATA AMBO I LATI NONCHÉ RESTRINGIMENTO<br>CARREGGIATA CON SENSO UNICO ALTERNATO SU TRAVERSA 9/D DI VIA<br>NAZIONALE, PER INTERVENTI MIRATI A CONSEGUIRE LA<br>DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL<br>MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E<br>SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI DALL’ESECUTIVITÀ<br>DELL’ATTO SINO AL 02/11/2026.<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e Tempistiche: 09/09/2026 - 02/11/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -7744,15 +7785,16 @@ IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/04202 
+      <name>ORDINANZA 2026/05170 
 RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI SOSTA 
 VIA M. MITOLO DA VIA G. BARTOLO A VIALE DE LAURENTIS
 LAVORI DI COSTRUZIONE ALLACCIO IDRICO E FOGNARIO
 IMPRESA ESECUTRICE: ISAP SRL
 ISTANTE: AQP S.P.A. 
-05/10/2026 - 17/10/2026 07:00-17:00
+05/10/2026 - 31/12/2026
+07:00-17:00
 </name>
-      <description><![CDATA[ORDINANZA 2026/04202 <br>https://drive.google.com/file/d/1T87rO1SFFV-AO0uOrjr4PJHeDt4dd7PI/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI SOSTA IN VIA M. MITOLO DA VIA G. BARTOLO A VIALE DE LAURENTIS PER LAVORI DI COSTRUZIONE ALLACCIO IDRICO E IMPIANTO FOGNARIO DAL 5.10.2026 AL 17.10.2026 DALLA ORE 7.00 ALLE ORE 16.00 IMPRESA: ISAP SRL” CON SEDE LEGALE IN CONTRADA LEONESSA SNC - 85025 - MELFI (PZ) ISTANTE: AQP S.P.A. <br><br>Durata e tempistiche: 05/10/2026 - 17/10/2026 07:00-17:00]]></description>
+      <description><![CDATA[PROROGATA DALLA 2026/05170<br>https://drive.google.com/file/d/1xmIqqG_TI3-u9rzUfpNFI7IcisDRK0h-/view<br>FINO AL 31/12/2026.<br><br>ORDINANZA 2026/04202 <br>https://drive.google.com/file/d/1T87rO1SFFV-AO0uOrjr4PJHeDt4dd7PI/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E DIVIETO DI SOSTA IN VIA M. MITOLO DA VIA G. BARTOLO A VIALE DE LAURENTIS PER LAVORI DI COSTRUZIONE ALLACCIO IDRICO E IMPIANTO FOGNARIO DAL 5.10.2026 AL 17.10.2026 DALLA ORE 7.00 ALLE ORE 16.00 IMPRESA: ISAP SRL” CON SEDE LEGALE IN CONTRADA LEONESSA SNC - 85025 - MELFI (PZ) ISTANTE: AQP S.P.A. <br><br>Durata e tempistiche: 05/10/2026 - 17/10/2026 07:00-17:00]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -7761,14 +7803,14 @@ ISTANTE: AQP S.P.A.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/04204 
+      <name>ORDINANZA 2026/05170 
 DIVIETO DI SOSTA E DI FERMATA
 VIA STRADA COLA DI CAGNO
 P1557 LOTTO 1. PROGRAMMA DEGLI INTERVENTI AQP 2020-2023
 IMPRESA ESECUTRICE: ACCIONA AGUA S.A. 
-15/09/2026 - 30/10/2026 
+15/09/2026 - 31/12/2026. 
 </name>
-      <description><![CDATA[ORDINANZA 2026/04204 <br>https://drive.google.com/file/d/1n3E_fCrjKoLsbZOBYiKO9gxjBf-7_Qj7/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA E DI FERMATA SU VIA STRADA COLA DI CAGNO PER REALIZZAZIONE DI UNA POSTAZIONE DI MISURA POSIZIONATA LUNGO IL TRONCO OGGETTO DI RISANAMENTO E SUCCESSIVI RIPRISTINI PROVVISORI DALL’ESECUTIVITÀ DELL’ATTO SINO AL 30/10/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 15/09/2026 - 30/10/2026 ]]></description>
+      <description><![CDATA[PROROGATA DALLA 2026/05170<br>https://drive.google.com/file/d/1xmIqqG_TI3-u9rzUfpNFI7IcisDRK0h-/view<br>FINO AL 31/12/2026.<br><br>ORDINANZA 2026/04204 <br>https://drive.google.com/file/d/1n3E_fCrjKoLsbZOBYiKO9gxjBf-7_Qj7/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA E DI FERMATA SU VIA STRADA COLA DI CAGNO PER REALIZZAZIONE DI UNA POSTAZIONE DI MISURA POSIZIONATA LUNGO IL TRONCO OGGETTO DI RISANAMENTO E SUCCESSIVI RIPRISTINI PROVVISORI DALL’ESECUTIVITÀ DELL’ATTO SINO AL 30/10/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 15/09/2026 - 30/10/2026 ]]></description>
       <styleUrl>#line-E65100-3325</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -9534,14 +9576,13 @@ ISTANTE: AQP S.P.A.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/04763
-ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA
-AMBO I LATI CON RESTRINGIMENTO CARREGGIATA E SENSO UNICO ALTERNATO 
+      <name>ORDINANZA 2026/05127 
+DIVIETO DI SOSTA AMBO I LATI CON RESTRINGIMENTO CARREGGIATA CON SENSO UNICO ALTERNATO
 VIA AMMIRAGLIO CARACCIOLO
-INTERVENTO DI RIPRISTINO DEFINITIVO PREVISTO
-SOCIETÀ: ACCIONA AGUA S.A.
-01/10/2026 - 30/10/2026</name>
-      <description><![CDATA[Ordinanza: 2026/04763<br><br>https://drive.google.com/file/d/1NS5GQaEPCReNHJNL8vJcCf-RnbdS6kq7/view?usp=sharing<br><br>DURATA E TEMPISTICHE: 01/10/2026 - 30/10/2026]]></description>
+ESECUZIONE DEI RIPRISTINI DEFINITIVI 
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A
+01/10/2026 - 31/12/2026</name>
+      <description><![CDATA[Proroga Ordinanza: 2026/04763<br>ORDINANZA 2026/05127<br>https://drive.google.com/file/d/1idYrqKe7sn8Ta_VYOg2rfo80ZicBbIjM/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI CON RESTRINGIMENTO CARREGGIATA CON SENSO UNICO ALTERNATO SU VIA AMMIRAGLIO CARACCIOLO, PER IL COMPLETAMENTO DELLE LAVORAZIONI E PROCEDERE ALL’ESECUZIONE DEI RIPRISTINI DEFINITIVI PREVISTI DAL 02/11/2026 AL 31/12/2026. PROROGA ORDINANZA DIRIGENZIALE N.2026/04763 DEL 01/10/2026. SOCIETÀ: ACCIONA AGUA S.A<br><br>Durata e tempistiche: 02/11/2026-31/12/2026<br><br>Ordinanza: 2026/04763<br><br>https://drive.google.com/file/d/1NS5GQaEPCReNHJNL8vJcCf-RnbdS6kq7/view?usp=sharing<br><br>DURATA E TEMPISTICHE: 01/10/2026 - 30/10/2026]]></description>
       <styleUrl>#line-E65100-3906</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -9554,14 +9595,13 @@ SOCIETÀ: ACCIONA AGUA S.A.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/04763
-ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA
-AMBO I LATI CON RESTRINGIMENTO CARREGGIATA E SENSO UNICO ALTERNATO
+      <name>ORDINANZA 2026/05127 
+DIVIETO DI SOSTA AMBO I LATI CON RESTRINGIMENTO CARREGGIATA CON SENSO UNICO ALTERNATO
 VIA AMMIRAGLIO CARACCIOLO
-INTERVENTO DI RIPRISTINO DEFINITIVO PREVISTO
-SOCIETÀ: ACCIONA AGUA S.A.
-01/10/2026 - 30/10/2026</name>
-      <description><![CDATA[Ordinanza: 2026/04763<br><br>https://drive.google.com/file/d/1NS5GQaEPCReNHJNL8vJcCf-RnbdS6kq7/view?usp=sharing<br><br>DURATA E TEMPISTICHE: 01/10/2026 - 30/10/2026]]></description>
+ESECUZIONE DEI RIPRISTINI DEFINITIVI 
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A 
+01/10/2026 - 31/12/2026</name>
+      <description><![CDATA[Proroga  Ordinanza: 2026/04763<br>ORDINANZA 2026/05127 <br>https://drive.google.com/file/d/1idYrqKe7sn8Ta_VYOg2rfo80ZicBbIjM/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI CON RESTRINGIMENTO CARREGGIATA CON SENSO UNICO ALTERNATO SU VIA AMMIRAGLIO CARACCIOLO, PER IL COMPLETAMENTO DELLE LAVORAZIONI E PROCEDERE ALL’ESECUZIONE DEI RIPRISTINI DEFINITIVI PREVISTI DAL 02/11/2026 AL 31/12/2026. PROROGA ORDINANZA DIRIGENZIALE N.2026/04763 DEL 01/10/2026. SOCIETÀ: ACCIONA AGUA S.A <br><br>Durata e tempistiche: 02/11/2026-31/12/2026<br><br>Ordinanza: 2026/04763<br><br>https://drive.google.com/file/d/1NS5GQaEPCReNHJNL8vJcCf-RnbdS6kq7/view?usp=sharing<br><br>DURATA E TEMPISTICHE: 01/10/2026 - 30/10/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -10971,51 +11011,6 @@ IMPRESA ESECUTRICE: IMPRESA INDIVIDUALE “FRISULLO LUIGI”
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/05061 
-DIVIETO DI TRANSITO 
-CORSO BENEDETTO CROCE TRA VIA GIOACCHINO TOMA E VIA RAFFAELE ARMENISE 
-VIA MONTEGRAPPA TRA VIA MAGGIORE FRANCESCO BARACCA E CORSO BENEDETTO CROCE
-VIA RAFFAELE ARMENISE TRA VIALE DELLA REPUBBLICA E CORSO BENEDETTO CROCE. 
-LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
-IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L 
-19/10/2026- 22/10/2026 00:00-24:00
-</name>
-      <description><![CDATA[Rettifica ORDINANZA 2026/05061<br>ORDINANZA 2026/05073 <br>https://drive.google.com/file/d/1vhbUOE3vfMp1mQTOvgOvyKWeXsL7aIwz/view<br>Durata e tempistiche: 19/10/2026- 22/10/2026 00:00-24:00<br><br>ORDINANZA 2026/05061 <br>https://drive.google.com/file/d/1_G-XqN-IBmERM6og8f7P_u3dOqhZlmQy/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU CORSO BENEDETTO CROCE, VIA MONTEGRAPPA, VIA RAFFAELE ARMENISE DALLE ORE 07:00 ALLE ORE 16:00 DEI GIORNI 19-20-21-22 OTTOBRE 2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L <br><br>dalle ore 07:00 alle ore 16:00 del giorno 19.10.2026 dalle ore 07:00 alle ore 16:00 del giorno 20.10.2026 dalle ore 07:00 alle ore 16:00 del giorno 21.10.2026 dalle ore 07:00 alle ore 16:00 del giorno 22.10.2026 sono istituiti i seguenti provvedimenti temporanei di circolazione: a) L’istituzione del divieto di transito su: i) Corso Benedetto Croce, nel tratto compreso tra via Gioacchino Toma e via Raffaele Armenise ii) Via Montegrappa, nel tratto stradale compreso tra via Maggiore Francesco Baracca e Corso Benedetto Croce iii) Via Doberdo iv) Via Raffaele Armenise, nel tratto stradale compreso tra viale della Repubblica e Corso Benedetto Croce b) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori <br><br>Durata e tempistiche: 02/11/2026- 31/12/2026<br><br>Ordinanza 2026/04963 (PROROGA ORDINANZA 026/04878)<br>https://drive.google.com/file/d/1X8WoPZ0dTcp-X4Rklbvl_Xe3yGPV2YbX/view?usp=sharing<br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU CORSO BENEDETTO CROCE, VIA MONTEGRAPPA, VIA RAFFAELE ARMENISE DALLE ORE 07:00 ALLE ORE 16:00 DEI GIORNI 15-16-17 OTTOBRE 2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br>Durata e tempistiche: 15/10/2026- 17/10/2026 <br>- - - - - - - - - - - - - - -- - - - -- - - - - - - - -- <br>ORDINANZA 026/04878<br>https://drive.google.com/file/d/1B-Zd49cuH4q_vw9Oe4QH4CX4LPl0r7x_/view<br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU CORSO BENEDETTO CROCE, VIA MONTEGRAPPA, VIA RAFFAELE ARMENISE DALLE ORE 07:00 ALLE ORE 16:00 DEI GIORNI 12-13-14 OTTOBRE 2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br>- - - - -- - - - -- - - - -- -   ]]></description>
-      <styleUrl>#line-E65100-4294</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8718953,41.108853,0
-          16.8718387,41.1086366,0
-          16.8688019,41.1091584,0
-          16.8706079,41.1088395,0
-          16.8705681,41.1084231,0
-          16.870596,41.1088395,0
-          16.8718387,41.1086366,0
-          16.8718417,41.1082422,0
-          16.8739457,41.1081659,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/05061 
-DIVIETO DI TRANSITO 
-CORSO BENEDETTO CROCE TRA VIA GIOACCHINO TOMA E VIA RAFFAELE ARMENISE 
-VIA MONTEGRAPPA TRA VIA MAGGIORE FRANCESCO BARACCA E CORSO BENEDETTO CROCE
-VIA RAFFAELE ARMENISE TRA VIALE DELLA REPUBBLICA E CORSO BENEDETTO CROCE. 
-LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
-IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L 
-19/10/2026- 22/10/2026 00:00-24:00
-</name>
-      <description><![CDATA[Rettifica  ORDINANZA 2026/05061<br>ORDINANZA 2026/05073<br>https://drive.google.com/file/d/1vhbUOE3vfMp1mQTOvgOvyKWeXsL7aIwz/view<br>Durata e tempistiche: 19/10/2026- 22/10/2026 00:00-24:00<br><br>ORDINANZA 2026/05061 <br>https://drive.google.com/file/d/1_G-XqN-IBmERM6og8f7P_u3dOqhZlmQy/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU CORSO BENEDETTO CROCE, VIA MONTEGRAPPA, VIA RAFFAELE ARMENISE DALLE ORE 07:00 ALLE ORE 16:00 DEI GIORNI 19-20-21-22 OTTOBRE 2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L <br><br>dalle ore 07:00 alle ore 16:00 del giorno 19.10.2026 dalle ore 07:00 alle ore 16:00 del giorno 20.10.2026 dalle ore 07:00 alle ore 16:00 del giorno 21.10.2026 dalle ore 07:00 alle ore 16:00 del giorno 22.10.2026 sono istituiti i seguenti provvedimenti temporanei di circolazione: a) L’istituzione del divieto di transito su: i) Corso Benedetto Croce, nel tratto compreso tra via Gioacchino Toma e via Raffaele Armenise ii) Via Montegrappa, nel tratto stradale compreso tra via Maggiore Francesco Baracca e Corso Benedetto Croce iii) Via Doberdo iv) Via Raffaele Armenise, nel tratto stradale compreso tra viale della Repubblica e Corso Benedetto Croce b) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori <br><br>Durata e tempistiche: 02/11/2026- 31/12/2026<br><br>Ordinanza 2026/04963 (PROROGA ORDINANZA 026/04878)<br>https://drive.google.com/file/d/1X8WoPZ0dTcp-X4Rklbvl_Xe3yGPV2YbX/view?usp=sharing<br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU CORSO BENEDETTO CROCE, VIA MONTEGRAPPA, VIA RAFFAELE ARMENISE DALLE ORE 07:00 ALLE ORE 16:00 DEI GIORNI 15-16-17 OTTOBRE 2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br>Durata e tempistiche: 15/10/2026- 17/10/2026 <br>- - - - - - - - - - - - - - -- - - - -- - - - - - - - -- <br>ORDINANZA 026/04878 <br>https://drive.google.com/file/d/1B-Zd49cuH4q_vw9Oe4QH4CX4LPl0r7x_/view<br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU CORSO BENEDETTO CROCE, VIA MONTEGRAPPA, VIA RAFFAELE ARMENISE DALLE ORE 07:00 ALLE ORE 16:00 DEI GIORNI 12-13-14 OTTOBRE 2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br>- - - - -- - - - -- - - - --  -  ]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8717046,41.1085637,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>ORDINANZA 2026/04880
 DIVIETO DI SOSTA
 AMBO I ALTI, SENSO UNICO ALTERNATO NONCHÉ RESTRINGIMENTO
@@ -12056,6 +12051,385 @@ IMPRESA ESECUTRICE: FAP SRL
       <Point>
         <coordinates>
           16.8653849,41.0679159,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/05128 
+DIVIETO DI TRANSITO E DI SOSTA SU AMBO I LATI CON RIMOZIONE COATTA
+VIA MONTE SAN MARTINO CIV. 8 TRA VIA MODUGNO E VIA C. BATTISTI IN PALESE (BA)
+REALIZZAZIONE ALLACCIO IDRICO E FOGNARIO
+IMPRESA ESECUTRICE: ISAP SRL 
+ISTANTE: AQP S.P.A. 
+02/11/2026-14/11/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/05128 <br>https://drive.google.com/file/d/1qPydxLFRdzd4LhRreOdQkGAZQm-MaAdq/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO E DI SOSTA SU AMBO I LATI CON RIMOZIONE COATTA SU VIA MONTE SAN MARTINO CIV. 8 TRATTO TRA VIA MODUGNO E VIA C. BATTISTI IN PALESE (BA), PER REALIZZAZIONE ALLACCIO IDRICO E FOGNARIO DAL 02/11/2026 AL 14/11/2026. IMPRESA: ISAP SRL ISTANTE: AQP S.P.A. <br><br>Durata e tempistiche: 02/11/2026-14/11/2026]]></description>
+      <styleUrl>#line-E65100-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.7647241,41.1490468,0
+          16.76594,41.1490176,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/05132 
+DIVIETO DI TRANSITO E DIVIETO DI SOSTA CON RIMOZIONE AMBO I LATI
+STRADA CATINO TRA VIA DEL RISPETTO E STRADA DEL FEUDO
+LAVORI DI SCAVO E POSA INTERRATI MT
+IMPRESA ESECUTRICE: SITE S.P.A. 
+26/10/2026-27/11/2026 07:00-17:00
+</name>
+      <description><![CDATA[ORDINANZA 2026/05132 <br>https://drive.google.com/file/d/1UI-OuheNBpKVofD08bdUW4yj7jpmsUKU/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO E DIVIETO DI SOSTA CON RIMOZIONE AMBO I LATI SU STRADA CATINO TRATTO COMPRESO TRA VIA DEL RISPETTO E STRADA DEL FEUDO PER LAVORI DI SCAVO E POSA INTERRATI MT – RESILIENZA DAL GIORNO 26/10/2026 AL GIORNO 27/11/2026 DALLE ORE 07:00 ALLE ORE 17:00. SOCIETÀ: SITE S.P.A. <br><br>Durata e tempistiche: 26/10/2026-27/11/2026 07:00-17:00]]></description>
+      <styleUrl>#line-E65100-4681</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.7335544,41.1486076,0
+          16.7324219,41.1470771,0
+          16.7319093,41.1464173,0
+          16.7315695,41.145349,0
+          16.7311642,41.1445416,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/05128 
+DIVIETO DI TRANSITO E DI SOSTA SU AMBO I LATI CON RIMOZIONE COATTA
+VIA MONTE SAN MARTINO CIV. 8 TRA VIA MODUGNO E VIA C. BATTISTI IN PALESE (BA)
+REALIZZAZIONE ALLACCIO IDRICO E FOGNARIO
+IMPRESA ESECUTRICE: ISAP SRL 
+ISTANTE: AQP S.P.A. 
+02/11/2026-14/11/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/05128 <br>https://drive.google.com/file/d/1qPydxLFRdzd4LhRreOdQkGAZQm-MaAdq/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO E DI SOSTA SU AMBO I LATI CON RIMOZIONE COATTA SU VIA MONTE SAN MARTINO CIV. 8 TRATTO TRA VIA MODUGNO E VIA C. BATTISTI IN PALESE (BA), PER REALIZZAZIONE ALLACCIO IDRICO E FOGNARIO DAL 02/11/2026 AL 14/11/2026. IMPRESA: ISAP SRL ISTANTE: AQP S.P.A. <br><br>Durata e tempistiche: 02/11/2026-14/11/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.765493,41.1490564,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/05133 
+DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA
+2 TRAVERSA GLOMERELLI DA STRADA VICINALE GLOMERELLI A VIA S. GIORGIO MARTIRE
+VIA S. GIORGIO MARTIRE DA STRADA VICINALE GLOMERELLI A CABINA ENEL “S. ANDREA” IN PROSSIMITÀ DI VIA STRADELLA DESERTO
+LAVORI DI SCAVO PER LA POSA CAVI MT
+IMPRESA ESECUTRICE: DMF COSTRUZIONI S.R.L.
+26/10/2026-31/12/2026 
+</name>
+      <description><![CDATA[ORDINANZA 2026/05133 <br>https://drive.google.com/file/d/1-I5qwRQuXisH_60OmGeiuxUk2PBtRzsZ/view<br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA SULLA 2 TRAVERSA GLOMERELLI DA STRADA VICINALE GLOMERELLI A VIA S. GIORGIO MARTIRE E SU VIA S. GIORGIO MARTIRE DA STRADA VICINALE GLOMERELLI A CABINA ENEL “S. ANDREA” IN PROSSIMITÀ DI VIA STRADELLA DESERTO, PER LAVORI DI SCAVO PER LA POSA CAVI MT DAL 26/10/2026 AL 31/12/2026. IMPRESA: DMF COSTRUZIONI S.R.L. ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF COSTRUZIONI S.R.L.) <br><br>Durata e tempistiche: 26/10/2026-31/12/2026]]></description>
+      <styleUrl>#line-E65100-2938</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.842832,41.114004,0
+          16.8418306,41.1119563,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/05139
+RESTRINGIMENTO DI CARREGGIATA
+PIAZZA ALDO MORO CIVV. 43-37
+POSIZIONAMENTO DI PIATTAFORMA AEREA
+RICHIEDENTE: SIG. TRAVERSA GIUSEPPE
+26/10/2026 - 02/11/2026
+09:00 - 16:00</name>
+      <description><![CDATA[2026/05139<br><br>https://drive.google.com/file/d/1JA-tQHZBeWvq7snyaJCo-SFnsxhbiOnS/view<br><br>DEROGA AL DIVIETO DI SOSTA PER I MEZZI AL SERVIZIO DEL SIG.<br>TRAVERSA GIUSEPPE E RESTRINGIMENTO DI CARREGGIATA SU PIAZZA<br>ALDO MORO CIVV. 43-37 (CON DIVIETO DI FERMATA AI TAXI SUL LATO<br>OPPOSTO A QUELLO DELL'OCCUPAZIONE PER POSIZIONAMENTO DI<br>PIATTAFORMA AEREA PER I GIORNI 26-27/10, 30/10 E 02/11/2026_DALLE<br>ORE 9.00 ALLE ORE 16.00<br>RICHIEDENTE: SIG. TRAVERSA GIUSEPPE]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8710663,41.1183888,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/05135 
+DIVIETO DI TRANSITO
+VIA DEL FARO
+REALIZZAZIONE DI UNA POSTAZIONE DI MISURA LUNGO IL TRONCO OGGETTO DI RISANAMENTO E SUCCESSIVI RIPRISTINI STRADALI PROVVISORI 
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A. 
+28/10/2026-29/10/2026 
+</name>
+      <description><![CDATA[ORDINANZA 2026/05135 <br>https://drive.google.com/file/d/1-I5qwRQuXisH_60OmGeiuxUk2PBtRzsZ/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO SU VIA DEL FARO PER REALIZZAZIONE DI UNA POSTAZIONE DI MISURA LUNGO IL TRONCO OGGETTO DI RISANAMENTO E SUCCESSIVI RIPRISTINI STRADALI PROVVISORI DAL GIORNO 28/10/2026 AL GIORNO 29/10/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 28/10/2026-29/10/2026]]></description>
+      <styleUrl>#line-E65100-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8438867,41.1366497,0
+          16.8447777,41.1385488,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ORDINANZA 2026/05138
+DIVIETO DI TRANSITO E FERMATA
+VIA MANZONI IN PROSSIMITA' DI PIAZZA GARIBALDI
+VIA ABATE GIMMA TRA VIA MANZONI E VIA SAGARRIGA VISCONTI
+LAVORI DI RIQUALIFICAZIONE DI VIA MANZONI
+IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. 
+26/10/2026 - 30/11/2026]]></name>
+      <description><![CDATA[2026/05138<br><br>https://drive.google.com/file/d/1gAHPCohdQIJqbg4fINEOBy7q_LxRJQx-/view<br><br>PROCEDURA NEGOZIATA PN23023 PER LA CONCLUSIONE DI UN ACCORDO<br>QUADRO QUADRIENNALE PER L'AFFIDAMENTO CONGIUNTO DI<br>PROGETTAZIONE ESECUTIVA ED ESECUZIONE DEI "LAVORI DI<br>RIQUALIFICAZIONE DI VIA MANZONI" – ACCORDO QUADRO CIG: 9934949346<br>2° CONTRATTO ATTUATIVO CUP: J98E22000030003 – CIG: A06586D592<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>VIA MANZONI E VIA ABATE GIMMA DAL GIORNO 26.10.2026 AL GIORNO<br>31.11.2026<br>IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. CON SEDE<br>LEGALE IN VIA PO N. 31<br><br>Durata e Tempistiche: 26/10/2026 - 31/11/2026]]></description>
+      <styleUrl>#line-E65100-5069</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8608368,41.1252481,0
+          16.8609346,41.1241659,0
+          16.8629616,41.1243016,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ORDINANZA 2026/05138
+DIVIETO DI TRANSITO E FERMATA
+VIA MANZONI IN PROSSIMITA' DI PIAZZA GARIBALDI
+VIA ABATE GIMMA TRA VIA MANZONI E VIA SAGARRIGA VISCONTI
+LAVORI DI RIQUALIFICAZIONE DI VIA MANZONI
+IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. 
+26/10/2026 - 30/11/2026
+]]></name>
+      <description><![CDATA[2026/05138<br><br>https://drive.google.com/file/d/1gAHPCohdQIJqbg4fINEOBy7q_LxRJQx-/view<br><br>PROCEDURA NEGOZIATA PN23023 PER LA CONCLUSIONE DI UN ACCORDO<br>QUADRO QUADRIENNALE PER L'AFFIDAMENTO CONGIUNTO DI<br>PROGETTAZIONE ESECUTIVA ED ESECUZIONE DEI "LAVORI DI<br>RIQUALIFICAZIONE DI VIA MANZONI" – ACCORDO QUADRO CIG: 9934949346<br>2° CONTRATTO ATTUATIVO CUP: J98E22000030003 – CIG: A06586D592<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>VIA MANZONI E VIA ABATE GIMMA DAL GIORNO 26.10.2026 AL GIORNO<br>31.11.2026<br>IMPRESA ESECUTRICE: SOCIETÀ DROMOS APPALTI S.P.A. CON SEDE<br>LEGALE IN VIA PO N. 31<br><br>Durata e Tempistiche: 26/10/2026 - 31/11/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8610358,41.1242366,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/05132 
+DIVIETO DI TRANSITO E DIVIETO DI SOSTA CON RIMOZIONE AMBO I LATI
+STRADA CATINO TRA VIA DEL RISPETTO E STRADA DEL FEUDO
+LAVORI DI SCAVO E POSA INTERRATI MT
+IMPRESA ESECUTRICE: SITE S.P.A. 
+26/10/2026-27/11/2026 07:00-17:00
+</name>
+      <description><![CDATA[ORDINANZA 2026/05132 <br>https://drive.google.com/file/d/1UI-OuheNBpKVofD08bdUW4yj7jpmsUKU/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO E DIVIETO DI SOSTA CON RIMOZIONE AMBO I LATI SU STRADA CATINO TRATTO COMPRESO TRA VIA DEL RISPETTO E STRADA DEL FEUDO PER LAVORI DI SCAVO E POSA INTERRATI MT – RESILIENZA DAL GIORNO 26/10/2026 AL GIORNO 27/11/2026 DALLE ORE 07:00 ALLE ORE 17:00. SOCIETÀ: SITE S.P.A. <br><br>Durata e tempistiche: 26/10/2026-27/11/2026 07:00-17:00]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.7315993,41.1459402,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/05133 
+DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA
+2 TRAVERSA GLOMERELLI DA STRADA VICINALE GLOMERELLI A VIA S. GIORGIO MARTIRE
+VIA S. GIORGIO MARTIRE DA STRADA VICINALE GLOMERELLI A CABINA ENEL “S. ANDREA” IN PROSSIMITÀ DI VIA STRADELLA DESERTO
+LAVORI DI SCAVO PER LA POSA CAVI MT
+IMPRESA ESECUTRICE: DMF COSTRUZIONI S.R.L.
+26/10/2026-31/12/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/05133 <br>https://drive.google.com/file/d/1-I5qwRQuXisH_60OmGeiuxUk2PBtRzsZ/view<br><br>ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA SULLA 2 TRAVERSA GLOMERELLI DA STRADA VICINALE GLOMERELLI A VIA S. GIORGIO MARTIRE E SU VIA S. GIORGIO MARTIRE DA STRADA VICINALE GLOMERELLI A CABINA ENEL “S. ANDREA” IN PROSSIMITÀ DI VIA STRADELLA DESERTO, PER LAVORI DI SCAVO PER LA POSA CAVI MT DAL 26/10/2026 AL 31/12/2026. IMPRESA: DMF COSTRUZIONI S.R.L. ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF COSTRUZIONI S.R.L.) <br><br>Durata e tempistiche: 26/10/2026-31/12/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8424505,41.1137633,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/05135 
+DIVIETO DI TRANSITO
+VIA DEL FARO
+REALIZZAZIONE DI UNA POSTAZIONE DI MISURA LUNGO IL TRONCO OGGETTO DI RISANAMENTO E SUCCESSIVI RIPRISTINI STRADALI PROVVISORI 
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A. 
+28/10/2026-29/10/2026 
+</name>
+      <description><![CDATA[ORDINANZA 2026/05135 <br>https://drive.google.com/file/d/1-I5qwRQuXisH_60OmGeiuxUk2PBtRzsZ/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO SU VIA DEL FARO PER REALIZZAZIONE DI UNA POSTAZIONE DI MISURA LUNGO IL TRONCO OGGETTO DI RISANAMENTO E SUCCESSIVI RIPRISTINI STRADALI PROVVISORI DAL GIORNO 28/10/2026 AL GIORNO 29/10/2026. SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 28/10/2026-29/10/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8446556,41.1381465,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/05180
+ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO CARREGGIATA 
+VIA ROMA IN SANTO SPIRITO (BA) 
+LAVORI DI SCAVO TRASVERSALE ALLA
+CARREGGIATA DA PARTE DELL’ENEL
+IMPRESA ESECUTRICE:ENEL
+26/10/2026 AL 28/10/2026.
+</name>
+      <description><![CDATA[ORDINANZA 2026/05180<br>https://drive.google.com/file/d/1fBpct_3xTHGDGRX9Dj012jNFSMxMNX5q/view<br>1. L’istituzione temporanea del restringimento carreggiata o in alternativa l’utilizzo di una piastra metallica di<br>idoneo spessore per il passaggio di veicoli e pedoni su via Roma;<br>2. Particolare attenzione dovrà essere posta ai pedoni e alle persone con ridotta capacità motoria, il cui<br>transito dovrà essere salvaguardato durante i lavori;<br>3. Dovranno essere salvaguardati gli accessi privati e il transito dei mezzi di soccorso e/o polizia,<br>compatibilmente con l’esecuzione dei lavori;<br>TERMINE E DURATA: DAL GIORNO 26/10/2026 AL 28/10/2026. ]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.7531275,41.1611006,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/05180
+ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO CARREGGIATA 
+VIA ROMA IN SANTO SPIRITO (BA) 
+LAVORI DI SCAVO TRASVERSALE ALLA
+CARREGGIATA DA PARTE DELL’ENEL
+IMPRESA ESECUTRICE:ENEL
+26/10/2026 AL 28/10/2026.
+</name>
+      <description><![CDATA[ORDINANZA 2026/05180<br>https://drive.google.com/file/d/1fBpct_3xTHGDGRX9Dj012jNFSMxMNX5q/view<br>1. L’istituzione temporanea del restringimento carreggiata o in alternativa l’utilizzo di una piastra metallica di<br>idoneo spessore per il passaggio di veicoli e pedoni su via Roma;<br>2. Particolare attenzione dovrà essere posta ai pedoni e alle persone con ridotta capacità motoria, il cui<br>transito dovrà essere salvaguardato durante i lavori;<br>3. Dovranno essere salvaguardati gli accessi privati e il transito dei mezzi di soccorso e/o polizia,<br>compatibilmente con l’esecuzione dei lavori;<br>TERMINE E DURATA: DAL GIORNO 26/10/2026 AL 28/10/2026. ]]></description>
+      <styleUrl>#line-E65100-3519</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.7533301,41.1614362,0
+          16.7530917,41.1600586,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/05188 
+REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE
+VIE INTERESSATE DAI LAVORI DI REALIZZAZIONE DEL SISTEMA BRT DELLA CITTÀ DI BARI 
+LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI 
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. 
+23/10/2026-30/11/2026 
+</name>
+      <description><![CDATA[ORDINANZA 2026/05188 <br>https://drive.google.com/file/d/1Ldik5SmegGp-vj9jxwjdN9ogAetZRuvo/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SULLE VIE INTERESSATE DAI LAVORI DI REALIZZAZIONE DEL SISTEMA BRT DELLA CITTÀ DI BARI FINO AL GIORNO 30.11.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. <br><br>Durata e tempistiche: 23/10/2026-30/11/2026 ]]></description>
+      <styleUrl>#icon-1719-3949AB</styleUrl>
+      <Point>
+        <coordinates>
+          16.8804107,41.1251623,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/05199
+RESTRINGIMENTO DI CARREGGIATA
+VIA CAPRUZZI 230/236 TRA VIA DEVITOFRANCESCO E VIA GIULIO PETRONI
+POSIZIONAMENTO CASSONE SCARRABILE
+RICHIEDENTE: SIG. ATTOMA BIAGIO
+01/11/2026 - 31/01/2026 
+9.00 - 17.00
+</name>
+      <description><![CDATA[ORDINANZA 2026/05199<br><br>https://drive.google.com/file/d/1-ltzAXQjfNlyTRlZpwDi2AEo9iiZE2wV/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA,<br>DEROGA AL DIVIETO DI SOSTA PER I MEZZI AL SERVIZIO DELLA SIG.<br>ATTOMA BIAGIO,SU VIA CAPRUZZI 230/236 TRATTO COMPRESO TRA VIA<br>DEVITOFRANCESCO E VIA GIULIO PETRONI PER IL POSIZIONAMENTO<br>CASSONE SCARRABILE <br><br>Durata e Tempistiche: 01/11/2026 - 31/01/2026 <br>9.00 - 17.00<br> ]]></description>
+      <styleUrl>#line-E65100-3131</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8663765,41.1168166,0
+          16.8681253,41.1169257,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ORDINANZA 2026/05197 
+DIVIETO DI SOSTA E FERMATA
+VIA RAVANAS DAL CIVICO 300 FRONTE AL CIVICO 318 FRONTE
+LAVORI DI DURATA TRIENNALE PER LA MANUTENZIONE DEGLI IMMOBILI COMUNALI CON DESTINAZIONE NON SCOLASTICA
+IMPRESA ESECUTRICE: EDIL CECERE SOCIETA' COOPERATIVA - A.D. COSTRUZIONI S.R.L. 
+03/11/2026-20/11/2026  
+]]></name>
+      <description><![CDATA[ORDINANZA 2026/05197 <br>https://drive.google.com/file/d/1qiCl2S6osJlHmL6_bq2hAmoPWRV-mRLx/view<br><br>ACCORDO QUADRO - LAVORI DI DURATA TRIENNALE PER LA MANUTENZIONE DEGLI IMMOBILI COMUNALI CON DESTINAZIONE NON SCOLASTICA - ANNUALITA’ 2022-2024 UBICATI TERRITORIALMENTE NEL MUNICIPIO 2 ORDINANZA DI DIVIETO DI SOSTA E FERMATA SU VIA RAVANAS DAL CIVICO 300 FRONTE AL CIVICO 318 FRONTE PER IL PERIODO INTERCORRENTE TRA IL 3 NOVEMBRE E IL 20 NOVEMBRE PPVV RIPARTIZIONE INFRASTRUTTURE VIABILITÀ E OPERE PUBBLICHE IL DIRETTORE DELL’ESECUZIONE DEL CONTRATTO GEOM. NICOLA VITO LORETO DITTA APPALTATRICE DEI LAVORI EDIL CECERE SOCIETA' COOPERATIVA - A.D. COSTRUZIONI S.R.L. CON SEDE IN QUARTO (NA), ALLA VIA E. SCARFOGLIO N. 18/A <br><br>Durata e tempistiche: 03/11/2026-20/11/2026 ]]></description>
+      <styleUrl>#line-E65100-2163</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8588572,41.1199551,0
+          16.8589243,41.1193793,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/05199
+RESTRINGIMENTO DI CARREGGIATA
+VIA CAPRUZZI 230/236 TRA VIA DEVITOFRANCESCO E VIA GIULIO PETRONI
+POSIZIONAMENTO CASSONE SCARRABILE
+RICHIEDENTE: SIG. ATTOMA BIAGIO
+01/11/2026 - 31/01/2026 
+9.00 - 17.00
+</name>
+      <description><![CDATA[ORDINANZA 2026/05199<br><br>https://drive.google.com/file/d/1-ltzAXQjfNlyTRlZpwDi2AEo9iiZE2wV/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA,<br>DEROGA AL DIVIETO DI SOSTA PER I MEZZI AL SERVIZIO DELLA SIG.<br>ATTOMA BIAGIO,SU VIA CAPRUZZI 230/236 TRATTO COMPRESO TRA VIA<br>DEVITOFRANCESCO E VIA GIULIO PETRONI PER IL POSIZIONAMENTO<br>CASSONE SCARRABILE <br><br>Durata e Tempistiche: 01/11/2026 - 31/01/2026<br>9.00 - 17.00]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.866516,41.1167055,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ORDINANZA 2026/05198
+DIVIETO DI TRANSITO
+VIA DE ROSSI TRA VIA N. PICCINNI E CORSO V. EMANUELE
+VIA QUINTINO SELLA TRA VIA N. PICCINNI E CORSO V. EMANUELE
+VIA GAETANO LATILLA
+OBBLIGO DI PROSEGUIRE DRITTO SU CORSO VITTORIO EMANUELE IN PROSSIMITA' DELL'INCROCIO LATILLA/SELLA
+BRT
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
+26/10/2026 - 30/10/2026 
+23:30 - 05:30]]></name>
+      <description><![CDATA[ORDINANZA 2026/05198<br><br>https://drive.google.com/file/d/1pMDQxjq33Di1UNMC2prYBLOnx3TB7MLL/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>CORSO VITTORIO EMANUELE, VIA DE ROSSI, VIA QUINTINO SELLA E VIA<br>GAETANO LATILLA DALLE ORE 23:30 ALLE ORE 05:30 (GIORNO<br>SUCCESSIVO) DEI GIORNI 26-27-28-29-30 OTTOBRE 2026<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.]]></description>
+      <styleUrl>#line-E65100-2744</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8652643,41.1250684,0
+          16.8653179,41.1244966,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ORDINANZA 2026/05198
+DIVIETO DI TRANSITO
+VIA DE ROSSI TRA VIA N. PICCINNI E CORSO V. EMANUELE
+VIA QUINTINO SELLA TRA VIA N. PICCINNI E CORSO V. EMANUELE
+VIA GAETANO LATILLA
+OBBLIGO DI PROSEGUIRE DRITTO SU CORSO VITTORIO EMANUELE IN PROSSIMITA' DELL'INCROCIO LATILLA/SELLA
+BRT
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
+26/10/2026 - 30/10/2026 
+23:30 - 05:30]]></name>
+      <description><![CDATA[ORDINANZA 2026/05198<br><br>https://drive.google.com/file/d/1pMDQxjq33Di1UNMC2prYBLOnx3TB7MLL/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>CORSO VITTORIO EMANUELE, VIA DE ROSSI, VIA QUINTINO SELLA E VIA<br>GAETANO LATILLA DALLE ORE 23:30 ALLE ORE 05:30 (GIORNO<br>SUCCESSIVO) DEI GIORNI 26-27-28-29-30 OTTOBRE 2026<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.]]></description>
+      <styleUrl>#line-E65100-3906</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8639774,41.1256621,0
+          16.8640833,41.1249439,0
+          16.8641598,41.1243923,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ORDINANZA 2026/05198
+DIVIETO DI TRANSITO
+VIA DE ROSSI TRA VIA N. PICCINNI E CORSO V. EMANUELE
+VIA QUINTINO SELLA TRA VIA N. PICCINNI E CORSO V. EMANUELE
+VIA GAETANO LATILLA
+OBBLIGO DI PROSEGUIRE DRITTO SU CORSO VITTORIO EMANUELE IN PROSSIMITA' DELL'INCROCIO LATILLA/SELLA
+BRT
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
+26/10/2026 - 30/10/2026 
+23:30 - 05:30]]></name>
+      <description><![CDATA[ORDINANZA 2026/05198<br><br>https://drive.google.com/file/d/1pMDQxjq33Di1UNMC2prYBLOnx3TB7MLL/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>CORSO VITTORIO EMANUELE, VIA DE ROSSI, VIA QUINTINO SELLA E VIA<br>GAETANO LATILLA DALLE ORE 23:30 ALLE ORE 05:30 (GIORNO<br>SUCCESSIVO) DEI GIORNI 26-27-28-29-30 OTTOBRE 2026<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8642501,41.1244279,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ORDINANZA 2026/05197 
+DIVIETO DI SOSTA E FERMATA
+VIA RAVANAS DAL CIVICO 300 FRONTE AL CIVICO 318 FRONTE
+LAVORI DI DURATA TRIENNALE PER LA MANUTENZIONE DEGLI IMMOBILI COMUNALI CON DESTINAZIONE NON SCOLASTICA
+IMPRESA ESECUTRICE: EDIL CECERE SOCIETA' COOPERATIVA - A.D. COSTRUZIONI S.R.L. 
+03/11/2026-20/11/2026
+]]></name>
+      <description><![CDATA[ORDINANZA 2026/05197 <br>https://drive.google.com/file/d/1qiCl2S6osJlHmL6_bq2hAmoPWRV-mRLx/view<br><br>ACCORDO QUADRO - LAVORI DI DURATA TRIENNALE PER LA MANUTENZIONE DEGLI IMMOBILI COMUNALI CON DESTINAZIONE NON SCOLASTICA - ANNUALITA’ 2022-2024 UBICATI TERRITORIALMENTE NEL MUNICIPIO 2 ORDINANZA DI DIVIETO DI SOSTA E FERMATA SU VIA RAVANAS DAL CIVICO 300 FRONTE AL CIVICO 318 FRONTE PER IL PERIODO INTERCORRENTE TRA IL 3 NOVEMBRE E IL 20 NOVEMBRE PPVV RIPARTIZIONE INFRASTRUTTURE VIABILITÀ E OPERE PUBBLICHE IL DIRETTORE DELL’ESECUZIONE DEL CONTRATTO GEOM. NICOLA VITO LORETO DITTA APPALTATRICE DEI LAVORI EDIL CECERE SOCIETA' COOPERATIVA - A.D. COSTRUZIONI S.R.L. CON SEDE IN QUARTO (NA), ALLA VIA E. SCARFOGLIO N. 18/A <br><br>Durata e tempistiche: 03/11/2026-20/11/2026 ]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8587902,41.1198096,0
         </coordinates>
       </Point>
     </Placemark>
